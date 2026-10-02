@@ -12,3 +12,8 @@
 .public-site .jkit-postlist article a>img{flex-shrink:0}
 /* Keep the captured fully loaded anchor width during lazy loading too. */
 .public-site .jkit-postlist article>a{width:100%}
+
+/* Original palette of the nine captured Sobre Nós timeline SVGs. */
+.public-site .elementor-2843 .elementor-icon-box-icon .elementor-icon svg .cls-1{fill:#0a165e}
+.public-site .elementor-2843 .elementor-icon-box-icon .elementor-icon svg .cls-2{fill:#2b4dff}
+.public-site .elementor-2843 .elementor-icon-box-icon .elementor-icon svg .cls-3{fill:#fff}

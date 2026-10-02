@@ -12,4 +12,6 @@ Recolha HTML/CSS por rota e dependências efetivamente usadas: originais públic
 
 Ao conferir os depoimentos da Home, consulte `docs/validation/mobile-reviews-2026-10-02/README.md`. No mobile até 767px, deve aparecer um card inteiro por vez; conferir também 768/1440px e as duas ordens dos stylesheets. Preserve os oito depoimentos, autores, datas, estrelas e controles Leia mais, sem alterar a captura nem seu hash para resolver uma divergência de CSS.
 
+Ao conferir os nove ícones da trajetória em `/sobre-nos/`, consulte `docs/validation/about-icons-2026-10-02/README.md`. Preserve os dois círculos azuis e os paths brancos de cada SVG; o CSS de `.cls-1/2/3` fica restrito aos icon-boxes de `.elementor-2843`. Não permitir `<style>` do conteúdo nem aplicar essas classes globalmente para corrigir o visual. Uma troca aprovada de SVG/paleta nessa área precisa revisar as três regras existentes.
+
 Valide os JSON normalizados, unicidade de IDs, corpos/hashes de origem, hashes/tamanhos dos arquivos locais, links e conflitos. Execute os testes de `scripts/migration/tests`. Atualize relatório, manifesto, reconciliação e documentação afetada; mantenha bruto local protegido pelo `.gitignore`. Entregue diff e evidências para revisão do usuário, sem publicar para demonstrar o resultado.

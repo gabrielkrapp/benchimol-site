@@ -80,3 +80,11 @@ Os prints enviados por Gabriel mostram um card por vez na origem e três cards e
 `src/components/public/public.css` agora aplica `flex:0 0 100%;max-width:100%` a `.public-site.home .ti-widget.ti-goog .ti-col-3 .ti-review-item` somente até 767px. O seletor vence o CSS capturado nas duas ordens de carregamento. Os estilos acima desse limite, a captura, os hashes e as interações permanecem intactos. O scroll existente avança uma largura do carrossel, correspondente a um card no mobile.
 
 As [evidências desta correção](../validation/mobile-reviews-2026-10-02/README.md) distinguem a reprodução antes do patch, a validação offline no navegador e os checks locais. Elas não comprovam publicação do patch nem testes em Safari/iPhone físico.
+
+## Ícones da trajetória em Sobre Nós — 02/10/2026
+
+Os nove SVGs da página `/sobre-nos/` (WP2843) mantinham suas formas, mas perdiam as cores internas ao remover `<style>` do HTML capturado. Os círculos e os paths das letras/números herdavam o mesmo cinza do widget Elementor, reproduzindo o print enviado por Gabriel.
+
+Três regras em `src/components/public/public.css`, restritas a `.public-site .elementor-2843 .elementor-icon-box-icon .elementor-icon svg`, restauram as cores observadas em `contentHtml` e nos SVGs originais: `.cls-1` usa `#0a165e`, `.cls-2` usa `#2b4dff` e `.cls-3` usa `#fff`. Não há alteração do sanitizer, da captura, de formas ou textos. O escopo cobre apenas os nove ícones existentes; não exportar essas classes globalmente. Se uma substituição aprovada nessa área reutilizar essas classes com outra paleta, revisar/remover as regras junto com a troca.
+
+Provas e limites em [ícones de Sobre Nós](../validation/about-icons-2026-10-02/README.md), com reprodução anterior e conferência offline de desktop/mobile nas duas ordens de CSS. A validação local não comprova publicação na Vercel.

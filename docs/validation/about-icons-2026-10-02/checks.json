@@ -1,0 +1,35 @@
+{
+  "completed": true,
+  "passed": true,
+  "browser": {
+    "cases": 6,
+    "passed": 6
+  },
+  "tests": {
+    "command": "node node_modules/vitest/vitest.mjs run --reporter=json --outputFile=docs/validation/about-icons-2026-10-02/tests.json",
+    "exitCode": 0,
+    "total": 301,
+    "passed": 301,
+    "failed": 0,
+    "files": 51,
+    "durationMs": 168517.27392578125
+  },
+  "typecheck": {
+    "command": "node node_modules/typescript/bin/tsc --noEmit",
+    "exitCode": 0
+  },
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0,
+    "id": "8-5WPtV3Kf2B7rWiH6ugl",
+    "overrideChunk": ".next/static/chunks/2nwjebctc_d-4.css",
+    "capturedCssUnchanged": true
+  },
+  "diffCheck": {
+    "exitCode": 0
+  },
+  "dockerStarted": false,
+  "nextServerStarted": false,
+  "databaseMutated": false,
+  "deployed": false
+}
