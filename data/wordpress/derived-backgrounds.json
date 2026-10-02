@@ -1,0 +1,20 @@
+{
+  "/wp-content/uploads/2025/08/slide.png": {
+    "src": "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp",
+    "width": 1920,
+    "height": 1000,
+    "bytes": 848150,
+    "sourceSha256": "596a76cbe279824c63a379c41e86b24d9fce503b4139e866061a52d6649bce9c",
+    "sha256": "1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9",
+    "decodedPixelsSha256": "879908c9a96c97c466205f0246f64999731b7d181416575f0944fdc1c2cff110"
+  },
+  "/wp-content/uploads/2025/07/937c18f100f7cc149f718438cf4e5bcb1865bba8.png": {
+    "src": "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp",
+    "width": 1920,
+    "height": 1000,
+    "bytes": 848150,
+    "sourceSha256": "596a76cbe279824c63a379c41e86b24d9fce503b4139e866061a52d6649bce9c",
+    "sha256": "1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9",
+    "decodedPixelsSha256": "879908c9a96c97c466205f0246f64999731b7d181416575f0944fdc1c2cff110"
+  }
+}

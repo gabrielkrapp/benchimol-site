@@ -1,0 +1,33 @@
+{
+  "controls": [
+    {
+      "background": "rgb(255, 255, 255)",
+      "class": "pgcsimplygalleryblock-slider-next-prev-navi prev",
+      "color": "rgb(138, 145, 172)",
+      "fill": "rgb(42, 54, 122)",
+      "height": 50,
+      "padding": "5px",
+      "points": "352,115.4 331.3,96 160,256 331.3,416 352,396.7 201.5,256 ",
+      "svgHeight": 40,
+      "svgWidth": 40,
+      "width": 50
+    },
+    {
+      "background": "rgb(255, 255, 255)",
+      "class": "pgcsimplygalleryblock-slider-next-prev-navi next",
+      "color": "rgb(138, 145, 172)",
+      "fill": "rgb(42, 54, 122)",
+      "height": 50,
+      "padding": "5px",
+      "points": "160,115.4 180.7,96 352,256 180.7,416 160,396.7 310.5,256 ",
+      "svgHeight": 40,
+      "svgWidth": 40,
+      "width": 50
+    }
+  ],
+  "viewport": [
+    1440,
+    1000,
+    1425
+  ]
+}

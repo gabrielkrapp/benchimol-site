@@ -1,0 +1,67 @@
+project_id = "benchimol-local"
+
+# Local Docker development only. scripts/local/supabase.ts creates a dedicated
+# bridge network whose published ports bind to 127.0.0.1 and verifies each bind.
+[api]
+enabled = true
+port = 54351
+schemas = ["public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54352
+shadow_port = 54350
+major_version = 17
+
+[db.pooler]
+enabled = false
+
+[db.migrations]
+enabled = true
+schema_paths = ["./schemas/*.sql"]
+
+# The local wrapper applies the reviewed schemas atomically before this seed.
+# schema_paths is a diff input; it does not apply a schema on `supabase start`.
+[db.seed]
+enabled = false
+sql_paths = ["./seed.sql"]
+
+[realtime]
+enabled = false
+
+[studio]
+enabled = true
+port = 54353
+api_url = "http://127.0.0.1"
+
+[inbucket]
+enabled = true
+port = 54354
+
+[storage]
+enabled = true
+file_size_limit = "10MiB"
+
+[storage.s3_protocol]
+enabled = false
+
+[auth]
+enabled = true
+site_url = "http://127.0.0.1:3000"
+additional_redirect_urls = ["http://127.0.0.1:3000/**", "http://127.0.0.1:3001/**"]
+enable_signup = false
+enable_anonymous_sign_ins = false
+minimum_password_length = 12
+
+[auth.email]
+# Keep the email provider enabled for password login. The global auth.signup
+# flag above still blocks public account creation in the local API.
+enable_signup = true
+enable_confirmations = true
+
+[edge_runtime]
+enabled = false
+
+[analytics]
+enabled = false

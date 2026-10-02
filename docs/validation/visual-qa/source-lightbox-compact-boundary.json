@@ -1,0 +1,25 @@
+{
+  "capturedAt": "2026-10-01T21:06:12.006Z",
+  "states": [
+    {
+      "clientWidth": 497,
+      "display": "none",
+      "width": 512
+    },
+    {
+      "clientWidth": 498,
+      "display": "none",
+      "width": 513
+    },
+    {
+      "clientWidth": 500,
+      "display": "block",
+      "width": 515
+    },
+    {
+      "clientWidth": 501,
+      "display": "block",
+      "width": 516
+    }
+  ]
+}

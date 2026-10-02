@@ -1,0 +1,75 @@
+{
+  "name": "benchimol-next",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0 <27"
+  },
+  "scripts": {
+    "styles:public": "node --import tsx src/lib/public/generate-styles.ts",
+    "images:public": "node --import tsx scripts/migration/generate-public-images.ts",
+    "predev": "npm run styles:public",
+    "prebuild": "npm run styles:public",
+    "pretest": "npm run styles:public",
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "import:wordpress": "node --import tsx scripts/migration/import-database.ts",
+    "clinic:initialize": "node --env-file=.env.prod --import tsx scripts/migration/initialize-clinic.ts",
+    "verify:inventory": "node --import tsx scripts/migration/verify-inventory.ts",
+    "supabase:local:start": "node --import tsx scripts/local/supabase.ts start",
+    "supabase:local:status": "node --import tsx scripts/local/supabase.ts status",
+    "supabase:local:stop": "node --import tsx scripts/local/supabase.ts stop",
+    "supabase:local:import": "node --import tsx scripts/local/supabase.ts import",
+    "supabase:local:test": "node --import tsx scripts/local/verify-integration.ts",
+    "supabase:local:qa": "node --import tsx scripts/local/verify-integration.ts --keep-admin-for-qa",
+    "supabase:local:qa:clean": "node --import tsx scripts/local/verify-integration.ts --cleanup-qa",
+    "dev:supabase": "node --import tsx scripts/local/dev.ts",
+    "clinic:verify": "node --env-file=.env.prod --import tsx scripts/migration/verify-clinic.ts",
+    "clinic:cleanup-uploads": "node --env-file=.env.local --import tsx scripts/migration/cleanup-expired-uploads.ts",
+    "clinic:audit-corrections": "node --env-file=.env.local --import tsx scripts/migration/apply-audit-corrections.ts"
+  },
+  "dependencies": {
+    "@supabase/ssr": "0.12.7",
+    "@supabase/supabase-js": "2.117.2",
+    "@tiptap/core": "3.31.4",
+    "@tiptap/extension-image": "3.31.4",
+    "@tiptap/extension-table": "3.31.4",
+    "@tiptap/extension-youtube": "3.31.4",
+    "@tiptap/react": "3.31.4",
+    "@tiptap/starter-kit": "3.31.4",
+    "html-react-parser": "6.1.8",
+    "next": "16.3.8",
+    "postcss": "8.5.28",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sanitize-html": "2.18.0",
+    "server-only": "0.0.1",
+    "zod": "4.6.5",
+    "sharp": "0.35.5"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8",
+    "@types/jsdom": "28.0.3",
+    "@types/node": "26.6.3",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/sanitize-html": "2.16.2",
+    "jsdom": "29.1.1",
+    "pg": "8.23.1",
+    "supabase": "2.95.0",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2",
+    "vitest": "5.0.3"
+  },
+  "overrides": {
+    "supabase": {
+      "tar": "7.5.22"
+    }
+  }
+}

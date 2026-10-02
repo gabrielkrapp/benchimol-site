@@ -1,0 +1,309 @@
+{
+  "createdAt": "2026-10-02",
+  "mode": "read_only_candidate_audit",
+  "candidateCommand": "git ls-files --others --exclude-standard -z",
+  "candidateManifestSha256": "7dc3af69d90bd062a7023433b42ab627ab7362419753bcf02a9fd625335fbf52",
+  "candidateFiles": 2330,
+  "bytes": 331228239,
+  "textFilesScanned": 695,
+  "binaryFilesNotInspected": 1635,
+  "protectedFilesNotRead": [],
+  "symlinks": [],
+  "ignoredBoundaries": {
+    ".env.local": {
+      "ignored": true,
+      "rule": ".gitignore:3:.env.*"
+    },
+    ".env.prod": {
+      "ignored": true,
+      "rule": ".gitignore:3:.env.*"
+    },
+    ".env": {
+      "ignored": true,
+      "rule": ".gitignore:2:.env"
+    },
+    ".env.example": {
+      "ignored": false,
+      "rule": ".gitignore:4:!.env.example",
+      "negatedPattern": true
+    },
+    "private-exports/": {
+      "ignored": true,
+      "rule": ".gitignore:5:private-exports/"
+    },
+    "backups/": {
+      "ignored": true,
+      "rule": ".gitignore:6:backups/"
+    },
+    "docs/contracts/": {
+      "ignored": true,
+      "rule": ".gitignore:34:docs/contracts/"
+    },
+    "node_modules/": {
+      "ignored": true,
+      "rule": ".gitignore:19:node_modules/"
+    },
+    ".next/": {
+      "ignored": true,
+      "rule": ".gitignore:20:.next/"
+    },
+    ".next-supabase-local/": {
+      "ignored": true,
+      "rule": ".gitignore:21:.next-supabase-local/"
+    },
+    ".local-supabase/": {
+      "ignored": true,
+      "rule": ".gitignore:32:.local-supabase/"
+    },
+    ".vercel": {
+      "ignored": true,
+      "rule": ".gitignore:39:.vercel"
+    }
+  },
+  "findings": [
+    {
+      "path": "data/wordpress/routes.json",
+      "line": 161407,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "public_source_contact_or_url"
+    },
+    {
+      "path": "docs/admin/functional-spec.md",
+      "line": 25,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/architecture/decisions.md",
+      "line": 43,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/architecture/decisions.md",
+      "line": 83,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/context/gabriel-brain-project.md",
+      "line": 24,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/discovery/client-inputs.md",
+      "line": 13,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/implementation/admin.md",
+      "line": 52,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/implementation/backend.md",
+      "line": 7,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/implementation/backend.md",
+      "line": 62,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/implementation/progress.md",
+      "line": 7,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/implementation/progress.md",
+      "line": 45,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/operations/clinic-integration.md",
+      "line": 39,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/operations/clinic-integration.md",
+      "line": 44,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/operations/local-setup.md",
+      "line": 25,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/operations/local-setup.md",
+      "line": 57,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/routes.json",
+      "line": 31130,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "public_source_contact_or_url"
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/comments.json",
+      "line": 8,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "removed_comment_evidence"
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/routes.json",
+      "line": 154446,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "public_source_contact_or_url"
+    },
+    {
+      "path": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 29,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 164,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "docs/validation/login-origin-fix.md",
+      "line": 34,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    },
+    {
+      "path": "scripts/migration/verify-clinic.ts",
+      "line": 54,
+      "type": "personal_email",
+      "priority": "privacy",
+      "classification": "operator_email_in_documentation_or_verification"
+    }
+  ],
+  "countsByType": {
+    "personal_email": 22
+  },
+  "limitations": [
+    "Secret values never printed or copied; no .env/private exports/backups read.",
+    "Binary images/PDF/fonts not visually inspected for UI personal data.",
+    "Pattern hits need classification; placeholders and public WordPress content may produce false positives.",
+    "This is unstaged candidate state, not a final index/history audit."
+  ],
+  "recommendations": [
+    {
+      "priority": "before_first_commit",
+      "action": "exclude_without_deleting",
+      "paths": [
+        "docs/context/gabriel-brain-project.md"
+      ],
+      "reason": "Personal freelancer/Brain working memory; keep local and retain technical docs separately."
+    },
+    {
+      "priority": "before_first_commit",
+      "action": "exclude_without_deleting",
+      "paths": [
+        "docs/research/restored-2026-09-30-public/comments.json"
+      ],
+      "reason": "Legacy comment carries personal contact data and is absent from the migrated product."
+    },
+    {
+      "priority": "before_first_commit",
+      "action": "exclude_without_deleting",
+      "paths": [
+        "docs/validation/admin-local/dashboard-desktop.png",
+        "docs/validation/admin-local/post-published-public.png",
+        "docs/validation/admin-local/post-restored-draft.png",
+        "docs/validation/admin-local/post-trashed.png",
+        "docs/validation/admin-local/post-withdrawn-public.png",
+        "docs/validation/admin-local/settings-contact-restored.png",
+        "docs/validation/admin-local/settings-contact-saved.png",
+        "docs/validation/admin-local/settings-popup-period-error.png",
+        "docs/validation/admin-local/settings-popup-preview.png",
+        "docs/validation/admin-local/settings-popup-restored.png",
+        "docs/validation/admin-local/settings-prompts-copy.png",
+        "docs/validation/clinic-admin-login-after.png",
+        "docs/validation/clinic-admin-login-before.png",
+        "docs/validation/clinic-admin-login-reload-transition.png",
+        "docs/validation/clinic-admin-logout.png",
+        "docs/validation/hosted-manual-qa/admin-viewport-not-applied.png",
+        "docs/validation/hosted-manual-qa/contact-edited.png",
+        "docs/validation/hosted-manual-qa/contact-restored.png",
+        "docs/validation/hosted-manual-qa/dashboard-restored.png",
+        "docs/validation/hosted-manual-qa/logout-final.png",
+        "docs/validation/hosted-manual-qa/media-a-details.png",
+        "docs/validation/hosted-manual-qa/media-four-formats.png",
+        "docs/validation/hosted-manual-qa/popup-public.png",
+        "docs/validation/hosted-manual-qa/popup-restored.png",
+        "docs/validation/hosted-manual-qa/post-conflict-guard.png",
+        "docs/validation/hosted-manual-qa/post-private-preview.png",
+        "docs/validation/hosted-manual-qa/post-public-edited.png",
+        "docs/validation/hosted-manual-qa/post-video-public.png",
+        "docs/validation/hosted-manual-qa/webp-upload-failed.png"
+      ],
+      "reason": "Administrative/account QA screenshots were not visually cleared for external publication; preserve local evidence."
+    },
+    {
+      "priority": "operator_decision",
+      "action": "review_operator_email_minimization",
+      "paths": [
+        "docs/admin/functional-spec.md",
+        "docs/architecture/decisions.md",
+        "docs/context/gabriel-brain-project.md",
+        "docs/discovery/client-inputs.md",
+        "docs/implementation/admin.md",
+        "docs/implementation/backend.md",
+        "docs/implementation/progress.md",
+        "docs/operations/clinic-integration.md",
+        "docs/operations/local-setup.md",
+        "docs/specs/2026-09-30-initial-spec.md",
+        "docs/validation/login-origin-fix.md",
+        "scripts/migration/verify-clinic.ts"
+      ],
+      "reason": "Operator email is personal data, not an authentication secret; use configured identities in code when practical."
+    }
+  ],
+  "summary": {
+    "strongSecretPatternsFound": 0,
+    "personalEmailOccurrences": 22,
+    "adminScreenshotsRecommendLocalOnly": 29,
+    "binaryVisualVerificationPerformed": false,
+    "privateFilesRead": false,
+    "readyForStagedReview": true
+  }
+}

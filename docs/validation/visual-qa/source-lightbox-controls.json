@@ -1,0 +1,152 @@
+{
+  "capturedAt": "2026-10-01T21:01:33.784Z",
+  "url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "controls": [
+    {
+      "background": "rgb(255, 255, 255)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "0px",
+      "className": "pgcsimplygalleryblock-slider-next-prev-navi prev",
+      "color": "rgb(138, 145, 172)",
+      "padding": "5px",
+      "rect": {
+        "height": 50,
+        "width": 50,
+        "x": 83.5,
+        "y": 439.4765625
+      },
+      "svg": {
+        "fill": "rgb(42, 54, 122)",
+        "height": 40,
+        "points": "352,115.4 331.3,96 160,256 331.3,416 352,396.7 201.5,256 ",
+        "viewBox": "0 0 512 512",
+        "width": 40
+      }
+    },
+    {
+      "background": "rgb(255, 255, 255)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "0px",
+      "className": "pgcsimplygalleryblock-slider-next-prev-navi next",
+      "color": "rgb(138, 145, 172)",
+      "padding": "5px",
+      "rect": {
+        "height": 50,
+        "width": 50,
+        "x": 1291.5,
+        "y": 439.4765625
+      },
+      "svg": {
+        "fill": "rgb(42, 54, 122)",
+        "height": 40,
+        "points": "160,115.4 180.7,96 352,256 180.7,416 160,396.7 310.5,256 ",
+        "viewBox": "0 0 512 512",
+        "width": 40
+      }
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-item-menu-button",
+      "color": "rgb(138, 145, 172)",
+      "padding": "9px",
+      "rect": {
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 0,
+        "viewBox": "0 0 1792 1792",
+        "width": 0
+      }
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-item-menu-button",
+      "color": "rgb(138, 145, 172)",
+      "padding": "9px",
+      "rect": {
+        "height": 38,
+        "width": 38,
+        "x": 1254,
+        "y": 7
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 20,
+        "viewBox": "0 0 512 512",
+        "width": 20
+      }
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-item-menu-button",
+      "color": "rgb(138, 145, 172)",
+      "padding": "9px",
+      "rect": {
+        "height": 38,
+        "width": 38,
+        "x": 1296,
+        "y": 7
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 20,
+        "viewBox": "0 0 1792 1792",
+        "width": 20
+      }
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-item-menu-button",
+      "color": "rgb(138, 145, 172)",
+      "padding": "9px",
+      "rect": {
+        "height": 38,
+        "width": 38,
+        "x": 1338,
+        "y": 7
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 20,
+        "viewBox": "0 0 14 14",
+        "width": 20
+      }
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "border": "0px none rgb(138, 145, 172)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-item-menu-button",
+      "color": "rgb(138, 145, 172)",
+      "padding": "9px",
+      "rect": {
+        "height": 38,
+        "width": 38,
+        "x": 1380,
+        "y": 7
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 20,
+        "viewBox": "0 0 512 512",
+        "width": 20
+      }
+    }
+  ]
+}

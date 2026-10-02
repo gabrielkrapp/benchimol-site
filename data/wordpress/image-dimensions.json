@@ -1,0 +1,4098 @@
+{
+  "/legacy-assets/cdn.trustindex.io/641bbe65582be16b/loading_dots.gif": {
+    "width": 300,
+    "height": 300
+  },
+  "/legacy-assets/lh3.googleusercontent.com/20c438e2dc1035ec/ALV-UjVmYVWIjEXNaI2EuI8JSv0n391B8i7POOqwKHz30ELiZY_sRh92_w80-h80-c-rp-mo-ba2-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/44a0d9227df312c5/ALV-UjXOCBQrmq9fxvoPMK2Ll3ZKnIle-26_qAebkcZbRxe2KilHyzUG_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/48e4db7358dd67bb/ALV-UjXd37CKBCLq5uPkusQQTXzjDKr9XLTnth8fAcifLKm_76kqbO_r_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/70ac7cef02e856af/ALV-UjUlU_6Qu1BNQzPNLdS21PDfekSFznNExzUetvBN3uQPWpRzJ9E_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/7203c80738c2c908/ALV-UjVCRHOmTej-F0xOL791PkHTqOrf3D4udMmfMyJF-GIXp2ELSQ_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/902f9650a6faef72/ACg8ocIE2swc4dKigPDTamZW6E8vo0xP7c6O5LmMsNaMvrMVXc_OiQ_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/931eb67554c942d3/ACg8ocJdRbxaaxd4voxyxfa9EEKN6wSXAonjMxrs9mOZs9oZtauiZw_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/aacfc472390a0cfb/ALV-UjUlU_6Qu1BNQzPNLdS21PDfekSFznNExzUetvBN3uQPWpRzJ9E_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/b4bcaee3092a22de/ALV-UjVmYVWIjEXNaI2EuI8JSv0n391B8i7POOqwKHz30ELiZY_sRh92_w40-h40-c-rp-mo-ba2-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/b64b82d6e6ebbda9/ACg8ocJdRbxaaxd4voxyxfa9EEKN6wSXAonjMxrs9mOZs9oZtauiZw_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/cbaa7ae67ee1da5b/ALV-UjXOCBQrmq9fxvoPMK2Ll3ZKnIle-26_qAebkcZbRxe2KilHyzUG_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/cdde10bef81157e2/ACg8ocIE2swc4dKigPDTamZW6E8vo0xP7c6O5LmMsNaMvrMVXc_OiQ_w80-h80-c-rp-mo-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/lh3.googleusercontent.com/cfd2a41ef870a79a/ALV-UjXd37CKBCLq5uPkusQQTXzjDKr9XLTnth8fAcifLKm_76kqbO_r_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/eed1c7e0652e7fd9/ALV-UjVCRHOmTej-F0xOL791PkHTqOrf3D4udMmfMyJF-GIXp2ELSQ_w40-h40-c-rp-mo-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/f3887cf91bd1eccf/ALV-UjUXxU-XtsefNwxySTuFnovoS6wQcHUR5XmV80VDiM55aR7ITmfq_w40-h40-c-rp-mo-ba5-br100.png": {
+    "width": 40,
+    "height": 40
+  },
+  "/legacy-assets/lh3.googleusercontent.com/fff3f79170845888/ALV-UjUXxU-XtsefNwxySTuFnovoS6wQcHUR5XmV80VDiM55aR7ITmfq_w80-h80-c-rp-mo-ba5-br100.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/legacy-assets/secure.gravatar.com/2b70d1ff5b834a53/aaba084c9d2083fadd5f60510f39c0362a40e56f493b32df1bdc578bba7364e4.jpg": {
+    "width": 42,
+    "height": 42
+  },
+  "/legacy-assets/secure.gravatar.com/d060c972df5546a1/aaba084c9d2083fadd5f60510f39c0362a40e56f493b32df1bdc578bba7364e4.jpg": {
+    "width": 84,
+    "height": 84
+  },
+  "/legacy-assets/static.wixstatic.com/056904ff2f1bacbf/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/1c3afaf0732a7106/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/1ebbb0fa9e2fcd94/0715b5_857f1de31fc041b0a775d85d5d68aa36_mv2.png": {
+    "width": 328,
+    "height": 121
+  },
+  "/legacy-assets/static.wixstatic.com/23fa74a1e79013fb/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/313c8af31bba3e81/file.png": {
+    "width": 1000,
+    "height": 1000
+  },
+  "/legacy-assets/static.wixstatic.com/46720a5d13ba3690/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/4d28e30162ba4b0b/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/5800017e27795c7d/file.png": {
+    "width": 1000,
+    "height": 727
+  },
+  "/legacy-assets/static.wixstatic.com/88a58422b21b0611/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/98eb947c0e2f950d/file.png": {
+    "width": 1000,
+    "height": 562
+  },
+  "/legacy-assets/static.wixstatic.com/9d8cd6ba909828b6/file.png": {
+    "width": 1000,
+    "height": 665
+  },
+  "/legacy-assets/static.wixstatic.com/9f586aad2fceda05/file.png": {
+    "width": 1000,
+    "height": 727
+  },
+  "/legacy-assets/static.wixstatic.com/a88230c8b3918aae/file.png": {
+    "width": 1000,
+    "height": 714
+  },
+  "/legacy-assets/static.wixstatic.com/ad63c12d6b498c31/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/c8e50605c36f471f/file.png": {
+    "width": 1000,
+    "height": 666
+  },
+  "/legacy-assets/static.wixstatic.com/d2fb04e708015ef6/0715b5_7e3c7b5184574bc4a95d014faa9acbc4_mv2.png": {
+    "width": 740,
+    "height": 620
+  },
+  "/legacy-assets/static.wixstatic.com/d5ffd962659e02c8/file.png": {
+    "width": 1000,
+    "height": 1000
+  },
+  "/wp-content/uploads/2018/10/blog-outubro-2018-300x178.webp": {
+    "width": 300,
+    "height": 178
+  },
+  "/wp-content/uploads/2018/10/blog-outubro-2018.webp": {
+    "width": 694,
+    "height": 411
+  },
+  "/wp-content/uploads/2018/11/blog-novembro-2018-1024x681.webp": {
+    "width": 1024,
+    "height": 681
+  },
+  "/wp-content/uploads/2018/11/blog-novembro-2018-1536x1022.webp": {
+    "width": 1536,
+    "height": 1022
+  },
+  "/wp-content/uploads/2018/11/blog-novembro-2018-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2018/11/blog-novembro-2018-768x511.webp": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2018/11/blog-novembro-2018.webp": {
+    "width": 1700,
+    "height": 1131
+  },
+  "/wp-content/uploads/2019/03/blog-marco-2019-300x130.webp": {
+    "width": 300,
+    "height": 130
+  },
+  "/wp-content/uploads/2019/03/blog-marco-2019.webp": {
+    "width": 694,
+    "height": 300
+  },
+  "/wp-content/uploads/2019/05/blog01-maio-2019-1024x683.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2019/05/blog01-maio-2019-1536x1024.webp": {
+    "width": 1536,
+    "height": 1024
+  },
+  "/wp-content/uploads/2019/05/blog01-maio-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2019/05/blog01-maio-2019-768x512.webp": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2019/05/blog01-maio-2019.webp": {
+    "width": 1671,
+    "height": 1114
+  },
+  "/wp-content/uploads/2019/06/blog01-junho-2019-300x229.webp": {
+    "width": 300,
+    "height": 229
+  },
+  "/wp-content/uploads/2019/06/blog01-junho-2019.webp": {
+    "width": 736,
+    "height": 563
+  },
+  "/wp-content/uploads/2019/07/blog01-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2019/07/blog01-julho-2019.webp": {
+    "width": 740,
+    "height": 494
+  },
+  "/wp-content/uploads/2019/07/blog02-junho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2019/07/blog02-junho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2019/07/blog06-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2019/07/blog06-julho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2019/11/blog03-novembro-2019-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2019/11/blog03-novembro-2019-300x297.webp": {
+    "width": 300,
+    "height": 297
+  },
+  "/wp-content/uploads/2019/11/blog03-novembro-2019.webp": {
+    "width": 350,
+    "height": 347
+  },
+  "/wp-content/uploads/2019/11/blog04-novembro-2019-300x169.webp": {
+    "width": 300,
+    "height": 169
+  },
+  "/wp-content/uploads/2019/11/blog04-novembro-2019.webp": {
+    "width": 740,
+    "height": 417
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020-02-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020-02.webp": {
+    "width": 350,
+    "height": 233
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020-03-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020-03.webp": {
+    "width": 350,
+    "height": 233
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020-300x233.webp": {
+    "width": 300,
+    "height": 233
+  },
+  "/wp-content/uploads/2020/01/blog-janeiro-2020.webp": {
+    "width": 350,
+    "height": 272
+  },
+  "/wp-content/uploads/2020/02/blog-fevereiro-2020-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/02/blog-fevereiro-2020.webp": {
+    "width": 740,
+    "height": 494
+  },
+  "/wp-content/uploads/2020/06/blog-junho-2020-03-300x219.webp": {
+    "width": 300,
+    "height": 219
+  },
+  "/wp-content/uploads/2020/06/blog-junho-2020-03.webp": {
+    "width": 350,
+    "height": 256
+  },
+  "/wp-content/uploads/2020/06/blog-junho-2020-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/06/blog-junho-2020.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-02-1-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-02-1.webp": {
+    "width": 740,
+    "height": 494
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-02-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-02.webp": {
+    "width": 740,
+    "height": 494
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-03-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-03.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-04-300x174.webp": {
+    "width": 300,
+    "height": 174
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-04.webp": {
+    "width": 536,
+    "height": 311
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-05-300x134.webp": {
+    "width": 300,
+    "height": 134
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-05.webp": {
+    "width": 740,
+    "height": 331
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-06-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-06.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-07-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2020/07/blog-julho-2020-07.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-02-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-02.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-03-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-03.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-04-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-04.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-05-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-05.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-06-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-06.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-07-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-07.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-08-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-08.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020-300x150.webp": {
+    "width": 300,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/08/blog-agosto-2020.webp": {
+    "width": 740,
+    "height": 370
+  },
+  "/wp-content/uploads/2020/08/blog-setembro-2020-03-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/08/blog-setembro-2020-03.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-02-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-02.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-04-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-04.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-05.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-06-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-06.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-07-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-07.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-08-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-08.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/09/blog-setembro-2020.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-01-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-01.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-02-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-02.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-03-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-03.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-04-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-04-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-04.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-06-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-06-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-06.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-07-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-07-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/10/blog-outubro-2020-07.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-01-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-01-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-01.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-02-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-02-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-02.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-03-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-03-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-03.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-04-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-04-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-04.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-05-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-05-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-05.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-06-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-06-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-06.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-07-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-07-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-novembro-2020-07.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/11/blog-outubro-2020-08-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/11/blog-outubro-2020-08-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/11/blog-outubro-2020-08.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-01-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-01-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-01.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-02-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-02-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-02.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-03-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-03-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-03.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-04-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-04-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-04.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-05-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-05-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2020/12/blog-dezembro-2020-05.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-02-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-02-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-02.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-03-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-03-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-03.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-04-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-04-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-04.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-05-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-05-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-05.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-06-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-06-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-06.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-07-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-07-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-07.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/01/blog-janeiro-2021.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-02-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-02-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-02.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-03-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-03-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-03.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-05-1024x768.webp": {
+    "width": 1024,
+    "height": 768
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-05-300x225.webp": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-05-768x576.webp": {
+    "width": 768,
+    "height": 576
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-05.webp": {
+    "width": 1485,
+    "height": 1114
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2021/02/blog-fevereiro-2021.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2021/03/blogdoencasrarasoculares-300x225.webp": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/03/blogdoencasrarasoculares.webp": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/03/blogsaudeoculardamulhar-300x225.webp": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/03/blogsaudeoculardamulhar.webp": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/04/0715b5_050aa9c4df984058b34789ce124ab3ad_mv2.webp": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/05/blogdiabetico-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/05/blogdiabetico.jpg": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/06/Blognbmh-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/06/Blognbmh.jpg": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/07/Blogcornasintetica-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/07/Blogcornasintetica.jpg": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/08/blogTromboseOcular-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2021/08/blogTromboseOcular.jpg": {
+    "width": 409,
+    "height": 307
+  },
+  "/wp-content/uploads/2021/11/blogalimentos-300x169.jpg": {
+    "width": 300,
+    "height": 169
+  },
+  "/wp-content/uploads/2021/11/blogalimentos-768x432.jpg": {
+    "width": 768,
+    "height": 432
+  },
+  "/wp-content/uploads/2021/11/blogalimentos.jpg": {
+    "width": 1000,
+    "height": 562
+  },
+  "/wp-content/uploads/2021/12/Bloglentesdecontatp-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2021/12/Bloglentesdecontatp-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2021/12/Bloglentesdecontatp.jpg": {
+    "width": 1000,
+    "height": 665
+  },
+  "/wp-content/uploads/2022/02/blog-retinoblastoma-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/02/blog-retinoblastoma-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/02/blog-retinoblastoma.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/02/blogverao-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/02/blogverao-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/02/blogverao.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/03/bloghipermetropia-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/03/bloghipermetropia-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/03/bloghipermetropia.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/05/blogoutono-300x214.jpg": {
+    "width": 300,
+    "height": 214
+  },
+  "/wp-content/uploads/2022/05/blogoutono-768x548.jpg": {
+    "width": 768,
+    "height": 548
+  },
+  "/wp-content/uploads/2022/05/blogoutono.jpg": {
+    "width": 1000,
+    "height": 714
+  },
+  "/wp-content/uploads/2022/05/blogsono-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/05/blogsono-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/05/blogsono.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/06/olhosvermelhos-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/06/olhosvermelhos-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/06/olhosvermelhos.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/07/oculosexculos-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/07/oculosexculos-768x511.jpg": {
+    "width": 768,
+    "height": 511
+  },
+  "/wp-content/uploads/2022/07/oculosexculos.jpg": {
+    "width": 1000,
+    "height": 666
+  },
+  "/wp-content/uploads/2022/09/nlogcatarata001-300x218.png": {
+    "width": 300,
+    "height": 218
+  },
+  "/wp-content/uploads/2022/09/nlogcatarata001-768x558.png": {
+    "width": 768,
+    "height": 558
+  },
+  "/wp-content/uploads/2022/09/nlogcatarata001.png": {
+    "width": 1000,
+    "height": 727
+  },
+  "/wp-content/uploads/2022/10/glog003-300x218.png": {
+    "width": 300,
+    "height": 218
+  },
+  "/wp-content/uploads/2022/10/glog003-768x558.png": {
+    "width": 768,
+    "height": 558
+  },
+  "/wp-content/uploads/2022/10/glog003.png": {
+    "width": 1000,
+    "height": 727
+  },
+  "/wp-content/uploads/2022/12/blog001-1024x683.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2022/12/blog001-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/12/blog001-768x512.webp": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2022/12/blog001.webp": {
+    "width": 1490,
+    "height": 994
+  },
+  "/wp-content/uploads/2022/12/botoxblog-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2022/12/botoxblog-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2022/12/botoxblog-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2022/12/botoxblog.jpg": {
+    "width": 1490,
+    "height": 994
+  },
+  "/wp-content/uploads/2023/01/0001.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/1736431391_e16aed_clinicabenchimollogo21.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/1743692169_29f025_benchimon_blog_e_site.png": {
+    "width": 250,
+    "height": 78
+  },
+  "/wp-content/uploads/2023/01/Clinica-Benchimol-Favicon.png": {
+    "width": 80,
+    "height": 80
+  },
+  "/wp-content/uploads/2023/01/Clinica-Benchimol-Logo-1.png": {
+    "width": 250,
+    "height": 78
+  },
+  "/wp-content/uploads/2023/01/Clinica-Benchimol-Logo-2-1.png": {
+    "width": 256,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/Clinica-Benchimol-Logo-2.png": {
+    "width": 284,
+    "height": 75
+  },
+  "/wp-content/uploads/2023/01/Clinica-Benchimol-Logo.png": {
+    "width": 250,
+    "height": 78
+  },
+  "/wp-content/uploads/2023/01/Rectangle-4484.png": {
+    "width": 1920,
+    "height": 607
+  },
+  "/wp-content/uploads/2023/01/admin-ajax-1.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/admin-ajax-4.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/admin-ajax.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/asian-woman-farmer-holding-a-basket-of-vegetables-in-hydroponic-farm-.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/asset-fixn.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/01/basket-full-of-vegetables.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/catarata.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/cinza.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/cornea.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/01/diopter-selection-glasses-choice-eyesight-test.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/dry.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/01/eye-YWV8MT.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/01/eyesight-test-optician-cabinet-vision-diagnostic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/farmer.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/female-oculist-examining-kid-eyes-with-trial-frame-and-lenses.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/female-ophthalmologist-examining-kid-eyes-with-trial-frame-and-lenses.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/glaucoma.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/glaucoma.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/01/growing-lettuce.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/handsome-doctor-showing-something-in-clipboard-to-smiling-patient-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/heartcare.png": {
+    "width": 528,
+    "height": 180
+  },
+  "/wp-content/uploads/2023/01/laco-safira.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/laco-turquesa.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/laco-violeta.png": {
+    "width": 266,
+    "height": 69
+  },
+  "/wp-content/uploads/2023/01/lifecare.png": {
+    "width": 528,
+    "height": 180
+  },
+  "/wp-content/uploads/2023/01/logo-N5XYWG.png": {
+    "width": 840,
+    "height": 205
+  },
+  "/wp-content/uploads/2023/01/logo-branca-768x216-1-300x84.webp": {
+    "width": 300,
+    "height": 84
+  },
+  "/wp-content/uploads/2023/01/logo-branca-768x216-1.webp": {
+    "width": 768,
+    "height": 216
+  },
+  "/wp-content/uploads/2023/01/logo-branca.png": {
+    "width": 2332,
+    "height": 655
+  },
+  "/wp-content/uploads/2023/01/logo-footer.png": {
+    "width": 841,
+    "height": 205
+  },
+  "/wp-content/uploads/2023/01/oljo-seco.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/ophthalmologist-examining-middle-aged-man-eyes-with-trial-frame-and-lenses.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/optometrist-looking-at-eye-chart.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/optometrist-looking-at-eye-chart.jpg.webp": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/patient-during-an-eye-examination-at-the-eye-clinic.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/placeholder.png": {
+    "width": 1200,
+    "height": 800
+  },
+  "/wp-content/uploads/2023/01/professional-oculist-examining-man-with-visual-field-test.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/refrativa.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/retina.jpg": {
+    "width": 1343,
+    "height": 589
+  },
+  "/wp-content/uploads/2023/01/retina.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/01/selective-focus-of-ophthalmologist-examining-kid-eyes-with-trial-frame-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/selective-focus-of-young-woman-getting-eye-test-by-oculist-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/tree.png": {
+    "width": 528,
+    "height": 180
+  },
+  "/wp-content/uploads/2023/01/view-from-side-of-oculist-checking-sight-of-girl-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1334
+  },
+  "/wp-content/uploads/2023/01/vision.png": {
+    "width": 320,
+    "height": 210
+  },
+  "/wp-content/uploads/2023/01/young-brunette-female-ophthalmologist-testing-eyesight-of-senior-male-patient.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/01/young-ophthalmologist-is-with-little-female-visitor-in-the-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/01/young-woman-checking-on-eye-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1055
+  },
+  "/wp-content/uploads/2023/01/young-woman-visiting-opthalmologist.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2023/02/0715b5_0bf3aee137824de5bf2476d7240959be_mv2.webp": {
+    "width": 735,
+    "height": 107
+  },
+  "/wp-content/uploads/2023/02/0715b5_119e23bf736f4898b7071e432bb32d5f_mv2.webp": {
+    "width": 545,
+    "height": 421
+  },
+  "/wp-content/uploads/2023/02/0715b5_25581061e63048f5a7dbfc41c6845339_mv2.webp": {
+    "width": 480,
+    "height": 360
+  },
+  "/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2-768x410.webp": {
+    "width": 768,
+    "height": 410
+  },
+  "/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_48fc775e5de545c6a660e9ae5f091549_mv2.webp": {
+    "width": 495,
+    "height": 376
+  },
+  "/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_6774ffc762d4468e9a65e1aaccb5e25d_mv2.webp": {
+    "width": 364,
+    "height": 438
+  },
+  "/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1-300x202.webp": {
+    "width": 300,
+    "height": 202
+  },
+  "/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1.webp": {
+    "width": 809,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_87fbb43fa7d44a9fac3aade83b4d4c18_mv2.webp": {
+    "width": 329,
+    "height": 438
+  },
+  "/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_99d24faece184a13b5417ee6a4e97313_mv2.webp": {
+    "width": 564,
+    "height": 416
+  },
+  "/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1.webp": {
+    "width": 724,
+    "height": 483
+  },
+  "/wp-content/uploads/2023/02/0715b5_ab879f4dfc2543c4a4421001c70eec58_mv2.webp": {
+    "width": 480,
+    "height": 685
+  },
+  "/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2-300x159.webp": {
+    "width": 300,
+    "height": 159
+  },
+  "/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2-768x408.webp": {
+    "width": 768,
+    "height": 408
+  },
+  "/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2.webp": {
+    "width": 981,
+    "height": 521
+  },
+  "/wp-content/uploads/2023/02/0715b5_c7cd9743b8e942b8b223de1ca3b1dcff_mv2.webp": {
+    "width": 584,
+    "height": 438
+  },
+  "/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2-300x168.webp": {
+    "width": 300,
+    "height": 168
+  },
+  "/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2.webp": {
+    "width": 731,
+    "height": 410
+  },
+  "/wp-content/uploads/2023/02/0715b5_cec7db94a61d4e3fbc1099a54e3deab3_mv2.webp": {
+    "width": 557,
+    "height": 428
+  },
+  "/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/AGF-Allianz.webp": {
+    "width": 82,
+    "height": 60
+  },
+  "/wp-content/uploads/2023/02/AMAFRERJ.webp": {
+    "width": 84,
+    "height": 45
+  },
+  "/wp-content/uploads/2023/02/ASSIM_Saude.webp": {
+    "width": 74,
+    "height": 33
+  },
+  "/wp-content/uploads/2023/02/Adriana-IMG_6606a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Adriana-IMG_6606a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Amelia-IMG_7070a-e1675859621678.webp": {
+    "width": 214,
+    "height": 274
+  },
+  "/wp-content/uploads/2023/02/Amir-IMG_6934a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Amir-IMG_6934a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Assefaz.webp": {
+    "width": 67,
+    "height": 68
+  },
+  "/wp-content/uploads/2023/02/Assist-Card1.webp": {
+    "width": 69,
+    "height": 38
+  },
+  "/wp-content/uploads/2023/02/Associacao_dos_Hospitais_do_RJ.webp": {
+    "width": 222,
+    "height": 153
+  },
+  "/wp-content/uploads/2023/02/Auto-Refrator-268x300.webp": {
+    "width": 268,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Auto-Refrator.webp": {
+    "width": 762,
+    "height": 853
+  },
+  "/wp-content/uploads/2023/02/Auto-Tonometro-249x300.webp": {
+    "width": 249,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Auto-Tonometro.webp": {
+    "width": 324,
+    "height": 391
+  },
+  "/wp-content/uploads/2023/02/BNDES-Fapes.webp": {
+    "width": 68,
+    "height": 41
+  },
+  "/wp-content/uploads/2023/02/Banco-do-Brasil-Cassi-.webp": {
+    "width": 79,
+    "height": 53
+  },
+  "/wp-content/uploads/2023/02/CAC-CEDAE.webp": {
+    "width": 74,
+    "height": 38
+  },
+  "/wp-content/uploads/2023/02/CAMARJ.webp": {
+    "width": 58,
+    "height": 58
+  },
+  "/wp-content/uploads/2023/02/CAURJ.webp": {
+    "width": 61,
+    "height": 55
+  },
+  "/wp-content/uploads/2023/02/CEPEL-.webp": {
+    "width": 75,
+    "height": 34
+  },
+  "/wp-content/uploads/2023/02/Caberj.webp": {
+    "width": 62,
+    "height": 51
+  },
+  "/wp-content/uploads/2023/02/Catarata_Completo-13-E-book-1.webp": {
+    "width": 473,
+    "height": 133
+  },
+  "/wp-content/uploads/2023/02/Catarata_Completo-13-E-book.webp": {
+    "width": 473,
+    "height": 133
+  },
+  "/wp-content/uploads/2023/02/Cirurgia-Glaucoma.webp": {
+    "width": 385,
+    "height": 359
+  },
+  "/wp-content/uploads/2023/02/Dr-Gabriel-Benchimol.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Dr_-Raphael_JPG.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Dra-Dilma_a-300x281.webp": {
+    "width": 300,
+    "height": 281
+  },
+  "/wp-content/uploads/2023/02/Dra-Dilma_a.webp": {
+    "width": 317,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Eco-Dopler-ocular-225x300.webp": {
+    "width": 225,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Eco-Dopler-ocular.webp": {
+    "width": 317,
+    "height": 423
+  },
+  "/wp-content/uploads/2023/02/Eduardo-IMG_6724a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Eduardo-IMG_6724a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Eletroretinografo-DIOPSYS-300x282.webp": {
+    "width": 300,
+    "height": 282
+  },
+  "/wp-content/uploads/2023/02/Eletroretinografo-DIOPSYS.webp": {
+    "width": 547,
+    "height": 514
+  },
+  "/wp-content/uploads/2023/02/Eliezer-IMG_7156a-300x286.webp": {
+    "width": 300,
+    "height": 286
+  },
+  "/wp-content/uploads/2023/02/Eliezer-IMG_7156a.webp": {
+    "width": 312,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Emgeprom-Pamse.webp": {
+    "width": 71,
+    "height": 48
+  },
+  "/wp-content/uploads/2023/02/Facoemulsificador-300x205.webp": {
+    "width": 300,
+    "height": 205
+  },
+  "/wp-content/uploads/2023/02/Facoemulsificador-768x524.webp": {
+    "width": 768,
+    "height": 524
+  },
+  "/wp-content/uploads/2023/02/Facoemulsificador.webp": {
+    "width": 800,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Francine-IMG_6624a-e1675859566911.webp": {
+    "width": 204,
+    "height": 241
+  },
+  "/wp-content/uploads/2023/02/GEAP-1.webp": {
+    "width": 40,
+    "height": 57
+  },
+  "/wp-content/uploads/2023/02/GEAP.webp": {
+    "width": 40,
+    "height": 57
+  },
+  "/wp-content/uploads/2023/02/IMG_6795.webp": {
+    "width": 313,
+    "height": 208
+  },
+  "/wp-content/uploads/2023/02/IMG_6902.webp": {
+    "width": 249,
+    "height": 207
+  },
+  "/wp-content/uploads/2023/02/IOL-Master-700-300x242.webp": {
+    "width": 300,
+    "height": 242
+  },
+  "/wp-content/uploads/2023/02/IOL-Master-700.webp": {
+    "width": 677,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Keratograph-5M-281x300.webp": {
+    "width": 281,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Keratograph-5M-768x819.webp": {
+    "width": 768,
+    "height": 819
+  },
+  "/wp-content/uploads/2023/02/Keratograph-5M.webp": {
+    "width": 800,
+    "height": 853
+  },
+  "/wp-content/uploads/2023/02/Laser-Cyclo-G6-300x194.webp": {
+    "width": 300,
+    "height": 194
+  },
+  "/wp-content/uploads/2023/02/Laser-Cyclo-G6-768x497.webp": {
+    "width": 768,
+    "height": 497
+  },
+  "/wp-content/uploads/2023/02/Laser-Cyclo-G6.webp": {
+    "width": 844,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Laser-micropulso-198x300.webp": {
+    "width": 198,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Laser-micropulso.webp": {
+    "width": 361,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Lente-intraocular-.webp": {
+    "width": 326,
+    "height": 276
+  },
+  "/wp-content/uploads/2023/02/Liana-IMG_6541a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Liana-IMG_6541a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Luciano-IMG_6945a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Luciano-IMG_6945a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Marinha-1.webp": {
+    "width": 70,
+    "height": 55
+  },
+  "/wp-content/uploads/2023/02/Marinha.webp": {
+    "width": 70,
+    "height": 55
+  },
+  "/wp-content/uploads/2023/02/Med_News_Saude.webp": {
+    "width": 68,
+    "height": 68
+  },
+  "/wp-content/uploads/2023/02/Microscopio-Cirurgico-236x300.webp": {
+    "width": 236,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Microscopio-Cirurgico.webp": {
+    "width": 430,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Microscopio-Especular-da-Cornea-NIDEK-249x300.webp": {
+    "width": 249,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Microscopio-Especular-da-Cornea-NIDEK.webp": {
+    "width": 453,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Mirelle-IMG_6591a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Mirelle-IMG_6591a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Monica-IMG_6535a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Monica-IMG_6535a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Multsaude.webp": {
+    "width": 77,
+    "height": 57
+  },
+  "/wp-content/uploads/2023/02/Nina-IMG_6661a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Nina-IMG_6661a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Nonmdy-300x199.webp": {
+    "width": 300,
+    "height": 199
+  },
+  "/wp-content/uploads/2023/02/Nonmdy-768x510.webp": {
+    "width": 768,
+    "height": 510
+  },
+  "/wp-content/uploads/2023/02/Nonmdy.webp": {
+    "width": 823,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/OCT-Cyrrus-300x273.webp": {
+    "width": 300,
+    "height": 273
+  },
+  "/wp-content/uploads/2023/02/OCT-Cyrrus-768x700.webp": {
+    "width": 768,
+    "height": 700
+  },
+  "/wp-content/uploads/2023/02/OCT-Cyrrus.webp": {
+    "width": 843,
+    "height": 768
+  },
+  "/wp-content/uploads/2023/02/Octopus-900-300x286.webp": {
+    "width": 300,
+    "height": 286
+  },
+  "/wp-content/uploads/2023/02/Octopus-900.webp": {
+    "width": 572,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Olho-Seco.webp": {
+    "width": 338,
+    "height": 316
+  },
+  "/wp-content/uploads/2023/02/Paulo-IMG_6984a-300x284.webp": {
+    "width": 300,
+    "height": 284
+  },
+  "/wp-content/uploads/2023/02/Paulo-IMG_6984a.webp": {
+    "width": 314,
+    "height": 297
+  },
+  "/wp-content/uploads/2023/02/Petrobras-1.webp": {
+    "width": 106,
+    "height": 37
+  },
+  "/wp-content/uploads/2023/02/Petrobras.webp": {
+    "width": 106,
+    "height": 37
+  },
+  "/wp-content/uploads/2023/02/Potential-Accuit-Meter-198x300.webp": {
+    "width": 198,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/Potential-Accuit-Meter.webp": {
+    "width": 361,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Retina_Clinica_Imagem.webp": {
+    "width": 286,
+    "height": 271
+  },
+  "/wp-content/uploads/2023/02/Scanner-Laser-Daytona-300x224.webp": {
+    "width": 300,
+    "height": 224
+  },
+  "/wp-content/uploads/2023/02/Scanner-Laser-Daytona.webp": {
+    "width": 730,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Sergio-IMG_6561a-300x268.webp": {
+    "width": 300,
+    "height": 268
+  },
+  "/wp-content/uploads/2023/02/Sergio-IMG_6561a.webp": {
+    "width": 329,
+    "height": 294
+  },
+  "/wp-content/uploads/2023/02/SulAmerica-Saude-Dental.webp": {
+    "width": 86,
+    "height": 31
+  },
+  "/wp-content/uploads/2023/02/Teste_de_pressao_ocular.webp": {
+    "width": 369,
+    "height": 208
+  },
+  "/wp-content/uploads/2023/02/Tonometro-de-Pascal-300x288.webp": {
+    "width": 300,
+    "height": 288
+  },
+  "/wp-content/uploads/2023/02/Tonometro-de-Pascal.webp": {
+    "width": 568,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/Veronica-IMG_7027a.webp": {
+    "width": 327,
+    "height": 294
+  },
+  "/wp-content/uploads/2023/02/WhatsApp-Image-2018-10-26-at-14_11_55-2_.webp": {
+    "width": 192,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/02/YAG-Laser-198x300.webp": {
+    "width": 198,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/YAG-Laser.webp": {
+    "width": 361,
+    "height": 546
+  },
+  "/wp-content/uploads/2023/02/aeronautica.webp": {
+    "width": 93,
+    "height": 41
+  },
+  "/wp-content/uploads/2023/02/ambep.webp": {
+    "width": 87,
+    "height": 32
+  },
+  "/wp-content/uploads/2023/02/bacen.webp": {
+    "width": 75,
+    "height": 52
+  },
+  "/wp-content/uploads/2023/02/banner.webp": {
+    "width": 1065,
+    "height": 101
+  },
+  "/wp-content/uploads/2023/02/blog-fevereiro-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/02/blog-fevereiro-2023.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2023/02/bradesco_saude.webp": {
+    "width": 88,
+    "height": 31
+  },
+  "/wp-content/uploads/2023/02/camperj.webp": {
+    "width": 91,
+    "height": 37
+  },
+  "/wp-content/uploads/2023/02/capesaude.webp": {
+    "width": 68,
+    "height": 46
+  },
+  "/wp-content/uploads/2023/02/care-plus.webp": {
+    "width": 72,
+    "height": 38
+  },
+  "/wp-content/uploads/2023/02/catarata-1.webp": {
+    "width": 272,
+    "height": 258
+  },
+  "/wp-content/uploads/2023/02/cheerful-female-ophthalmologist-V6NK2CD.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/cirurgia-300x160.jpg": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/cirurgia-768x410.jpg": {
+    "width": 768,
+    "height": 410
+  },
+  "/wp-content/uploads/2023/02/cirurgia.jpg": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/cnen-saude.webp": {
+    "width": 55,
+    "height": 57
+  },
+  "/wp-content/uploads/2023/02/consultorio1-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/consultorio1.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/consultorio2-300x160.webp": {
+    "width": 300,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/consultorio2.webp": {
+    "width": 980,
+    "height": 523
+  },
+  "/wp-content/uploads/2023/02/copacabana.webp": {
+    "width": 291,
+    "height": 292
+  },
+  "/wp-content/uploads/2023/02/cornea2.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/02/cropped-view-of-optician-writing-diagnosis-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/02/eletrobras.webp": {
+    "width": 74,
+    "height": 49
+  },
+  "/wp-content/uploads/2023/02/eletros-.webp": {
+    "width": 121,
+    "height": 26
+  },
+  "/wp-content/uploads/2023/02/eye-YWV8MT.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/02/female-optometrist-standing-in-ophthalmology-clini-NLRNHNY.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/fio-saude.webp": {
+    "width": 64,
+    "height": 52
+  },
+  "/wp-content/uploads/2023/02/fioprev.webp": {
+    "width": 56,
+    "height": 45
+  },
+  "/wp-content/uploads/2023/02/fundacao-real-grandeza.webp": {
+    "width": 124,
+    "height": 30
+  },
+  "/wp-content/uploads/2023/02/fusex-1.webp": {
+    "width": 49,
+    "height": 62
+  },
+  "/wp-content/uploads/2023/02/fusex.webp": {
+    "width": 49,
+    "height": 62
+  },
+  "/wp-content/uploads/2023/02/gama-saude-1.webp": {
+    "width": 89,
+    "height": 33
+  },
+  "/wp-content/uploads/2023/02/gama-saude.webp": {
+    "width": 89,
+    "height": 33
+  },
+  "/wp-content/uploads/2023/02/glaucoma.png": {
+    "width": 320,
+    "height": 209
+  },
+  "/wp-content/uploads/2023/02/golden-cross-1.webp": {
+    "width": 56,
+    "height": 55
+  },
+  "/wp-content/uploads/2023/02/golden-cross.webp": {
+    "width": 56,
+    "height": 55
+  },
+  "/wp-content/uploads/2023/02/happy-female-optometrist-standing-in-optics-store-BKUQXKH.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/ipalerj-1.webp": {
+    "width": 104,
+    "height": 29
+  },
+  "/wp-content/uploads/2023/02/ipalerj.webp": {
+    "width": 104,
+    "height": 29
+  },
+  "/wp-content/uploads/2023/02/male-optometrist-smiling-at-camera-2021-04-06-16-28-38-utc.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/mediservice-1.webp": {
+    "width": 101,
+    "height": 23
+  },
+  "/wp-content/uploads/2023/02/mediservice.webp": {
+    "width": 101,
+    "height": 23
+  },
+  "/wp-content/uploads/2023/02/miopia-hipermetropia-astigmatismo.webp": {
+    "width": 480,
+    "height": 232
+  },
+  "/wp-content/uploads/2023/02/mutua-dos-magistrados-1.webp": {
+    "width": 56,
+    "height": 41
+  },
+  "/wp-content/uploads/2023/02/mutua-dos-magistrados.webp": {
+    "width": 56,
+    "height": 41
+  },
+  "/wp-content/uploads/2023/02/oculist-examining-patient-vision-with-slit-lamp-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/02/pentacan-288x300.webp": {
+    "width": 288,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/pentacan.webp": {
+    "width": 740,
+    "height": 772
+  },
+  "/wp-content/uploads/2023/02/personal.png": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/02/plan-assiste-1.webp": {
+    "width": 70,
+    "height": 49
+  },
+  "/wp-content/uploads/2023/02/plan-assiste.webp": {
+    "width": 70,
+    "height": 49
+  },
+  "/wp-content/uploads/2023/02/porto-seguro-saude-.webp": {
+    "width": 64,
+    "height": 34
+  },
+  "/wp-content/uploads/2023/02/postal-saude-.webp": {
+    "width": 104,
+    "height": 26
+  },
+  "/wp-content/uploads/2023/02/professional-ophthalmologist-posing-with-slit-lamp-5MGWMX8.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/retinopatia-diabetica-um-risco-silencios.webp": {
+    "width": 440,
+    "height": 207
+  },
+  "/wp-content/uploads/2023/02/saude_caixa.webp": {
+    "width": 78,
+    "height": 27
+  },
+  "/wp-content/uploads/2023/02/selos.jpg": {
+    "width": 225,
+    "height": 106
+  },
+  "/wp-content/uploads/2023/02/serpro.webp": {
+    "width": 67,
+    "height": 41
+  },
+  "/wp-content/uploads/2023/02/side-view-of-ophthalmologist-in-eyeglasses-giving-contact-lens-to-patient-in-clinic.jpg": {
+    "width": 2000,
+    "height": 1335
+  },
+  "/wp-content/uploads/2023/02/successful-professional-optometrist-working-with-n-ETQQP8H.jpg": {
+    "width": 820,
+    "height": 1024
+  },
+  "/wp-content/uploads/2023/02/testimonial-83S5W35.jpg": {
+    "width": 160,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/testimonial-A8E2W8S.jpg": {
+    "width": 160,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/testimonial-M6NJPEF.png": {
+    "width": 160,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/testimonial-Q8JDNBT.png": {
+    "width": 160,
+    "height": 160
+  },
+  "/wp-content/uploads/2023/02/unafisco-saude.webp": {
+    "width": 76,
+    "height": 31
+  },
+  "/wp-content/uploads/2023/02/unimed.webp": {
+    "width": 94,
+    "height": 32
+  },
+  "/wp-content/uploads/2023/02/visao_com_dmri_.webp": {
+    "width": 540,
+    "height": 233
+  },
+  "/wp-content/uploads/2023/03/Benchimol-Selo.png": {
+    "width": 350,
+    "height": 174
+  },
+  "/wp-content/uploads/2023/04/blog-abril-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/04/blog-abril-2023.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2023/04/blog-maio-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/04/blog-maio-2023.webp": {
+    "width": 740,
+    "height": 494
+  },
+  "/wp-content/uploads/2023/06/blog-junho-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/06/blog-junho-2023.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2023/07/blog-julho-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2023/07/blog-julho-2023.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2023/08/blog-agosto-2023-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2023/08/blog-agosto-2023-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2023/08/blog-agosto-2023.webp": {
+    "width": 350,
+    "height": 350
+  },
+  "/wp-content/uploads/2024/01/blog-janeiro-2024-300x201.webp": {
+    "width": 300,
+    "height": 201
+  },
+  "/wp-content/uploads/2024/01/blog-janeiro-2024.webp": {
+    "width": 740,
+    "height": 495
+  },
+  "/wp-content/uploads/2024/03/blog-abril-2019-1024x1024.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2024/03/blog-abril-2019-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/03/blog-abril-2019-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-abril-2019-768x768.webp": {
+    "width": 768,
+    "height": 768
+  },
+  "/wp-content/uploads/2024/03/blog-abril-2019.webp": {
+    "width": 1114,
+    "height": 1114
+  },
+  "/wp-content/uploads/2024/03/blog-dezembro-2023-300x156.webp": {
+    "width": 300,
+    "height": 156
+  },
+  "/wp-content/uploads/2024/03/blog-dezembro-2023.webp": {
+    "width": 740,
+    "height": 384
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2021-04-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2021-04-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2021-04.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2024-1024x684.webp": {
+    "width": 1024,
+    "height": 684
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2024-1536x1026.webp": {
+    "width": 1536,
+    "height": 1026
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2024-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2024-768x513.webp": {
+    "width": 768,
+    "height": 513
+  },
+  "/wp-content/uploads/2024/03/blog-fevereiro-2024.webp": {
+    "width": 1668,
+    "height": 1114
+  },
+  "/wp-content/uploads/2024/03/blog-julho-2020-225x300.webp": {
+    "width": 225,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-julho-2020.webp": {
+    "width": 350,
+    "height": 467
+  },
+  "/wp-content/uploads/2024/03/blog-maico-2019-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/03/blog-maico-2019-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-maico-2019.webp": {
+    "width": 328,
+    "height": 328
+  },
+  "/wp-content/uploads/2024/03/blog-marco-01-1024x679.jpg": {
+    "width": 1024,
+    "height": 679
+  },
+  "/wp-content/uploads/2024/03/blog-marco-01-1536x1019.jpg": {
+    "width": 1536,
+    "height": 1019
+  },
+  "/wp-content/uploads/2024/03/blog-marco-01-300x199.jpg": {
+    "width": 300,
+    "height": 199
+  },
+  "/wp-content/uploads/2024/03/blog-marco-01-768x510.jpg": {
+    "width": 768,
+    "height": 510
+  },
+  "/wp-content/uploads/2024/03/blog-marco-01.jpg": {
+    "width": 1920,
+    "height": 1274
+  },
+  "/wp-content/uploads/2024/03/blog-novembro-2023-1024x687.webp": {
+    "width": 1024,
+    "height": 687
+  },
+  "/wp-content/uploads/2024/03/blog-novembro-2023-1536x1030.webp": {
+    "width": 1536,
+    "height": 1030
+  },
+  "/wp-content/uploads/2024/03/blog-novembro-2023-300x201.webp": {
+    "width": 300,
+    "height": 201
+  },
+  "/wp-content/uploads/2024/03/blog-novembro-2023-768x515.webp": {
+    "width": 768,
+    "height": 515
+  },
+  "/wp-content/uploads/2024/03/blog-novembro-2023.webp": {
+    "width": 1661,
+    "height": 1114
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2020-05-150x150.webp": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2020-05-300x300.webp": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2020-05.webp": {
+    "width": 740,
+    "height": 740
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2023-201x300.webp": {
+    "width": 201,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2023-685x1024.webp": {
+    "width": 685,
+    "height": 1024
+  },
+  "/wp-content/uploads/2024/03/blog-outubro-2023.webp": {
+    "width": 745,
+    "height": 1114
+  },
+  "/wp-content/uploads/2024/03/blog-setembro-2023-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog-setembro-2023.webp": {
+    "width": 379,
+    "height": 253
+  },
+  "/wp-content/uploads/2024/03/blog01-agosto-2019-214x300.webp": {
+    "width": 214,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/03/blog01-agosto-2019-730x1024.webp": {
+    "width": 730,
+    "height": 1024
+  },
+  "/wp-content/uploads/2024/03/blog01-agosto-2019.webp": {
+    "width": 740,
+    "height": 1038
+  },
+  "/wp-content/uploads/2024/03/blog01-junho-2019-300x229.webp": {
+    "width": 300,
+    "height": 229
+  },
+  "/wp-content/uploads/2024/03/blog01-junho-2019.webp": {
+    "width": 736,
+    "height": 563
+  },
+  "/wp-content/uploads/2024/03/blog01-novembro-2019-300x189.webp": {
+    "width": 300,
+    "height": 189
+  },
+  "/wp-content/uploads/2024/03/blog01-novembro-2019.webp": {
+    "width": 350,
+    "height": 220
+  },
+  "/wp-content/uploads/2024/03/blog02-abril-2019-1024x686.webp": {
+    "width": 1024,
+    "height": 686
+  },
+  "/wp-content/uploads/2024/03/blog02-abril-2019-1536x1028.webp": {
+    "width": 1536,
+    "height": 1028
+  },
+  "/wp-content/uploads/2024/03/blog02-abril-2019-300x201.webp": {
+    "width": 300,
+    "height": 201
+  },
+  "/wp-content/uploads/2024/03/blog02-abril-2019-768x514.webp": {
+    "width": 768,
+    "height": 514
+  },
+  "/wp-content/uploads/2024/03/blog02-abril-2019.webp": {
+    "width": 1664,
+    "height": 1114
+  },
+  "/wp-content/uploads/2024/03/blog02-agosto-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog02-agosto-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/blog02-julho-2019-300x199.webp": {
+    "width": 300,
+    "height": 199
+  },
+  "/wp-content/uploads/2024/03/blog02-julho-2019.webp": {
+    "width": 740,
+    "height": 492
+  },
+  "/wp-content/uploads/2024/03/blog02-maico-2019-300x225.webp": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2024/03/blog02-maico-2019.webp": {
+    "width": 740,
+    "height": 555
+  },
+  "/wp-content/uploads/2024/03/blog02-novembro-2019-300x150.webp": {
+    "width": 300,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/03/blog02-novembro-2019.webp": {
+    "width": 350,
+    "height": 175
+  },
+  "/wp-content/uploads/2024/03/blog02-outubro-2018-300x168.webp": {
+    "width": 300,
+    "height": 168
+  },
+  "/wp-content/uploads/2024/03/blog02-outubro-2018.webp": {
+    "width": 694,
+    "height": 388
+  },
+  "/wp-content/uploads/2024/03/blog03-abril-2019-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2024/03/blog03-abril-2019.jpg": {
+    "width": 460,
+    "height": 345
+  },
+  "/wp-content/uploads/2024/03/blog03-agosto-2019-300x108.webp": {
+    "width": 300,
+    "height": 108
+  },
+  "/wp-content/uploads/2024/03/blog03-agosto-2019.webp": {
+    "width": 740,
+    "height": 267
+  },
+  "/wp-content/uploads/2024/03/blog03-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog03-julho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/blog03-junho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog03-junho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/blog03-outubro-2018-1024x576.jpg": {
+    "width": 1024,
+    "height": 576
+  },
+  "/wp-content/uploads/2024/03/blog03-outubro-2018-300x169.jpg": {
+    "width": 300,
+    "height": 169
+  },
+  "/wp-content/uploads/2024/03/blog03-outubro-2018-768x432.jpg": {
+    "width": 768,
+    "height": 432
+  },
+  "/wp-content/uploads/2024/03/blog03-outubro-2018.jpg": {
+    "width": 1500,
+    "height": 844
+  },
+  "/wp-content/uploads/2024/03/blog04-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog04-julho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/blog05-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog05-julho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/blog07-julho-2019-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/03/blog07-julho-2019.webp": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2024/03/catarata-blog-001-300x95.png": {
+    "width": 300,
+    "height": 95
+  },
+  "/wp-content/uploads/2024/03/catarata-blog-001-768x244.png": {
+    "width": 768,
+    "height": 244
+  },
+  "/wp-content/uploads/2024/03/catarata-blog-001.png": {
+    "width": 791,
+    "height": 251
+  },
+  "/wp-content/uploads/2024/03/image-1-300x141.png": {
+    "width": 300,
+    "height": 141
+  },
+  "/wp-content/uploads/2024/03/image-1-768x361.png": {
+    "width": 768,
+    "height": 361
+  },
+  "/wp-content/uploads/2024/03/image-1.png": {
+    "width": 850,
+    "height": 400
+  },
+  "/wp-content/uploads/2024/03/image-2-300x270.png": {
+    "width": 300,
+    "height": 270
+  },
+  "/wp-content/uploads/2024/03/image-2.png": {
+    "width": 636,
+    "height": 573
+  },
+  "/wp-content/uploads/2024/03/image-3-300x203.png": {
+    "width": 300,
+    "height": 203
+  },
+  "/wp-content/uploads/2024/03/image-3.png": {
+    "width": 740,
+    "height": 500
+  },
+  "/wp-content/uploads/2024/03/image-300x68.png": {
+    "width": 300,
+    "height": 68
+  },
+  "/wp-content/uploads/2024/03/image-768x175.png": {
+    "width": 768,
+    "height": 175
+  },
+  "/wp-content/uploads/2024/03/image.png": {
+    "width": 917,
+    "height": 209
+  },
+  "/wp-content/uploads/2024/05/EXTRA-Feed.jpg": {
+    "width": 1080,
+    "height": 1080
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-1536x1024.jpg": {
+    "width": 1536,
+    "height": 1024
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-2048x1365.jpg": {
+    "width": 2048,
+    "height": 1365
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2024/05/Estrabismo-causas-sintomas-tratamentos-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2024/05/blog-abril-2024-300x200.png": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2024/05/blog-abril-2024-768x513.png": {
+    "width": 768,
+    "height": 513
+  },
+  "/wp-content/uploads/2024/05/blog-abril-2024.png": {
+    "width": 1022,
+    "height": 682
+  },
+  "/wp-content/uploads/2024/05/blog02-maio-2019-300x273.webp": {
+    "width": 300,
+    "height": 273
+  },
+  "/wp-content/uploads/2024/05/blog02-maio-2019.webp": {
+    "width": 740,
+    "height": 674
+  },
+  "/wp-content/uploads/2024/06/blog-junho-2020-02-300x251.webp": {
+    "width": 300,
+    "height": 251
+  },
+  "/wp-content/uploads/2024/06/blog-junho-2020-02.webp": {
+    "width": 740,
+    "height": 620
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-1024x574.jpg": {
+    "width": 1024,
+    "height": 574
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-1536x861.jpg": {
+    "width": 1536,
+    "height": 861
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-2048x1148.jpg": {
+    "width": 2048,
+    "height": 1148
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-300x168.jpg": {
+    "width": 300,
+    "height": 168
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-768x430.jpg": {
+    "width": 768,
+    "height": 430
+  },
+  "/wp-content/uploads/2024/07/dicas-cuidado-com-olhos-no-frio-scaled.jpg": {
+    "width": 2560,
+    "height": 1435
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-10.47.26-1024x583.jpeg": {
+    "width": 1024,
+    "height": 583
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-10.47.26-300x171.jpeg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-10.47.26-768x437.jpeg": {
+    "width": 768,
+    "height": 437
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-10.47.26.jpeg": {
+    "width": 1079,
+    "height": 614
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-11.46.40-1024x585.jpeg": {
+    "width": 1024,
+    "height": 585
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-11.46.40-300x171.jpeg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-11.46.40-768x439.jpeg": {
+    "width": 768,
+    "height": 439
+  },
+  "/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-11.46.40.jpeg": {
+    "width": 1315,
+    "height": 751
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-14.45.10-1024x585.jpeg": {
+    "width": 1024,
+    "height": 585
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-14.45.10-1536x877.jpeg": {
+    "width": 1536,
+    "height": 877
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-14.45.10-300x171.jpeg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-14.45.10-768x439.jpeg": {
+    "width": 768,
+    "height": 439
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-14.45.10.jpeg": {
+    "width": 1600,
+    "height": 914
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-17-at-11.00.49-1024x585.jpeg": {
+    "width": 1024,
+    "height": 585
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-17-at-11.00.49-1536x877.jpeg": {
+    "width": 1536,
+    "height": 877
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-17-at-11.00.49-300x171.jpeg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-17-at-11.00.49-768x439.jpeg": {
+    "width": 768,
+    "height": 439
+  },
+  "/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-17-at-11.00.49.jpeg": {
+    "width": 1600,
+    "height": 914
+  },
+  "/wp-content/uploads/2024/11/6ae274c3-14eb-4f69-aafb-df0a4c6e52a7-1024x585.jpg": {
+    "width": 1024,
+    "height": 585
+  },
+  "/wp-content/uploads/2024/11/6ae274c3-14eb-4f69-aafb-df0a4c6e52a7-1536x877.jpg": {
+    "width": 1536,
+    "height": 877
+  },
+  "/wp-content/uploads/2024/11/6ae274c3-14eb-4f69-aafb-df0a4c6e52a7-300x171.jpg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/11/6ae274c3-14eb-4f69-aafb-df0a4c6e52a7-768x439.jpg": {
+    "width": 768,
+    "height": 439
+  },
+  "/wp-content/uploads/2024/11/6ae274c3-14eb-4f69-aafb-df0a4c6e52a7.jpg": {
+    "width": 1600,
+    "height": 914
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-14.44.19-1024x585.jpeg": {
+    "width": 1024,
+    "height": 585
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-14.44.19-1536x877.jpeg": {
+    "width": 1536,
+    "height": 877
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-14.44.19-300x171.jpeg": {
+    "width": 300,
+    "height": 171
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-14.44.19-768x439.jpeg": {
+    "width": 768,
+    "height": 439
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-14.44.19.jpeg": {
+    "width": 1600,
+    "height": 914
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.40.57-300x278.jpeg": {
+    "width": 300,
+    "height": 278
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.40.57.jpeg": {
+    "width": 696,
+    "height": 645
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.41.14-300x227.jpeg": {
+    "width": 300,
+    "height": 227
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.41.14.jpeg": {
+    "width": 425,
+    "height": 321
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.41.32-300x229.jpeg": {
+    "width": 300,
+    "height": 229
+  },
+  "/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-17.41.32.jpeg": {
+    "width": 425,
+    "height": 324
+  },
+  "/wp-content/uploads/2024/11/imagem-site.png": {
+    "width": 625,
+    "height": 250
+  },
+  "/wp-content/uploads/2024/12/01.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/02.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/03.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/04.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/05.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/06.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/07.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/08.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/09.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/10.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/11.png": {
+    "width": 1320,
+    "height": 580
+  },
+  "/wp-content/uploads/2024/12/12.png": {
+    "width": 450,
+    "height": 650
+  },
+  "/wp-content/uploads/2024/12/imagem-site-4.png": {
+    "width": 625,
+    "height": 250
+  },
+  "/wp-content/uploads/2024/12/olhos-no-verao-150x150.png": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/12/olhos-no-verao-300x300.png": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/12/olhos-no-verao-768x768.png": {
+    "width": 768,
+    "height": 768
+  },
+  "/wp-content/uploads/2024/12/olhos-no-verao.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2024/12/visao-na-pratica-de-atividades-fisicas-150x150.png": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2024/12/visao-na-pratica-de-atividades-fisicas-300x300.png": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2024/12/visao-na-pratica-de-atividades-fisicas-768x768.png": {
+    "width": 768,
+    "height": 768
+  },
+  "/wp-content/uploads/2024/12/visao-na-pratica-de-atividades-fisicas.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/01/Doencas-Oculares-Mais-Comuns-150x150.png": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2025/01/Doencas-Oculares-Mais-Comuns-300x300.png": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/01/Doencas-Oculares-Mais-Comuns-768x768.png": {
+    "width": 768,
+    "height": 768
+  },
+  "/wp-content/uploads/2025/01/Doencas-Oculares-Mais-Comuns.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/01/Doencas-Oculares-mais-Comuns.webp": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/01/image-300x225.jpg": {
+    "width": 300,
+    "height": 225
+  },
+  "/wp-content/uploads/2025/01/image-768x576.jpg": {
+    "width": 768,
+    "height": 576
+  },
+  "/wp-content/uploads/2025/01/image.jpg": {
+    "width": 1024,
+    "height": 768
+  },
+  "/wp-content/uploads/2025/02/Cirurgia-Refrativa-scaled.jpg": {
+    "width": 2560,
+    "height": 1703
+  },
+  "/wp-content/uploads/2025/02/beautiful-girl-with-body-art.jpg": {
+    "width": 3744,
+    "height": 5616
+  },
+  "/wp-content/uploads/2025/02/close-up-photo-blissful-pale-girl-curious-young-woman-with-party-makeup-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2025/02/cute-model-wearing-yellow-eyeshadow-1-scaled.jpg": {
+    "width": 1876,
+    "height": 2560
+  },
+  "/wp-content/uploads/2025/02/cute-model-wearing-yellow-eyeshadow-scaled.jpg": {
+    "width": 1876,
+    "height": 2560
+  },
+  "/wp-content/uploads/2025/02/high-angle-doctor-drawing-with-marker-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2025/02/medical-team-performing-surgical-operation-1-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2025/02/medical-team-performing-surgical-operation-2-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/02/medical-team-performing-surgical-operation-2.jpg": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2025/02/medical-team-performing-surgical-operation-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2025/02/olhos-no-carnaval-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/02/olhos-no-carnaval.jpg": {
+    "width": 740,
+    "height": 493
+  },
+  "/wp-content/uploads/2025/03/female-applying-eye-concelear-with-hand-scaled.jpg": {
+    "width": 2560,
+    "height": 1961
+  },
+  "/wp-content/uploads/2025/03/medium-shot-woman-sitting-desk-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/03/medium-shot-woman-sitting-desk-1536x1025.jpg": {
+    "width": 1536,
+    "height": 1025
+  },
+  "/wp-content/uploads/2025/03/medium-shot-woman-sitting-desk-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/03/medium-shot-woman-sitting-desk-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/03/medium-shot-woman-sitting-desk.jpg": {
+    "width": 2000,
+    "height": 1334
+  },
+  "/wp-content/uploads/2025/03/senior-woman-glasses-rubs-her-eyes-suffering-from-tired-eyes-ocular-diseases-concept-1024x682.jpg": {
+    "width": 1024,
+    "height": 682
+  },
+  "/wp-content/uploads/2025/03/senior-woman-glasses-rubs-her-eyes-suffering-from-tired-eyes-ocular-diseases-concept-1536x1024.jpg": {
+    "width": 1536,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/03/senior-woman-glasses-rubs-her-eyes-suffering-from-tired-eyes-ocular-diseases-concept-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/03/senior-woman-glasses-rubs-her-eyes-suffering-from-tired-eyes-ocular-diseases-concept-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/03/senior-woman-glasses-rubs-her-eyes-suffering-from-tired-eyes-ocular-diseases-concept.jpg": {
+    "width": 2000,
+    "height": 1333
+  },
+  "/wp-content/uploads/2025/04/Abril-marrom-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/04/Abril-marrom-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/04/Abril-marrom-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/04/Abril-marrom.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/04/Espectro-autista-240x300.jpg": {
+    "width": 240,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/04/Espectro-autista-768x960.jpg": {
+    "width": 768,
+    "height": 960
+  },
+  "/wp-content/uploads/2025/04/Espectro-autista-819x1024.jpg": {
+    "width": 819,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/04/Espectro-autista.jpg": {
+    "width": 1200,
+    "height": 1500
+  },
+  "/wp-content/uploads/2025/04/closeup-shot-beautiful-brown-eye-1-scaled.jpg": {
+    "width": 2560,
+    "height": 1709
+  },
+  "/wp-content/uploads/2025/04/closeup-shot-beautiful-brown-eye-scaled.jpg": {
+    "width": 2560,
+    "height": 1709
+  },
+  "/wp-content/uploads/2025/04/side-view-child-learning-how-count-home-using-pencils-scaled.jpg": {
+    "width": 2560,
+    "height": 1703
+  },
+  "/wp-content/uploads/2025/05/Glaucoma_Maio-Verde-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/05/Glaucoma_Maio-Verde-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/05/Glaucoma_Maio-Verde-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/05/Glaucoma_Maio-Verde.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/05/tipos-de-catarata-1-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/05/tipos-de-catarata-1-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/05/tipos-de-catarata-1-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/05/tipos-de-catarata-1.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/05/tipos-de-catarata.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/07/937c18f100f7cc149f718438cf4e5bcb1865bba8.png": {
+    "width": 1920,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares-1.png": {
+    "width": 1080,
+    "height": 555
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares-1024x526.png": {
+    "width": 1024,
+    "height": 526
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares-2.png": {
+    "width": 1080,
+    "height": 555
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares-300x154.png": {
+    "width": 300,
+    "height": 154
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares-768x395.png": {
+    "width": 768,
+    "height": 395
+  },
+  "/wp-content/uploads/2025/07/Exames-oftalmologicos-regulares.png": {
+    "width": 1080,
+    "height": 555
+  },
+  "/wp-content/uploads/2025/07/Group-1597884384.png": {
+    "width": 563,
+    "height": 748
+  },
+  "/wp-content/uploads/2025/07/Image.png": {
+    "width": 600,
+    "height": 716
+  },
+  "/wp-content/uploads/2025/07/Olho-seco-no-inverno-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/07/Olho-seco-no-inverno-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/07/Olho-seco-no-inverno-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/07/Olho-seco-no-inverno.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4-1-300x200.png": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4-1.png": {
+    "width": 420,
+    "height": 280
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4-2-300x200.png": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4-2.png": {
+    "width": 420,
+    "height": 280
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4-300x200.png": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23955-4.png": {
+    "width": 420,
+    "height": 280
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23956-253x300.png": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23956.png": {
+    "width": 482,
+    "height": 571
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23957-253x300.png": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/07/Rectangle-23957.png": {
+    "width": 482,
+    "height": 571
+  },
+  "/wp-content/uploads/2025/07/Sem-Titulo-5-1.png": {
+    "width": 1156,
+    "height": 196
+  },
+  "/wp-content/uploads/2025/07/image-2.png": {
+    "width": 824,
+    "height": 228
+  },
+  "/wp-content/uploads/2025/07/junho-violeta-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/07/junho-violeta-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/07/junho-violeta-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/07/junho-violeta.jpg": {
+    "width": 1500,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/07/logo-azul-1.png": {
+    "width": 866,
+    "height": 216
+  },
+  "/wp-content/uploads/2025/07/logo-azul-e1764759576955-300x84.png": {
+    "width": 300,
+    "height": 84
+  },
+  "/wp-content/uploads/2025/07/logo-azul-e1764759576955-768x215.png": {
+    "width": 768,
+    "height": 215
+  },
+  "/wp-content/uploads/2025/07/logo-azul-e1764759576955.png": {
+    "width": 770,
+    "height": 216
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final-scaled.png": {
+    "width": 2560,
+    "height": 943
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-1024x377.png": {
+    "width": 1024,
+    "height": 377
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-1536x566.png": {
+    "width": 1536,
+    "height": 566
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-2048x754.png": {
+    "width": 2048,
+    "height": 754
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-300x110.png": {
+    "width": 300,
+    "height": 110
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-768x283.png": {
+    "width": 768,
+    "height": 283
+  },
+  "/wp-content/uploads/2025/07/selo_80anosbenchimol_horizontal_final_BRANCO-scaled.png": {
+    "width": 2560,
+    "height": 943
+  },
+  "/wp-content/uploads/2025/08/10485-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/10485-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/10485.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/10931-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/10931.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/1386.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/1689.jpg": {
+    "width": 1000,
+    "height": 766
+  },
+  "/wp-content/uploads/2025/08/1762-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/1762.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/18443-1-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/18443-1-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/18443-1.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/18443.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/18577-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/18577.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/2147953528-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/2147953528.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/2148739978-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/2148739978.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/2149082495.jpg": {
+    "width": 1000,
+    "height": 563
+  },
+  "/wp-content/uploads/2025/08/2149254368.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/2149457638-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/2149457638.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/2149883576-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/2149883576-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/2149883576.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/2150923358.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/22059-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/22059-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/22059.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/3964-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/3964.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/5451878-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/5451878-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/5451878.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/595.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/6543-300x209.jpg": {
+    "width": 300,
+    "height": 209
+  },
+  "/wp-content/uploads/2025/08/6543-768x535.jpg": {
+    "width": 768,
+    "height": 535
+  },
+  "/wp-content/uploads/2025/08/6543.jpg": {
+    "width": 1000,
+    "height": 696
+  },
+  "/wp-content/uploads/2025/08/6812-221x300.jpg": {
+    "width": 221,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/6812.jpg": {
+    "width": 736,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/7245-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/7245.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/732.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/9808.jpg": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/08/ANOS40.webp": {
+    "width": 100,
+    "height": 100
+  },
+  "/wp-content/uploads/2025/08/Group-1597884384-copiar-1.webp": {
+    "width": 590,
+    "height": 614
+  },
+  "/wp-content/uploads/2025/08/Group-1597884384-copiar-2-288x300.webp": {
+    "width": 288,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/Group-1597884384-copiar-2.webp": {
+    "width": 590,
+    "height": 614
+  },
+  "/wp-content/uploads/2025/08/Group-1597884384-copiar.webp": {
+    "width": 563,
+    "height": 776
+  },
+  "/wp-content/uploads/2025/08/benchimol-sobre-nos-209x300.webp": {
+    "width": 209,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/benchimol-sobre-nos.webp": {
+    "width": 460,
+    "height": 660
+  },
+  "/wp-content/uploads/2025/08/benchimol-timeline-1.webp": {
+    "width": 800,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/benchimol-timeline-mobilr-1.webp": {
+    "width": 420,
+    "height": 1112
+  },
+  "/wp-content/uploads/2025/08/benchimol-timeline-mobilr.webp": {
+    "width": 420,
+    "height": 1064
+  },
+  "/wp-content/uploads/2025/08/benchimol-timeline.webp": {
+    "width": 800,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/convenios-cg-1-300x129.webp": {
+    "width": 300,
+    "height": 129
+  },
+  "/wp-content/uploads/2025/08/convenios-cg-1.webp": {
+    "width": 600,
+    "height": 257
+  },
+  "/wp-content/uploads/2025/08/convenios-cg.webp": {
+    "width": 600,
+    "height": 257
+  },
+  "/wp-content/uploads/2025/08/convenios-copacabana-300x129.webp": {
+    "width": 300,
+    "height": 129
+  },
+  "/wp-content/uploads/2025/08/convenios-copacabana.webp": {
+    "width": 600,
+    "height": 257
+  },
+  "/wp-content/uploads/2025/08/depoimento0.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/depoimento00.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/depoimento000.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/depoimento00000.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/depoimento1.webp": {
+    "width": 411,
+    "height": 219
+  },
+  "/wp-content/uploads/2025/08/depoimento2.webp": {
+    "width": 411,
+    "height": 219
+  },
+  "/wp-content/uploads/2025/08/depoimento4.webp": {
+    "width": 411,
+    "height": 219
+  },
+  "/wp-content/uploads/2025/08/depoimento5.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/depoimento6.webp": {
+    "width": 534,
+    "height": 245
+  },
+  "/wp-content/uploads/2025/08/dr-amir.png": {
+    "width": 325,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/dr-eduardo.png": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dr-luciano-de-barros.png": {
+    "width": 324,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dr-paulo.png": {
+    "width": 325,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/dr-sergio-benchimol.png": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dra-aamelia.png": {
+    "width": 300,
+    "height": 382
+  },
+  "/wp-content/uploads/2025/08/dra-adriana-benchimol.png": {
+    "width": 325,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/dra-francine.png": {
+    "width": 324,
+    "height": 383
+  },
+  "/wp-content/uploads/2025/08/dra-gabriel-benchimol-253x300.png": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/08/dra-gabriel-benchimol.png": {
+    "width": 325,
+    "height": 386
+  },
+  "/wp-content/uploads/2025/08/dra-liana-benchimol.png": {
+    "width": 326,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dra-mirelle-benchimol.png": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dra-monica-1.png": {
+    "width": 323,
+    "height": 383
+  },
+  "/wp-content/uploads/2025/08/dra-monica.png": {
+    "width": 323,
+    "height": 383
+  },
+  "/wp-content/uploads/2025/08/dra-nina-benchimol.png": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/dra-raphael-benchimol.png": {
+    "width": 325,
+    "height": 384
+  },
+  "/wp-content/uploads/2025/08/dra-veronica-benchimol.png": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/08/slide.png": {
+    "width": 1920,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/08/unnamed-4-1024x682.jpg": {
+    "width": 1024,
+    "height": 682
+  },
+  "/wp-content/uploads/2025/08/unnamed-4-1536x1023.jpg": {
+    "width": 1536,
+    "height": 1023
+  },
+  "/wp-content/uploads/2025/08/unnamed-4-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/unnamed-4-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/unnamed-4.jpg": {
+    "width": 1600,
+    "height": 1066
+  },
+  "/wp-content/uploads/2025/08/unnamed-5-1024x682.jpg": {
+    "width": 1024,
+    "height": 682
+  },
+  "/wp-content/uploads/2025/08/unnamed-5-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/unnamed-5-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/unnamed-5.jpg": {
+    "width": 1280,
+    "height": 853
+  },
+  "/wp-content/uploads/2025/08/unnamed-6-1024x682.jpg": {
+    "width": 1024,
+    "height": 682
+  },
+  "/wp-content/uploads/2025/08/unnamed-6-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/08/unnamed-6-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/08/unnamed-6.jpg": {
+    "width": 1280,
+    "height": 853
+  },
+  "/wp-content/uploads/2025/08/vector-1024x720.png": {
+    "width": 1024,
+    "height": 720
+  },
+  "/wp-content/uploads/2025/08/vector-1536x1081.png": {
+    "width": 1536,
+    "height": 1081
+  },
+  "/wp-content/uploads/2025/08/vector-300x211.png": {
+    "width": 300,
+    "height": 211
+  },
+  "/wp-content/uploads/2025/08/vector-768x540.png": {
+    "width": 768,
+    "height": 540
+  },
+  "/wp-content/uploads/2025/08/vector.png": {
+    "width": 2000,
+    "height": 1407
+  },
+  "/wp-content/uploads/2025/09/11266-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/11266.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/09/50263-1024x1536.jpg": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/wp-content/uploads/2025/09/50263-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/50263-682x1024.jpg": {
+    "width": 682,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/09/50263-768x1152.jpg": {
+    "width": 768,
+    "height": 1152
+  },
+  "/wp-content/uploads/2025/09/50263.jpg": {
+    "width": 1333,
+    "height": 2000
+  },
+  "/wp-content/uploads/2025/09/71238-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/71238.jpg": {
+    "width": 667,
+    "height": 1000
+  },
+  "/wp-content/uploads/2025/09/85a7590b-6e8d-4a4c-a480-b92b5320eac5-1387x1536.jpeg": {
+    "width": 1387,
+    "height": 1536
+  },
+  "/wp-content/uploads/2025/09/85a7590b-6e8d-4a4c-a480-b92b5320eac5-271x300.jpeg": {
+    "width": 271,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/85a7590b-6e8d-4a4c-a480-b92b5320eac5-768x850.jpeg": {
+    "width": 768,
+    "height": 850
+  },
+  "/wp-content/uploads/2025/09/85a7590b-6e8d-4a4c-a480-b92b5320eac5-925x1024.jpeg": {
+    "width": 925,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/09/85a7590b-6e8d-4a4c-a480-b92b5320eac5.jpeg": {
+    "width": 1445,
+    "height": 1600
+  },
+  "/wp-content/uploads/2025/09/IMG_20250903_093613_570-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/IMG_20250903_093613_570-682x1024.jpg": {
+    "width": 682,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/09/IMG_20250903_093613_570-768x1152.jpg": {
+    "width": 768,
+    "height": 1152
+  },
+  "/wp-content/uploads/2025/09/IMG_20250903_093613_570.jpg": {
+    "width": 853,
+    "height": 1280
+  },
+  "/wp-content/uploads/2025/09/Screenshot_1-300x211.png": {
+    "width": 300,
+    "height": 211
+  },
+  "/wp-content/uploads/2025/09/Screenshot_1.png": {
+    "width": 676,
+    "height": 475
+  },
+  "/wp-content/uploads/2025/09/Screenshot_2-300x199.png": {
+    "width": 300,
+    "height": 199
+  },
+  "/wp-content/uploads/2025/09/Screenshot_2.png": {
+    "width": 723,
+    "height": 480
+  },
+  "/wp-content/uploads/2025/09/Sem-Titulo-1.webp": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/09/adriana-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/adriana.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/amelia-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/amelia.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/amir-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/amir.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/diabete.webp": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/09/eduardo-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/eduardo.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/francina-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/francina.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/glaucoma-300x200.webp": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/09/glaucoma-768x512.webp": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/09/glaucoma.webp": {
+    "width": 1000,
+    "height": 667
+  },
+  "/wp-content/uploads/2025/09/liana-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/liana.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/luciano-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/luciano.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/mirelle-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/mirelle.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/monica-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/monica.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/nina-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/nina.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/paul-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/paul.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/raphael-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/raphael.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/sergio-benchimol-1-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/sergio-benchimol-1.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/sergio-benchimol.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/unnamed-16-1024x731.jpg": {
+    "width": 1024,
+    "height": 731
+  },
+  "/wp-content/uploads/2025/09/unnamed-16-300x214.jpg": {
+    "width": 300,
+    "height": 214
+  },
+  "/wp-content/uploads/2025/09/unnamed-16-768x548.jpg": {
+    "width": 768,
+    "height": 548
+  },
+  "/wp-content/uploads/2025/09/unnamed-16.jpg": {
+    "width": 1280,
+    "height": 914
+  },
+  "/wp-content/uploads/2025/09/veronica-1-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/veronica-1.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/09/veronica-253x300.webp": {
+    "width": 253,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/09/veronica.webp": {
+    "width": 325,
+    "height": 385
+  },
+  "/wp-content/uploads/2025/10/unnamed-7-206x300.jpg": {
+    "width": 206,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/10/unnamed-7-702x1024.jpg": {
+    "width": 702,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/10/unnamed-7-768x1120.jpg": {
+    "width": 768,
+    "height": 1120
+  },
+  "/wp-content/uploads/2025/10/unnamed-7.jpg": {
+    "width": 878,
+    "height": 1280
+  },
+  "/wp-content/uploads/2025/10/unnamed-8-1024x683.jpg": {
+    "width": 1024,
+    "height": 683
+  },
+  "/wp-content/uploads/2025/10/unnamed-8-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/10/unnamed-8-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/10/unnamed-8.jpg": {
+    "width": 1280,
+    "height": 854
+  },
+  "/wp-content/uploads/2025/11/unnamed-1-1024x1536.jpg": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/wp-content/uploads/2025/11/unnamed-1-200x300.jpg": {
+    "width": 200,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/11/unnamed-1-683x1024.jpg": {
+    "width": 683,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/11/unnamed-1-768x1152.jpg": {
+    "width": 768,
+    "height": 1152
+  },
+  "/wp-content/uploads/2025/11/unnamed-1.jpg": {
+    "width": 1067,
+    "height": 1600
+  },
+  "/wp-content/uploads/2025/11/unnamed-1024x682.jpg": {
+    "width": 1024,
+    "height": 682
+  },
+  "/wp-content/uploads/2025/11/unnamed-300x200.jpg": {
+    "width": 300,
+    "height": 200
+  },
+  "/wp-content/uploads/2025/11/unnamed-768x512.jpg": {
+    "width": 768,
+    "height": 512
+  },
+  "/wp-content/uploads/2025/11/unnamed.jpg": {
+    "width": 1280,
+    "height": 853
+  },
+  "/wp-content/uploads/2025/12/1765212411_b8635c_recesso_benchimol.jpeg": {
+    "width": 1024,
+    "height": 1280
+  },
+  "/wp-content/uploads/2025/12/atencao-pacientes-copiar-1.jpg": {
+    "width": 1080,
+    "height": 1350
+  },
+  "/wp-content/uploads/2025/12/atencao-pacientes-copiar.jpg": {
+    "width": 1080,
+    "height": 1350
+  },
+  "/wp-content/uploads/2025/12/unnamed-1024x1024.jpg": {
+    "width": 1024,
+    "height": 1024
+  },
+  "/wp-content/uploads/2025/12/unnamed-1024x559.png": {
+    "width": 1024,
+    "height": 559
+  },
+  "/wp-content/uploads/2025/12/unnamed-150x150.jpg": {
+    "width": 150,
+    "height": 150
+  },
+  "/wp-content/uploads/2025/12/unnamed-1536x1536.jpg": {
+    "width": 1536,
+    "height": 1536
+  },
+  "/wp-content/uploads/2025/12/unnamed-1536x838.png": {
+    "width": 1536,
+    "height": 838
+  },
+  "/wp-content/uploads/2025/12/unnamed-300x164.png": {
+    "width": 300,
+    "height": 164
+  },
+  "/wp-content/uploads/2025/12/unnamed-300x300.jpg": {
+    "width": 300,
+    "height": 300
+  },
+  "/wp-content/uploads/2025/12/unnamed-768x419.png": {
+    "width": 768,
+    "height": 419
+  },
+  "/wp-content/uploads/2025/12/unnamed-768x768.jpg": {
+    "width": 768,
+    "height": 768
+  },
+  "/wp-content/uploads/2025/12/unnamed.jpg": {
+    "width": 1600,
+    "height": 1600
+  },
+  "/wp-content/uploads/2025/12/unnamed.png": {
+    "width": 1600,
+    "height": 873
+  },
+  "/wp-content/uploads/2026/01/unnamed-19-273x300.jpg": {
+    "width": 273,
+    "height": 300
+  },
+  "/wp-content/uploads/2026/01/unnamed-19-768x845.jpg": {
+    "width": 768,
+    "height": 845
+  },
+  "/wp-content/uploads/2026/01/unnamed-19-930x1024.jpg": {
+    "width": 930,
+    "height": 1024
+  },
+  "/wp-content/uploads/2026/01/unnamed-19.jpg": {
+    "width": 1163,
+    "height": 1280
+  },
+  "/wp-content/uploads/2026/02/6865528-scaled.jpg": {
+    "width": 2560,
+    "height": 1707
+  },
+  "/wp-content/uploads/2026/04/1.jpg": {
+    "width": 360,
+    "height": 640
+  },
+  "/wp-content/uploads/2026/04/Feriado-2-abril.jpg": {
+    "width": 1024,
+    "height": 1280
+  },
+  "/wp-content/uploads/2026/06/PopupCopa.jpg": {
+    "width": 1170,
+    "height": 1430
+  }
+}

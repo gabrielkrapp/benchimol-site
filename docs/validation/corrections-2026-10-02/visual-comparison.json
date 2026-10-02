@@ -1,0 +1,167 @@
+[
+  {
+    "page": "home",
+    "width": 390,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "blog",
+    "width": 390,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "article",
+    "width": 390,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "gallery",
+    "width": 390,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "home",
+    "width": 768,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "blog",
+    "width": 768,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "article",
+    "width": 768,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "gallery",
+    "width": 768,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "home",
+    "width": 1440,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "blog",
+    "width": 1440,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  },
+  {
+    "page": "article",
+    "width": 1440,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": [
+      {
+        "box": 4,
+        "changed": {
+          "height": [
+            128.984375,
+            108.1875
+          ]
+        }
+      },
+      {
+        "box": 5,
+        "changed": {
+          "height": [
+            107.625,
+            75.3515625
+          ],
+          "width": [
+            97.8203125,
+            68.5703125
+          ],
+          "y": [
+            774.8046875,
+            780.5390625
+          ]
+        }
+      },
+      {
+        "box": 6,
+        "changed": {
+          "y": [
+            903.109375,
+            882.3125
+          ]
+        }
+      },
+      {
+        "box": 7,
+        "changed": {
+          "y": [
+            903.109375,
+            882.3125
+          ]
+        }
+      },
+      {
+        "box": 8,
+        "changed": {
+          "y": [
+            1020.9296875,
+            1000.1328125
+          ]
+        }
+      },
+      {
+        "box": 9,
+        "changed": {
+          "y": [
+            1035.8828125,
+            1015.0859375
+          ]
+        }
+      },
+      {
+        "box": 10,
+        "changed": {
+          "y": [
+            1218.3203125,
+            1197.5234375
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changed": {
+          "y": [
+            1542.8203125,
+            1522.0234375
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "page": "gallery",
+    "width": 1440,
+    "sameBoxCount": true,
+    "overflow": false,
+    "differences": []
+  }
+]

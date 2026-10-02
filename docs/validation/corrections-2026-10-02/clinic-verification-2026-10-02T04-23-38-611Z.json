@@ -1,0 +1,112 @@
+{
+  "createdAt": "2026-10-02T04:23:38.611Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "passed": true,
+  "transactionalProbesRun": true,
+  "checks": [
+    {
+      "name": "Anonymous API: 153 canonical bodies, paths, dates and corrected legacy SEO exact",
+      "passed": true
+    },
+    {
+      "name": "Anonymous media catalog refused with 42501; public signup disabled",
+      "passed": true
+    },
+    {
+      "name": "Clinic PostgreSQL identity and TLS verified; managed image bucket private",
+      "passed": true
+    }
+  ],
+  "sqlEvidence": {
+    "checks": [
+      {
+        "name": "anon: unauthorized create RPC refused with 42501",
+        "passed": true
+      },
+      {
+        "name": "authenticated: unauthorized create RPC refused with 42501",
+        "passed": true
+      },
+      {
+        "name": "Private catalog and limiter table remain inaccessible to clients",
+        "passed": true
+      },
+      {
+        "name": "Active admin: draft create/edit/trash/restore succeeded without publication",
+        "passed": true
+      },
+      {
+        "name": "Popup and contact same-value versioned saves passed inside rollback",
+        "passed": true
+      },
+      {
+        "name": "Media metadata insert/edit/delete and own upload-intent CRUD passed; no Storage bytes created",
+        "passed": true
+      },
+      {
+        "name": "Service-only limiter RPC passed with a synthetic hash inside rollback",
+        "passed": true
+      },
+      {
+        "name": "All 12 application relations preserved by exact counts and hashes after fixture rollback",
+        "passed": true
+      }
+    ],
+    "fingerprints": {
+      "public.administrators": {
+        "rows": 1,
+        "sha256": "c206f290d572bbb85eecaf5a1a32a2756db44a084335d1646f2a88c79352b42a"
+      },
+      "public.media": {
+        "rows": 551,
+        "sha256": "bf60bfae2ab3369d3671af65fa475164e54654b9dd395e19602b62af4ef72141"
+      },
+      "public.media_uploads": {
+        "rows": 0,
+        "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "public.operation_events": {
+        "rows": 1,
+        "sha256": "2dc9bef633c5f3abd7eaf7cd430272cb98d617f7eae854316fa81e0bd73ca28b"
+      },
+      "public.post_revisions": {
+        "rows": 0,
+        "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "public.posts": {
+        "rows": 154,
+        "sha256": "dff3396e892595ebe9e105e2f1c9bc039241d787b0e926f3075298a6a6ad820c"
+      },
+      "public.redirects": {
+        "rows": 2,
+        "sha256": "ad5e0e498e9174bbd9e385e5c41bb1b0ae6029f88aa8345d0166f6057793765c"
+      },
+      "public.reserved_routes": {
+        "rows": 47,
+        "sha256": "3ad7b3313729085f05441b90c546b3a5a846790ac511f9e33cc19707070cc323"
+      },
+      "public.settings": {
+        "rows": 2,
+        "sha256": "ef218243247c42df6330fbd316f62d700ebec76d45952dfc2a718a760acb82a7"
+      },
+      "public.settings_revisions": {
+        "rows": 0,
+        "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "public.taxonomies": {
+        "rows": 91,
+        "sha256": "7929661667fc4f6e162fa5e3984f0ad18832025b8916142e9db4a5745e269dfc"
+      },
+      "private.login_windows": {
+        "rows": 2,
+        "sha256": "1dc0926ddd957b07e436646fcb6e054f4ccdfead4a53e1bb6ee0044d7c1ed533"
+      }
+    },
+    "fixtureWritesRolledBack": true,
+    "storageBytesCreated": 0,
+    "actualLogins": 0,
+    "accountsCreated": 0
+  },
+  "noDocker": true,
+  "noDeployment": true
+}

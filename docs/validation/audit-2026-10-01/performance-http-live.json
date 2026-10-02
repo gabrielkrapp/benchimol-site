@@ -1,0 +1,110 @@
+{
+  "collectedAtUtc": "2026-10-02T03:13:24.506Z",
+  "scope": "Next dev server started and controlled by Gabriel; four sequential public GETs; no cookies/authentication.",
+  "limits": {
+    "production": false,
+    "browserTrace": false,
+    "pageSpeedScore": null,
+    "lcp": null,
+    "inp": null,
+    "cls": null,
+    "productionTtfb": null,
+    "byteScope": "HTTP response body only; encoded bytes exclude headers and chunk framing. Accept-Encoding explicitly br,gzip. Not a browser network waterfall."
+  },
+  "offlineEvidence": {
+    "file": "performance.json",
+    "generatedAtUtc": "2026-10-02T03:06:24.291Z"
+  },
+  "responses": [
+    {
+      "url": "http://127.0.0.1:3000/",
+      "collectedAtUtc": "2026-10-02T03:13:25.016Z",
+      "status": 200,
+      "requestAcceptEncoding": "br, gzip",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "no-cache, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+        "transfer-encoding": "chunked"
+      },
+      "encodedBodyBytes": 39339,
+      "decodedBodyBytes": 269056,
+      "decodedSha256": "333a57dd115874443cf00d1173012eba9817056ab237fd0d41302171fb7c7b42",
+      "publicStylesheetPaths": [
+        "/site-styles/9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3.css"
+      ],
+      "contentSource": "database",
+      "hasExactBannerPreload": false
+    },
+    {
+      "kind": "home-css",
+      "url": "http://127.0.0.1:3000/site-styles/9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3.css",
+      "collectedAtUtc": "2026-10-02T03:13:25.066Z",
+      "status": 200,
+      "requestAcceptEncoding": "br, gzip",
+      "headers": {
+        "content-type": "text/css; charset=UTF-8",
+        "content-encoding": "gzip",
+        "cache-control": "public, max-age=31536000, immutable",
+        "etag": "W/\"22f9ec-1a0f5236ec8\"",
+        "last-modified": "Thu, 01 Oct 2026 01:45:35 GMT",
+        "vary": "Accept-Encoding",
+        "transfer-encoding": "chunked"
+      },
+      "encodedBodyBytes": 251445,
+      "decodedBodyBytes": 2292204,
+      "decodedSha256": "9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3",
+      "localBytes": 2292204,
+      "localSha256": "9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3",
+      "sameBytesAsLocalFile": true,
+      "referencesExactHero": true
+    },
+    {
+      "kind": "home-hero",
+      "url": "http://127.0.0.1:3000/wp-content/uploads/2025/08/slide.png",
+      "collectedAtUtc": "2026-10-02T03:13:25.082Z",
+      "status": 200,
+      "requestAcceptEncoding": "br, gzip",
+      "headers": {
+        "content-type": "image/png",
+        "content-length": "1309507",
+        "cache-control": "public, max-age=0",
+        "etag": "W/\"13fb43-1a0f4b73791\"",
+        "last-modified": "Wed, 30 Sep 2026 23:47:23 GMT"
+      },
+      "encodedBodyBytes": 1309507,
+      "decodedBodyBytes": 1309507,
+      "decodedSha256": "596a76cbe279824c63a379c41e86b24d9fce503b4139e866061a52d6649bce9c",
+      "localBytes": 1309507,
+      "localSha256": "596a76cbe279824c63a379c41e86b24d9fce503b4139e866061a52d6649bce9c",
+      "sameBytesAsLocalFile": true,
+      "pngDimensions": {
+        "width": 1920,
+        "height": 1000
+      }
+    },
+    {
+      "kind": "article-css",
+      "url": "http://127.0.0.1:3000/site-styles/7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed.css",
+      "collectedAtUtc": "2026-10-02T03:13:25.132Z",
+      "status": 200,
+      "requestAcceptEncoding": "br, gzip",
+      "headers": {
+        "content-type": "text/css; charset=UTF-8",
+        "content-encoding": "gzip",
+        "cache-control": "public, max-age=31536000, immutable",
+        "etag": "W/\"20e136-1a0f5238cae\"",
+        "last-modified": "Thu, 01 Oct 2026 01:45:42 GMT",
+        "vary": "Accept-Encoding",
+        "transfer-encoding": "chunked"
+      },
+      "encodedBodyBytes": 236663,
+      "decodedBodyBytes": 2154806,
+      "decodedSha256": "7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed",
+      "localBytes": 2154806,
+      "localSha256": "7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed",
+      "sameBytesAsLocalFile": true
+    }
+  ]
+}

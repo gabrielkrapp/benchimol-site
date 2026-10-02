@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-02T01:41:26.030Z",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "expected": 200,
+      "pass": true,
+      "qaLinkPresent": false,
+      "location": null
+    },
+    {
+      "path": "/blog/",
+      "status": 200,
+      "expected": 200,
+      "pass": true,
+      "qaLinkPresent": false,
+      "location": null
+    },
+    {
+      "path": "/qa-20261002-003846/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/qa-20261002-003846-editado/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "expected": 200,
+      "pass": true,
+      "qaLinkPresent": false,
+      "location": null
+    },
+    {
+      "path": "/api/admin/posts/",
+      "status": 401,
+      "expected": 401,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/api/admin/media/",
+      "status": 401,
+      "expected": 401,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/api/admin/settings/contact/",
+      "status": 401,
+      "expected": 401,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/admin/posts/def0c85d-5c18-44ea-97fe-806ebe9674ce/preview/",
+      "status": 307,
+      "expected": 307,
+      "pass": true,
+      "location": "/admin/login"
+    },
+    {
+      "path": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/api/media/623d8230-fba0-4e85-8c3f-a8ee7fe4ee46/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/api/media/b144a258-31a8-4f2b-8477-2212b673b1cc/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    },
+    {
+      "path": "/api/media/d4f263cf-6710-4499-9f95-7ac0db37bb1d/",
+      "status": 404,
+      "expected": 404,
+      "pass": true,
+      "location": null
+    }
+  ]
+}

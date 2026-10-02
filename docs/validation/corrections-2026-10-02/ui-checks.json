@@ -1,0 +1,48 @@
+{
+  "collectedAt": "2026-10-02T04:06:21.769Z",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "checks": [
+    {
+      "test": "mobile-menu-open",
+      "passed": true
+    },
+    {
+      "test": "faq-expand",
+      "passed": true
+    },
+    {
+      "test": "faq-collapse",
+      "passed": true
+    },
+    {
+      "test": "blog-load-more-mobile",
+      "before": 6,
+      "after": 6,
+      "passed": false,
+      "url": "http://127.0.0.1:3000/blog/"
+    },
+    {
+      "test": "gallery-thumbnail-mobile",
+      "passed": true
+    },
+    {
+      "test": "gallery-lightbox-mobile",
+      "passed": true
+    },
+    {
+      "test": "gallery-close-mobile",
+      "passed": true
+    },
+    {
+      "test": "blog-load-more-mobile-await-request",
+      "before": 6,
+      "after": 9,
+      "passed": true,
+      "url": "http://127.0.0.1:3000/blog/"
+    }
+  ],
+  "initialMeasurementNote": "Primeira leitura após clique ocorreu antes do término da requisição; reteste esperou o nono título visível."
+}

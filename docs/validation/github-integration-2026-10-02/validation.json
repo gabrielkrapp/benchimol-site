@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-02T13:59:56.357494Z",
+  "fullSuite": {
+    "exitCode": 0,
+    "tests": 301,
+    "files": 51,
+    "durationSeconds": 230.75,
+    "file": "full-tests.log",
+    "sha256": "81fb5e386f80d1afe590c65d828d3e46962f1c7f3c5672bc27e4a08c34eebcd6"
+  },
+  "typecheck": {
+    "exitCode": 0,
+    "file": "typecheck.log",
+    "sha256": "add36f19979f17334e4445aaa99de5804f68a8a12fc65dae7e7a6621c4f44bde"
+  },
+  "promptLibrary": {
+    "version": "0.12",
+    "pathsVerified": 41
+  },
+  "runtimeUnchangedForIntegration": true,
+  "noDocker": true,
+  "noBuildConcurrentWithDev": true,
+  "noDeploy": true
+}

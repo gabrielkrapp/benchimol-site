@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-02T00:30:31.306Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "localUrl": "http://127.0.0.1:3000/admin/",
+  "email": "benchimol@benchimolclinic.com.br",
+  "administratorDisplayName": "Clínica Benchimol",
+  "administratorActive": true,
+  "bindingReport": "clinic-admin-binding.json",
+  "beforeReport": "clinic-admin-access.json",
+  "checks": {
+    "loginOpenedDashboard": true,
+    "publishedPostsVisible": 153,
+    "dashboardLoadedAfterReload": true,
+    "administratorIdentityPreservedAfterReload": true,
+    "logoutReturnedToLogin": true,
+    "adminNavigationDeniedAfterLogout": true
+  },
+  "screenshots": {
+    "beforeBinding": "clinic-admin-login-before.png",
+    "loadedDashboardAfterReload": "clinic-admin-login-after.png",
+    "logout": "clinic-admin-logout.png",
+    "earlierTransitionalFrame": "clinic-admin-login-reload-transition.png"
+  },
+  "sessionLeftLoggedOut": true,
+  "authUsersCreated": 0,
+  "passwordChanged": false,
+  "credentialsStored": false,
+  "clinicalContentChanged": false,
+  "schemaOrPoliciesChanged": false,
+  "serverStartedOrRestarted": false,
+  "dockerStarted": false,
+  "deployPerformed": false,
+  "limitations": [
+    "Reload proves session persistence, not token refresh or global revocation.",
+    "This test does not certify managed upload, editorial CRUD or published Vercel behavior."
+  ]
+}

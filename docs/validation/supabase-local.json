@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-10-01T02:58:10.244Z",
+  "target": "Docker benchimol-local / 127.0.0.1 only",
+  "cli": "2.95.0",
+  "passed": true,
+  "checks": [
+    {
+      "name": "schema + private bucket + seed + idempotent bootstrap",
+      "passed": true
+    },
+    {
+      "name": "idempotent import: 154 posts / 153 canonical / 551 media",
+      "passed": true
+    },
+    {
+      "name": "real Supabase Auth password login + getUser",
+      "passed": true
+    },
+    {
+      "name": "public Auth signup rejected (signup_disabled)",
+      "passed": true
+    },
+    {
+      "name": "anon published-only + outsider denied + private rate RPC denied",
+      "passed": true
+    },
+    {
+      "name": "post create/publish/conflict/slug redirect/trash/restore/revisions",
+      "passed": true
+    },
+    {
+      "name": "private Storage signed upload/download + bytes + denied sign/delete",
+      "passed": true
+    },
+    {
+      "name": "settings versioned RPC + anonymous public value",
+      "passed": true
+    }
+  ],
+  "fixture": "private local admin retained only for browser QA; cleanup required",
+  "production": "not accessed"
+}

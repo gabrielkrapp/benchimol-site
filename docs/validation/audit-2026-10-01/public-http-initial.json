@@ -1,0 +1,13 @@
+{
+  "startedAt": "2026-10-02T03:13:09.897Z",
+  "origin": "http://127.0.0.1:3000",
+  "scope": "sequential read-only GET, user-started Next dev; no production score or real bot verification",
+  "requests": [
+    {
+      "path": "/",
+      "error": "TypeError: fetch failed",
+      "code": "EPERM"
+    }
+  ],
+  "finishedAt": "2026-10-02T03:13:09.908Z"
+}

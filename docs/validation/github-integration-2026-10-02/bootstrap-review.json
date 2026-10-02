@@ -1,0 +1,14 @@
+{
+  "recordedAt": "2026-10-02T13:59:56.355946Z",
+  "blockedAction": "git push origin HEAD:refs/heads/main",
+  "executed": false,
+  "reviewReason": "Push direto para main não foi autorizado neste escopo; a base pode ser enviada a uma branch de trabalho.",
+  "safeAlternative": "Base-only commit pushed to codex/repository-base; all application code will enter by PR. Rename integrated default branch only after actual PR merge if permitted.",
+  "baselineCommit": "8a851a4cbe6a795d37d1f76ef181f763d31597fa",
+  "baselineFiles": [
+    "vercel.json"
+  ],
+  "baselineDefaultBranchObserved": "codex/repository-base",
+  "vercelGitDeploymentsDisabled": true,
+  "deployTriggered": false
+}

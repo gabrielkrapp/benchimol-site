@@ -1,0 +1,30 @@
+{
+  "capturedAt": "2026-10-01T21:23:44.547Z",
+  "buildId": "7Nr270cFVGeZkuvIHvcQs",
+  "button": {
+    "display": "inline-block",
+    "font": "Inter, sans-serif",
+    "fontWeight": "600",
+    "height": 61,
+    "lineHeight": "21px",
+    "margin": "0px",
+    "padding": "20px 40px",
+    "size": "14px",
+    "tag": "A",
+    "text": "Carregar Mais",
+    "width": 216.1484375
+  },
+  "span": {
+    "display": "inline",
+    "font": "Inter, sans-serif",
+    "fontWeight": "600",
+    "height": 17,
+    "lineHeight": "21px",
+    "margin": "0px",
+    "padding": "0px",
+    "size": "14px",
+    "tag": "SPAN",
+    "text": "Carregar Mais",
+    "width": 95.7734375
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "run": "QA-20261002-003846",
+  "cases": [
+    {
+      "case": "Login real da clínica",
+      "result": "pass"
+    },
+    {
+      "case": "Arquivo de formato inválido recusado antes do envio",
+      "result": "pass"
+    },
+    {
+      "case": "Arquivo acima de 10 MB recusado",
+      "result": "pass"
+    },
+    {
+      "case": "Upload PNG: preparar, enviar e finalizar na biblioteca",
+      "result": "pass"
+    },
+    {
+      "case": "Mídia: edição e reabertura de alt/legenda com & < > acentos e duas linhas",
+      "result": "pass"
+    },
+    {
+      "case": "Imagem gerida carregada na interface",
+      "result": "pass"
+    },
+    {
+      "case": "Upload JPEG completo e imagem listada",
+      "result": "pass"
+    },
+    {
+      "case": "Upload WebP completo",
+      "result": "fail",
+      "observed": "Interface retornou “Não foi possível enviar o arquivo. Tente novamente.” no PUT ao Storage.",
+      "finalDisposition": "retry_passed_cause_undetermined",
+      "retest": "WebP enviado pela opção tentar novamente, listado e carregado320x180; excluído ao final. Intenção da primeira tentativa sem objeto removida no fechamento restrito."
+    },
+    {
+      "case": "Upload WebP pela opção de tentar novamente",
+      "result": "pass"
+    },
+    {
+      "case": "Upload GIF completo e imagem listada",
+      "result": "pass"
+    },
+    {
+      "case": "Cancelar exclusão de mídia mantém registro e arquivo",
+      "result": "pass"
+    },
+    {
+      "case": "Excluir mídia JPEG de QA pela interface",
+      "result": "pass",
+      "storageVerification": "passed: successful UI deletion; final editorial bucket inventory0 and media endpoint404"
+    },
+    {
+      "case": "Criar post vazio recusado antes de gravar",
+      "result": "pass"
+    },
+    {
+      "case": "Slug reservado admin recusado sem criar post",
+      "result": "pass",
+      "message": "Revise os campos informados."
+    },
+    {
+      "case": "Criar rascunho com texto rico, capa, SEO, categoria e tag",
+      "result": "pass",
+      "postId": "def0c85d-5c18-44ea-97fe-806ebe9674ce"
+    },
+    {
+      "case": "Prévia privada mostra conteúdo salvo e meta noindex/nofollow",
+      "result": "pass"
+    },
+    {
+      "case": "Rascunho indisponível na URL pública",
+      "result": "pass"
+    },
+    {
+      "case": "Publicação com data automática, conteúdo formatado e imagem pública",
+      "result": "pass"
+    },
+    {
+      "case": "Aviso de sincronização pública pendente apesar do artigo atualizar",
+      "result": "investigating",
+      "finalDisposition": "resolved_and_retested",
+      "retest": "Publicação automática v19 confirmou current e artigo público após instante consistente; v20 foi colocada na lixeira antes da limpeza.",
+      "report": "public-text-and-publication-qa.md"
+    },
+    {
+      "case": "Post aparece no blog ao publicar",
+      "result": "pass"
+    },
+    {
+      "case": "Editar título e slug mantém redirecionamento da URL anterior",
+      "result": "pass"
+    },
+    {
+      "case": "Agendamento futuro oculta o artigo público",
+      "result": "pass"
+    },
+    {
+      "case": "Histórico contém as versões anteriores do post",
+      "result": "pass"
+    },
+    {
+      "case": "Falso aviso de alterações não salvas corrigido e validado em editor novo",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Resumo multilinha preservado ao reabrir após correção",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Voltar publicação para rascunho preserva conteúdo",
+      "result": "pass"
+    },
+    {
+      "case": "WhatsApp recusa número inválido",
+      "result": "pass"
+    },
+    {
+      "case": "Contato normaliza número e atualiza seis links públicos com texto literal/multilinha",
+      "result": "pass"
+    },
+    {
+      "case": "Aviso ativo vazio recusado",
+      "result": "pass"
+    },
+    {
+      "case": "Prévia/publicação preservam texto literal e linhas, Escape fecha, versão só uma vez na sessão",
+      "result": "pass"
+    },
+    {
+      "case": "Período de aviso invertido é recusado",
+      "result": "pass"
+    },
+    {
+      "case": "Aviso futuro e expirado não aparecem no site",
+      "result": "pass"
+    },
+    {
+      "case": "WhatsApp original restaurado pelo histórico",
+      "result": "pass"
+    },
+    {
+      "case": "Biblioteca de oito prompts: seleção, arquivos de contexto e cópia completa",
+      "result": "pass"
+    },
+    {
+      "case": "Aviso restaurado desativado, vazio e sem datas",
+      "result": "pass"
+    },
+    {
+      "case": "Restaurar revisão recupera texto como rascunho e preserva slug atual",
+      "result": "pass"
+    },
+    {
+      "case": "Mídia usada no post/histórico tem exclusão bloqueada",
+      "result": "pass"
+    },
+    {
+      "case": "Excluir WebP de QA pela interface",
+      "result": "pass"
+    },
+    {
+      "case": "Excluir GIF de QA pela interface",
+      "result": "pass"
+    },
+    {
+      "case": "Mídia legada tem exclusão protegida sem tocar no original",
+      "result": "pass"
+    },
+    {
+      "case": "Cancelar lixeira mantém post; confirmar remove publicação e bloqueia edição",
+      "result": "pass"
+    },
+    {
+      "case": "Concorrência inicial e repetição: sem sobrescrita, mas resposta 503 demorada",
+      "result": "fail",
+      "observed": "Segunda edição ficou aguardando e retornou indisponibilidade sem alterar a versão salva.",
+      "finalDisposition": "stale_version_guard_retested_pass_original_delay_cause_undetermined",
+      "retest": "Versão14contra15 recusada em menos de cinco segundos com formulário preservado e comparação; corrida entre preflight e SQL não induzida no recurso remoto."
+    },
+    {
+      "case": "Diálogos Link/Vídeo/Alt e legenda funcionam; protocolos inválidos recusados",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "SEO título, descrição e índice preservam caracteres literais após correção",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Vídeo YouTube incorporado e legenda/alt editados persistem após salvar/publicar",
+      "result": "pass"
+    },
+    {
+      "case": "Viewport mobile solicitado não aplicado pelo navegador de teste",
+      "result": "unverified",
+      "observed": "A API aceitou 390px, mas a largura efetiva permaneceu 1265/1280px. Nenhum aceite mobile desta rodada."
+    },
+    {
+      "case": "Resumo digitado incrementalmente preserva espaço e Enter",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Sincronização pública repetida retorna current e atualização posterior passa",
+      "result": "pass"
+    },
+    {
+      "case": "Versão desatualizada recusada após correção; formulário e comparação preservados",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Servidor rejeita PNG falso pela assinatura do arquivo",
+      "result": "pass"
+    },
+    {
+      "case": "Posts: paginação ida/volta, busca, categoria Blog, status Lixeira e ordenação combinados",
+      "result": "pass"
+    },
+    {
+      "case": "Restaurar post da lixeira retorna rascunho editável sem publicar",
+      "result": "pass"
+    },
+    {
+      "case": "Publicação automática após cutoff consistente confirmou versão current v19",
+      "result": "pass",
+      "fixed": true
+    },
+    {
+      "case": "Excluir PNG de QA após purga exclusiva de suas referências",
+      "result": "pass"
+    },
+    {
+      "case": "Restauração final: dashboard 153 publicados, zero rascunhos/lixeira, 551 mídias; aviso/contato v1",
+      "result": "pass"
+    },
+    {
+      "case": "Logout e acesso direto ao admin redirecionam para login",
+      "result": "pass"
+    }
+  ],
+  "post": {
+    "id": "def0c85d-5c18-44ea-97fe-806ebe9674ce",
+    "adminUrl": "http://127.0.0.1:3000/admin/posts/def0c85d-5c18-44ea-97fe-806ebe9674ce/",
+    "slug": "qa-20261002-003846",
+    "title": "QA-20261002-003846 validação & < > acentuação"
+  },
+  "mediaA": {
+    "id": "ef9d3c59-ad31-4e07-9bc9-c0213801c3b5",
+    "alt": "QA-20261002-003846 mídia A & < > ação",
+    "url": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5"
+  },
+  "media": [
+    {
+      "alt": "QA-20261002-003846 mídia D GIF sem uso",
+      "height": 180,
+      "imageLoaded": true,
+      "url": "/api/media/d4f263cf-6710-4499-9f95-7ac0db37bb1d",
+      "width": 320
+    },
+    {
+      "alt": "QA-20261002-003846 mídia C WebP sem uso",
+      "height": 180,
+      "imageLoaded": true,
+      "url": "/api/media/b144a258-31a8-4f2b-8477-2212b673b1cc",
+      "width": 320
+    },
+    {
+      "alt": "QA-20261002-003846 mídia B JPEG sem uso",
+      "height": 180,
+      "imageLoaded": true,
+      "url": "/api/media/623d8230-fba0-4e85-8c3f-a8ee7fe4ee46",
+      "width": 320
+    },
+    {
+      "alt": "QA-20261002-003846 mídia A & < > ação",
+      "height": 180,
+      "imageLoaded": true,
+      "url": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5",
+      "width": 320
+    }
+  ],
+  "finalReconciliation": {
+    "readOnlyVerifiedAt": "2026-10-02T01:40:37.711Z",
+    "baselineSha256": "7a9c52f44f3f1ba2bfb6e7111350714a8b334bc54b023e305201578e48f8d117",
+    "countsAndCanonicalHashesMatch": 12,
+    "editorialStateRestored": true,
+    "fixturePostDeleted": true,
+    "fixtureMediaDeletedByUi": 4,
+    "failedEmptyUploadIntentDeleted": true,
+    "qaSettingsRevisionsDeleted": 8,
+    "sessionLoggedOut": true,
+    "authSecurityLogsPreserved": true,
+    "evidence": "hosted-manual-qa-verify.json"
+  },
+  "fixtureInventoryState": "Historical fixtures created during the run; all removed at final reconciliation."
+}

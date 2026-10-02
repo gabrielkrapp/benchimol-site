@@ -1,0 +1,309 @@
+{
+  "checkedAt": "2026-10-02T13:45:35.223894+00:00",
+  "scope": "Read-only packaging review of git ls-files --others --exclude-standard; report files excluded from the byte snapshot.",
+  "noInstallBuildTestsDockerGitMutationOrRemoteOperations": true,
+  "privateEnvBackupContentsRead": false,
+  "size": {
+    "candidateFiles": 2333,
+    "uncompressedBytes": 331234858,
+    "groups": {
+      ".env.example": {
+        "files": 1,
+        "bytes": 871
+      },
+      ".gitignore": {
+        "files": 1,
+        "bytes": 813
+      },
+      "AGENTS.md": {
+        "files": 1,
+        "bytes": 9892
+      },
+      "README.md": {
+        "files": 1,
+        "bytes": 9402
+      },
+      "content": {
+        "files": 1,
+        "bytes": 130
+      },
+      "data": {
+        "files": 18,
+        "bytes": 21433740
+      },
+      "docs": {
+        "files": 730,
+        "bytes": 103537674
+      },
+      "next-env.d.ts": {
+        "files": 1,
+        "bytes": 296
+      },
+      "next.config.ts": {
+        "files": 1,
+        "bytes": 2621
+      },
+      "package-lock.json": {
+        "files": 1,
+        "bytes": 174056
+      },
+      "package.json": {
+        "files": 1,
+        "bytes": 2941
+      },
+      "public": {
+        "files": 1378,
+        "bytes": 204713830
+      },
+      "scripts": {
+        "files": 25,
+        "bytes": 205164
+      },
+      "src": {
+        "files": 108,
+        "bytes": 805463
+      },
+      "supabase": {
+        "files": 11,
+        "bytes": 75277
+      },
+      "tests": {
+        "files": 51,
+        "bytes": 261234
+      },
+      "tsconfig.json": {
+        "files": 1,
+        "bytes": 842
+      },
+      "vercel.json": {
+        "files": 1,
+        "bytes": 104
+      },
+      "vitest.config.ts": {
+        "files": 1,
+        "bytes": 508
+      }
+    },
+    "above50MiB": [],
+    "above100MiB": [],
+    "largest20": [
+      {
+        "path": "public/wp-content/uploads/2025/02/beautiful-girl-with-body-art.jpg",
+        "bytes": 12923734
+      },
+      {
+        "path": "data/wordpress/routes.json",
+        "bytes": 5418426
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/routes.json",
+        "bytes": 5335119
+      },
+      {
+        "path": "data/wordpress/authenticated-public.json",
+        "bytes": 4330899
+      },
+      {
+        "path": "data/wordpress/pages.json",
+        "bytes": 4241818
+      },
+      {
+        "path": "docs/research/baseline-2026-09-30/posts.json",
+        "bytes": 4050922
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/posts.json",
+        "bytes": 4050171
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/4baa71a876ee4235/jkiticon.svg",
+        "bytes": 2733431
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/media.json",
+        "bytes": 2725594
+      },
+      {
+        "path": "docs/research/baseline-2026-09-30/media.json",
+        "bytes": 2611950
+      },
+      {
+        "path": "data/wordpress/posts.json",
+        "bytes": 2463995
+      },
+      {
+        "path": "data/wordpress/assets.json",
+        "bytes": 2432484
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/assets.json",
+        "bytes": 2348907
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/eed1337c7bacd2e9/bc9c533133990e3ae222c135612f8da2.css",
+        "bytes": 1945946
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/014664a698d99e31/5976790596a5f8073180cbf1a27796f6.css",
+        "bytes": 1942434
+      },
+      {
+        "path": "public/wp-content/uploads/2025/12/unnamed.png",
+        "bytes": 1876275
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/c461b8b0cd6f706e/3169c79b5f9e99998790070369564cd5.css",
+        "bytes": 1799968
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/6b18220bf533ae36/49dcece7fd9ea1b25530b7a5fc53dfbd.css",
+        "bytes": 1783249
+      },
+      {
+        "path": "public/wp-content/uploads/2024/12/olhos-no-verao.png",
+        "bytes": 1774996
+      },
+      {
+        "path": "public/wp-content/uploads/2025/12/unnamed-1536x838.png",
+        "bytes": 1670911
+      }
+    ]
+  },
+  "candidateInventoryMetadataSha256": "9d4e7b9f31d0f3692242f5adc13cf10aa1074c7300884464b6e4f63d85e524c0",
+  "candidatePrivatePathsCount": 0,
+  "presence": {
+    "assetMapUniquePaths": 1377,
+    "assetMapMissingCandidates": [],
+    "stylesheetSourcePaths": 197,
+    "stylesheetSourceMissingCandidates": [],
+    "backgroundDerivativeUniqueFiles": 1,
+    "backgroundDerivativeMissingCandidates": [],
+    "runtimeJsonImportPaths": [
+      "content/site-overrides.json",
+      "data/wordpress/asset-map.json",
+      "data/wordpress/categories.json",
+      "data/wordpress/derived-backgrounds.json",
+      "data/wordpress/elementor-shared-styles.json",
+      "data/wordpress/galleries.json",
+      "data/wordpress/image-dimensions.json",
+      "data/wordpress/media.json",
+      "data/wordpress/pages.json",
+      "data/wordpress/posts.json",
+      "data/wordpress/route-decisions.json",
+      "data/wordpress/routes.json",
+      "data/wordpress/site.json",
+      "data/wordpress/tags.json",
+      "docs/prompts/catalog.json",
+      "src/lib/public/captured-galleries.json",
+      "src/lib/public/captured-reviews.json",
+      "src/lib/public/captured-templates.json",
+      "src/lib/public/style-manifest.json"
+    ],
+    "runtimeJsonImportMissingCandidates": [],
+    "promptRuntimePaths": [
+      "docs/prompts/adicionar-pagina.md",
+      "docs/prompts/alterar-cor.md",
+      "docs/prompts/alterar-equipe.md",
+      "docs/prompts/alterar-exame.md",
+      "docs/prompts/alterar-menu.md",
+      "docs/prompts/alterar-midia.md",
+      "docs/prompts/base.md",
+      "docs/prompts/catalog.json",
+      "docs/prompts/melhorar-seo.md",
+      "docs/prompts/recolher-origem-publica.md"
+    ],
+    "promptMissingCandidates": []
+  },
+  "packageLock": {
+    "lockfileVersion": 3,
+    "rootMatches": {
+      "name": true,
+      "version": true,
+      "engines": true,
+      "dependencies": true,
+      "devDependencies": true
+    },
+    "nonRegistryFileOrGitResolvedNames": []
+  },
+  "preparation": {
+    "nodeEngines": ">=22.12.0 <27",
+    "npmCiMustIncludeDevDependencies": true,
+    "reason": "predev/prebuild use tsx 4.23.15 from devDependencies; typechecking also needs TypeScript and type declarations.",
+    "hooks": {
+      "predev": "npm run styles:public",
+      "prebuild": "npm run styles:public",
+      "pretest": "npm run styles:public"
+    },
+    "compiledCssIgnored": true,
+    "compiledCssRegeneratedBeforeDevBuildTest": true,
+    "styleManifestCandidate": true,
+    "imageDerivativesAndManifestAlreadyIncluded": true,
+    "imagesPublicNotAutomaticHook": "images:public is manual; cloning must retain committed image-dimensions.json, derived-backgrounds.json and public/site-images WebP.",
+    "promptTracingIncludes": {
+      "/admin/prompts": [
+        "./docs/prompts/**/*"
+      ]
+    },
+    "serverTraceReviewScript": "scripts/migration/verify-runtime-package.py",
+    "freshCloneInstallOrBuildExecuted": false,
+    "nextEnvIsGenerated": "next-env.d.ts currently points at ignored .next/dev generated route/root-param declarations; Next regenerates its types during dev/build, so this review does not certify an isolated fresh-clone typecheck.",
+    "recommendedFreshCloneNode": "Node 22.21.1 from local-setup, or compatible even LTS 24/26; do not choose the lowest 22.12.0 accepted by root engines.",
+    "developmentDependencyEngineNote": {
+      "package": "jsdom 29.1.1",
+      "node": "^20.19.0 || ^22.13.0 || >=24.0.0",
+      "detail": "Root engines permit Node 22.12.0, which jsdom does not support. This is a metadata mismatch at the lowest advertised version, not a blocker for the documented Node 22.21.1. No runtime/config change made."
+    }
+  },
+  "ignoreChecks": {
+    ".env.prod": true,
+    ".env.local": true,
+    "private-exports/test": true,
+    "backups/test": true,
+    "docs/contracts/contrato-benchimol.md": true,
+    "node_modules/test": true,
+    ".next/test": true,
+    "public/site-styles/test.css": true,
+    ".vercel/project.json": true
+  },
+  "recommendedInclude": [
+    "package.json",
+    "package-lock.json",
+    "src/**",
+    "content/**",
+    "data/wordpress/** (filtered public data and maps)",
+    "public/wp-content/**",
+    "public/legacy-assets/**",
+    "public/site-images/**",
+    "supabase/**",
+    "tests/**",
+    "scripts/**",
+    "docs/prompts/**",
+    "research summaries, manifests and validation evidence",
+    "AGENTS.md",
+    "README.md",
+    "next.config.ts",
+    "tsconfig.json",
+    "vitest.config.ts",
+    ".env.example after root secret review"
+  ],
+  "recommendedKeepExcluded": [
+    "real env files",
+    "private-exports/**",
+    "backups/**",
+    "docs/contracts/**",
+    "node_modules/**",
+    ".next/**",
+    "public/site-styles/**",
+    ".vercel/**",
+    ".local-supabase/**",
+    "raw .body/.headers and nested authenticated JSON captures already covered by ignore rules"
+  ],
+  "documentationActionForRoot": [
+    "Update README/AGENTS/local-setup decision that says no GitHub; ownership and authorization are handled by root.",
+    "Preserve raw public assets, image derivative and evidence hashes; no filename-based deletion.",
+    "Do not add LFS or split/archive historical screenshots just to satisfy a limit: largest candidate is below 50 MiB and the complete candidate is below 1 GB.",
+    "Private repository/secret scanning and connected Vercel automation checks remain root-owned before any remote write."
+  ],
+  "limits": "No clean clone, npm ci, fresh Next build, binary/platform dependency installation, GitHub push or Vercel artifact was executed. Static source completeness is established, not a new runtime/package validation.",
+  "officialSource": "https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github"
+}

@@ -1,0 +1,81 @@
+{
+  "capturedAt": "2026-10-01T21:21:48.941Z",
+  "buildId": "7Nr270cFVGeZkuvIHvcQs",
+  "lastThumbState": {
+    "pressed": [
+      "9",
+      "10"
+    ],
+    "scrollLeft": 290.5
+  },
+  "loopThumbState": {
+    "pressed": [
+      "0",
+      "1",
+      "2"
+    ],
+    "scrollLeft": 16,
+    "thumbs": [
+      {
+        "border": "2px solid rgb(255, 255, 255)",
+        "overlay": "0",
+        "pressed": "true",
+        "rect": {
+          "bottom": 470.2265625,
+          "height": 50,
+          "left": 388,
+          "right": 447,
+          "top": 420.2265625,
+          "width": 59,
+          "x": 388,
+          "y": 420.2265625
+        }
+      },
+      {
+        "border": "2px solid rgb(255, 255, 255)",
+        "overlay": "0",
+        "pressed": "true",
+        "rect": {
+          "bottom": 470.2265625,
+          "height": 50,
+          "left": 447,
+          "right": 506,
+          "top": 420.2265625,
+          "width": 59,
+          "x": 447,
+          "y": 420.2265625
+        }
+      },
+      {
+        "border": "2px solid rgb(255, 255, 255)",
+        "overlay": "0",
+        "pressed": "true",
+        "rect": {
+          "bottom": 470.2265625,
+          "height": 50,
+          "left": 506,
+          "right": 565,
+          "top": 420.2265625,
+          "width": 59,
+          "x": 506,
+          "y": 420.2265625
+        }
+      },
+      {
+        "border": "0px none rgb(255, 255, 255)",
+        "overlay": "1",
+        "pressed": "false",
+        "rect": {
+          "bottom": 470.2265625,
+          "height": 50,
+          "left": 565,
+          "right": 624,
+          "top": 420.2265625,
+          "width": 59,
+          "x": 565,
+          "y": 420.2265625
+        }
+      }
+    ]
+  }
+}

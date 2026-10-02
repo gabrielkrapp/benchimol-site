@@ -1,0 +1,43 @@
+{
+  "capturedAt": "2026-10-01T21:02:01.439Z",
+  "controls": [
+    {
+      "background": "rgb(0, 0, 0)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-lb-b-next-prev-button prev",
+      "padding": "0px",
+      "rect": {
+        "height": 50,
+        "width": 55,
+        "x": 10,
+        "y": 425
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 50,
+        "points": "352,115.4 331.3,96 160,256 331.3,416 352,396.7 201.5,256 ",
+        "viewBox": "0 0 512 512",
+        "width": 55
+      }
+    },
+    {
+      "background": "rgb(0, 0, 0)",
+      "borderRadius": "2px",
+      "className": "pgc-rev-lb-b-next-prev-button next",
+      "padding": "0px",
+      "rect": {
+        "height": 50,
+        "width": 55,
+        "x": 1360,
+        "y": 425
+      },
+      "svg": {
+        "fill": "rgb(255, 255, 255)",
+        "height": 50,
+        "points": "160,115.4 180.7,96 352,256 180.7,416 160,396.7 310.5,256 ",
+        "viewBox": "0 0 512 512",
+        "width": 55
+      }
+    }
+  ]
+}

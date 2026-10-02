@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-01T22:35:00.186Z",
+  "buildId": "HUHevW-DGRcC9RbS-5oQu",
+  "collector": "root CUA explicit tab8, reload + Enter thumb0, focus pauses autoplay",
+  "states": [
+    {
+      "width": 390,
+      "client": 375,
+      "y": 0,
+      "scrollLeft": 0,
+      "firstLeft": 10,
+      "stripLeft": 10,
+      "firstWidth": 355,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "width": 1440,
+      "client": 1425,
+      "y": 0,
+      "scrollLeft": 0,
+      "firstLeft": 142.5,
+      "stripLeft": 142.5,
+      "firstWidth": 373.9921875,
+      "selected": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "limits": [
+    "Original transition frames preserved as after-fix-galeria-{width}-top-transition-HUHe.png.",
+    "Focus-visible frame contains intentional white keyboard outline; native hover transition was not tested."
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "source": "public Elementor CSS reconciliation from observed browser links and public WXR IDs",
+  "capturedAt": "2026-10-01T00:26:27.188767+00:00",
+  "assets": [
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.45",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.45",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 3015,
+      "sha256": "f87cbec1c6ee0a51488e1621a4c8364360a01ca18d4591afa81fc5f25a74f634",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/e6c86be40e8c84b4c3e7.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/e6c86be40e8c84b4/main.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "f87cbec1c6ee0a51488e1621a4c8364360a01ca18d4591afa81fc5f25a74f634",
+      "localBytes": 3015
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 470844,
+      "sha256": "488e42f1c93e5ce79c6b4d12dc4eddaaf884f9864f91f418f99b0fbb9ccc7092",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/8e8d56f55b39e82cc3db.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/8e8d56f55b39e82c/frontend.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "488e42f1c93e5ce79c6b4d12dc4eddaaf884f9864f91f418f99b0fbb9ccc7092",
+      "localBytes": 470844
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5225,
+      "sha256": "1763a65837089267b4e7ee17e22f4a44aad336466d50dc9245db2304cb942456",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/8cf01802bce43c8c8358.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/8cf01802bce43c8c/widget-blockquote.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "1763a65837089267b4e7ee17e22f4a44aad336466d50dc9245db2304cb942456",
+      "localBytes": 5225
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 19765,
+      "sha256": "40063a6ba86794522d9038af1bce90b31dbb6e8ba60be22a28968a75f7877866",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/3a605abb2f3eabeabeab.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/3a605abb2f3eabea/widget-mega-menu.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "40063a6ba86794522d9038af1bce90b31dbb6e8ba60be22a28968a75f7877866",
+      "localBytes": 19765
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 26923,
+      "sha256": "1257201b6041ae53591796644289de4c7633b2d77146503a312f2d289dd1317a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/93c9ccd1d81243057068.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/93c9ccd1d8124305/widget-nav-menu.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "1257201b6041ae53591796644289de4c7633b2d77146503a312f2d289dd1317a",
+      "localBytes": 26923
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 6713,
+      "sha256": "cf502b45ef8bcae37a65822f78546f6cc7db74faf8f48850bf8a860262817fe6",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/845551d084261b69f908.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/845551d084261b69/apple-webkit.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "cf502b45ef8bcae37a65822f78546f6cc7db74faf8f48850bf8a860262817fe6",
+      "localBytes": 6713
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 54666,
+      "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/ca529d34dedcb288c97a.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/ca529d34dedcb288/frontend.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5",
+      "localBytes": 54666
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 261,
+      "sha256": "dd9c588958cd66eaa59d336088d86e5d49f01de8c6350b076741a7f23c50b6ed",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/371019e92b280e69b2bd.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/371019e92b280e69/widget-google_maps.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "dd9c588958cd66eaa59d336088d86e5d49f01de8c6350b076741a7f23c50b6ed",
+      "localBytes": 261
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 560,
+      "sha256": "f68e889145cb0e47b7b190b2fdf087a9213a264ad33951512880c9f8bb6d0cd8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/7bbb64b812d7d2f3d4b2.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/7bbb64b812d7d2f3/widget-heading.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "f68e889145cb0e47b7b190b2fdf087a9213a264ad33951512880c9f8bb6d0cd8",
+      "localBytes": 560
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 10255,
+      "sha256": "1b34d4c7324321e36db5d35f05bb011238a1326f89058a4399d028d1f6c47dd5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/8e06f8d557dda3bdff09.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/8e06f8d557dda3bd/widget-icon-list.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "1b34d4c7324321e36db5d35f05bb011238a1326f89058a4399d028d1f6c47dd5",
+      "localBytes": 10255
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 10255,
+      "sha256": "1b34d4c7324321e36db5d35f05bb011238a1326f89058a4399d028d1f6c47dd5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2cf2568c3862fee80fbb.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2cf2568c3862fee8/widget-icon-list.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "1b34d4c7324321e36db5d35f05bb011238a1326f89058a4399d028d1f6c47dd5",
+      "localBytes": 10255
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 1657,
+      "sha256": "7738ac41dae333c277ec1132c7ffa496457af424a623cbf02b56fea00adaaf1a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/052765514ed3f0fe22c8.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/052765514ed3f0fe/widget-image-box.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "7738ac41dae333c277ec1132c7ffa496457af424a623cbf02b56fea00adaaf1a",
+      "localBytes": 1657
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 214,
+      "sha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/ca17a91eb367c1b0c3f3.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/ca17a91eb367c1b0/widget-image.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb",
+      "localBytes": 214
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5110,
+      "sha256": "91079644ee1e76145b30c207470b56866770b0564f0fbf1373ab8b11d94f8c9f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/80b320b6511960d558c3.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/80b320b6511960d5/widget-social-icons.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "91079644ee1e76145b30c207470b56866770b0564f0fbf1373ab8b11d94f8c9f",
+      "localBytes": 5110
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5110,
+      "sha256": "91079644ee1e76145b30c207470b56866770b0564f0fbf1373ab8b11d94f8c9f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2d0114ff7106a8ee91ba.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2d0114ff7106a8ee/widget-social-icons.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "91079644ee1e76145b30c207470b56866770b0564f0fbf1373ab8b11d94f8c9f",
+      "localBytes": 5110
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 205,
+      "sha256": "20fda6d38f6419cc5cebc66862a0dec0c7caa34a332d500e1d2d63518ee936cd",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/19acfc78f7c1fd849b4d.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/19acfc78f7c1fd84/e-animation-shrink.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "20fda6d38f6419cc5cebc66862a0dec0c7caa34a332d500e1d2d63518ee936cd",
+      "localBytes": 205
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22305,
+      "sha256": "d2bb3d8bcf4a3ee8f5cc5a90b4357f4205f356aaebffff9ea352b6ee255da7ae",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d2a39842c87f2e5325d6.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/d2a39842c87f2e53/elementor-icons.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "0b4f753918128cfe92c3d8521153abfc917997b9031586c09a04ac7e56be3a04",
+      "localBytes": 22575
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22305,
+      "sha256": "d2bb3d8bcf4a3ee8f5cc5a90b4357f4205f356aaebffff9ea352b6ee255da7ae",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2ebee461ab065cf5cc99.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2ebee461ab065cf5/elementor-icons.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "0b4f753918128cfe92c3d8521153abfc917997b9031586c09a04ac7e56be3a04",
+      "localBytes": 22575
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 59344,
+      "sha256": "d87ddf917b7a1449ab45e2b8e3c98354629bdd65b6659c37e6023bbea1ce1386",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/602a504e904e4afe1b65.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/602a504e904e4afe/all.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "cae5d8d772307dc9230eaac101a85d6984eb5637dd29dc1a4bd5e6378560f463",
+      "localBytes": 60205
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 732,
+      "sha256": "5009a34e30063ffb89185274681b359ae8c7dac19a606d5b1456ee3524cbc9b0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/4291cdd41573f5f3a5b4.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/4291cdd41573f5f3/brands.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "8b75ea06112cab1b02e96130c2de0ad81034396c3268ec0fd5b3bf026af8fe74",
+      "localBytes": 1019
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 675,
+      "sha256": "9cd63b8cea25045c14623c538d26752518a58c0c682795ce6ad3078976c65a37",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d4ebb890eb1754a9ba66.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/d4ebb890eb1754a9/brands.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "a9167ed80e7eae6a684131479b2d9ffbdd55f2973a402290e6707c2f46c7d54e",
+      "localBytes": 962
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 72184,
+      "sha256": "d417b6ed49cb6ae3dfe2b0bab5d865472052cd0286a9478c74cbb09a02a56d0d",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/a816aa991b5a4121dcaa.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/a816aa991b5a4121/fontawesome.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "d417b6ed49cb6ae3dfe2b0bab5d865472052cd0286a9478c74cbb09a02a56d0d",
+      "localBytes": 72184
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 58071,
+      "sha256": "fafc4160788beca657ec3e3041976281fb6d54a0e82bb4d22a433f7c6bb8b1d6",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/ddd6f131ec02604e1c62.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/ddd6f131ec02604e/fontawesome.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "fafc4160788beca657ec3e3041976281fb6d54a0e82bb4d22a433f7c6bb8b1d6",
+      "localBytes": 58071
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 677,
+      "sha256": "eea3d6ccda7f6503078cce9dc41176c1357af1c93a5b3625131ef7cf21c9d7c4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/0886ace6967f430891f1.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/0886ace6967f4308/regular.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "58d33f31abd8c76cd6565b300cf662c548852f17b858edfaf4394b678d2109a6",
+      "localBytes": 964
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 727,
+      "sha256": "93cf6e96459e42f9f656e03ec4800578dc2c021dcde475c9e5e891a7780b0866",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/93060b17bddc0da19a54.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/93060b17bddc0da1/solid.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ef6f13b6ae55e44cac6cb60e85bc2b469437ffa739418ec3af68043a929bc633",
+      "localBytes": 1014
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 669,
+      "sha256": "37bab6cd583982e8eff58501a99d7c5c4d63664c1ca34f9e3b7cf526c5b73ae2",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/4fa3623e139b0b0ed988.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/4fa3623e139b0b0e/solid.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "8a03e6cdcc26890c12e688912098389033bfac919e0b0c627ac7f721b446b57a",
+      "localBytes": 956
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 26702,
+      "sha256": "c55902832fb84522d02ea1a60a30747403a140d8651fa748f13ba398b0c0df3a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/dfe42e4c841787671c45.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/dfe42e4c84178767/v4-shims.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "c55902832fb84522d02ea1a60a30747403a140d8651fa748f13ba398b0c0df3a",
+      "localBytes": 26702
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 776,
+      "sha256": "25825611ade7ceaed7df3862ec56dc91ad1d2be539966ef7bbe84306e51cfb08",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/34d5b359ce78ebef9ce0.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/34d5b359ce78ebef/header-footer-elementor.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "25825611ade7ceaed7df3862ec56dc91ad1d2be539966ef7bbe84306e51cfb08",
+      "localBytes": 776
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 83015,
+      "sha256": "47c7bdd897d958f095447c03e1752dc3c746563dc4507f7babd083348bd1ead5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/9cdc8e6687798628e913.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/9cdc8e6687798628/frontend.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "47c7bdd897d958f095447c03e1752dc3c746563dc4507f7babd083348bd1ead5",
+      "localBytes": 83015
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.2.19",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.2.19",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 283137,
+      "sha256": "87507c3c9664cdbce31a248fedc0d39d1c4774399040525511511636ab60f29a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/b1b89759f4c24164ebe0.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/b1b89759f4c24164/main.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "4ed87007e46a63ae9564092b480e7b25016129ad78884296f5461c1a8ee0f950",
+      "localBytes": 283190
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=3.2.19",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=3.2.19",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 120006,
+      "sha256": "5f088df60ae5af8645eb7d4cbca1d641fcd23225e9eac268388d3bf4822b2c1a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/f0af14cb9d57382d27ea.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/f0af14cb9d57382d/jkiticon.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "75562570ffeaa1855adbcd9a3d7e4566b1977bb721a32adbd76de6771cd2190a",
+      "localBytes": 120327
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=32732a797d59d961da0d",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=32732a797d59d961da0d",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 7013,
+      "sha256": "b6bd171def97a094cf02c8817d55fe3f6a34f2ad97d3b159d7de139858b11c11",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/cd6b44a6c314e27b74df.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/cd6b44a6c314e27b/block-library-style.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b6bd171def97a094cf02c8817d55fe3f6a34f2ad97d3b159d7de139858b11c11",
+      "localBytes": 7013
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/blocks/pgc_sgb.min.style.css?ver=3.4.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/blocks/pgc_sgb.min.style.css?ver=3.4.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 1613,
+      "sha256": "c7de3f32a2ffcad6cf077d877415ee186d658a24908b1ce6d5399646e4af11a1",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/86c98e4040f1be077fd3.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/86c98e4040f1be07/pgc_sgb.min.style.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "c7de3f32a2ffcad6cf077d877415ee186d658a24908b1ce6d5399646e4af11a1",
+      "localBytes": 1613
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/plugins/pgc_sgb_lightbox.min.style.css?ver=3.4.3",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/plugins/pgc_sgb_lightbox.min.style.css?ver=3.4.3",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 16192,
+      "sha256": "b8757b14ae7d36de70bbb081c069b4ab4880dedeea45b2e424c5b2785418097c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/931443d51084695260a0.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/931443d510846952/pgc_sgb_lightbox.min.style.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b8757b14ae7d36de70bbb081c069b4ab4880dedeea45b2e424c5b2785418097c",
+      "localBytes": 16192
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 7534,
+      "sha256": "d4428ab6d474bf08e6d95cb1beafc2ebc48ee97d229b7d07295c4e89be053b93",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/5707d9d2b09aa541a9b9.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/5707d9d2b09aa541/header-footer.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "d4428ab6d474bf08e6d95cb1beafc2ebc48ee97d229b7d07295c4e89be053b93",
+      "localBytes": 7534
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5829,
+      "sha256": "72eaeaf7ea81956ddf733ceac890269ab63e0aec77558bfaf045a5facd0bb6d4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/4d26c914dbb43f2b1afa.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/4d26c914dbb43f2b/reset.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "72eaeaf7ea81956ddf733ceac890269ab63e0aec77558bfaf045a5facd0bb6d4",
+      "localBytes": 5829
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5827,
+      "sha256": "d5c91a4cfdd98dba2870eeb3699e5ae57ad54203eef5fbe46accaee6b678d7df",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/6ca153fc9362beb3b3b8.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/6ca153fc9362beb3/theme.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "d5c91a4cfdd98dba2870eeb3699e5ae57ad54203eef5fbe46accaee6b678d7df",
+      "localBytes": 5827
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1079.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1079.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20313,
+      "sha256": "4f9468555d3ee8b5795c7adb9e5922e09928ad8c725fae289ced3ae80d7aa1e8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/db5994721f062e3eb795.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/db5994721f062e3e/post-1079.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "6f263ee8b4d4877aac12386ad78f30d4a0012fd5caa7701b5c98561173708997",
+      "localBytes": 20237
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1095.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1095.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 33743,
+      "sha256": "ccc84a8d917902ae1fd08a065b3fa7d5e88351e57f4784d151ec183931e88033",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d98c37aaac65de63885f.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/d98c37aaac65de63/post-1095.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "4e398e8d43b0051172f62ccd8f85354c5386b0b0b8261ebc4064bd3da16e20ce",
+      "localBytes": 33667
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1101.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1101.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "89e944dd5678c3ea40b2742a35562a2a678f2d6a2d4e979f0c703d833e52db83",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/6a51344b3f3a454339d0.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1409.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1409.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 19263,
+      "sha256": "6b4019933d5f7898456a31efb5992b62e37f7eefe6c45969ae253cffb73ed487",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/44b85ba43b3c6f35df2d.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/44b85ba43b3c6f35/post-1409.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "cbf6a30900d18f664e6bef9d4036047853c2ca88aeaae4bb51b502037ac19019",
+      "localBytes": 19225
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118468,
+      "sha256": "5126b9fa9b9decbe872b49d79357216a736908ae26e1f4142583642235809a77",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d732f1ccb36b41a30fc1.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2201.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2201.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "cea33b5ee537e591f8e346fe85e491dd26e13667b00b18d6463d4ceaa13481f1",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/9558b3e04cdf177ed0a0.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2308.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2308.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "c4fab29099c67a343d85f01109a6196a06131bd35b99e9d78b5af8a01ff60dd8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/ba5d9fc6da3ef335f306.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2314.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2314.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "52111b0a46b36531ce6052342963daf816a8def95541eb13e756da973c9dfca5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/078696f4a10315b90afb.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2383.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2383.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "8cc5a6bd48c870ab19da957d1e86ab6d362f54756697cd34350905282ff3c2af",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/cd015cd535308183fa7c.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-257.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-257.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 11868,
+      "sha256": "ff36efe6d789dd16450d68eeaf974994c098ca5197f1e6357b38b804bbc6693c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/a7e3fb47d38c12bec5b2.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/a7e3fb47d38c12be/post-257.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ff36efe6d789dd16450d68eeaf974994c098ca5197f1e6357b38b804bbc6693c",
+      "localBytes": 11868
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-257.css?ver=1790810460",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-257.css?ver=1790810460",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 11868,
+      "sha256": "ff36efe6d789dd16450d68eeaf974994c098ca5197f1e6357b38b804bbc6693c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/6c94f251f858289df77b.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/6c94f251f858289d/post-257.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ff36efe6d789dd16450d68eeaf974994c098ca5197f1e6357b38b804bbc6693c",
+      "localBytes": 11868
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2735.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2735.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 29069,
+      "sha256": "7ff1e46758b8f420645538f00e9ab20425b766f0bc994b4282d54e8c2d20e06b",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/56052ea0b57b0084ca03.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/56052ea0b57b0084/post-2735.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b1faedb50043e0674de58ad14e7cf031da8ef7b0481b092abf0b222d3d55ddad",
+      "localBytes": 29031
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2735.css?ver=1790810460",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2735.css?ver=1790810460",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 29069,
+      "sha256": "7ff1e46758b8f420645538f00e9ab20425b766f0bc994b4282d54e8c2d20e06b",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/1dc231dde956b848a1da.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/1dc231dde956b848/post-2735.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b1faedb50043e0674de58ad14e7cf031da8ef7b0481b092abf0b222d3d55ddad",
+      "localBytes": 29031
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2800.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2800.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 6049,
+      "sha256": "c6f4ae87404718c6d7307966f87ce67ea0e38e018c1fd420708b04568b181b57",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/018ab90a618fb88a06ea.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/018ab90a618fb88a/post-2800.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "c6f4ae87404718c6d7307966f87ce67ea0e38e018c1fd420708b04568b181b57",
+      "localBytes": 6049
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2800.css?ver=1790810460",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2800.css?ver=1790810460",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 6049,
+      "sha256": "c6f4ae87404718c6d7307966f87ce67ea0e38e018c1fd420708b04568b181b57",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/0a1840deeabdbbd9b65d.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/0a1840deeabdbbd9/post-2800.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "c6f4ae87404718c6d7307966f87ce67ea0e38e018c1fd420708b04568b181b57",
+      "localBytes": 6049
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2843.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2843.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 8827,
+      "sha256": "70087f27ee7b3cededf69e2c2515e816a003cbe18c0b9e1bcf4236a6e723585c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d530abd49a0793b01447.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/d530abd49a0793b0/post-2843.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "106772d362584492565fef9da757e2f831e0e99683317be414f822ddcc600b7c",
+      "localBytes": 8789
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2876.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2876.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 10028,
+      "sha256": "5d87c0379865c363dee04c89a4a8be7524310938a342343c06b4aa8bfaad6530",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/23d8f08ad1e30fb3137c.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/23d8f08ad1e30fb3/post-2876.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ef2cf6dea5b3d90f7f933df3e6465ab30eed0daf6ff22820f426f0139f6e618a",
+      "localBytes": 9990
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2889.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2889.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 13219,
+      "sha256": "02c388ece3a3c6759ba4b26774cace67cbf9bed69349a70183081c6e8393526c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/ea1d51ba1851cc43ee84.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/ea1d51ba1851cc43/post-2889.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "d513bb48294e3b67f555fde646eb93188a3a5943d6c15df834a04ec35ffeb0f1",
+      "localBytes": 13181
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3067.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3067.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5004,
+      "sha256": "2ec166c2f934a980087c4d1d69b2952720350e5ffc18a27601e34244365442f0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/cb1802caefb393e8c174.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/cb1802caefb393e8/post-3067.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "249d21eb29d497c1b29be5c1231f458711fac780c43687ed9158b4f1056d4cf5",
+      "localBytes": 4966
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-307.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-307.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "ae882ad50534410d6ef38f75c3f45bd8a72886881ff24bbf54411ac7afc090c8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/da56f9e0ef918b3f566f.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-311.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-311.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 127390,
+      "sha256": "1f09f2ab17002e0e4246f8e2b45957724ba201fb53ffd0671e3cbf1ed0f62ee7",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2b022a6ef9e15a0a048a.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3138.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3138.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 4335,
+      "sha256": "7e05a243d063b5fffb08f553941397e14f7bc5e6de6d483a4e67699d2c4453bc",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/c2a3a25ccfba770938f1.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/c2a3a25ccfba7709/post-3138.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "d96880cf1ab46c8c73b3597aec36db56f61178fb44d60634fdbfff63b1e1a6a2",
+      "localBytes": 4297
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3156.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3156.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5503,
+      "sha256": "79c09123e00fac398a81b5fdf4bd9254f0e002ed31b2a986df8ccd9ce9892dc6",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/1acc6dc306a67418fff4.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/1acc6dc306a67418/post-3156.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "a0de636db1c9b0b2ec464e817a7ce03ea284d4ecf538239fa5e4068f9e01fbff",
+      "localBytes": 5465
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3167.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3167.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 4918,
+      "sha256": "b1f48b198839e40a256395b5755c2a142bd6de38365aab4dd0a2a1b9ab9072f4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2a2b47ce14f2c69c2c0a.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2a2b47ce14f2c69c/post-3167.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "6749baaa4f4740f5c54667bebbb98b7f9e689887ffa19129c4fee16cac4490f9",
+      "localBytes": 4880
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3198.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3198.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 6088,
+      "sha256": "49104bf650044384f7bbe7fe933165ae16d307695ece80326882b7259a3425fa",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/21a57a529c6c6d97c9ec.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/21a57a529c6c6d97/post-3198.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "f602d88fd731978571f0a2a19febb8e777acdcfafec25ceec87ea6241326f406",
+      "localBytes": 6050
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3205.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3205.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5503,
+      "sha256": "f8f2093a14437860fa85de73f162c02f3dd877ba27b5f03ae567e1c6e0c2a179",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/efb9492abf7b586e1a37.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/efb9492abf7b586e/post-3205.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "42e6b4c50b6ae28dc646dcd452af96c6c4c4b4294655d4f25e3eb6b1ddd6ba65",
+      "localBytes": 5465
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3216.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3216.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5503,
+      "sha256": "ef90bc2872ba9a74fa4bd565bc0aeedfab92ab5573a75dc12449ecd336298979",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/5935b4e7838f72522e4a.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/5935b4e7838f7252/post-3216.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "916d230137e4d8a669bb0655b8023bd09d08b2bc47d4f9ff9400b17953bf7260",
+      "localBytes": 5465
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3241.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3241.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 5503,
+      "sha256": "d8e0a3029693afe3e20ac8235f08c0f90b6de0be6ab3e5efce4f49b2e69d9ea4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/1fd0410df0528b1106f9.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/1fd0410df0528b11/post-3241.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "bc701c8e858ead2801f48887dcd8383ef393263d4f51ece7c24fae830df97fd2",
+      "localBytes": 5465
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3300.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3300.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 2984,
+      "sha256": "6c5dd5fc32a2391fad3a8cea44f4f4ca00421d31a02142a60edfb1ff21e52053",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/3221809d6dda578bed27.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/3221809d6dda578b/post-3300.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "752e1b4da249c9135c6e4d5d297fd9f5f72967f84cbbb2fc8dc6bb2f891e8b6c",
+      "localBytes": 2946
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3342.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3342.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 2984,
+      "sha256": "5ee682bc2cd6fe40f094eedea74a2711de75c53c9b2ae1c6317f77493515a90f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/c48d7d077bbc9b938380.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/c48d7d077bbc9b93/post-3342.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "3878ef678cfac138f930600a2031ac9ff38a8e0c282cfd497d2a30c909700d9a",
+      "localBytes": 2946
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3357.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3357.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 2984,
+      "sha256": "58a1092fec2109eb2c38e01ded8fd0855929813557b8cb156ae2ec96e4633181",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/620f22e5f07f7db5d67a.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/620f22e5f07f7db5/post-3357.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "a9a832de84f750105133514a9cb04367b51b2e998f25f5a28b1eff81e029135e",
+      "localBytes": 2946
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3368.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3368.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 2984,
+      "sha256": "51275b83bc687b29611a4b53723620897d8d229a7d591d40b39eaa36989064b8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/3947c5420c6cdd5b7a0f.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/3947c5420c6cdd5b/post-3368.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "4b16cd65007bc52fbee513fac0bc45b293b4df4d294f564a2d82c4a2d4f646ab",
+      "localBytes": 2946
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3416.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3416.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 3256,
+      "sha256": "8de4c7b26a58d7e791b6d05d8ef1508c81c54ba3f70cf4125e2f43dbd4be219b",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/20e410c7252b5fb427cb.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/20e410c7252b5fb4/post-3416.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "8907afacdf5ed2049870a08b666b6059c94d602f84f059e12e15f8355f4e469b",
+      "localBytes": 3218
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3567.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3567.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 30332,
+      "sha256": "e4b9955c4cfd11202193256a2eb4d3ecef18b3660ab34f90b28a08a8c0c3cb67",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/bf3b9886b5da17df9c87.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/bf3b9886b5da17df/post-3567.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "708136c4baaab1bdb4fa73d93388f5033bf1badc93fb66ddaf5b9ab6e268df77",
+      "localBytes": 30256
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-364.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-364.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 27880,
+      "sha256": "9146483cc521ed5ca4b59422ac1c734d30730f66ac67606a7941cd908a4cd162",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/82d4a778fe12cfb3699e.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/82d4a778fe12cfb3/post-364.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "aec4638b0679606722b548749373c4468c4524633bb310c0da5076d6c8973b40",
+      "localBytes": 27804
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-367.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-367.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "cd1dbf6dc68f72441556dc9ffad81d9481ebdb4e191f537624bafabeeff388d9",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2bd4342895c19c47dc2d.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3743.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3743.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "00dbac55c29f66552c0465a8c058f1cba87a6d7f810c850ac4d728cbf7a1825c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/3c53d8bc54b28e628f55.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3749.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3749.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 127390,
+      "sha256": "cb129eaa96c90d39f6606c53ed44f490550fcfce8432e972bfd45b2f4b1478cf",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/63875fef99092b338b2e.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-44.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-44.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "95d3fb9934e0550386c8660d3442c610c074ad1d81182f3c317427dc6fee42f0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/fb6ffc87aa0aad27119a.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-48.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-48.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 6006,
+      "sha256": "e5931562fa5c54915cc47b00b635627d18caf29fdc2686355d3c9f74adb4d9c9",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/7997019efa4127f8e2af.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/7997019efa4127f8/post-48.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "e5931562fa5c54915cc47b00b635627d18caf29fdc2686355d3c9f74adb4d9c9",
+      "localBytes": 6006
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-51.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-51.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "2d681b329372e9f9c5f8a04c0ca37db4bc6c1bb603df9b726dc07ab32c2e8467",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2aa81fec6697831f7860.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-55.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-55.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20056,
+      "sha256": "e57bf20b0cb9b11a7ab029a846809e81716df30cc8a610b4829ff1fd6e69af8f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/8af7a853ff04c8f70469.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/8af7a853ff04c8f7/post-55.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "cec36ae31191235c52e9198b124a729351336c5be4c7c7e0b202a76ac251c6f8",
+      "localBytes": 20018
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-55.css?ver=1790810460",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-55.css?ver=1790810460",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20056,
+      "sha256": "e57bf20b0cb9b11a7ab029a846809e81716df30cc8a610b4829ff1fd6e69af8f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2f15fbb51b4f939e3c16.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2f15fbb51b4f939e/post-55.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "cec36ae31191235c52e9198b124a729351336c5be4c7c7e0b202a76ac251c6f8",
+      "localBytes": 20018
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-558.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-558.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "d667c61e639ab3513c31ec7d0d22f9111b1f04396a912d7ddc0f8ce9ef690954",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2b59664507b620edb200.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-6.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-6.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118468,
+      "sha256": "940cbeb65bfb543a0c7dd45ba4478c2b7bca12ac892c1c11299eac28a22a9aa7",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/78cc900213144daba3c8.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-60.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-60.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 127390,
+      "sha256": "7f77984f5a6044e50d52379787482ce1f0245163b3e2652cd43863e20d5bf96c",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/d690f4c876ffb5b9b4d5.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-612.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-612.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "2ca211544d2de76ad7606a889ece257aca6e8509ff369c02aa4453fb18b9b508",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/4504ea217f20fa18f89c.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-659.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-659.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22521,
+      "sha256": "271b222839ad51a65f76f009aad50ccdd1f05c7d43634becb2652cf8392cc652",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/a4b057f1eb1c55b7f493.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/a4b057f1eb1c55b7/post-659.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "62ac39996df05e6bd3471705aeed9f5e0b21a6dc65f138414886caba76f758e6",
+      "localBytes": 22483
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-667.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-667.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "c31614d3499c66a41ba602936693410fb238e069f699414a797ce0b00dce1b47",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/171643795089c1bbdb48.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-762.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-762.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20179,
+      "sha256": "5aad9299ba8034400d64cd00e06e0ee10c8fa8e169f80bdd98952cc767053e4e",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/b1cf3c90eebaa8957793.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/b1cf3c90eebaa895/post-762.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ae7a10b4eeed12e4ba2575705c077cc6f085cabb351c831e93864a6d64a0c2d5",
+      "localBytes": 20141
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-770.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-770.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20179,
+      "sha256": "2d0ff2dffe1a77d80209d93ab5352ccc25496e2b3ea6b32561503850cafda80d",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/5fb9c1b75b8a07e5a4e2.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/5fb9c1b75b8a07e5/post-770.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "ef817224ee209c1ab95551cc9a174beff3f64300813ea241ac2b48f66837e63a",
+      "localBytes": 20141
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-781.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-781.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20179,
+      "sha256": "f68262687bf2919a434eb52325fe18e7fb8e10299f155ea19ba69f828edfe1e8",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/c5f1fd1989d281db24c8.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/c5f1fd1989d281db/post-781.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "649e4581403a2a748c2edbcbd27ccba2be4842433697dc5a10eec8d95a367df7",
+      "localBytes": 20141
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-798.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-798.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22033,
+      "sha256": "1c19c17ddd1d8bb092255799f1c8819afe0fd19b095f1e1db6cac3d04da5e35a",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/400e863b5b9ded3b9175.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/400e863b5b9ded3b/post-798.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "84e0af94576c29cc683c70a606f7e0a7311277817aecd8c0967d039093584c42",
+      "localBytes": 21995
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-810.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-810.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "abeef1861b2007eab57d3d053c907603a1c6aeda0ac2cd63e02079c1401fac0f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/9d198f86108619c2ff77.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/9d198f86108619c2/post-810.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "e0c9786dc8e65f11a47939b408fb77f38ae3f11776da047251b5b4f82a4c1ce1",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-834.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-834.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "fa3f99808da4dd90283c4cfe4829d7d8201641658864e1b104ad316e4d0d8fa0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/fd911633ac457d602933.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/fd911633ac457d60/post-834.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "e4ed852f85d3e95ab7b3c8528f8bc947c19bb184611bdb883ca005651225c1a8",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-846.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-846.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "6b650cbe5d16a64a4ca302916009aca580d6c55bc15f57cb1f255629613e0a91",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/fae312405e98529a98be.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/fae312405e98529a/post-846.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "7fcb61e98519d6ca2b262e993ba973e4043debebe78b628bbd7de740799238f9",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-857.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-857.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "0d30d3b84c52eeb968f7a942d83874d30ebdfce4aeb18d4369dba4553d2b6616",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/528b8413f00159cd5898.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/528b8413f00159cd/post-857.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "879c10b3124cec0c6f42538833dae8cdc67d1a2adb515accbf5a1851af83716c",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-875.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-875.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "c4535472a98cab379788d756309fb51feb6ac636a13ff72ec89e5aa443946a6b",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/775e370715cc79a0c8fd.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/775e370715cc79a0/post-875.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b08ba47fb30f89e57c9601a011230a1492396f7778af7da9dc6f1c7f26468dc0",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-886.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-886.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20212,
+      "sha256": "15115e5ba51e5079ef89ed6c60258e1900ffda96d13e076c5ec24d662bfcd6f5",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/20e6f445add2850a3347.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/20e6f445add2850a/post-886.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "4d99ca3ca82c7825a072c0932459c0421ed33c54c86eda15b7c291505bfd6575",
+      "localBytes": 20174
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-894.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-894.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "0cb9bd7a8866f4baffa94a340ae3a5d7b03ac91a3443f0d9306ffcd92ce6364e",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/58d4c9f375f4c38dd7c2.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/58d4c9f375f4c38d/post-894.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "f98eedc28f2c150e91810b49a8e3b19311696a561ac496b810f2d520c2f1f464",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-902.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-902.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20212,
+      "sha256": "e646aa575eda519c8dc098b1710ed5970c80c2840613c76071f179ab5ccf96a4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/2cfcab9ba57b54eb5080.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/2cfcab9ba57b54eb/post-902.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "f89ef22af0f05c2f3d0a6bf568156f18178a761bf0924e41fa76e6f072f595b6",
+      "localBytes": 20174
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-903.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-903.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 20213,
+      "sha256": "30b47571ec07606334c8c1432a8e9e6c4011d32a2633ba8c0fe802c045eacdfe",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/839b691ae3e408f792bf.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/839b691ae3e408f7/post-903.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "e0b0585c5916abda3ceb2651c3567ffb149b13fc764b6356e70f57f9ef7b20d2",
+      "localBytes": 20175
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-919.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-919.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22064,
+      "sha256": "1786b4bb6841a359608fddc618ee28d1bc9e05d1a39c3dc01566b97d7c79d858",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/83fa78537ef530e9eafe.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/83fa78537ef530e9/post-919.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "e0f9e697df22e6ddbee766b8521425d43aa16c7e7ac91878bdb36188727be79b",
+      "localBytes": 21988
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-97.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-97.css",
+      "status": 404,
+      "mimeType": "text/html",
+      "bytes": 118472,
+      "sha256": "0ccf387e9c1a5e5940dbf1aa41fefe5eb0b20afca2df7d9716180346129c4ce0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/37ea3d304817be37dcd9.body",
+      "error": "",
+      "localPath": null,
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css"
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-996.css",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-996.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 22496,
+      "sha256": "2d05b1946447254e5b93b40fb651099763855a35624ab099d30cc9f2dd474d7f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/285f00d04e475bc17818.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/285f00d04e475bc1/post-996.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "448ddd852f4d2946dac6e7b5395b3e511ee5370ffc13e1bf32b37641358cef46",
+      "localBytes": 22458
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/heebo.css?ver=1742222801",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/heebo.css?ver=1742222801",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 38259,
+      "sha256": "092f1df0cfb9c8ff4377bf7fcc3c5a343303de5953def47b1fbee4bd55d1b96e",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/4dff3860d655d32ab42a.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/4dff3860d655d32a/heebo.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "53c4899df383a5217f2f05fe17efaa76a01c9b80b7aa1858197afdf4962cd6b8",
+      "localBytes": 36549
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1742222799",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1742222799",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 51597,
+      "sha256": "39b7636b52ab188e5b23c803c5be432d80f871cd054ce3ce82adb58f83c814d4",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/c2016a48cfba093eeccb.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/c2016a48cfba093e/inter.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "2223d3fc94bd915740b9889b0ac262487828275d955cd437b27a93fc08fb0105",
+      "localBytes": 46809
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/manrope.css?ver=1757511124",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/manrope.css?ver=1757511124",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 16660,
+      "sha256": "e74123bb5185989ca61cf11515070b57c300a1bc4efc4c982f051d6e8625653f",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/87e5808d0ac5496e0c25.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/87e5808d0ac5496e/manrope.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "9b0916dc09aab7c98c64a85348235ebd598397e1e20d07c478f711b7a00b0c51",
+      "localBytes": 15064
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1753855455",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1753855455",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 26551,
+      "sha256": "5e0b8ce0203f5292d73ad5bfca5e72626359e41555d03cb964bd7a1aad4b4ec2",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/a226dbbccadc7fc84b03.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/a226dbbccadc7fc8/plusjakartasans.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "b90938b4307478ab33c0faf9a0a1c6039c434a22c411ba557948dc5a10e47352",
+      "localBytes": 24423
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/components/style.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/components/style.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 108784,
+      "sha256": "6310f071a1e2fa9907f25daccd8293aa4698d605db2ad78bcbea54a258858795",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/1ed59365219f13037b4e.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/1ed59365219f1303/style.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "6310f071a1e2fa9907f25daccd8293aa4698d605db2ad78bcbea54a258858795",
+      "localBytes": 108784
+    },
+    {
+      "originalUrl": "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/theme/design-tokens.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+      "finalUrl": "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/theme/design-tokens.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+      "status": 200,
+      "mimeType": "text/css",
+      "bytes": 9038,
+      "sha256": "1431dcb3bb0737f91a4e458ab87c5e40353bedccd80c04a67d2bede205baa5f0",
+      "uses": [
+        "elementor-css-reconciliation"
+      ],
+      "snapshotFile": "assets/fcf8ee0d9ccc4a8f2c83.body",
+      "error": "",
+      "localPath": "/legacy-assets/elementor-restored/fcf8ee0d9ccc4a8f/design-tokens.min.css",
+      "supplementalSnapshot": "docs/research/restored-2026-09-30-elementor-css",
+      "localSha256": "1431dcb3bb0737f91a4e458ab87c5e40353bedccd80c04a67d2bede205baa5f0",
+      "localBytes": 9038
+    }
+  ],
+  "sharedCssPaths": [
+    "/legacy-assets/elementor-restored/e6c86be40e8c84b4/main.css",
+    "/legacy-assets/elementor-restored/9cdc8e6687798628/frontend.css",
+    "/legacy-assets/elementor-restored/b1b89759f4c24164/main.css",
+    "/legacy-assets/elementor-restored/2ebee461ab065cf5/elementor-icons.min.css",
+    "/legacy-assets/elementor-restored/fcf8ee0d9ccc4a8f/design-tokens.min.css",
+    "/legacy-assets/elementor-restored/1ed59365219f1303/style.min.css",
+    "/legacy-assets/elementor-restored/cd6b44a6c314e27b/block-library-style.css",
+    "/legacy-assets/elementor-restored/86c98e4040f1be07/pgc_sgb.min.style.css",
+    "/legacy-assets/elementor-restored/931443d510846952/pgc_sgb_lightbox.min.style.css",
+    "/legacy-assets/elementor-restored/34d5b359ce78ebef/header-footer-elementor.css",
+    "/legacy-assets/elementor-restored/ca529d34dedcb288/frontend.min.css",
+    "/legacy-assets/elementor-restored/8e8d56f55b39e82c/frontend.min.css",
+    "/legacy-assets/elementor-restored/602a504e904e4afe/all.min.css",
+    "/legacy-assets/elementor-restored/dfe42e4c84178767/v4-shims.min.css",
+    "/legacy-assets/elementor-restored/7bbb64b812d7d2f3/widget-heading.min.css",
+    "/legacy-assets/elementor-restored/ca17a91eb367c1b0/widget-image.min.css",
+    "/legacy-assets/elementor-restored/052765514ed3f0fe/widget-image-box.min.css",
+    "/legacy-assets/elementor-restored/2cf2568c3862fee8/widget-icon-list.min.css",
+    "/legacy-assets/elementor-restored/4d26c914dbb43f2b/reset.css",
+    "/legacy-assets/elementor-restored/6ca153fc9362beb3/theme.css",
+    "/legacy-assets/elementor-restored/5707d9d2b09aa541/header-footer.css",
+    "/legacy-assets/elementor-restored/d2a39842c87f2e53/elementor-icons.min.css",
+    "/legacy-assets/elementor-restored/8e06f8d557dda3bd/widget-icon-list.min.css",
+    "/legacy-assets/elementor-restored/80b320b6511960d5/widget-social-icons.min.css",
+    "/legacy-assets/elementor-restored/4291cdd41573f5f3/brands.css",
+    "/legacy-assets/elementor-restored/a816aa991b5a4121/fontawesome.css",
+    "/legacy-assets/elementor-restored/93060b17bddc0da1/solid.css",
+    "/legacy-assets/elementor-restored/8cf01802bce43c8c/widget-blockquote.min.css",
+    "/legacy-assets/elementor-restored/3a605abb2f3eabea/widget-mega-menu.min.css",
+    "/legacy-assets/elementor-restored/93c9ccd1d8124305/widget-nav-menu.min.css",
+    "/legacy-assets/elementor-restored/c2016a48cfba093e/inter.css",
+    "/legacy-assets/elementor-restored/4dff3860d655d32a/heebo.css",
+    "/legacy-assets/elementor-restored/a226dbbccadc7fc8/plusjakartasans.css",
+    "/legacy-assets/elementor-restored/87e5808d0ac5496e/manrope.css",
+    "/legacy-assets/elementor-restored/ddd6f131ec02604e/fontawesome.min.css",
+    "/legacy-assets/elementor-restored/4fa3623e139b0b0e/solid.min.css",
+    "/legacy-assets/elementor-restored/f0af14cb9d57382d/jkiticon.css",
+    "/legacy-assets/elementor-restored/d4ebb890eb1754a9/brands.min.css",
+    "/legacy-assets/elementor-restored/0886ace6967f4308/regular.min.css",
+    "/wp-content/uploads/trustindex-google-widget.css",
+    "/wp-content/uploads/trustindex-google-widget.css",
+    "/legacy-assets/elementor-restored/19acfc78f7c1fd84/e-animation-shrink.min.css",
+    "/legacy-assets/elementor-restored/2d0114ff7106a8ee/widget-social-icons.min.css",
+    "/legacy-assets/elementor-restored/845551d084261b69/apple-webkit.min.css",
+    "/legacy-assets/elementor-restored/371019e92b280e69/widget-google_maps.min.css",
+    "/legacy-assets/elementor-restored/a7e3fb47d38c12be/post-257.css",
+    "/legacy-assets/elementor-restored/7997019efa4127f8/post-48.css",
+    "/legacy-assets/elementor-restored/8af7a853ff04c8f7/post-55.css",
+    "/legacy-assets/elementor-restored/018ab90a618fb88a/post-2800.css",
+    "/legacy-assets/elementor-restored/82d4a778fe12cfb3/post-364.css",
+    "/legacy-assets/elementor-restored/bf3b9886b5da17df/post-3567.css"
+  ],
+  "observedHomeCssUrls": [
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.45",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.2.19",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+    "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/theme/design-tokens.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+    "https://clinicadeolhosbenchimol.com.br/wp-includes/css/dist/components/style.min.css?ver=531b4d12e5ff221754afd77bd1e0bf4a",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=32732a797d59d961da0d",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/blocks/pgc_sgb.min.style.css?ver=3.4.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/simply-gallery-block/plugins/pgc_sgb_lightbox.min.style.css?ver=3.4.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-257.css?ver=1790810460",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2735.css?ver=1790810460",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2800.css?ver=1790810460",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-55.css?ver=1790810460",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1742222799",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/heebo.css?ver=1742222801",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1753855455",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/google-fonts/css/manrope.css?ver=1757511124",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=3.2.19",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/trustindex-google-widget.css?1787103986",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/trustindex-google-widget.css?1787103986",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.3",
+    "https://clinicadeolhosbenchimol.com.br/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.3.3"
+  ]
+}

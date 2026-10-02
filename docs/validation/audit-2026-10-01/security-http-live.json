@@ -1,0 +1,345 @@
+{
+  "capturedAt": "2026-10-02T03:12:52.328Z",
+  "timeZone": "America/Sao_Paulo",
+  "localBase": "http://127.0.0.1:3000",
+  "environment": "user_started_local_development_server",
+  "sitePubliclyDeployed": false,
+  "readOnly": true,
+  "authCredentialsUsed": false,
+  "sessionCookiesUsed": false,
+  "realLoginAttempts": 0,
+  "invalidPostRequestsBeforeLimiter": 3,
+  "mutatingApplicationRequests": 0,
+  "serverStartedOrStoppedByAgent": false,
+  "dbWritesRequested": false,
+  "tests": [
+    {
+      "name": "home",
+      "method": "GET",
+      "path": "/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "durationMs": 3255,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": null,
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "login",
+      "method": "GET",
+      "path": "/admin/login/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "durationMs": 251,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "private_dashboard",
+      "method": "GET",
+      "path": "/admin/",
+      "status": 307,
+      "expected": 307,
+      "passed": true,
+      "durationMs": 150,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      },
+      "redirectsToAdminLogin": true
+    },
+    {
+      "name": "private_preview",
+      "method": "GET",
+      "path": "/admin/posts/def0c85d-5c18-44ea-97fe-806ebe9674ce/preview/",
+      "status": 307,
+      "expected": 307,
+      "passed": true,
+      "durationMs": 1296,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      },
+      "redirectsToAdminLogin": true
+    },
+    {
+      "name": "posts_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/posts/",
+      "status": 401,
+      "expected": 401,
+      "passed": true,
+      "durationMs": 541,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "media_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/media/",
+      "status": 401,
+      "expected": 401,
+      "passed": true,
+      "durationMs": 59,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "settings_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/settings/contact/",
+      "status": 401,
+      "expected": 401,
+      "passed": true,
+      "durationMs": 78,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "dashboard_api_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/dashboard/",
+      "status": 401,
+      "expected": 401,
+      "passed": true,
+      "durationMs": 57,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "taxonomies_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/taxonomies/",
+      "status": 401,
+      "expected": 401,
+      "passed": true,
+      "durationMs": 66,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "deleted_fixture_media_not_exposed",
+      "method": "GET",
+      "path": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5/",
+      "status": 404,
+      "expected": 404,
+      "passed": true,
+      "durationMs": 972,
+      "headers": {
+        "cache-control": "private, no-store",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "env_not_served",
+      "method": "GET",
+      "path": "/.env.prod",
+      "status": 404,
+      "expected": 404,
+      "passed": true,
+      "durationMs": 260,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": null,
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "internal_docs_not_served",
+      "method": "GET",
+      "path": "/docs/specs/2026-09-30-initial-spec.md",
+      "status": 404,
+      "expected": 404,
+      "passed": true,
+      "durationMs": 238,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": null,
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "backup_not_served",
+      "method": "GET",
+      "path": "/backups/hosted-manual-qa/before.json",
+      "status": 404,
+      "expected": 404,
+      "passed": true,
+      "durationMs": 253,
+      "headers": {
+        "cache-control": "no-cache, must-revalidate",
+        "x-robots-tag": null,
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": null,
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "login_absent_origin",
+      "method": "POST",
+      "path": "/api/auth/login/",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "durationMs": 98,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "login_external_origin",
+      "method": "POST",
+      "path": "/api/auth/login/",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "durationMs": 13,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    },
+    {
+      "name": "login_invalid_json_same_origin",
+      "method": "POST",
+      "path": "/api/auth/login/",
+      "status": 422,
+      "expected": 422,
+      "passed": true,
+      "durationMs": 18,
+      "headers": {
+        "cache-control": "private, no-store, max-age=0",
+        "x-robots-tag": "noindex, nofollow",
+        "content-security-policy": null,
+        "content-security-policy-report-only": null,
+        "x-frame-options": null,
+        "x-content-type-options": "nosniff",
+        "referrer-policy": null,
+        "strict-transport-security": null,
+        "permissions-policy": null
+      }
+    }
+  ],
+  "summary": {
+    "total": 16,
+    "passed": 16,
+    "failed": 0,
+    "notRun": 0
+  }
+}

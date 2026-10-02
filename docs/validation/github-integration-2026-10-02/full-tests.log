@@ -1,0 +1,14 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+·············································································································································································································································································································
+
+ Test Files  51 passed (51)
+      Tests  301 passed (301)
+   Start at  10:43:48
+   Duration  230.75s (tests 47%, import 38%, environment 11%, transform 3%)
+
+     Import  169 modules were evaluated 396 times · 84.28s total, 38% of tracked time
+             ~48.31s faster with isolate: false — shared modules are evaluated once per worker instead of once per file
+             learn more: https://vitest.dev/guide/improving-performance#test-isolation
+

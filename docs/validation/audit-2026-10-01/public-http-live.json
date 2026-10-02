@@ -1,0 +1,526 @@
+{
+  "startedAt": "2026-10-02T03:14:25.701Z",
+  "origin": "http://127.0.0.1:3000",
+  "scope": "sequential read-only GET, user-started Next dev; no production score or real bot verification",
+  "requests": [
+    {
+      "path": "/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 269056,
+      "sha256": "286c7413ecbb51c2568b4f9082e328c4c38876f21bab91a0f7281bc5a4b214d1",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Home - Clínica de Olhos Benchimol",
+        "description": "80 anos de tradição em cuidar da visãoA Clínica de Olhos Benchimol une tradição médica e estrutura tecnológica no cuidado com catarata, retina e exames oftalmológicos no Rio de Janeiro. Clínica de Olhos Benchimol Por que escolher a Clínica Benchimol? PIONEIRISMOEm 1988, nos tornamos a primeira clínica do Rio de Janeiro a criar um centro […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 6805,
+        "articleTextCharacters": 86,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3.css"
+        ]
+      }
+    },
+    {
+      "path": "/sobre-nos/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 205037,
+      "sha256": "cfe32707e7ed644baaf17378e109799378eb196da6bf90a314f2bf8612fad639",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Sobre Nós - Clínica de Olhos Benchimol",
+        "description": "Sobre Nós A história da Clínica de Olhos Benchimol está entrelaçada com a trajetória da família Benchimol, marcada por tradição, pioneirismo e dedicação à medicina. As raízes vêm do século XIX, em Tânger, no Marrocos, onde já existia o Hospital Benchimol. No Brasil, o legado começou com o Dr. Raphael Benchimol, formado em 1946 pela […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/sobre-nos/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 2916,
+        "articleTextCharacters": 0,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/745f5330796f6ef11152bfde34b7defeeeeb42ba5e0320c7c6be0566583e8071.css"
+        ]
+      }
+    },
+    {
+      "path": "/equipe/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 169861,
+      "sha256": "9eaaf08c4f594b8740a0c141174eb1db60dcf4b6b97634cb7a050fdf5dea7671",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Equipe - Clínica de Olhos Benchimol",
+        "description": "​Conheça a equipe da Clínica de Olhos Benchimol: experiência que promve o melhor cuidado para a sua visão. Agende sua consulta!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/equipe/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 1260,
+        "articleTextCharacters": 0,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/d5cbff8fd5d143ba8bae69f92a12a06e15f850dd5fc517b38ef87c3442a7160b.css"
+        ]
+      }
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 130602,
+      "sha256": "8bceeb7ff8d58e6666efe68e148886ee1ed7a9e08627742fc781dfe2b5e1e111",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Exames e Procedimentos - Clínica de Olhos Benchimol",
+        "description": "​Exames e procedimentos avançados para sua visão. Agende seu check-up ocular com a Clínica de Olhos Benchimol!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 3658,
+        "articleTextCharacters": 0,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/80de966a488c26a7a53a756563009ef4e2e17e4410be2e44f374a638a7fc8654.css"
+        ]
+      }
+    },
+    {
+      "path": "/blog/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 164237,
+      "sha256": "b728ba8447fe5585e6764819c636adc4f2b7756461fcabbf9bd173c871f32836",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Blog - Clínica de Olhos Benchimol - Copacabana RJ",
+        "description": "Acesse nosso site e veja mais blogs do mundo da oftalmologia como esse. Cirurgia, exame e tratamento. Unidade em Copacabana e Campo Grande RJ!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/blog/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 1788,
+        "articleTextCharacters": 263,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": 7,
+        "publicStylesheets": [
+          "/site-styles/afa0e07fcf979486fd85009bc0f584905003e7576caf71c86710807c60f212ff.css"
+        ]
+      }
+    },
+    {
+      "path": "/blog/page/2/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 164533,
+      "sha256": "bd51065f59221b1712026bb5b24ae42d03e7cd49514e3e1bad0ea9d8f8bc520a",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Blog — Página 2 — Clínica de Olhos Benchimol",
+        "description": "Acesse nosso site e veja mais blogs do mundo da oftalmologia como esse. Cirurgia, exame e tratamento. Unidade em Copacabana e Campo Grande RJ!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/blog/page/2/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 1739,
+        "articleTextCharacters": 245,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          }
+        ],
+        "blogPostLinks": 10,
+        "publicStylesheets": [
+          "/site-styles/afa0e07fcf979486fd85009bc0f584905003e7576caf71c86710807c60f212ff.css"
+        ]
+      }
+    },
+    {
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 164764,
+      "sha256": "c060b4e3c44dcfac3e2329e7fef51c1fe5ba6497e43d0703a50eb5a017698d7d",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Cirurgia refrativa: quais as indicações, como é feita e quais os cuidados no pós-operatório - Clínica de Olhos Benchimol",
+        "description": "A maioria das pessoas adoraria poder se livrar dos óculos ou das lentes de contato. Não é nada prático ter que levar esses acessórios para todos os lados, cuidar da higienização correta, proteger contra riscos e arranhões etc.. Em vários casos, a solução está na cirurgia refrativa, procedimento que vem evoluindo bastante e, com isso, [&hellip;]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 5119,
+        "articleTextCharacters": 5119,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "graphTypes": null,
+            "author": "Johny",
+            "descriptionHasLegacyEntity": true
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed.css"
+        ]
+      }
+    },
+    {
+      "path": "/cirurgia-refrativa-artigo/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 159717,
+      "sha256": "b8e3940685ef2cbbd0fbef080fb7aee36ef7aa01c408c4e3d371bcadd8b656ec",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Cirurgia Refrativa - Clínica de Olhos Benchimol",
+        "description": "A cirurgia refrativa serve para corrigir erros de refração, que são os problemas de visão mais comuns como a miopia, a hipermetropia e o astigmatismo. A cirurgia refrativa atual é moderna, executada por um sistema a laser, corrigindo a visão de modo seguro e o procedimento é feito apenas com anestesia local, através de colírio, [&hellip;]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-artigo/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 3608,
+        "articleTextCharacters": 3608,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "graphTypes": null,
+            "author": "Johny",
+            "descriptionHasLegacyEntity": true
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed.css"
+        ]
+      }
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 152221,
+      "sha256": "1427319d2940cccde36c1bdceec0a8e24fb13d49e4b8984ae2d508d6a719eafc",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "pt-BR",
+        "title": "Por que piscamos os olhos? - Clínica de Olhos Benchimol",
+        "description": "A primeira explicação é que ao realizar o movimento de piscar, agentes externos, como poeira ou outros minúsculos elementos, são impedidos de entrar em contato direto com a córnea.&nbsp; Além disso, as lágrimas produzidas a todo o momento pelas glândulas lacrimais, são extremamente importantes para a lubrificação constante dos olhos.&nbsp; Assim, quando piscamos, esse líquido [&hellip;]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-artigo-2020/"
+        ],
+        "robots": [
+          "index, follow"
+        ],
+        "h1Count": 1,
+        "mainTextCharacters": 1321,
+        "articleTextCharacters": 1321,
+        "jsonLd": [
+          {
+            "valid": true,
+            "type": null,
+            "graphTypes": [
+              "MedicalClinic",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "graphTypes": null,
+            "author": null,
+            "descriptionHasLegacyEntity": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "graphTypes": null,
+            "author": "Johny",
+            "descriptionHasLegacyEntity": true
+          }
+        ],
+        "blogPostLinks": null,
+        "publicStylesheets": [
+          "/site-styles/7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed.css"
+        ]
+      }
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "bytes": 547,
+      "sha256": "9553cc1c610fd25eb74da7372433f5d7b369c74a7df078e8b6c4da3fda7212dc",
+      "location": null,
+      "xRobotsTag": null,
+      "rules": "User-Agent: *\nAllow: /\nDisallow: /admin/\nDisallow: /api/\nDisallow: /preview/\n\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: PerplexityBot\nUser-Agent: Perplexity-User\nUser-Agent: Claude-SearchBot\nUser-Agent: Claude-User\nUser-Agent: Googlebot\nUser-Agent: Bingbot\nAllow: /\nDisallow: /admin/\nDisallow: /api/\nDisallow: /preview/\n\nUser-Agent: GPTBot\nUser-Agent: ClaudeBot\nUser-Agent: Google-Extended\nUser-Agent: CCBot\nDisallow: /\n\nHost: https://clinicadeolhosbenchimol.com.br\nSitemap: https://clinicadeolhosbenchimol.com.br/sitemap.xml\n"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "bytes": 30723,
+      "sha256": "fd6027dbab667bd9fe450e3ef19bb11e664aab3c039ecf2256140cc0116a39a5",
+      "location": null,
+      "xRobotsTag": null,
+      "sitemap": {
+        "count": 216,
+        "allCanonicalOrigin": true,
+        "privatePaths": [],
+        "articlePresent": true,
+        "includesSamplePage": true
+      }
+    },
+    {
+      "path": "/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 1335,
+      "sha256": "7675d717d707ae12818278c59737894f3b9c73c00d06e944c2022e57bb220066",
+      "location": null,
+      "xRobotsTag": null,
+      "llms": {
+        "publicLinks": [
+          "https://clinicadeolhosbenchimol.com.br/",
+          "https://clinicadeolhosbenchimol.com.br/sobre-nos/",
+          "https://clinicadeolhosbenchimol.com.br/equipe/",
+          "https://clinicadeolhosbenchimol.com.br/especialidades/",
+          "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/",
+          "https://clinicadeolhosbenchimol.com.br/servicos/",
+          "https://clinicadeolhosbenchimol.com.br/convenios/",
+          "https://clinicadeolhosbenchimol.com.br/faq-perguntas-frequentes/",
+          "https://clinicadeolhosbenchimol.com.br/blog/",
+          "https://clinicadeolhosbenchimol.com.br/sitemap.xml"
+        ],
+        "containsPrivatePaths": false
+      }
+    },
+    {
+      "path": "/audit-path-that-does-not-exist-20261001/",
+      "status": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 14618,
+      "sha256": "09052b0d33e2de4db8a50d5171bfc8b5b6bc676cfd1451a29f314cbd8d5f8cbd",
+      "location": null,
+      "xRobotsTag": null,
+      "html": {
+        "lang": "",
+        "title": "Página não encontrada — Clínica de Olhos Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex",
+          "noindex, follow"
+        ],
+        "h1Count": 0,
+        "mainTextCharacters": 0,
+        "articleTextCharacters": 0,
+        "jsonLd": [],
+        "blogPostLinks": null,
+        "publicStylesheets": []
+      }
+    }
+  ],
+  "finishedAt": "2026-10-02T03:14:33.284Z"
+}

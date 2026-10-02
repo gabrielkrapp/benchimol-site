@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-01T21:55:34.572861+00:00",
+  "buildId": "HPDTG2USRXNtqhWS5CzVn",
+  "manifests": 36,
+  "uniqueFiles": 345,
+  "promptFiles": [
+    "docs/prompts/README.md",
+    "docs/prompts/adicionar-pagina.md",
+    "docs/prompts/alterar-cor.md",
+    "docs/prompts/alterar-equipe.md",
+    "docs/prompts/alterar-exame.md",
+    "docs/prompts/alterar-menu.md",
+    "docs/prompts/alterar-midia.md",
+    "docs/prompts/base.md",
+    "docs/prompts/catalog.json",
+    "docs/prompts/melhorar-seo.md",
+    "docs/prompts/recolher-origem-publica.md"
+  ],
+  "failures": [],
+  "passed": true,
+  "scope": "Next server output file traces; public web assets are separate"
+}

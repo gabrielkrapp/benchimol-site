@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "decisions": [
+    {
+      "wpId": 34,
+      "originalPath": "/cirurgia-refrativa/",
+      "publicPath": "/cirurgia-refrativa-artigo/",
+      "type": "article-alias",
+      "approvedBy": "Gabriel Krapp",
+      "approvedAt": "2026-09-30",
+      "reason": "Página WP3216 permanece na URL original; artigo WP34 preservado integralmente em alias aprovado."
+    },
+    {
+      "wpId": 1966,
+      "originalPath": "/por-que-piscamos-os-olhos/",
+      "publicPath": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "type": "article-alias",
+      "approvedBy": "Gabriel Krapp",
+      "approvedAt": "2026-09-30",
+      "reason": "Preservar redirect original para post1970 e recuperar integralmente corpo diferente do post1966 em alias aprovado."
+    }
+  ],
+  "pending": [],
+  "duplicates": [
+    {
+      "wpId": 1959,
+      "canonicalWpId": 1963,
+      "originalPath": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+      "canonicalPath": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "sourceContentSha256": "c89d40ebbeb18dfcfc57cfa46df1af16e512252c7b3d0cb76a7d0513593a0664",
+      "reason": "Corpos exatos iguais; preservar ambos registros por ID e redirect existente."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "width": 1280,
+  "height": 720,
+  "elements": [
+    {
+      "class": "pgc-rev-lb-b-header",
+      "cursor": "auto",
+      "rect": {
+        "bottom": 0,
+        "height": 52,
+        "left": 0,
+        "right": 1265,
+        "top": -52,
+        "width": 1265,
+        "x": 0,
+        "y": -52
+      },
+      "size": "auto",
+      "tag": "DIV",
+      "transform": "matrix(1, 0, 0, 1, 0, -52)"
+    }
+  ]
+}

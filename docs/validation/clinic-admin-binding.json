@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-02T00:27:58.137Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "bindingVerified": true,
+  "tlsVerified": true,
+  "email": "benchimol@benchimolclinic.com.br",
+  "accountCreatedBy": "user",
+  "emailConfirmed": true,
+  "banned": false,
+  "deleted": false,
+  "administratorPresentBefore": false,
+  "authLastSignInBeforeBinding": "2026-10-02T00:09:49.470Z",
+  "administratorInserted": 1,
+  "administratorActive": true,
+  "displayName": "Clínica Benchimol",
+  "committed": true,
+  "authorization": "User explicitly authorized administrative access for this clinic account after the specific confirmation request.",
+  "authUsersCreated": 0,
+  "passwordChanged": false,
+  "emailsSent": 0,
+  "schemaOrPoliciesChanged": false,
+  "uiLoginVerification": "pending"
+}

@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-02T13:53:38.563068Z",
+  "readOnly": true,
+  "name": "benchimol",
+  "projectId": "prj_HnKzCAixkduZvTxkX1s7dc6J183d",
+  "nodeVersion": "24.x",
+  "framework": null,
+  "gitLink": null,
+  "gitConnected": false,
+  "latestProductionConfigured": false,
+  "deployHooksCount": 0,
+  "projectChanged": false,
+  "deploymentTriggered": false
+}

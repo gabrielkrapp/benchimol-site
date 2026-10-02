@@ -1,0 +1,751 @@
+{
+  "startedAt": "2026-10-02T04:30:09.094Z",
+  "origin": "http://127.0.0.1:3000",
+  "scope": "User-controlled Next dev; no production score, mutation, login or cookies.",
+  "checks": [
+    {
+      "path": "/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 270182,
+      "sha256": "73b4e1092ff1f2b8a0f9b023da41a80947104f8e4221ecfdeab480de501c16f5",
+      "html": {
+        "title": "Home - Clínica de Olhos Benchimol",
+        "description": "80 anos de tradição em cuidar da visãoA Clínica de Olhos Benchimol une tradição médica e estrutura tecnológica no cuidado com catarata, retina e exames oftalmológicos no Rio de Janeiro. Clínica de Olhos Benchimol Por que escolher a Clínica Benchimol? PIONEIRISMOEm 1988, nos tornamos a primeira clínica do Rio de Janeiro a criar um centro […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 6805,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "WebSite",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e.css"
+        ],
+        "preloads": [
+          "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp"
+        ],
+        "reviews": {
+          "controls": 5,
+          "dates": 8,
+          "lineBreaks": [
+            0,
+            0,
+            2,
+            3,
+            0,
+            0,
+            4,
+            2
+          ]
+        }
+      }
+    },
+    {
+      "path": "/sobre-nos/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 206003,
+      "sha256": "707721ecf107e324a0142bd6697c23d356a3195ede6cfaf98d550848a0a9a4dd",
+      "html": {
+        "title": "Sobre Nós - Clínica de Olhos Benchimol",
+        "description": "Sobre Nós A história da Clínica de Olhos Benchimol está entrelaçada com a trajetória da família Benchimol, marcada por tradição, pioneirismo e dedicação à medicina. As raízes vêm do século XIX, em Tânger, no Marrocos, onde já existia o Hospital Benchimol. No Brasil, o legado começou com o Dr. Raphael Benchimol, formado em 1946 pela […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/sobre-nos/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 2916,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/2a7395b90def170440dd3937365bf312eea1d62b6327abf55cd2895d5056b613.css"
+        ],
+        "preloads": [
+          "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp"
+        ]
+      }
+    },
+    {
+      "path": "/equipe/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 170827,
+      "sha256": "d37809fe58bb062e586f0bf859f701fa61c6908643a5b2992b619ec39776604b",
+      "html": {
+        "title": "Equipe - Clínica de Olhos Benchimol",
+        "description": "​Conheça a equipe da Clínica de Olhos Benchimol: experiência que promve o melhor cuidado para a sua visão. Agende sua consulta!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/equipe/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 1260,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/a239b4d094dc2fa603b553cb0201cb0c27229c2733257a61139c185ffef56f81.css"
+        ],
+        "preloads": [
+          "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp"
+        ]
+      }
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 131568,
+      "sha256": "8e1f341a1f2822046151a51202acfc89903ec9da60afa71d51ae139b2a1a42ba",
+      "html": {
+        "title": "Exames e Procedimentos - Clínica de Olhos Benchimol",
+        "description": "​Exames e procedimentos avançados para sua visão. Agende seu check-up ocular com a Clínica de Olhos Benchimol!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 3658,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/60ad1790a91cefa407f1eb63ca04e8456d88068b6d77032574f1bf6bc84aa293.css"
+        ],
+        "preloads": [
+          "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp"
+        ]
+      }
+    },
+    {
+      "path": "/blog/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 164957,
+      "sha256": "78f5ecafc566a674d741999f50050849eb9d37bc9b96e8d9ab5f80ea2dda4c5f",
+      "html": {
+        "title": "Blog - Clínica de Olhos Benchimol - Copacabana RJ",
+        "description": "Acesse nosso site e veja mais blogs do mundo da oftalmologia como esse. Cirurgia, exame e tratamento. Unidade em Copacabana e Campo Grande RJ!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/blog/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 1788,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/55117a22b659d4f86ae07220cd2439c9f5a828b7985eaed71148fc018649d78d.css"
+        ],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/blog/page/2/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 164899,
+      "sha256": "03e51981024f86bbe2b9d3ce4136fed94db6b2c6d94d18c93983327317ac3ec3",
+      "html": {
+        "title": "Blog — Página 2 — Clínica de Olhos Benchimol",
+        "description": "Acesse nosso site e veja mais blogs do mundo da oftalmologia como esse. Cirurgia, exame e tratamento. Unidade em Copacabana e Campo Grande RJ!",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/blog/page/2/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 1739,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/55117a22b659d4f86ae07220cd2439c9f5a828b7985eaed71148fc018649d78d.css"
+        ],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 165268,
+      "sha256": "2489c21485269186fda7557c11aac8bffffa6ea0cf4c80f8b558989ab2cc6469",
+      "html": {
+        "title": "Cirurgia refrativa: quais as indicações, como é feita e quais os cuidados no pós-operatório - Clínica de Olhos Benchimol",
+        "description": "A maioria das pessoas adoraria poder se livrar dos óculos ou das lentes de contato. Não é nada prático ter que levar esses acessórios para todos os lados, cuidar da higienização correta, proteger contra riscos e arranhões etc.. Em vários casos, a solução está na cirurgia refrativa, procedimento que vem evoluindo bastante e, com isso, […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 5119,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/3db75451ef019f3b032faa1529a8cd9cafa944d3b32a61a5fe9d63224f340dd0.css"
+        ],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/cirurgia-refrativa-artigo/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 160093,
+      "sha256": "80541e89f51747d4ae64ca9bd23b9c8c6e8c5d5b4ce5c3c6536286a1e78f3c93",
+      "html": {
+        "title": "Cirurgia Refrativa - Clínica de Olhos Benchimol",
+        "description": "A cirurgia refrativa serve para corrigir erros de refração, que são os problemas de visão mais comuns como a miopia, a hipermetropia e o astigmatismo. A cirurgia refrativa atual é moderna, executada por um sistema a laser, corrigindo a visão de modo seguro e o procedimento é feito apenas com anestesia local, através de colírio, […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-artigo/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 3608,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/3db75451ef019f3b032faa1529a8cd9cafa944d3b32a61a5fe9d63224f340dd0.css"
+        ],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 152481,
+      "sha256": "da7aa1d150e19acbc5b1f9d98fcab0e14fd7b171c9bfee15ccefc2a8709d5fac",
+      "html": {
+        "title": "Por que piscamos os olhos? - Clínica de Olhos Benchimol",
+        "description": "A primeira explicação é que ao realizar o movimento de piscar, agentes externos, como poeira ou outros minúsculos elementos, são impedidos de entrar em contato direto com a córnea. Além disso, as lágrimas produzidas a todo o momento pelas glândulas lacrimais, são extremamente importantes para a lubrificação constante dos olhos. Assim, quando piscamos, esse líquido […]",
+        "canonicals": [
+          "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-artigo-2020/"
+        ],
+        "robots": [
+          "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 1321,
+        "jsonLd": [
+          {
+            "valid": true,
+            "graphTypes": [
+              "MedicalOrganization",
+              "MedicalClinic",
+              "MedicalClinic"
+            ],
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BreadcrumbList",
+            "encodedLegacyDescription": false
+          },
+          {
+            "valid": true,
+            "type": "BlogPosting",
+            "encodedLegacyDescription": false
+          }
+        ],
+        "styles": [
+          "/site-styles/3db75451ef019f3b032faa1529a8cd9cafa944d3b32a61a5fe9d63224f340dd0.css"
+        ],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/robots.txt",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/plain",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 585,
+      "sha256": "60fb654baa12ec77eeba8380118bcdd8ccefb04f4e3b145f88a520c9c53ce2b7",
+      "rules": "User-Agent: *\nAllow: /\nAllow: /api/media/\nDisallow: /admin/\nDisallow: /api/\nDisallow: /preview/\n\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: PerplexityBot\nUser-Agent: Perplexity-User\nUser-Agent: Claude-SearchBot\nUser-Agent: Claude-User\nUser-Agent: Googlebot\nUser-Agent: Bingbot\nAllow: /\nAllow: /api/media/\nDisallow: /admin/\nDisallow: /api/\nDisallow: /preview/\n\nUser-Agent: GPTBot\nUser-Agent: ClaudeBot\nUser-Agent: Google-Extended\nUser-Agent: CCBot\nDisallow: /\n\nHost: https://clinicadeolhosbenchimol.com.br\nSitemap: https://clinicadeolhosbenchimol.com.br/sitemap.xml\n"
+    },
+    {
+      "path": "/sitemap.xml",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "application/xml",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 30723,
+      "sha256": "fd6027dbab667bd9fe450e3ef19bb11e664aab3c039ecf2256140cc0116a39a5",
+      "sitemap": {
+        "count": 216,
+        "allCanonical": true,
+        "privatePaths": []
+      }
+    },
+    {
+      "path": "/llms.txt",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "cache-control": "public, max-age=3600",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 1335,
+      "sha256": "7675d717d707ae12818278c59737894f3b9c73c00d06e944c2022e57bb220066"
+    },
+    {
+      "path": "/corrections-path-does-not-exist-20261002/",
+      "expected": 404,
+      "status": 404,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 14620,
+      "sha256": "276993f2a0a6be165adc5d4e5d84bed30d5e866c2e2d2eaa3fdd0e671b7e2385",
+      "html": {
+        "title": "Página não encontrada — Clínica de Olhos Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex",
+          "noindex, follow"
+        ],
+        "h1Count": 0,
+        "mainCharacters": 0,
+        "jsonLd": [],
+        "styles": [],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/admin/login/",
+      "expected": 200,
+      "status": 200,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "no-referrer",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy": "frame-ancestors 'none'; base-uri 'self'; object-src 'none'",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'",
+        "x-robots-tag": "noindex, nofollow",
+        "x-frame-options": "DENY"
+      },
+      "bytes": 13247,
+      "sha256": "0acad2a577c6dc96ed665df2579e5227319d67fe9a9a39884cca7e5b47c529bd",
+      "html": {
+        "title": "Administração | Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex, nofollow"
+        ],
+        "h1Count": 1,
+        "mainCharacters": 0,
+        "jsonLd": [],
+        "styles": [],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/admin/",
+      "expected": 307,
+      "status": 307,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "no-referrer",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy": "frame-ancestors 'none'; base-uri 'self'; object-src 'none'",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'",
+        "x-robots-tag": "noindex, nofollow",
+        "x-frame-options": "DENY",
+        "location": "/admin/login"
+      },
+      "bytes": 15215,
+      "sha256": "1632177671dfa48dfaa4c8755d980725564ae9680d098fb4dd40a9c584c56598",
+      "html": {
+        "title": "Administração | Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex, nofollow"
+        ],
+        "h1Count": 0,
+        "mainCharacters": 0,
+        "jsonLd": [],
+        "styles": [],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/api/admin/posts/",
+      "expected": 401,
+      "status": 401,
+      "passed": true,
+      "headers": {
+        "content-type": "application/json",
+        "cache-control": "private, no-store, max-age=0",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'",
+        "x-robots-tag": "noindex, nofollow"
+      },
+      "bytes": 86,
+      "sha256": "ff52156e943a14981f66b6e46ff9bb74797d16ab69093ee93bb328891af35312"
+    },
+    {
+      "path": "/api/admin/media/",
+      "expected": 401,
+      "status": 401,
+      "passed": true,
+      "headers": {
+        "content-type": "application/json",
+        "cache-control": "private, no-store, max-age=0",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'",
+        "x-robots-tag": "noindex, nofollow"
+      },
+      "bytes": 86,
+      "sha256": "ff52156e943a14981f66b6e46ff9bb74797d16ab69093ee93bb328891af35312"
+    },
+    {
+      "path": "/api/admin/settings/contact/",
+      "expected": 401,
+      "status": 401,
+      "passed": true,
+      "headers": {
+        "content-type": "application/json",
+        "cache-control": "private, no-store, max-age=0",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'",
+        "x-robots-tag": "noindex, nofollow"
+      },
+      "bytes": 86,
+      "sha256": "ff52156e943a14981f66b6e46ff9bb74797d16ab69093ee93bb328891af35312"
+    },
+    {
+      "path": "/docs/context/gabriel-brain-project.md",
+      "expected": 404,
+      "status": 404,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 14617,
+      "sha256": "d016c56ec8378eb0a109f9da380392eca09abb2a22b38427709a7d8f71c59c1d",
+      "html": {
+        "title": "Página não encontrada — Clínica de Olhos Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex",
+          "noindex, follow"
+        ],
+        "h1Count": 0,
+        "mainCharacters": 0,
+        "jsonLd": [],
+        "styles": [],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/.env.prod",
+      "expected": 404,
+      "status": 404,
+      "passed": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "no-cache, must-revalidate",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+        "content-security-policy-report-only": "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://jjrzmuuwuvxcsnwqzvxf.supabase.co ws://127.0.0.1:* ws://localhost:* http://127.0.0.1:54321; frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com; media-src 'self' blob: https:; form-action 'self'; frame-ancestors 'self'"
+      },
+      "bytes": 14553,
+      "sha256": "b924cef0cf5dbca5b77ed99000a96b9a56846176be37be66e0e71d9082ad7506",
+      "html": {
+        "title": "Página não encontrada — Clínica de Olhos Benchimol",
+        "canonicals": [],
+        "robots": [
+          "noindex",
+          "noindex, follow"
+        ],
+        "h1Count": 0,
+        "mainCharacters": 0,
+        "jsonLd": [],
+        "styles": [],
+        "preloads": []
+      }
+    },
+    {
+      "path": "/site-styles/7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e.css",
+      "status": 200,
+      "passed": true,
+      "bytes": 1940707,
+      "sha256": "7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e",
+      "sameBytesAsLocal": true,
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp",
+      "status": 200,
+      "passed": true,
+      "bytes": 848150,
+      "sha256": "1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9",
+      "sameBytesAsLocal": true,
+      "cacheControl": "public, max-age=31536000, immutable"
+    }
+  ],
+  "finishedAt": "2026-10-02T04:30:17.769Z",
+  "passed": true
+}

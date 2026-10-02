@@ -1,0 +1,11 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+ ✓ tests/backend/image-validation.test.ts (20 tests) 149ms
+ ✓ tests/backend/expired-upload-cleanup.test.ts (9 tests) 29ms
+
+ Test Files  2 passed (2)
+      Tests  29 passed (29)
+   Start at  01:02:24
+   Duration  1.39s (import 66%, tests 17%, transform 15%, worker 1%)
+

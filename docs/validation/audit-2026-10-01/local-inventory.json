@@ -1,0 +1,173 @@
+{
+  "checkedAt": "2026-10-02T02:54:04.055248+00:00",
+  "nonRuntimeFiles": 8024,
+  "nonRuntimeBytes": 741078002,
+  "largestFiles": [
+    {
+      "path": "docs/research/restored-2026-09-30-public/assets/b546453742580408cb42.body",
+      "bytes": 12923734
+    },
+    {
+      "path": "public/wp-content/uploads/2025/02/beautiful-girl-with-body-art.jpg",
+      "bytes": 12923734
+    },
+    {
+      "path": "backups/hosted-manual-qa/acima-10mb.png",
+      "bytes": 10485769
+    },
+    {
+      "path": "data/wordpress/routes.json",
+      "bytes": 5418426
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/routes.json",
+      "bytes": 5335119
+    },
+    {
+      "path": "data/wordpress/authenticated-public.json",
+      "bytes": 4330899
+    },
+    {
+      "path": "data/wordpress/pages.json",
+      "bytes": 4241818
+    },
+    {
+      "path": "public/site-styles/07c3be016cb4bcfaa41bcfd82d218e342acfe136a743e9ad3a7a187bc234c2c1.css",
+      "bytes": 4226908
+    },
+    {
+      "path": "public/site-styles/8640a9c8ebc17e7720d142237541d0236d619a837e186123c690b8e32f43e70f.css",
+      "bytes": 4185551
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/posts.json",
+      "bytes": 4050922
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/posts.json",
+      "bytes": 4050171
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/assets/4baa71a876ee4235f6b9.body",
+      "bytes": 2733431
+    },
+    {
+      "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/4baa71a876ee4235/jkiticon.svg",
+      "bytes": 2733431
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/media.json",
+      "bytes": 2725594
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/media.json",
+      "bytes": 2611950
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/api/5d223afc54fdeaec.body",
+      "bytes": 2538605
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/api/5d223afc54fdeaec470c.body",
+      "bytes": 2538289
+    },
+    {
+      "path": "data/wordpress/posts.json",
+      "bytes": 2463995
+    },
+    {
+      "path": "data/wordpress/assets.json",
+      "bytes": 2432484
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/assets.json",
+      "bytes": 2348907
+    },
+    {
+      "path": "public/site-styles/9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3.css",
+      "bytes": 2292204
+    },
+    {
+      "path": "public/site-styles/46e03dad4823d77a8a445285b98b237330d945bac16a2e5acf70028a6397cc9b.css",
+      "bytes": 2192924
+    },
+    {
+      "path": "public/site-styles/2453b7a119f818cc87bc2b78dc9d3139409bb341be585e70fe025e108e117ed6.css",
+      "bytes": 2188885
+    },
+    {
+      "path": "public/site-styles/a60f1d0fa444d178171420639822af5a223c7a2650cb868e8193081a23c8ab96.css",
+      "bytes": 2173391
+    },
+    {
+      "path": "public/site-styles/a267348a175666f2e72bf2a9c1c0b168a24c75e905ece2fa0dad80618b099bce.css",
+      "bytes": 2173096
+    }
+  ],
+  "regenerableMetadataCandidates": [
+    {
+      "path": ".DS_Store",
+      "bytes": 12292
+    },
+    {
+      "path": "supabase/.DS_Store",
+      "bytes": 6148
+    },
+    {
+      "path": "public/.DS_Store",
+      "bytes": 8196
+    },
+    {
+      "path": "public/wp-content/.DS_Store",
+      "bytes": 6148
+    },
+    {
+      "path": "scripts/migration/tests/__pycache__/test_capture_source.cpython-312.pyc",
+      "bytes": 11219
+    },
+    {
+      "path": "scripts/migration/tests/__pycache__/test_capture_source.cpython-314.pyc",
+      "bytes": 11676
+    },
+    {
+      "path": "scripts/migration/tests/__pycache__/test_authenticated_export.cpython-312.pyc",
+      "bytes": 3965
+    },
+    {
+      "path": "scripts/migration/tests/__pycache__/test_authenticated_export.cpython-314.pyc",
+      "bytes": 4125
+    },
+    {
+      "path": "scripts/migration/__pycache__/reconcile-authenticated-export.cpython-312.pyc",
+      "bytes": 6585
+    },
+    {
+      "path": "scripts/migration/__pycache__/reconcile-authenticated-export.cpython-314.pyc",
+      "bytes": 6818
+    },
+    {
+      "path": "scripts/migration/__pycache__/capture-source.cpython-314.pyc",
+      "bytes": 64398
+    },
+    {
+      "path": "scripts/migration/__pycache__/capture-source.cpython-312.pyc",
+      "bytes": 58072
+    },
+    {
+      "path": "data/.DS_Store",
+      "bytes": 6148
+    },
+    {
+      "path": "src/.DS_Store",
+      "bytes": 10244
+    }
+  ],
+  "excludedDirs": [
+    ".git",
+    ".local-supabase",
+    ".next",
+    ".next-supabase-local",
+    "node_modules"
+  ],
+  "deleted": false
+}

@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-02T01:22:12.409Z",
+  "authenticated": false,
+  "data": [
+    {
+      "path": "/api/admin/posts",
+      "status": 308,
+      "location": "/api/admin/posts/",
+      "qaSlugPresent": false,
+      "robots": null
+    },
+    {
+      "path": "/api/admin/media",
+      "status": 308,
+      "location": "/api/admin/media/",
+      "qaSlugPresent": false,
+      "robots": null
+    },
+    {
+      "path": "/api/admin/settings/contact",
+      "status": 308,
+      "location": "/api/admin/settings/contact/",
+      "qaSlugPresent": false,
+      "robots": null
+    },
+    {
+      "path": "/api/admin/prompts",
+      "status": 308,
+      "location": "/api/admin/prompts/",
+      "qaSlugPresent": false,
+      "robots": null
+    },
+    {
+      "path": "/admin/posts/def0c85d-5c18-44ea-97fe-806ebe9674ce/preview/",
+      "status": 307,
+      "location": "/admin/login",
+      "qaSlugPresent": false,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5",
+      "status": 308,
+      "location": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5/",
+      "qaSlugPresent": false,
+      "robots": null
+    },
+    {
+      "path": "/qa-20261002-003846/",
+      "status": 404,
+      "location": null,
+      "qaSlugPresent": true,
+      "robots": null
+    },
+    {
+      "path": "/qa-20261002-003846-editado/",
+      "status": 404,
+      "location": null,
+      "qaSlugPresent": true,
+      "robots": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "location": null,
+      "qaSlugPresent": false,
+      "robots": null
+    }
+  ]
+}

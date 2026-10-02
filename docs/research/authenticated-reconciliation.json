@@ -1,0 +1,45 @@
+{
+  "source": "authenticated WXR, public-only allowlist",
+  "counts": {
+    "allItems": 804,
+    "byType": {
+      "attachment": 552,
+      "elementor_library": 23,
+      "custom_css": 1,
+      "elementor_snippet": 5,
+      "page": 39,
+      "nav_menu_item": 14,
+      "pgc_simply_gallery": 2,
+      "popup": 4,
+      "post": 154,
+      "popup_theme": 8,
+      "wp_global_styles": 2
+    },
+    "byStatus": {
+      "inherit": 551,
+      "publish": 251,
+      "private": 1,
+      "draft": 1
+    }
+  },
+  "publicExtracted": 797,
+  "excluded": "all comments, private/draft items, author email/login/password, executable snippets and non-allowlisted metadata",
+  "posts": {
+    "publicCount": 154,
+    "authenticatedPublicCount": 154,
+    "missingInPublic": [],
+    "missingInExport": []
+  },
+  "pages": {
+    "publicCount": 38,
+    "authenticatedPublicCount": 38,
+    "missingInPublic": [],
+    "missingInExport": []
+  },
+  "media": {
+    "publicCount": 551,
+    "authenticatedPublicCount": 551,
+    "missingInPublic": [],
+    "missingInExport": []
+  }
+}

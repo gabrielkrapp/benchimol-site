@@ -1,0 +1,14 @@
+{
+  "capturedAt": "2026-10-01T22:01:33.078Z",
+  "nav": {
+    "class": "hfe-nav-menu__layout-vertical hfe-nav-menu__submenu-arrow hfe-dropdown",
+    "height": 0,
+    "style": "width: auto; left: 0px; z-index: 0;"
+  },
+  "ul": {
+    "class": "sub-menu sub-menu-open",
+    "position": "relative",
+    "style": "position: relative; visibility: visible; opacity: 1; height: auto; transition: 0.3s;",
+    "visibility": "visible"
+  }
+}

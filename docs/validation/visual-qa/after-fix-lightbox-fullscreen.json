@@ -1,0 +1,41 @@
+{
+  "capturedAt": "2026-10-01T21:22:43.295Z",
+  "buildId": "7Nr270cFVGeZkuvIHvcQs",
+  "initial": {
+    "arrows": [
+      {
+        "height": 50,
+        "points": "352,115.4 331.3,96 160,256 331.3,416 352,396.7 201.5,256",
+        "svgHeight": 50,
+        "svgWidth": 55,
+        "width": 55
+      },
+      {
+        "height": 50,
+        "points": "160,115.4 180.7,96 352,256 180.7,416 160,396.7 310.5,256",
+        "svgHeight": 50,
+        "svgWidth": 55,
+        "width": 55
+      }
+    ],
+    "feedback": null,
+    "fullscreenClass": null,
+    "fullscreenTag": null,
+    "loopScrollLeft": 0,
+    "pressed": "true"
+  },
+  "entered": {
+    "feedback": null,
+    "matchesFullscreen": true,
+    "pressed": "true",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    }
+  },
+  "exited": {
+    "feedback": null,
+    "matchesFullscreen": false,
+    "pressed": "false"
+  }
+}

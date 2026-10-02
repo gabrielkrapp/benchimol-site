@@ -1,0 +1,889 @@
+{
+  "buildId": "HPDTG2USRXNtqhWS5CzVn",
+  "capturedAt": "2026-10-01T21:56:57.776Z",
+  "collectorAgent": "/root",
+  "states": [
+    {
+      "state": "closed",
+      "clientWidth": 375,
+      "focus": "Ir para o conteúdo\n\n\t\t\t\t\t\t\t\tHomeSobre NósEquipeEspecialidadesCatarataRetinopatia",
+      "links": [
+        {
+          "tabIndex": -1,
+          "text": "Home",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Sobre Nós",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Equipe",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Especialidades",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Exames",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Serviços",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Convênios",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Blog",
+          "visible": "hidden"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "true",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable",
+        "expanded": "false",
+        "icon": "fas fa-align-justify",
+        "label": "Abrir menu"
+      },
+      "width": 390
+    },
+    {
+      "state": "open",
+      "clientWidth": 375,
+      "focus": "Menu",
+      "links": [
+        {
+          "tabIndex": 0,
+          "text": "Home",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Sobre Nós",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Equipe",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Especialidades",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Exames",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Serviços",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Convênios",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Blog",
+          "visible": "visible"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "false",
+        "height": 256,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable hfe-active-menu",
+        "expanded": "true",
+        "icon": "far fa-window-close",
+        "label": "Fechar menu"
+      },
+      "width": 390
+    },
+    {
+      "state": "submenu-open",
+      "clientWidth": 375,
+      "focus": "Especialidades",
+      "links": [
+        {
+          "tabIndex": 0,
+          "text": "Home",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Sobre Nós",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Equipe",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Especialidades",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Catarata",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Retinopatia diabética",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Glaucoma",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Olho seco",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Cirurgia refrativa",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Exames",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Serviços",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Convênios",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Blog",
+          "visible": "visible"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "false",
+        "height": 256,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "submenu": {
+        "ariaHidden": "false",
+        "class": "hfe-has-submenu-container sub-menu-active",
+        "expanded": "true",
+        "height": 250,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable hfe-active-menu",
+        "expanded": "true",
+        "icon": "far fa-window-close",
+        "label": "Fechar menu"
+      },
+      "width": 390
+    },
+    {
+      "state": "closed-after-submenu",
+      "clientWidth": 375,
+      "focus": "Menu",
+      "links": [
+        {
+          "tabIndex": -1,
+          "text": "Home",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Sobre Nós",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Equipe",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Especialidades",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Exames",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Serviços",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Convênios",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Blog",
+          "visible": "hidden"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "true",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable",
+        "expanded": "false",
+        "icon": "fas fa-align-justify",
+        "label": "Abrir menu"
+      },
+      "width": 390
+    },
+    {
+      "state": "reopened",
+      "clientWidth": 375,
+      "focus": "Menu",
+      "links": [
+        {
+          "tabIndex": 0,
+          "text": "Home",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Sobre Nós",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Equipe",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Especialidades",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Exames",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Serviços",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Convênios",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Blog",
+          "visible": "visible"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "false",
+        "height": 256,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable hfe-active-menu",
+        "expanded": "true",
+        "icon": "far fa-window-close",
+        "label": "Fechar menu"
+      },
+      "width": 390
+    },
+    {
+      "state": "closed",
+      "clientWidth": 753,
+      "focus": "Ir para o conteúdo\n\n\t\t\t\t\t\t\t\tHomeSobre NósEquipeEspecialidadesCatarataRetinopatia",
+      "links": [
+        {
+          "tabIndex": -1,
+          "text": "Home",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Sobre Nós",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Equipe",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Especialidades",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Exames",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Serviços",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Convênios",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Blog",
+          "visible": "hidden"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "true",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable",
+        "expanded": "false",
+        "icon": "fas fa-align-justify",
+        "label": "Abrir menu"
+      },
+      "width": 768
+    },
+    {
+      "state": "open",
+      "clientWidth": 753,
+      "focus": "Menu",
+      "links": [
+        {
+          "tabIndex": 0,
+          "text": "Home",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Sobre Nós",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Equipe",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Especialidades",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Exames",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Serviços",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Convênios",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Blog",
+          "visible": "visible"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "false",
+        "height": 256,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable hfe-active-menu",
+        "expanded": "true",
+        "icon": "far fa-window-close",
+        "label": "Fechar menu"
+      },
+      "width": 768
+    },
+    {
+      "state": "submenu-open",
+      "clientWidth": 753,
+      "focus": "Especialidades",
+      "links": [
+        {
+          "tabIndex": 0,
+          "text": "Home",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Sobre Nós",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Equipe",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Especialidades",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Catarata",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Retinopatia diabética",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Glaucoma",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Olho seco",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Cirurgia refrativa",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Exames",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Serviços",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Convênios",
+          "visible": "visible"
+        },
+        {
+          "tabIndex": 0,
+          "text": "Blog",
+          "visible": "visible"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "false",
+        "height": 256,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "submenu": {
+        "ariaHidden": "false",
+        "class": "hfe-has-submenu-container sub-menu-active",
+        "expanded": "true",
+        "height": 250,
+        "opacity": "1",
+        "visibility": "visible"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable hfe-active-menu",
+        "expanded": "true",
+        "icon": "far fa-window-close",
+        "label": "Fechar menu"
+      },
+      "width": 768
+    },
+    {
+      "state": "closed-after-submenu",
+      "clientWidth": 753,
+      "focus": "Menu",
+      "links": [
+        {
+          "tabIndex": -1,
+          "text": "Home",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Sobre Nós",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Equipe",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Especialidades",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Catarata",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Retinopatia diabética",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Glaucoma",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Degeneração Macular Relacionada à Idade – DMRI",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Olho seco",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Cirurgia refrativa",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Exames",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Serviços",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Convênios",
+          "visible": "hidden"
+        },
+        {
+          "tabIndex": -1,
+          "text": "Blog",
+          "visible": "hidden"
+        }
+      ],
+      "nav": {
+        "ariaHidden": "true",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "submenu": {
+        "ariaHidden": "true",
+        "class": "hfe-has-submenu-container",
+        "expanded": "false",
+        "height": 0,
+        "opacity": "0",
+        "visibility": "hidden"
+      },
+      "toggle": {
+        "class": "hfe-nav-menu__toggle elementor-clickable",
+        "expanded": "false",
+        "icon": "fas fa-align-justify",
+        "label": "Abrir menu"
+      },
+      "width": 768
+    }
+  ]
+}

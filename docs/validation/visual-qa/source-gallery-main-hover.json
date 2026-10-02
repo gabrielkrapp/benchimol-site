@@ -1,0 +1,91 @@
+{
+  "capturedAt": "2026-10-01T22:03:31.244Z",
+  "items": [
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    },
+    {
+      "background": "rgba(0, 0, 0, 0.4)",
+      "class": "pgcsimplygalleryblock-slider-item-hover",
+      "height": 456.5,
+      "hover": false,
+      "inline": null,
+      "opacity": "0.01",
+      "position": "absolute",
+      "width": 374
+    }
+  ],
+  "rules": [
+    ".pgcsimplygalleryblock-slider-item .pgcsimplygalleryblock-slider-item-hover { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 0.01; transition: opacity 0.45s; }",
+    ".pgcsimplygalleryblock-slider-item.hover .pgcsimplygalleryblock-slider-item-hover { opacity: 1; }",
+    "div[data-gallery-id=\"8ad18180\"] .pgcsimplygalleryblock-slider-item-hover { background-color: rgba(0, 0, 0, 0.4); }"
+  ],
+  "width": 1280
+}

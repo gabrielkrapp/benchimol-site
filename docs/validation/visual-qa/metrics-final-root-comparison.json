@@ -1,0 +1,74 @@
+[
+  {
+    "family": "blog",
+    "width": 390,
+    "buildId": "LT5XtX2XqdFBQDKFelcC9",
+    "collectorAgent": "/root",
+    "clientWidth": 375,
+    "headings": 16,
+    "maps": 2,
+    "documentHeight": 6216,
+    "sourceHeight": 6212,
+    "headingStyleDifferences": []
+  },
+  {
+    "family": "blog",
+    "width": 768,
+    "buildId": "LT5XtX2XqdFBQDKFelcC9",
+    "collectorAgent": "/root",
+    "clientWidth": 753,
+    "headings": 16,
+    "maps": 2,
+    "documentHeight": 7113,
+    "sourceHeight": 7125,
+    "headingStyleDifferences": []
+  },
+  {
+    "family": "blog",
+    "width": 1440,
+    "buildId": "LT5XtX2XqdFBQDKFelcC9",
+    "collectorAgent": "/root",
+    "clientWidth": 1425,
+    "headings": 16,
+    "maps": 2,
+    "documentHeight": 3001,
+    "sourceHeight": 3033,
+    "headingStyleDifferences": []
+  },
+  {
+    "family": "galeria",
+    "width": 390,
+    "buildId": "HUHevW-DGRcC9RbS-5oQu",
+    "collectorAgent": "/root",
+    "clientWidth": 375,
+    "headings": 7,
+    "maps": 2,
+    "documentHeight": 2322,
+    "sourceHeight": 2786,
+    "headingStyleDifferences": []
+  },
+  {
+    "family": "galeria",
+    "width": 768,
+    "buildId": "HUHevW-DGRcC9RbS-5oQu",
+    "collectorAgent": "/root",
+    "clientWidth": 753,
+    "headings": 7,
+    "maps": 2,
+    "documentHeight": 1808,
+    "sourceHeight": 2305,
+    "headingStyleDifferences": []
+  },
+  {
+    "family": "galeria",
+    "width": 1440,
+    "buildId": "HUHevW-DGRcC9RbS-5oQu",
+    "collectorAgent": "/root",
+    "clientWidth": 1425,
+    "headings": 7,
+    "maps": 2,
+    "documentHeight": 1243,
+    "sourceHeight": 1722,
+    "headingStyleDifferences": []
+  }
+]

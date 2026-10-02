@@ -1,0 +1,38 @@
+{
+  "width": 1280,
+  "height": 720,
+  "sharingObserved": [
+    {
+      "buttons": [],
+      "class": "pgc-rev-share-bar-light-view pgc-rev-share-bar-light-fixed pgc-rev-share-bar-light-activate",
+      "display": "flex",
+      "rect": {
+        "bottom": 720,
+        "height": 720,
+        "left": 0,
+        "right": 1265,
+        "top": 0,
+        "width": 1265,
+        "x": 0,
+        "y": 0
+      },
+      "text": ".pgc-rev-share-bar-light-button:hover{fill:rgba(200,200,200,1)}"
+    },
+    {
+      "buttons": [],
+      "class": "pgc-rev-share-bar-light-bg",
+      "display": "block",
+      "rect": {
+        "bottom": 720,
+        "height": 720,
+        "left": 0,
+        "right": 1265,
+        "top": 0,
+        "width": 1265,
+        "x": 0,
+        "y": 0
+      },
+      "text": ""
+    }
+  ]
+}
