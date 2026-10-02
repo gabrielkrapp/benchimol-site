@@ -1,0 +1,2856 @@
+{
+  "captured_at_utc": "2026-09-30T11:38:37.211068+00:00",
+  "source": "https://clinicadeolhosbenchimol.com.br",
+  "scope": "Public GET only, no login. CSS captured; image/video bytes not downloaded.",
+  "api": {
+    "posts": {
+      "reported_total": 154,
+      "captured_count": 154,
+      "pages_requested": 2
+    },
+    "pages": {
+      "reported_total": 38,
+      "captured_count": 38,
+      "pages_requested": 1
+    },
+    "categories": {
+      "reported_total": 10,
+      "captured_count": 10,
+      "pages_requested": 1
+    },
+    "tags": {
+      "reported_total": 81,
+      "captured_count": 81,
+      "pages_requested": 1
+    },
+    "media": {
+      "reported_total": 551,
+      "captured_count": 527,
+      "pages_requested": 6
+    },
+    "galleries": {
+      "reported_total": 2,
+      "captured_count": 2,
+      "pages_requested": 1
+    },
+    "comments-sample": {
+      "reported_total": 1,
+      "captured_count": 1,
+      "pages_requested": 1
+    }
+  },
+  "route_count": 289,
+  "css_count": 1,
+  "requests": [
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/",
+      "bytes": 142748,
+      "sha256": "5075d71786ae66325d881a7d42fc49c47d80cf643b4db989812ae6761741c46f",
+      "file": "discovery/0db050e737017b81.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/robots.txt",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/robots.txt",
+      "bytes": 188,
+      "sha256": "1c753bc8b7eea095851ac99657372563c578463c0c11c73e57b6620b3cb1e93f",
+      "file": "discovery/52cd848baf1114e1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/sitemap_index.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/sitemap_index.xml",
+      "bytes": 1010,
+      "sha256": "5d62b9c9aa243354514366111bf33c11a4b45ea50b2dcc69aaa9c5608f0deb61",
+      "file": "discovery/682a1c2ff396c890.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/",
+      "bytes": 403750,
+      "sha256": "fa6a6b6fbd167fff19a276e395a3af00d259140b3ac2b29ced4cf6a33d3ec923",
+      "file": "discovery/457f447cac33a0b4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/post-sitemap.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/post-sitemap.xml",
+      "bytes": 65673,
+      "sha256": "abbf6b2886d0cf47e3df8c522c3bd85033a4924460099378210b4748f1ec9c2e",
+      "file": "sitemaps/c92751c07875f395.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/page-sitemap.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/page-sitemap.xml",
+      "bytes": 29250,
+      "sha256": "565cb6dd03512a5b2cf0e71627b3ef26f7bf707e6acb8fc1c0b9e2ee18f2abc0",
+      "file": "sitemaps/9948f9d1c2575881.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery-sitemap.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery-sitemap.xml",
+      "bytes": 5240,
+      "sha256": "63467bc4c2afef65b8ae91d1b07acf048943737a46a4f99a0066cec8dc007d8b",
+      "file": "sitemaps/291d0ee5f1e95e8c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category-sitemap.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category-sitemap.xml",
+      "bytes": 898,
+      "sha256": "250e27c2acf03eef0b150b6966a528695a6be33a10a29a975bf430e423fd0520",
+      "file": "sitemaps/e46b9b7a251fe118.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/post_tag-sitemap.xml",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/post_tag-sitemap.xml",
+      "bytes": 3245,
+      "sha256": "abf5af9b47f69c929dabcbfa12b9cd4987d5a83776ede74496eea69692185a19",
+      "file": "sitemaps/be6aa85416f6dc7a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/posts?per_page=100&page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/posts?per_page=100&page=1",
+      "bytes": 2538605,
+      "sha256": "0e76b76b862f374715b31cb1608faa5826112a4d832f2140721b760a08523cd5",
+      "file": "api/5d223afc54fdeaec.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/posts?per_page=100&page=2",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/posts?per_page=100&page=2",
+      "bytes": 1142430,
+      "sha256": "ea46751c530350b587c472696a2e44be307f2f29071aa37a68646500fc9645a6",
+      "file": "api/5fced48de167552d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/pages?per_page=100&page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/pages?per_page=100&page=1",
+      "bytes": 871904,
+      "sha256": "4799562bf7276e0446e64d32415526f25da4e41087ae3f01eb7cdf04509592a8",
+      "file": "api/21b65ae85162c435.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/categories?per_page=100&page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/categories?per_page=100&page=1",
+      "bytes": 72523,
+      "sha256": "f9fb0a5648f288c54bff3533c65d2e4fc195ed35a14e92eae46b2d4027471c31",
+      "file": "api/6baf31d3c779d279.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/tags?per_page=100&page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/tags?per_page=100&page=1",
+      "bytes": 574086,
+      "sha256": "67f350f716ae202dc6b39d9bec3debc1bab182bfb9f6ab003b01e76902ca4c6c",
+      "file": "api/364b25c20faa94ec.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=1",
+      "bytes": 349868,
+      "sha256": "733e109a134db91893d37e9df3b0f665cddfbc0d5d940cbc2b8d7644d9c1d25c",
+      "file": "api/a4f2cf278ad6ad0f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=2",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=2",
+      "bytes": 379136,
+      "sha256": "35eea49d4d7129e7cb271d3d21c090b7ee3e0a9ce31dc7fc0dc5d4866de28669",
+      "file": "api/a8d0a11cde3acc69.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=3",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=3",
+      "bytes": 369662,
+      "sha256": "c0b127dc3393934e2b54f0d27d84b68519285da2f08b479ded54a2e4bd827710",
+      "file": "api/34063a7803b07992.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=4",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=4",
+      "bytes": 384131,
+      "sha256": "1d9be2e744ff3a67e21291394029539905ecb9143b41d88ff72b5d3b2ba58036",
+      "file": "api/cd67db8a64e580b8.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=5",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=5",
+      "bytes": 302854,
+      "sha256": "fc0fca90824561d96189d88dd0544225c50219795534e5f1a73e7763f3d81986",
+      "file": "api/29ec827022878dbc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=6",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/media?per_page=100&page=6",
+      "bytes": 212774,
+      "sha256": "8d1e0dfc499755eaf9a3cab02ae35a7a75fd85024682d6f6b241b1d3ceee6764",
+      "file": "api/53728b632cf4bc21.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/",
+      "bytes": 142748,
+      "sha256": "65ed5626294a2231d5aa043255560c1f9b543ace1bca187a8a16d82e030eea12",
+      "file": "html/0db050e737017b81.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/14-de-novembro-dia-mundial-do-diabetes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/14-de-novembro-dia-mundial-do-diabetes/",
+      "bytes": 111853,
+      "sha256": "287ad15e5d39e0f7487b65f054df1f0fec2bdf96c6128654691570d086d5c8c1",
+      "file": "html/f78873264d30ef4a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/4-curiosidades-sobre-a-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/4-curiosidades-sobre-a-visao/",
+      "bytes": 112144,
+      "sha256": "4a1980701e73f282451a91a238b7761b0aff7c6931a545aaefe73ddb19c8bb8f",
+      "file": "html/374942e91c76ab98.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "bytes": 106654,
+      "sha256": "452d358f1ea16cadf63e44998b95e9737be303ee81b513ac6b2d03e9b98a168a",
+      "file": "html/6524be3787bc287f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "bytes": 112511,
+      "sha256": "a721976a7b133ed4fa3b128ae1ace7598d64a3ec52ee0e64cabb2802395be06e",
+      "file": "html/85226a9ec4b16f9d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "bytes": 111772,
+      "sha256": "57d4194db1a9c87ad64ca3292ead5faadba84c2cfc19ff19c254db3db8e3ebd7",
+      "file": "html/886f6309f76e3dc4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "bytes": 112055,
+      "sha256": "1e9f86646f6db29c0a4f64499dee305dac73706cae35febeac9be3dbd0aa162b",
+      "file": "html/68383f29ef0c4980.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oculares/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oculares/",
+      "bytes": 112156,
+      "sha256": "08f0c3303b6f1115c0aafefa1dbb61f70cb1e9593e197da94865217b8373d2e7",
+      "file": "html/c3c842aee282eb2f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "bytes": 110563,
+      "sha256": "c48f55fc1f9c31d4647cba2d10328910c26fd7c37ca986e3de6f96f048dfee7e",
+      "file": "html/d6c9638f4e72e8db.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "bytes": 108156,
+      "sha256": "7593110e0603f77bd7dd2d64b7dba1dc92109243ec55344007c6dcc342ed268e",
+      "file": "html/68cd5ed4cdd6abe1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-saude-ocular-da-mulher/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-saude-ocular-da-mulher/",
+      "bytes": 102511,
+      "sha256": "c0e2b397e526ef9bcaf7360e7cf9c61a5b9b853debe2cc402db78849792d304c",
+      "file": "html/e4437722bfe68284.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "bytes": 115906,
+      "sha256": "53779d33eee89f71a7c48528fae62ffc3f55323e025116c1b677aa4cf2569f72",
+      "file": "html/aa2e7773c3264355.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "bytes": 111648,
+      "sha256": "811a522c0b5cf62daa023f5c3e9d03e6082259f213803be92a7c4ad63c3e0556",
+      "file": "html/b3241ecfbf14b861.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "bytes": 118540,
+      "sha256": "cd075af732cfc6b29c6794b15e48d17a3b9131727ff342711078959a696b7033",
+      "file": "html/7668bb9fe40256e9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/alerta-para-as-doencas-raras-oculares/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/alerta-para-as-doencas-raras-oculares/",
+      "bytes": 102986,
+      "sha256": "00a396481509e946ca60dc8067ea609a1da33078570d26f2b80d0e4cfeddb185",
+      "file": "html/2087e91dc2c3f47a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/alimentos-que-fazem-bem-para-os-olhos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/alimentos-que-fazem-bem-para-os-olhos/",
+      "bytes": 105938,
+      "sha256": "5e076990bf3f751b350a185a1d82d0a9129683040cff49e380d9b96fd8af2da3",
+      "file": "html/e10e0d1404cf5674.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/ambliopia-ou-olho-preguicoso/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/ambliopia-ou-olho-preguicoso/",
+      "bytes": 111223,
+      "sha256": "8b4435e8afaa16453696d6d094770b19a90a62aac10ddacc14610af838be50da",
+      "file": "html/ecd6829b8fb495c5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "bytes": 114128,
+      "sha256": "0a95cd2f657a4d041e70e1654ab6ca7bddc4f341950121c84846936f719f7309",
+      "file": "html/482379c5ce909df7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "bytes": 114469,
+      "sha256": "990f5522c5ff952d3738a1faf11193a02b431f409d62c7ae93e4cfed8b6495cb",
+      "file": "html/406e58ef84632cfd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "bytes": 113387,
+      "sha256": "e0d3a4fcd2ca219f47b946b007f5d5284b62de1d44b05ae73e12c07f7fc6cd2b",
+      "file": "html/4a4edf72b6f3b3ed.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/astigmatismo/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/astigmatismo/",
+      "bytes": 112306,
+      "sha256": "fd9279d3901d5a2845d93a5a28bf806b066494de4bf67aafc92e2a06de4b952b",
+      "file": "html/f47f813fb77c891b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/atividade-fisica-e-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/atividade-fisica-e-saude-ocular/",
+      "bytes": 111766,
+      "sha256": "5937afd93e81ce46e662f2c5a35a786097a5bae988da9e6c9c5060df65aa3c25",
+      "file": "html/fcdcef33de0e6d92.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/auto-refrator/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/auto-refrator/",
+      "bytes": 111241,
+      "sha256": "6e4a5ec48fb9e1165d9d141474a237ac6cd0798d46ca113a243e031f396f2982",
+      "file": "html/c480ca99adee88ee.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "bytes": 112907,
+      "sha256": "087f4ee2a917f14f6876dacd032aed3948a0f7653aea74b160c9d438ef92ba18",
+      "file": "html/1b8a7c1d6e85d3e6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/blefarite/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/blefarite/",
+      "bytes": 110765,
+      "sha256": "7964aeb8bd8fe0a956d0b7663b70dd79d5984e339118f69ac8b9fc58d6e810c3",
+      "file": "html/ba07e5bc7a3c8108.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/blog/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/blog/",
+      "bytes": 118567,
+      "sha256": "08ed85ce25f6bd595b3c5aba2564cb46fe59aa7f86453530132db03585148227",
+      "file": "html/64fb87dfbe26c518.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "bytes": 107226,
+      "sha256": "0e9c71f436d95eb854c97b781491b33e5f960659ea04a8b60649fe86d17dfc74",
+      "file": "html/3b4f826f53070cc5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "bytes": 108869,
+      "sha256": "653888c9c25660dd2e92720c579133676a839808517bf39d55c5142f9439586b",
+      "file": "html/b0a9b59d3c6baed2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "bytes": 108011,
+      "sha256": "ea8fadaab4c4892b49aee16c742559764b2337d2435c4ec25e5127975059a1fc",
+      "file": "html/28855b657cc83b8d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/catarata-sintomas-causas-tipos-e-tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/catarata-sintomas-causas-tipos-e-tratamento/",
+      "bytes": 116864,
+      "sha256": "4d1130e3c4deadaf4ab6fcc81a03064fef54cc3a7938fc16fcc4c80674bf34ec",
+      "file": "html/201a10c713741c34.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "bytes": 116687,
+      "sha256": "6a23fd8a23e1445a24285925df68014ebc7cc7dbf228df99a0acddc95531c3fd",
+      "file": "html/44e291aa8b60d2a1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/catarata/",
+      "bytes": 70502,
+      "sha256": "e8ab1dafb48b4f09a6c309b33a3c0439eb11e94c605bea71a0050d18fca4526d",
+      "file": "html/dc31de0165058bc9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/bingo-bash-free-chips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/bingo-bash-free-chips/",
+      "bytes": 82731,
+      "sha256": "c65f361f6a13d357cf0b8a5aa98831a0b01bc4dbae96d0244ccc676b744d51fd",
+      "file": "html/b792fddb05732fed.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/bingo-drive-free-credits/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/bingo-drive-free-credits/",
+      "bytes": 82777,
+      "sha256": "9e45d56e02e88a97ecda99d15907011a5d34f0821e03ae71f12dfca1b07e21d0",
+      "file": "html/f78ab87f4f900c6a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/blog/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/blog/",
+      "bytes": 100711,
+      "sha256": "c1eafd34da853551edd2b76328788793ded95697c977de7dc0e20d7d56cae3ac",
+      "file": "html/5cc4478a2888e803.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/board-kings-free-gems-diamonds/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/board-kings-free-gems-diamonds/",
+      "bytes": 82869,
+      "sha256": "72a2fe7639fa5922d5cee9c45de5e6d182fc9efd84eedd2f4b02e8a1799b1de8",
+      "file": "html/126cd8a6ce7efa86.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/coin-master-free-spins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/coin-master-free-spins/",
+      "bytes": 82745,
+      "sha256": "25de678b9ec6da0e3002edcb84a2633549b169804492827c2ea00519b34c9f8e",
+      "file": "html/6607105f2cb77f34.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/dice-dreams-free-rolls-hack-deutsch/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/dice-dreams-free-rolls-hack-deutsch/",
+      "bytes": 82947,
+      "sha256": "1b38b1f8c084c1eae14786a5c1f63fd87ca5e46694bba18683be09b33abffb94",
+      "file": "html/0101e8dbdb8076c6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/family-island-free-energy/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/family-island-free-energy/",
+      "bytes": 82837,
+      "sha256": "ff2eacdcb19772dfc69e57856db0da8d27999a6ccd6d010ab7d66cd94706f932",
+      "file": "html/fae898c8d93f5e17.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/gaminator-bonus-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/gaminator-bonus-coins/",
+      "bytes": 82777,
+      "sha256": "1a312744c3a096ef3a3318e8e8a0a69d1d0ea5fdb1ec91e79fa572248ada27fb",
+      "file": "html/1a70f9a5e540d42a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/oftalmologia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/oftalmologia/",
+      "bytes": 101368,
+      "sha256": "6226b20d49cb77550aad7f7546b27c3c5779348ab539e022359b4b047ea35d85",
+      "file": "html/27465db52f3142d5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/category/solitaire-grand-harvest-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/category/solitaire-grand-harvest-free-coins/",
+      "bytes": 82975,
+      "sha256": "ef2d77a71cd597fb45017d71dab58b695bbaa4dac76dc2da4510563ed50ae11b",
+      "file": "html/84103b0d529997f5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/causas-da-miopia-vao-alem-da-genetica/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/causas-da-miopia-vao-alem-da-genetica/",
+      "bytes": 112377,
+      "sha256": "362d9c1985677c9213d7390caa6d8f6c2680a565997a32d3f7aaf990f666983a",
+      "file": "html/4be3013275021d1c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/ceratocone-causas-sintomas-e-tratamentos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/ceratocone-causas-sintomas-e-tratamentos/",
+      "bytes": 114944,
+      "sha256": "0cd4c80a998bd57cb8b3a4d3508b16d1c8b30ea5b0941ef1cff25e36259f2762",
+      "file": "html/ca3693e709c98e00.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/certificacoes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/certificacoes/",
+      "bytes": 97459,
+      "sha256": "b936c4126e2d61eb8cfed13ceb8772085f287b2ae1a1d7ff1a31438f27efa7b2",
+      "file": "html/fcc8315328c3e94a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/check-up-ocular-anual/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/check-up-ocular-anual/",
+      "bytes": 112015,
+      "sha256": "555e4a44e3203583972d4f1fbce75ac5d2151f825eb19b084e5168a3cbea0287",
+      "file": "html/8250ce68e2b35afe.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "bytes": 113650,
+      "sha256": "413f0d211833fcafc07b19a82f0a42b3a7e00bd67a6ca8d8812d8cf01c1961a2",
+      "file": "html/6e2ca32e89fdfa69.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "bytes": 109073,
+      "sha256": "520120d4a2d4380e628d2d505d9053b28acbf1dc75abae8d9a3f28cd07a1c457",
+      "file": "html/c8fbf5ea240ad4a9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "bytes": 108460,
+      "sha256": "9619be1aa4169a254795ccfb429814951a36d750e506d946200417b898c81cc9",
+      "file": "html/01b511a2467e6f87.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa/",
+      "bytes": 92965,
+      "sha256": "4dfed0891729954cfebcf264045188dbc0381873b54a885de072716fce030cc1",
+      "file": "html/74a324542ece76e0.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "bytes": 118182,
+      "sha256": "48e359266b65ddfc4357920f016f3716deaca323c76f19197775676d985639f6",
+      "file": "html/ff82de9c22c9ea6e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "bytes": 117025,
+      "sha256": "d3d33f5a4c45f66737bd7aea684ebf2583629fd126cab482a44acfb32d91695f",
+      "file": "html/3f34f7f0cb57cabf.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "bytes": 124174,
+      "sha256": "f9c33c366fa5240d0370b3ec9296bbe575722374a95fe6d5aa3acd0e997544e8",
+      "file": "html/2f8912b2bcd52ef1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/colesterol-e-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/colesterol-e-saude-ocular/",
+      "bytes": 111838,
+      "sha256": "dd89b648182f7250a486dbb98fb292f10c804a2fccc80c24fdb465c43cf0b866",
+      "file": "html/c628c4c6af8de44d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/colirio-medicamento-requer-cuidados/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/colirio-medicamento-requer-cuidados/",
+      "bytes": 112370,
+      "sha256": "3b4730251e6b12565727dc3894c9ac8d697ee2ca33a43628e4e0017ffe9df70c",
+      "file": "html/4e8ce2a2677723b2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "bytes": 114090,
+      "sha256": "d47a78cfeae9cbf5138288eaa4cbb025ea72121fa2d9ff34018d3bb80d57a014",
+      "file": "html/a59f1844b17f14af.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "bytes": 112708,
+      "sha256": "c355322b95ed3957215efcabbff547ab12554ae3a2bbda14107bc8b805a449da",
+      "file": "html/ed30efc9c115165e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "bytes": 111712,
+      "sha256": "b6e0f85816a5d7d35f69818a3f8c300695ed35c4a7b74140d67c1e7685856de4",
+      "file": "html/9bd1f696cb169f12.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-identificar-os-primeiros-sinais-de-catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-identificar-os-primeiros-sinais-de-catarata/",
+      "bytes": 106470,
+      "sha256": "f28843424c6656caa00d7e1ffc9e520f73f515b47c59752d7fb19058bd17068a",
+      "file": "html/4f88131ec26f5a38.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "bytes": 111515,
+      "sha256": "a84c9f5ba8fb7fd3edd3f4ba8bded0ee22edb04cf786ad89cd458fd7f56d76ee",
+      "file": "html/b6d8b89cf3b2be6f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-saber-se-a-pressao-ocular-esta-alta/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-saber-se-a-pressao-ocular-esta-alta/",
+      "bytes": 111941,
+      "sha256": "3725f7b87d1af64bdebd6df885a51176e6145a31ce105b6ca393023512657e5a",
+      "file": "html/a791083beccedc80.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "bytes": 116278,
+      "sha256": "e73c721784cadb25ec1d5d37b8a9fd59f02c87ddbd686db2935d633285c7f733",
+      "file": "html/6bdcb3eaed2ebe23.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "bytes": 122868,
+      "sha256": "1b811638dfa648d8c74920b724288f428ced4792bad7e123e83df61ce9f4f51d",
+      "file": "html/07f78329477ebd49.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/convenios-nv",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/convenios/",
+      "bytes": 89370,
+      "sha256": "898d8c209f29fbbd4d77e1035443e81fe81cd2b50c760b7544d4c5469627edf6",
+      "file": "html/684ad08568999a54.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/convenios/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/convenios/",
+      "bytes": 89370,
+      "sha256": "898d8c209f29fbbd4d77e1035443e81fe81cd2b50c760b7544d4c5469627edf6",
+      "file": "html/2dbf9f9ca49ec64c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "bytes": 105405,
+      "sha256": "ff7bebc4b26e263cd2747881e0b68b240b488b0fda660157d07154244a688868",
+      "file": "html/ff2353ce2e128971.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "bytes": 115449,
+      "sha256": "f294a7b17484a7b262c67a4c012f897123340d7b0a2ed341dee1b9ef5aef05c9",
+      "file": "html/b2fec046681d6e34.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-ao-maquiar-os-olhos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-ao-maquiar-os-olhos/",
+      "bytes": 112893,
+      "sha256": "3bbef2a192e3f2c7204f48e7c04ee43a4f77ef5c9b8780f78b687b0e5b45ab28",
+      "file": "html/5a2997585ad43cc9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "bytes": 115106,
+      "sha256": "1b542b4cb04ae356e4404eac71f0b9eb3d6e3fc44868e88f7616ee8e5f7187f5",
+      "file": "html/d74eca71a4129bea.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-no-verao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-no-verao/",
+      "bytes": 111538,
+      "sha256": "5d504590427dd99c426a07225477a92f989550bb65f1c6b278d12cf9f4203a7d",
+      "file": "html/83df5bb014acf5aa.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-as-palpebras/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-as-palpebras/",
+      "bytes": 111891,
+      "sha256": "3ebfd719d860acfdee5c49299826a154f3d2bcd1522d3fa4548ab5518ae4b584",
+      "file": "html/65e2fe29d319d73e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "bytes": 112495,
+      "sha256": "4f86344807fe0f70de7c32a7752a66e42052e4c0a1e589f28f046b7b208b150d",
+      "file": "html/21946e09a6407751.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-na-menopausa/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-na-menopausa/",
+      "bytes": 117070,
+      "sha256": "e25c425bb4ff405a274e2fc3d631169ecd73331da01ec463660ff463e56069b6",
+      "file": "html/3d5830a208280548.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-carnaval/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-carnaval/",
+      "bytes": 107960,
+      "sha256": "e6268e87e6599356b0761968b169da1ec57f26f8a130146286dd28a88e060907",
+      "file": "html/1f13c9d97e0ea790.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-outono/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-outono/",
+      "bytes": 105394,
+      "sha256": "219ac22502096526e0949d3c4ad6eb36181296f2756333e96169c76965cc213a",
+      "file": "html/9e2775086f453839.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao-2/",
+      "bytes": 108577,
+      "sha256": "766c409b9787630b0a0e35832837fa1373a18169ec08cf7a4a082b6de2e8dd2c",
+      "file": "html/e65eeac8806c0877.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao/",
+      "bytes": 107337,
+      "sha256": "ad433ae66ff119bb132c052f40d14f6aabf83a7268b49ca8cc7dbec410ce43a2",
+      "file": "html/4deab22660a78aec.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-da-saude-ocular-na-primavera/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-da-saude-ocular-na-primavera/",
+      "bytes": 112289,
+      "sha256": "669cf6468959b3d963763f963b0910594f83b443af8c3df622270ab8674edc50",
+      "file": "html/e9347ead22b9b683.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cuidados-oculares-no-verao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/cuidados-oculares-no-verao/",
+      "bytes": 111977,
+      "sha256": "2d4090d6512fcad963eb2899adcfb0ef72a558d426167d1a0c12a638ddd98d3c",
+      "file": "html/a59da49d11a535cc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/curiosidades-sobre-nossos-cilios/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/curiosidades-sobre-nossos-cilios/",
+      "bytes": 111962,
+      "sha256": "d07b98ddf080e3c68de42f2e208669749b7cfd7cb5b5a8f8696d5c1f11491497",
+      "file": "html/e3d5a80491ddb51a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/daltonismo/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/daltonismo/",
+      "bytes": 111831,
+      "sha256": "daa9032d09136998a0064ee5e50df7d67f0fb9b5dc1a918f171b5db481c66a1a",
+      "file": "html/de167b5a77f48e1e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "bytes": 104280,
+      "sha256": "dab959c12d23d718e270939bbafca6643937292f3f94a7ec424a0aa91cdd6cd1",
+      "file": "html/366a7dd78a7e9289.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "bytes": 115831,
+      "sha256": "16c5334587883b6d033a41bb6e10d3ff942385affe7f66e16d4573581a136e29",
+      "file": "html/f655cc5bf367f59b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular/",
+      "bytes": 91403,
+      "sha256": "50bb7ca24d49e2c1f8992a0dbca885620387583d4e14806dc309efabe75dd440",
+      "file": "html/c31ced81e1fc5bb6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "bytes": 118624,
+      "sha256": "f4a6ebcffbbb265a48c6f98a746e7709fd13c3e55fa5613d159fc2bcc9177a1f",
+      "file": "html/5e14db136677ca13.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "bytes": 118384,
+      "sha256": "b6972ebc90d099110cff04fe8c253d972bb738fe7496726c5a36381c39f3be25",
+      "file": "html/489625302391986f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dicas-naturais-para-a-saude-da-sua-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dicas-naturais-para-a-saude-da-sua-visao/",
+      "bytes": 112464,
+      "sha256": "f2af60bf87e65ee6dbb141b40c636089b01af96ad905a8c101a6585fd3e2b6db",
+      "file": "html/74ddab8f417bc24d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "bytes": 112329,
+      "sha256": "8069887d3bf3528eef2ad35f4fe4d9b9dca0cafe656bfe798cc23a109c49295d",
+      "file": "html/9d9c8e897d796890.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "bytes": 114922,
+      "sha256": "c59becbf64fc66be4ece0505d9c89f5150311d9471b21476a072884c3deb81d7",
+      "file": "html/338fd6aefcf09239.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dicas_cuidado_olhos_frio/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dicas_cuidado_olhos_frio/",
+      "bytes": 106230,
+      "sha256": "91fa084ef17d56e72610da19950968e99bbdefc860ad443a8e7fc5dc37be2294",
+      "file": "html/d6e9614e7235e611.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "bytes": 114557,
+      "sha256": "faf6f595016bf0f907cb3382d313abd45f479e456182bbd2146a3f7642d1ae61",
+      "file": "html/d231a7efebceded3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/doencas-oculares-mais-comuns/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/doencas-oculares-mais-comuns/",
+      "bytes": 111678,
+      "sha256": "d0cef78eaa953b855c5ff2dc5787528e72cab81e380bfd52976222c5624df5a0",
+      "file": "html/d09175e47dc8e94e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-amir-zisman/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-amir-zisman/",
+      "bytes": 97609,
+      "sha256": "e1577821e6c90e2475ec3ba854f1f1429812fc296ad4171c6c33ddf053d93510",
+      "file": "html/ac0c55f257850d1b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-eduardo-lessa-martinez/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-eduardo-lessa-martinez/",
+      "bytes": 98726,
+      "sha256": "c5e41543be245ae103d8321fd05e2d011f062172d4ed27b4e9c39bbcb2dda22c",
+      "file": "html/4c894698ca13681a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-eliezer-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-eliezer-benchimol/",
+      "bytes": 97862,
+      "sha256": "009457efb1c5deb604931ee8867214f7c34c4b50e0d53856aaf8bd6998144f76",
+      "file": "html/e82855518d71793e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-gabriel-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-gabriel-benchimol/",
+      "bytes": 93524,
+      "sha256": "2c5dd679dbc5a2ada894781d929a6bf4613700faf3f990bdb1efbf55c22f5a57",
+      "file": "html/86c5a026873e2e12.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-luciano-galhardo-de-barros/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-luciano-galhardo-de-barros/",
+      "bytes": 98385,
+      "sha256": "7ff89f845570060ff1cd601f3acf3bf09e2f722cbd3649556c4ffd995fba7a55",
+      "file": "html/661dcb8e9ca04881.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-paulo-de-heraclito-lima-filho/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-paulo-de-heraclito-lima-filho/",
+      "bytes": 98980,
+      "sha256": "5d68902c377298b3596b7055507121bca666f9a168a7d1e7a3163a4fa6a8cdfa",
+      "file": "html/ae0ecffd28ead8e1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-raphael-lima-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-raphael-lima-benchimol/",
+      "bytes": 91137,
+      "sha256": "4d7260354b179c7aca56228c2cb11c7e4c86822133e9087636fc66813b5dd417",
+      "file": "html/8ace15354473d63e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-sergio-benchimol-old/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-sergio-benchimol-old/",
+      "bytes": 97461,
+      "sha256": "f3388246ed1e899e8b171329d1199eccb5a4ba481c3aa6a5cf0e8c49ec513801",
+      "file": "html/848c439c8e36a037.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dr-sergio-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dr-sergio-benchimol/",
+      "bytes": 94567,
+      "sha256": "03298d80769c0d939812afddab28e27d0eaa0f81269905236655084666f443e6",
+      "file": "html/3e0edca22a3d3157.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-adriana-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-adriana-benchimol/",
+      "bytes": 99084,
+      "sha256": "63bc5df34b31bae09c56714a4db4df6d189d8b1a351fd2d68f4eb7df23fe297c",
+      "file": "html/ce1a94857bb44960.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-amelia-gomes-de-souza/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-amelia-gomes-de-souza/",
+      "bytes": 98877,
+      "sha256": "cf94b2fb6f57625b0536747a87f38e45452599c1d3c1c04a710f17f5ff0e393a",
+      "file": "html/ff494a855380f13c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "bytes": 93004,
+      "sha256": "5f774d2e52e45634adfbec707c2ca0802502bc08cf48ab9b983b2d58e1b09f6c",
+      "file": "html/6a4ba9824992c646.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-francine-campos-hauck/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-francine-campos-hauck/",
+      "bytes": 98461,
+      "sha256": "f72af917eeae669a4b45d349342084272e96f119f49848d57d15fd1f1fff174f",
+      "file": "html/11bd60b11c915e7d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-liana-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-liana-benchimol/",
+      "bytes": 98972,
+      "sha256": "91ed1344f283f1bbce2503e55650a661b8742274d24673fd04c46be1d2814606",
+      "file": "html/b6db11fc60683b24.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-mirelle-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-mirelle-benchimol/",
+      "bytes": 98798,
+      "sha256": "e8ee7a252a3cbf3e1bb2626366c19410929bd1dfc20bb9045257e85a87e3ea77",
+      "file": "html/2feba7ef635dcbf2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-monica-de-oliveira-coelho/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-monica-de-oliveira-coelho/",
+      "bytes": 98722,
+      "sha256": "54a9956afcb6d4128d0faf573ddf7569d0cf970e147f44885fa723334bc99d67",
+      "file": "html/4e8e39e4b682f54f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-nina-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-nina-benchimol/",
+      "bytes": 98580,
+      "sha256": "260a0fb3c5b769f2974399d8bb960701591462ea6b7100d50c8d7789d2624a82",
+      "file": "html/c2ccc50256536cff.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/dra-veronica-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/dra-veronica-benchimol/",
+      "bytes": 93916,
+      "sha256": "f5654966cb7c189e57af7e736bccb6c57b5b5bee7e25ba1abeaebc3caa4f635c",
+      "file": "html/0dd0bddd7460a8c3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/e-ai-doutor-vou-sentir-dor/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/e-ai-doutor-vou-sentir-dor/",
+      "bytes": 113097,
+      "sha256": "9cdae816719c1dd12440fac2dfb20434119badc7f31cc22c7e87bdfd1ace2c39",
+      "file": "html/b7cd428fccb013bf.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/equipamentos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/equipamentos/",
+      "bytes": 116904,
+      "sha256": "78bf09d111bea92e26ee4d71b5888697920f5a556cc6c3cf1f8693ec9e4d6a83",
+      "file": "html/40eb33090f3e653a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/equipe/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/equipe/",
+      "bytes": 77590,
+      "sha256": "93e4aaf309292c1b38e942f6489c9c7df91c711c4a4f6ec4378b1d8c0655661f",
+      "file": "html/97741a2f73235a3c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/especialidades/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/especialidades/",
+      "bytes": 108605,
+      "sha256": "5edcddde0eb99a9d541ccd8d30fbaddd2070f319d556caffd8ad382f8a28ad64",
+      "file": "html/cc93fc3c7f80ed93.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/estrabismo-causas-sintomas-tratamentos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/estrabismo-causas-sintomas-tratamentos/",
+      "bytes": 106570,
+      "sha256": "086844275e5d356ff77732bb06d425001e4e0cc52328faae39fdd8715ff7af0a",
+      "file": "html/64a57a861eaa573b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/estresse-oxidativo-pode-comprometer-a-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/estresse-oxidativo-pode-comprometer-a-visao/",
+      "bytes": 113060,
+      "sha256": "e681ce6329c023384f8594e9b6e3877cf583d499f6a83f6c84938ff63e380470",
+      "file": "html/cb26a17f05fc09c4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/estresse-pode-aumentar-risco-de-glaucoma/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/estresse-pode-aumentar-risco-de-glaucoma/",
+      "bytes": 112413,
+      "sha256": "dfc4b7d4f7edcfd37cc577d7203d72c204ed7fa2a1d0b75950c171f65cc570b8",
+      "file": "html/ab2e1638bd37a731.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "bytes": 114934,
+      "sha256": "bcf7e0ceecc0ce132525c087b36138e42623cca6eee71aa366de85d5a7d78c9f",
+      "file": "html/b235a539f93abeda.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/",
+      "bytes": 73807,
+      "sha256": "07101aa4a6166a0d552ab03f9a6dbedd4347120adbed3eb1cf352881d4cb3dfa",
+      "file": "html/299ac7639f02d019.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/existe-um-oftalmologista-especialista-em-macula/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/existe-um-oftalmologista-especialista-em-macula/",
+      "bytes": 108391,
+      "sha256": "9de79e2cd10ff13a51586059f1605ccf106a1bdc464524cdb3a9b182298c7f0f",
+      "file": "html/935f935aa9095d4b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/faq-perguntas-frequentes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/faq-perguntas-frequentes/",
+      "bytes": 74393,
+      "sha256": "3dc339e8aba3b9000c93afb926dc054c2a0123d2268eb880db546f6cb4c22452",
+      "file": "html/2dbb1f3e81d6052e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "bytes": 114933,
+      "sha256": "b94883ef17878c78793dbcc6125127e21fe885284dc99dfcd8e7c6e96b218029",
+      "file": "html/ede5972562eaffcb.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/fotofobia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/fotofobia/",
+      "bytes": 110607,
+      "sha256": "17c8aafe02e468d4992b9ef46bc212c10377e6b8c26ef6409276ad38b60d71d0",
+      "file": "html/fd0b21859c921d23.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma/",
+      "bytes": 92527,
+      "sha256": "dc8c6e3190ea17828c7890474809e6b7106974862ae4fef93f40b2897fa190d2",
+      "file": "html/732e3465c2250c99.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "bytes": 118319,
+      "sha256": "4bff263d083f5e80913a3b4e841568ea5076e9e34659cb7a05237be8ca0f9d1a",
+      "file": "html/adf6516294722ce9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma-de-angulo-aberto-o-que-saber/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma-de-angulo-aberto-o-que-saber/",
+      "bytes": 114920,
+      "sha256": "079b4101d67a927fd575f49890062a358a3fada56a3656b3dafad302836b59c5",
+      "file": "html/0d2180c25cd4c1dd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "bytes": 118997,
+      "sha256": "663ee9a98dc28f68740e117ea159396b314c4d4224f042c2797f0187a20dde14",
+      "file": "html/9454d76adfc94b58.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-hereditario/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-hereditario/",
+      "bytes": 114132,
+      "sha256": "2a0d526c6524e7003a97180e29a9b72a6b5f21e22673f30cac27dd49f96a3cf6",
+      "file": "html/16a10991f121a800.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "bytes": 113487,
+      "sha256": "1d002afc5220e5a9ed584bfc4e2d0c55ee040cfb76f15d1e15d247728374976a",
+      "file": "html/d9cdfc5041883dea.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/glaucoma/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/glaucoma/",
+      "bytes": 92527,
+      "sha256": "e7373cb3ea13832c60841009376bde3e3730962a82d5a40bef829813ee929db9",
+      "file": "html/aba92731e4673906.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/hipermetropia-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/hipermetropia-2/",
+      "bytes": 112553,
+      "sha256": "0e579117f4e37f990a27a2da68c818deb17fed037017ce50ef74bfc79103e8a4",
+      "file": "html/bb44af19792c82a7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/hipermetropia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/hipermetropia/",
+      "bytes": 105449,
+      "sha256": "8bb80f10030adce7c2a12a3c4856f57bba1b87ee79ebbd75a4df059c34d64f5f",
+      "file": "html/592dbf1ecc28a6b2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/hipertensao-um-risco-para-sua-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/hipertensao-um-risco-para-sua-visao/",
+      "bytes": 111771,
+      "sha256": "e77e8a9e31aa64b57367fdbb02c76df340ca3ac43c8b771269e6a8247585319a",
+      "file": "html/77548ddc43cf9022.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "bytes": 119231,
+      "sha256": "2552a14e7f35176150464d7495427125cb2b4713901f6f4fe7f9f699d10a4f26",
+      "file": "html/0a13b6f7d78844f8.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "bytes": 114545,
+      "sha256": "317aa36fbc0819fa0c681c6c735b8a1a7ede013d5ac7bf773cce4dc0a5e5d69b",
+      "file": "html/bdc0eb5e28f6ce31.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/insonia-e-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/insonia-e-saude-ocular/",
+      "bytes": 111733,
+      "sha256": "edf3627b5dd1f1223ab94f549b7afcea31ea141490146bec2495afc9cb042b36",
+      "file": "html/ca923ad8285b0347.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/instalacoes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/instalacoes/",
+      "bytes": 139369,
+      "sha256": "ae0a1f9d64525f332bbccb5273af516dc3ecf3843db5632cf75832eb6c4e29b6",
+      "file": "html/38f767486022f743.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/insternacional/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/insternacional/",
+      "bytes": 96024,
+      "sha256": "65a21a8049107b7371ef44fc46243f8bddf0a89c0639542975adbd9b7ff73225",
+      "file": "html/5b7e8359200d01e4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "bytes": 110846,
+      "sha256": "1731c6d698ab6125ce48eda99d091379c03527270774300b77a6d191f2170ce1",
+      "file": "html/559fcc8e8c21ec4d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "bytes": 106331,
+      "sha256": "464efb449acefa16ed7b65604b0ea668c99644eb263a60797eaf75ff698097dc",
+      "file": "html/7ea46dc63c1ec06b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "bytes": 115427,
+      "sha256": "a1ea70b1a0e55c6f3dd1cbbb3c87177b8f852789e7f69347a2f906d332d970e5",
+      "file": "html/d5ba3d78beac3f7d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "bytes": 113279,
+      "sha256": "0603c5b6527abb7412a9bbc593970b6512860675495e77db9983e837a93249ab",
+      "file": "html/b8526d90cd05f7dd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "bytes": 106498,
+      "sha256": "270b0fe6097bcac69fe99ca592fc6ff67b50321fa3933e09e15aa3fa56cc03e9",
+      "file": "html/5468cbd92a04d11e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "bytes": 113190,
+      "sha256": "dec7cc3d3618f1635d3fd7d3f158ebe81c8f955dc23e48f0084e1a22b42e3dcf",
+      "file": "html/5b35a9457da85169.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/maquiagem-seguranca-e-cuidados/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/maquiagem-seguranca-e-cuidados/",
+      "bytes": 111742,
+      "sha256": "52059fdf1ec67efa672ca7e2b4c798e78d501c378680c0f97210f6f11f2fe122",
+      "file": "html/3921a7c0741d5bdd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/melanose-primaria/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/melanose-primaria/",
+      "bytes": 112554,
+      "sha256": "31befb1cf5494f66fa15acb179ab43c258ec1368bb7ae19bdc2a200ff2323c48",
+      "file": "html/741e9210aa215029.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/miopia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/miopia/",
+      "bytes": 111843,
+      "sha256": "5335d3db9b74da2192931993b8188b3be8c0ec1968c886febfeb5dabe2e0054d",
+      "file": "html/3857c57785c2a34a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "bytes": 118951,
+      "sha256": "72aefe70b07f8839a03b70bbf823115421c633c396282e9a4ed328457040d3ea",
+      "file": "html/ab5d658f4f89739e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "bytes": 112698,
+      "sha256": "97c9e7f8046be715621f53e54ec98a1e74cda251c4383212254c4b05599acf3c",
+      "file": "html/853fec2ec20465ce.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "bytes": 109937,
+      "sha256": "17236ede82e53c57536dcebcd04130cf0edf3990225692b0f208dcbc110aa0b8",
+      "file": "html/a1a79a8add5ca6f0.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "bytes": 120689,
+      "sha256": "69732a967391d623ea44d6e811c1cfb4062d1444e92c112bd0656e69a22dc405",
+      "file": "html/3306a7fcdb37f0fc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "bytes": 114462,
+      "sha256": "482fe22b3912e7ceb868b356dd4f1d48e6e3210a3d1cbb52eea9466a07584a32",
+      "file": "html/5cd622890b31d1a7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "bytes": 115496,
+      "sha256": "404942553f95ee12822f561a8826b516268d21c8ee0d0dda410062f0ce792358",
+      "file": "html/5d6172cab8d9edff.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "bytes": 112732,
+      "sha256": "fdc19286e43d6f982ce91789d89351efed2b2cdc7fc6aab95d2c2cfc89a64a13",
+      "file": "html/d7155a51bc980bc6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/o-que-sao-moscas-volantes-na-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/o-que-sao-moscas-volantes-na-visao/",
+      "bytes": 111788,
+      "sha256": "b87822ad0f8fec4741d18dcd512244027bb61033f190e2eaad073ec0af079056",
+      "file": "html/d004f011eecefe25.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "bytes": 116352,
+      "sha256": "899d85330bbce710caefd254c830350307427eb0e2acd2ec65d5af672fc194a2",
+      "file": "html/e655cea5492f863f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "bytes": 107668,
+      "sha256": "424eef899c523291a5ff92f05206886b613e5a90da8b4df33463972e2ac62345",
+      "file": "html/7479699f73c5f539.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olho-seco",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olho-seco/",
+      "bytes": 91882,
+      "sha256": "59a8da050e66244ba7f6863dc5a8dbcb3bbd53005f8538ec2a9e35b88dfe4873",
+      "file": "html/1886a96c40f2c2fb.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olho-seco-na-menopausa-ha-influencia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olho-seco-na-menopausa-ha-influencia/",
+      "bytes": 109782,
+      "sha256": "4e13143028bb94cc9e6d70acdc49aed7da6a6e997a9f314ca903e0986b2b5410",
+      "file": "html/6b236bc34cd37e90.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "bytes": 112213,
+      "sha256": "0ef7402d4fd29668729aeb6507616eaacc6a8a62aae21e18fd24589063afde8e",
+      "file": "html/3e4c432b233b4fe1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olho-seco-sintomas-causas-e-tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olho-seco-sintomas-causas-e-tratamento/",
+      "bytes": 118077,
+      "sha256": "832031fe9cd8244b6ddd94f27ef33d1e307909c4059604b2220f75b1d3a3422d",
+      "file": "html/d874685f65799f4a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olho-seco/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olho-seco/",
+      "bytes": 91882,
+      "sha256": "59a8da050e66244ba7f6863dc5a8dbcb3bbd53005f8538ec2a9e35b88dfe4873",
+      "file": "html/e4307ea768828b24.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olhos-ressecados/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olhos-ressecados/",
+      "bytes": 111477,
+      "sha256": "adb2fb1f9754335c04ffab3e4b2f8ced9e0a2b98ac70adae886be9b117a7afed",
+      "file": "html/5e81536f6669f122.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/olhos-vermelhos-o-que-pode-ser/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/olhos-vermelhos-o-que-pode-ser/",
+      "bytes": 106849,
+      "sha256": "4c244f4356b1e3c97f7974d82d49ffd211e984110df23c40740dccd8f79271ba",
+      "file": "html/c55bb000b3a808ec.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "bytes": 120900,
+      "sha256": "6ab2b6915b312b78670cebae59caf472122d901ed19b17561cea74331a248301",
+      "file": "html/6f53531a055554c4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "bytes": 109506,
+      "sha256": "bf19eb0fa6dcb7e237b35ad5bd169eae96ecc3ea10f8e2956729bc0d4737b1f1",
+      "file": "html/dd8a29266b25cbb9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana-2/",
+      "bytes": 104803,
+      "sha256": "bc298d9ae47c404d975b3947801136c5708488f4f324d6de025d993d3fb122b4",
+      "file": "html/e610e2e88c9dc3fb.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana/",
+      "bytes": 102887,
+      "sha256": "7cf0eea17d0ea3f4686a72256fca5b25dee4ad72827d39a6ee560d1c05b85372",
+      "file": "html/15659269dd7b5183.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "bytes": 113503,
+      "sha256": "d6530505fd08a85e4c8c8fe65501fc50114d93bc7c77a72eb9eec4b3da240d66",
+      "file": "html/6581bb5a06d923db.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "bytes": 112576,
+      "sha256": "e7596fea3445bd287b6c6fb6e29d94bed0bbbdfcee04b926554be3cef18753f0",
+      "file": "html/df29c1b1925acd82.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-2/",
+      "bytes": 111598,
+      "sha256": "0f9e316f7cac9644e7229694a22f11b6f2a85f293f5732694431e399480e1a01",
+      "file": "html/fddbbdb113c58123.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-2/",
+      "bytes": 111598,
+      "sha256": "f97a71c9f5b3bcb8ac75f76ce92bddb06037795adcd24c72a6e07b203622f21e",
+      "file": "html/07d76519eeded939.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/por-que-sinto-tremor-nas-palpebras/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/por-que-sinto-tremor-nas-palpebras/",
+      "bytes": 111515,
+      "sha256": "6e05c3850251d5213002f18e00901d18e61ed12bd35d29e7edae0e126213b0e8",
+      "file": "html/b740e6557676132b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/presbiopia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/presbiopia/",
+      "bytes": 111134,
+      "sha256": "5e8cdcd84ff95fb9e6566d19a31676a20c058a64c26714a42313eba3afe06f23",
+      "file": "html/52208c4957ba4d89.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/principais-emergencias-ligadas-a-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/principais-emergencias-ligadas-a-visao/",
+      "bytes": 113505,
+      "sha256": "9784bb6fdf8a47fe8a682b6d7b4fe26930b183b94c6d5e97e9e1a5d378438f5e",
+      "file": "html/e6340825258c19ab.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "bytes": 118442,
+      "sha256": "83b4e563ae85382e361998781ae4a15d868a7c060e9e4bcac79455f661c995fa",
+      "file": "html/d12542f52d0b97c6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "bytes": 117606,
+      "sha256": "c27e4deddf985b984ec7f5f5f741937eedc558a137ec62f05faf96354fe1a023",
+      "file": "html/93612af2a9ec9a91.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "bytes": 117861,
+      "sha256": "0947d98d8d35caf396cfbb8400f454be3f265ce46ef49356122fdb6c14c8fd1e",
+      "file": "html/3611317dad416633.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/qualidade-de-sono-e-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/qualidade-de-sono-e-saude-ocular/",
+      "bytes": 105917,
+      "sha256": "ef91804403c0a9b54351153e17edb760fce9ad174ad1a1efec1d5ba7539c5af7",
+      "file": "html/d94c9c02a88a810e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/quando-devo-usar-oculos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/quando-devo-usar-oculos/",
+      "bytes": 112028,
+      "sha256": "7bbcc0361ca4f5a6aef6bde4568b9491f3c3a1d51f2bf9edd481833611d42b23",
+      "file": "html/cfe6ce3d27ccb973.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "bytes": 113801,
+      "sha256": "fe263adf231efba1d328aa508697e076369bc6d09eb322e0acbcfbdbdfb6dfea",
+      "file": "html/5ee39eedee483cf4.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/relacionada-a-idade-ou-dmri/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/relacionada-a-idade-ou-dmri/",
+      "bytes": 112610,
+      "sha256": "fa1baf38f8d32a9b334042d14edbdbeb6ab1e40acf67c06277c94d1a77d19095",
+      "file": "html/2e13710d688305ec.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "bytes": 109844,
+      "sha256": "3a998195837ab5a954eb432d2d73d813712c6b772b27a6ba5ada7461c99d615e",
+      "file": "html/512ba8c34ac284b6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/retinopatia-diabetica/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/retinopatia-diabetica/",
+      "bytes": 93209,
+      "sha256": "ff8037c628c2fdd62d9cff6f5f915cce10507aeb32af2bdd528421469193ed8d",
+      "file": "html/0d8c5ecedbbf97f0.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/sample-page/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/sample-page/",
+      "bytes": 92764,
+      "sha256": "f0368b7b0abe961fe7d9118b4a253c70aaf8b4bebcd3de79e760b7b5879749df",
+      "file": "html/66bd63ff9bced4a7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/saude-ocular-no-inverno/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/saude-ocular-no-inverno/",
+      "bytes": 111142,
+      "sha256": "55117c86eafe36e59bb76791d9fffaad72157c66a14d9eebc7a7b5c0fda580f1",
+      "file": "html/6f95e59eb03c5fbe.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/saude-ocular-x-carteira-de-habilitacao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/saude-ocular-x-carteira-de-habilitacao/",
+      "bytes": 112992,
+      "sha256": "151ee4ea6eec8c4b3b5d9e5e9560a48be77d01a76f695f8c4b8c7a7286ac0b79",
+      "file": "html/24228de2f57b6a5d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/servicos-nv/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/servicos/",
+      "bytes": 71067,
+      "sha256": "29167aa78630141ea51e5ee4f747acfc13e27a62cb2bfc750fb1e1b856cf063b",
+      "file": "html/002d95e443a38162.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/servicos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/servicos/",
+      "bytes": 71067,
+      "sha256": "29167aa78630141ea51e5ee4f747acfc13e27a62cb2bfc750fb1e1b856cf063b",
+      "file": "html/ed65bacb807d7880.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/simply_galleries/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/simply_galleries/",
+      "bytes": 107791,
+      "sha256": "79f1556fc24a3b66d8bba051bd3e7dca34b3c1f8c2f6aa955b1c1ec664fca3e2",
+      "file": "html/e9c9f848e881fa01.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/sinais-de-alerta-para-troca-de-oculos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/sinais-de-alerta-para-troca-de-oculos/",
+      "bytes": 111050,
+      "sha256": "fb25a0cd9cfe6dcc04f1db8d224adaddd376f8b34a0d81475540d1c67644cfed",
+      "file": "html/816c69dcbf661b19.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/sintomas-iniciais-da-catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/sintomas-iniciais-da-catarata/",
+      "bytes": 112204,
+      "sha256": "91c3ff7d65e48043a5e95c120fcd308f029f050c708c4865b46aaca13b2a26ce",
+      "file": "html/d964d08e53087c89.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/sobre-nos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/sobre-nos/",
+      "bytes": 123948,
+      "sha256": "34f9a5e2a2586b8ecf4e34fa1f780212d24d0aaa6925ccc2719d942302c354c0",
+      "file": "html/2fff1e047a3ba961.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/80-anos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/80-anos/",
+      "bytes": 115150,
+      "sha256": "e7e02d946f101d9cca80bf9099c1db325b8cf1c2ce98f3dc21ea3b3072552f14",
+      "file": "html/b488bc2c1d97f58f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/acuidade-visual/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/acuidade-visual/",
+      "bytes": 115128,
+      "sha256": "baf62acb22c077b147d952b35841d072b612c978ab58bc57b72ae13e947b5901",
+      "file": "html/b1b1d1b1c0e8bffb.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/aniversario/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/aniversario/",
+      "bytes": 115230,
+      "sha256": "5d0485263a0a10ddc0d44fc61ac784e43c92cf6bf8522754998e2a8479d85b9f",
+      "file": "html/2416a85e43b918dc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-bonus/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-bonus/",
+      "bytes": 112708,
+      "sha256": "c0d14919a476755e1063a1f9d6fa2f1761ad586e8dde123d4632e9cecf65ee79",
+      "file": "html/c603ec734cd8c2ba.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-chips-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-chips-2025/",
+      "bytes": 112782,
+      "sha256": "a73e6da4dffae337f5778923a5278d9343b7520147ffd208cd944a7cac3a8ba6",
+      "file": "html/4b7ad3f267d48782.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-daily-offers/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-daily-offers/",
+      "bytes": 112814,
+      "sha256": "2a73356426c79f9a8c108199edfcd6ab955cd03613c2f977199e128070614be7",
+      "file": "html/faa67add09232455.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-free-chips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-free-chips/",
+      "bytes": 112782,
+      "sha256": "9a9660256fe84001750231dac929217f1eda313fafdce9a96f075728fb479877",
+      "file": "html/8cbd1e1fdbfbff94.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-free-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-free-rewards/",
+      "bytes": 112814,
+      "sha256": "7e5af37308595ee22fdc3c5b0c16a8f2e2ffc979923b48001d3a36807149fa59",
+      "file": "html/dbd917ef445c307f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-hacks/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-hacks/",
+      "bytes": 112708,
+      "sha256": "529aad56cb226f36337b5b7963ad0d6f57f0eff24d9d6631e1f88ed98f3cac2a",
+      "file": "html/9e960fe6704e9e02.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-rewards/",
+      "bytes": 112736,
+      "sha256": "6612dc4f4f0c4b2529c0489b1f3fb5880ef61fa3398ddd2890a26db80481f36f",
+      "file": "html/30c0e00d8c5bc188.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-tips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-bash-tips/",
+      "bytes": 112644,
+      "sha256": "c8e7428f45805e56ac0bbb65fffb165ae83c8212728453d4769a84ec169f4a3b",
+      "file": "html/1761de8cbb9c4884.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-bonus/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-bonus/",
+      "bytes": 112722,
+      "sha256": "9eca3e4765c4f755ccf0aae3e0a676faecbfd42fd99eb05812e5a25c57678a0a",
+      "file": "html/5148b920dac4670d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-credits-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-credits-2025/",
+      "bytes": 112828,
+      "sha256": "37d54f83cd3128f4e98c7bddc08aae02581df73b755d406b3a41cd281f8eb6b5",
+      "file": "html/0806fabd6ae8f353.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-daily-links/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-daily-links/",
+      "bytes": 112814,
+      "sha256": "57942ad60159c9ecae5cc26fc4fcb1a27d5bced4ddc56c9cad442be6792c614a",
+      "file": "html/5e3d6ebcedbfde23.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-free-credits/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-free-credits/",
+      "bytes": 112828,
+      "sha256": "6b7ecb09093057eae23d50f2a29508e741f1af21ff30a99a9a8d524347bef171",
+      "file": "html/fa2a8314c6536918.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-freebies/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-freebies/",
+      "bytes": 112722,
+      "sha256": "b07d6a7e22dbbb182deae27d83908bda536604dbdb1353571ae1e0df0860fbf3",
+      "file": "html/9c3a3dc313a8178c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-hacks/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-hacks/",
+      "bytes": 112722,
+      "sha256": "73c678a4ef655dc477acde060ac50ed56964236f678401256a1519921ffc0fab",
+      "file": "html/2a6b29f9dcaa173f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-rewards/",
+      "bytes": 112754,
+      "sha256": "8f09284de96f30a91d4f29a9c43f6579352773cc8d7a3198214400e9df07becc",
+      "file": "html/0544464cb60234e5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-tips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/bingo-drive-tips/",
+      "bytes": 112708,
+      "sha256": "7aa0599f26cf4408f955010a3db49e24d02ee0d30c37698c068f914c8f81ab3b",
+      "file": "html/92157247d6d84d55.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-diamonds/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-diamonds/",
+      "bytes": 112846,
+      "sha256": "7ef5d69d730939614fec437f643d106b5cf733940b844f79bfb85a2a18982be6",
+      "file": "html/a42d308cf63f19a9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-gems-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-gems-2025/",
+      "bytes": 112860,
+      "sha256": "a748ab9880df78277af5d3c0a0dcd8953fe0a962403d0627fce98d8697528248",
+      "file": "html/fd67abd52257370d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-gems/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/board-kings-free-gems/",
+      "bytes": 112782,
+      "sha256": "b7b61ed5b1925241b43973468d7b50d550a1096fd47b605fe431cb94c37d3cb5",
+      "file": "html/3690b54ac5e6aea6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/catarata/",
+      "bytes": 118467,
+      "sha256": "965ef402f1c0947d85b2fa1e1fdb8465d55f62a24ab48c350a7807ad9f1d07d3",
+      "file": "html/7f4cc7496a749bb8.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/cegueira/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/cegueira/",
+      "bytes": 115036,
+      "sha256": "ccdd27f9cdf645a414bb8646232fb44dd97f856751380f48b2369d7c40a3a480",
+      "file": "html/74d00ad91dd02324.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/clinica-de-olhos-benchimol/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/clinica-de-olhos-benchimol/",
+      "bytes": 112820,
+      "sha256": "a96c17fe71c4cfc26e039f3ca4c450c8d181ff5b56bda76f3f0d9fd60a7f3442",
+      "file": "html/513669203044779e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-bonus/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-bonus/",
+      "bytes": 112722,
+      "sha256": "26e0dd82944d3335710859f588146d582d016da95d2252341a458f559db9d9d7",
+      "file": "html/f2f566c00ec59c48.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-daily-links/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-daily-links/",
+      "bytes": 112814,
+      "sha256": "4cf49615012bb622ef4530b2c932bc37ea6b9facfc361ec4210adb99d02eedfe",
+      "file": "html/7d6960fcc1dd5b88.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-free-coins/",
+      "bytes": 112800,
+      "sha256": "a7dd15b6ce698f62240094f3a8e3cd1a58f47a08958971425f8d6613354554fd",
+      "file": "html/38a85f35f5d5d582.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-free-spins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-free-spins/",
+      "bytes": 112754,
+      "sha256": "e27b6d20f92956afdefcd41dd857b2700cf999e2a2f0e6ee793faf47480f8bb9",
+      "file": "html/5c56e77a03cf6b98.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-hacks/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-hacks/",
+      "bytes": 112676,
+      "sha256": "9639c521def28a83c0b9a38cf7e68177e17fdcdef69782917984c2ee174d9bc0",
+      "file": "html/3f8d534b3013c781.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-rewards/",
+      "bytes": 112754,
+      "sha256": "bd3be3cfab70641e279aaa3f139f8836fe25c433bc1a464297e9e394811619c2",
+      "file": "html/e6c9bfe2512807e5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-spins-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-spins-2025/",
+      "bytes": 112800,
+      "sha256": "c9b253f905269dd34e623257586bdee83dd53eea8f037a28ede9a7b7c470ef61",
+      "file": "html/c4f0ff299347c425.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-tips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/coin-master-tips/",
+      "bytes": 112662,
+      "sha256": "76d33fe26adfab8d6525d536a0df3b5ad42a0b5314d7c5f45b2df5e16410e570",
+      "file": "html/eea067750d64b5f2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/dice-dreams-free-rolls-hack-deutsch/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/dice-dreams-free-rolls-hack-deutsch/",
+      "bytes": 112998,
+      "sha256": "531be53110635e84d0e7b47369c6dc6c6849d487cbfcdf765b8529a692026bc7",
+      "file": "html/de6698079f15dd52.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/dice-dreams-rolls-deutsch/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/dice-dreams-rolls-deutsch/",
+      "bytes": 112846,
+      "sha256": "71d1ffe99f342c1009ece0fa1b8f0b5145f885ede2fc114fd9e74144f97f7b15",
+      "file": "html/92ef0400eee8e72b.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/dicedream/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/dicedream/",
+      "bytes": 112598,
+      "sha256": "87a45a87863500ab6f0f8f67077e39622073dd11d0643bade64e00df619092b6",
+      "file": "html/91f5efb4d7aec707.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/dmri/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/dmri/",
+      "bytes": 116738,
+      "sha256": "cef83fead83e7fd7bfccb5b2f7cd11b36328088ca7e6611bc82049f13fbf464d",
+      "file": "html/eab03403ec57db09.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/exame/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/exame/",
+      "bytes": 121934,
+      "sha256": "62bd11cdf9426196e2304a677c0e4bafd2651452d555982e0b39ec1ef14e3994",
+      "file": "html/d79fb05bfdbe98f6.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/exames-oftalmologicos/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/exames-oftalmologicos/",
+      "bytes": 115305,
+      "sha256": "54d1daacef481485f6b72329002d697aa6d41172e087480bc76b14fac168895a",
+      "file": "html/b97eccf3c3272afe.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-energy/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-energy/",
+      "bytes": 112768,
+      "sha256": "6e5b31b1d7d10fa7db86de2d3789c93e3142be0effef45f009d83d70d29994c2",
+      "file": "html/6086d7c7911d7acc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-free-energy-hack/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-free-energy-hack/",
+      "bytes": 112874,
+      "sha256": "139e60ef6fd558d260ca500653c5f131fa912b6089fd1d145336699e8a95e343",
+      "file": "html/0f8158fd53a7352f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-free-energy/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/family-island-free-energy/",
+      "bytes": 112846,
+      "sha256": "a512d7942c5988c30613c91da4894d4a9763e0aa3bb41df0a0b1160fbf483af6",
+      "file": "html/ae96dbe2183172d1.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/free-chips-bingo-bash/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/free-chips-bingo-bash/",
+      "bytes": 112736,
+      "sha256": "689a6b6e9b37d4e80c6c84c3ab9cf3f6777d37e457e66f01d85fd73e65345ea9",
+      "file": "html/3d8a8cb7ae277f11.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/free-coins-gaminator/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/free-coins-gaminator/",
+      "bytes": 112722,
+      "sha256": "28005b474be3caadc3d1f4afe75d560b58fee44ee74a610baa097619d3f5a177",
+      "file": "html/8d41d907fca3e85a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/free-coins-solitaire-grand-harvest/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/free-coins-solitaire-grand-harvest/",
+      "bytes": 112984,
+      "sha256": "87184934630be9b7a19afcf2169a5f9b7249f259a74e092c40e2b8ab5fee8ac4",
+      "file": "html/053fa09cf3453b56.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/free-credits-bingo-drive/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/free-credits-bingo-drive/",
+      "bytes": 112828,
+      "sha256": "e6cef18a8b78891128875d6ac6512ae157cdb5156ab6577b24b8777573aed07e",
+      "file": "html/54a67d4664a0b51c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/free-spins-coin-master/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/free-spins-coin-master/",
+      "bytes": 112754,
+      "sha256": "7d6d84517dccc143a68e1a6107c2248332a1db1d8f6564ff37355b6a57853a4e",
+      "file": "html/baa157ecb568991f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gamehunters-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gamehunters-free-coins/",
+      "bytes": 112800,
+      "sha256": "bfe4f1e7b64c621426c62aa52b0ad457b4fd86fb94e3fa67bf770046a8d8e941",
+      "file": "html/fdf2711ee8565976.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-bonus-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-bonus-coins/",
+      "bytes": 112736,
+      "sha256": "5d933e34a68644a39aba0f162f82689794ab665ed2ed1a1c86dc83f62f06e9f6",
+      "file": "html/6395717d7c01790e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-bonus/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-bonus/",
+      "bytes": 112690,
+      "sha256": "a916e45abc241d70b5479c2582e0c771feaa375d94c9e26244006ec154e5a7de",
+      "file": "html/949d8ac755ebc063.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-coins-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-coins-2025/",
+      "bytes": 112768,
+      "sha256": "c81791aed86acfd0b61f2b4ad13eebb919a6ef76aeb3590adbbf34cbfc1991d8",
+      "file": "html/9210851ba7ffbf10.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-daily-links/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-daily-links/",
+      "bytes": 112782,
+      "sha256": "7f541acac03fffbe407d12f02712f5a91998a2d25d49389ffcb10574797dff77",
+      "file": "html/ffeaf0dcb55e9b8d.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-free-coins/",
+      "bytes": 112768,
+      "sha256": "1d8add6a5e55917aeb0bfdef9c67a205c349a17bcb4853f9558a78c817898726",
+      "file": "html/f03ccd94f370c5f9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-hacks/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-hacks/",
+      "bytes": 112690,
+      "sha256": "eed96a38df78e283eb38e06f2390dcc8140a62ebc5e345cb8f322e218f6afb36",
+      "file": "html/10a986405c498205.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-rewards/",
+      "bytes": 112722,
+      "sha256": "61e58fdc546b3dd8edc0d793e44daba34dfe33603c2148b448cde89ba441433f",
+      "file": "html/eeedacc296e63393.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-tips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/gaminator-tips/",
+      "bytes": 112676,
+      "sha256": "63138ba34ed64fcbe46e085e86fba0ea7aee539ae084d2e693f8982da546753e",
+      "file": "html/a0a0bb296fa928a3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-bingo-bash-chips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-bingo-bash-chips/",
+      "bytes": 112906,
+      "sha256": "5c500cb519003763c788d16190ef23942bc2431e7f4b5b472767850f6448569f",
+      "file": "html/841893a5a8493aae.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-bingo-drive-credits/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-bingo-drive-credits/",
+      "bytes": 112952,
+      "sha256": "5e9c7b5082397385f0467967397cde7920d5cfd69c8afcc953b42b74b12f54ff",
+      "file": "html/7dc43462b76dd945.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-coin-master-spins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-coin-master-spins/",
+      "bytes": 112920,
+      "sha256": "9081c5c2911b5ce9c3ee938cff6cedeee059b2fdf9f962bd4eef7bb6ebd9c875",
+      "file": "html/3730956389fc3bc9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-gaminator-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/how-to-get-free-gaminator-coins/",
+      "bytes": 112892,
+      "sha256": "c00ff070a6b0466872da6f78273a95461a6f06c38b56b65417bf51a1e180f5cd",
+      "file": "html/2cca58e25b299f38.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/injecao-intravitrea/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/injecao-intravitrea/",
+      "bytes": 115477,
+      "sha256": "381c110779c9615953363e9a302a48bf7092adabe2eaed5a1b619092a70bf1f2",
+      "file": "html/0f73fffc63fac5c8.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/levvvel-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/levvvel-free-coins/",
+      "bytes": 112690,
+      "sha256": "6db8a331966127668c2bb0aff9f846c2411b1523b4c3d11c2b56621d149fdc42",
+      "file": "html/5464793a595028c0.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/macula/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/macula/",
+      "bytes": 116934,
+      "sha256": "c2f381c16f0c1071e1d53df03d88aeae6b5e929546cecbcb1132125daa9fd98a",
+      "file": "html/f9b532b3237b896c.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/mapeamento-de-retina/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/mapeamento-de-retina/",
+      "bytes": 115297,
+      "sha256": "11c484ef5ab976537b380211952850fdeffb9c231685094b24f987eedc1e0644",
+      "file": "html/79460044596ccb9a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/marco/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/marco/",
+      "bytes": 112492,
+      "sha256": "39f68c75e1d913f3eea6d6fb7c84d99d303fdf8a438d7a15657da3ebe43a772b",
+      "file": "html/7ee62f9473369144.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/moscas-volantes/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/moscas-volantes/",
+      "bytes": 115152,
+      "sha256": "95a800873ce4aa2914cb69ca226cd0cf6312c1a651cb0d9e32a6a9ff0378d085",
+      "file": "html/430154c242419853.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/mosttechs-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/mosttechs-free-coins/",
+      "bytes": 112768,
+      "sha256": "f6413a478c777e0910cd010a92f69c33e5b7d6d576622502a80650426d3b24b8",
+      "file": "html/93f59662c40aa3fd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/oct/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/oct/",
+      "bytes": 114935,
+      "sha256": "c9882dc482e0880ae1f2dff12670c6d9489866d940b093bc3fcf8490616deb04",
+      "file": "html/7d1cd3793a770b6e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/oftalmologia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/oftalmologia/",
+      "bytes": 129321,
+      "sha256": "5816231402e81a85fc95083138a2724da630cb8829abdd1140884d2fdc6763af",
+      "file": "html/36ec42672bd0dc5a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/oftalmologista/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/oftalmologista/",
+      "bytes": 130920,
+      "sha256": "a9dcd34dd256473e3fa5cc7385fe2da14ec468b0c9d029d9b76bf5ea7804702f",
+      "file": "html/485fea202fc837ea.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/retina/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/retina/",
+      "bytes": 115039,
+      "sha256": "726744bba9067deed09491f7318688f8928a08800de7d02c33c75f0558b8e6d8",
+      "file": "html/3612df93bc7487f5.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/saude-ocular/",
+      "bytes": 115140,
+      "sha256": "677e81d7cea6edef1ee3eeaf0eb0fe17f7f153ef341c4d013c69ed274f067eb2",
+      "file": "html/a06a0078d1f48d1e.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/saude-visual/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/saude-visual/",
+      "bytes": 115079,
+      "sha256": "dad1b4335d7ca67b8db2420b3ed998467f89588eb61a1bccc248d041908214ed",
+      "file": "html/3de9fa49686b8663.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-coins-2025/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-coins-2025/",
+      "bytes": 112984,
+      "sha256": "d44c942a450b8e9afc4438080c671d6e8105bb5eb84d3ea3b6b1be8dcc1a455a",
+      "file": "html/4f3f2981c815b9bf.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-daily-links/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-daily-links/",
+      "bytes": 112998,
+      "sha256": "1ad4af498839057ab19552ae2f4060f1172750594416d00c76d4ede03f408597",
+      "file": "html/ccafc6e3609030b3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-free-coins/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-free-coins/",
+      "bytes": 112984,
+      "sha256": "39907d43ed74172d913c4d640d46cb9b30e76ffed09e34740c515152c486371c",
+      "file": "html/c58887d79f7e9a39.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-hacks/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-hacks/",
+      "bytes": 112906,
+      "sha256": "3c9ec6dbbd81638fd28a36e28f580726fdee22ce0b35fb20806b1d272599b79b",
+      "file": "html/c67124591d01ea4a.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-rewards/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-rewards/",
+      "bytes": 112938,
+      "sha256": "2e8bd79dbbab2b79d170a94b85ea4d18731c741cb7d6b96982575fe1154d3af1",
+      "file": "html/c9be94049cb260d3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-tips/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/solitaire-grand-harvest-tips/",
+      "bytes": 112892,
+      "sha256": "eca9adb3807209b7363dd4e4869ac1083e0556bfd8695bdc6dd1c1b522fa2cf7",
+      "file": "html/520ac5007c20f5b2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/tratamento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/tratamento/",
+      "bytes": 116962,
+      "sha256": "db51feedf81df7aaa06d8f20a48f62a9f1141aaf917d0151317eac949026c7de",
+      "file": "html/a38da1cef3513fb2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tag/visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tag/visao/",
+      "bytes": 118436,
+      "sha256": "33b961486a4522625a5a1ee85a05975e0187ab5f64e414261e09daa35777442a",
+      "file": "html/0bebf417fed17df9.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tercol-o-que-e/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tercol-o-que-e/",
+      "bytes": 111362,
+      "sha256": "75aa2db748132d99d9a7566c1468696906e8203ec6b4a5bef6120a4d1d5482a0",
+      "file": "html/d1a04837a024effd.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "bytes": 111800,
+      "sha256": "44c0ebf869390cd53765f5e49ccba84b73c94c2d3209f0a96b6db6291165b642",
+      "file": "html/bcc95a2307562817.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tireoide-e-saude-ocular/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tireoide-e-saude-ocular/",
+      "bytes": 112513,
+      "sha256": "24722f7c08e1208a01e5570efaa0ec792bc910e9653792a250d25fd15aabafea",
+      "file": "html/dbf229e114057392.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "bytes": 115848,
+      "sha256": "437cd32f039f68792706e5b20e879887f8dfdf0242c85445305beef560dd31e1",
+      "file": "html/072f11aa579675e7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "bytes": 105643,
+      "sha256": "d04e218d8cae1443929d31b867f55de517235241f27f3ca3793c87cad4593c89",
+      "file": "html/1ca66d37b3bcf086.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "bytes": 118605,
+      "sha256": "711c98e678cdfc3be0a11589913988accd7ef045d196cea4389fe8bd2f050899",
+      "file": "html/c1b66a54a9d21111.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "bytes": 115137,
+      "sha256": "7d6aeb3e963e749ddc3d3d5d69d8f4cf710394ba5db9f6f724460e9faa950473",
+      "file": "html/f0326227a269858f.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/verao-x-conjuntivite/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/verao-x-conjuntivite/",
+      "bytes": 113036,
+      "sha256": "f72767a7463a55b5d54b6d35a82dd035525091cfc79638c93ecd18eafdb01a10",
+      "file": "html/7a2c789c6d09adfc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/verdades-sobre-sua-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/verdades-sobre-sua-visao/",
+      "bytes": 116218,
+      "sha256": "7a94beb7f4472e55bbc737b4b6c2ad3a25f8f7dd3c824ee2c5c59af4ad7dc5aa",
+      "file": "html/9e687da0127edcc3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/visao-subnormal/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/visao-subnormal/",
+      "bytes": 111864,
+      "sha256": "ea65291d47d67b8f3ec7146d57561d9b56781761dd1563680af1daebbb0e7dc7",
+      "file": "html/d655e2c4ed948ad7.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/voce-cuida-bem-da-sua-visao/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/voce-cuida-bem-da-sua-visao/",
+      "bytes": 112214,
+      "sha256": "4b3884ac82c788a24f50bc2fdfbcbfc0716e8b661a034b9480c5c603790eeef5",
+      "file": "html/e9fde68c03241557.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "bytes": 113339,
+      "sha256": "ba22a411d305a8f1efe3501d1df7058524ed7c7056e4cee2a7088b438086a85a",
+      "file": "html/01cd3b479b3f72fc.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "bytes": 113338,
+      "sha256": "a4c54424172f6f54feb718e023ce8346143d15c21101588a3a83b0b3b81785ab",
+      "file": "html/602f725b418596a2.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "bytes": 115842,
+      "sha256": "b023b35d6d075a5406f06ced375e0273fe32b643dfa76ee99e9ee2842a6c07cf",
+      "file": "html/635d2d4568d35cb3.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "bytes": 111934,
+      "sha256": "36ea3ca9c6bd235c90ecc44156fbf1911dd0ee16062ed2091f7967312e1dcffa",
+      "file": "html/ae0847daaf157e69.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/trustindex-google-widget.css?1787103986",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/trustindex-google-widget.css?1787103986",
+      "bytes": 73579,
+      "sha256": "91a37b89de609ca7df6b17313b2ad0773f2e920ce5ce617863fadde641d32f48",
+      "file": "css/97cab97b50703352.body",
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/pgc_simply_gallery?per_page=100",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/pgc_simply_gallery?per_page=100",
+      "bytes": 67523,
+      "sha256": "d7bd6e4c8541c52f16eb76cf570592f192f43983e000d6f338c1b3a1f8274673",
+      "file": "api/galleries.body",
+      "error": "",
+      "response_date": "Wed, 30 Sep 2026 11:41:47 GMT"
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/comments?per_page=1",
+      "status": 200,
+      "final_url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/comments?per_page=1",
+      "bytes": 1426,
+      "sha256": "bfc2332557c6e7c1c02766c7ae143d1bdc87266811b763318c66576abdd56d10",
+      "file": "api/comments-sample.body",
+      "error": "",
+      "response_date": "Wed, 30 Sep 2026 11:41:52 GMT"
+    }
+  ]
+}

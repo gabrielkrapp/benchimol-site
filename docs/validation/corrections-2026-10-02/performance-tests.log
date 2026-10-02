@@ -1,0 +1,34 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+ ❯ tests/public/performance-corrections.test.ts (7 tests | 1 failed) 520ms
+   ❯ public performance changes preserve source meaning (7)
+     × preloads only the actual first captured banner on its four matching pages 38ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/public/performance-corrections.test.ts > public performance changes preserve source meaning > preloads only the actual first captured banner on its four matching pages
+AssertionError: expected true to be false // Object.is equality
+
+- Expected
++ Received
+
+- false
++ true
+
+ ❯ tests/public/performance-corrections.test.ts:19:60
+     17|     for (const page of institutionalPages) {
+     18|       const expected = ['/sobre-nos/', '/equipe/', '/exames-e-procedim…
+     19|       expect(!!initialBackgroundImage(pageTemplate(page))).toBe(expect…
+       |                                                            ^
+     20|     }
+     21|     expect(initialBackgroundImage(templates.article)).toBeUndefined();
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed | 1 passed (2)
+      Tests  1 failed | 8 passed (9)
+   Start at  00:43:14
+   Duration  17.21s (tests 45%, import 37%, transform 17%)
+

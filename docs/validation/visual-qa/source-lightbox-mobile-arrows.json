@@ -1,0 +1,36 @@
+{
+  "capturedAt": "2026-10-01T21:02:58.100Z",
+  "viewport": 390,
+  "controls": [
+    {
+      "className": "pgc-rev-lb-b-next-prev-button prev",
+      "display": "none",
+      "rect": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "visibility": "visible"
+    },
+    {
+      "className": "pgc-rev-lb-b-next-prev-button next",
+      "display": "none",
+      "rect": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "visibility": "visible"
+    }
+  ]
+}

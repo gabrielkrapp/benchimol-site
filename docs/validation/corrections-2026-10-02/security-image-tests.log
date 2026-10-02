@@ -1,0 +1,10 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+ ✓ tests/backend/image-validation.test.ts (13 tests) 73ms
+
+ Test Files  1 passed (1)
+      Tests  13 passed (13)
+   Start at  00:35:59
+   Duration  774ms (import 67%, transform 19%, tests 12%, worker 1%)
+

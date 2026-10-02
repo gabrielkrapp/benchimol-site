@@ -1,0 +1,2815 @@
+{
+  "startedAt": "2026-10-01T21:35:42.179Z",
+  "checkedAt": "2026-10-01T21:38:11.899Z",
+  "buildId": "LT5XtX2XqdFBQDKFelcC9",
+  "completed": true,
+  "origin": "http://127.0.0.1:3002",
+  "source": "Initial HTTP HTML and referenced CSS as data, without executing JavaScript",
+  "transport": {
+    "connection": "close",
+    "timeoutMs": 60000,
+    "automaticRetries": 0
+  },
+  "articles": 153,
+  "pages": 38,
+  "htmlRequestsAttempted": 191,
+  "otherCapturedRoutes": 106,
+  "capturedRoutesAttempted": 106,
+  "stylesheetsDiscovered": 42,
+  "stylesheetsAttempted": 42,
+  "cssAssetsDiscovered": 98,
+  "externalCssReferences": 0,
+  "externalCssOrigins": [],
+  "ignoredCssReferences": 86,
+  "stylesheetResults": [
+    {
+      "path": "/_next/static/chunks/1v_nsp5-4s97q.css",
+      "status": 200,
+      "bytes": 14272,
+      "urlReferences": 0
+    },
+    {
+      "path": "/site-styles/c4a2eab0a8f1a60208e15479f250607d3a38316acd33a20b8cd5e46ebf3c41e4.css",
+      "status": 200,
+      "bytes": 2151812,
+      "urlReferences": 374
+    },
+    {
+      "path": "/site-styles/7c6b335070bd3d9d2eafe97bb81b8175046ea4520da0cbebb6c8223df50e51ed.css",
+      "status": 200,
+      "bytes": 2154806,
+      "urlReferences": 374
+    },
+    {
+      "path": "/site-styles/81e9b098c3d957220ff45413897344530b5ce6d1af5d52db7e25735a0b6a8309.css",
+      "status": 200,
+      "bytes": 2168258,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/afa0e07fcf979486fd85009bc0f584905003e7576caf71c86710807c60f212ff.css",
+      "status": 200,
+      "bytes": 2162061,
+      "urlReferences": 379
+    },
+    {
+      "path": "/site-styles/2b0da0741f81d589e87663a37a57ebe6aa00a78fd4aad3d57fed696bf09583b7.css",
+      "status": 200,
+      "bytes": 2171047,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/77a1849ec16598cc60c43c96e8386283ecf1f1fd90ee40f66536f78ee7db252e.css",
+      "status": 200,
+      "bytes": 2170293,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/30fc287bf9bf36ed47d671245558aef1df7d7607f4527137ea14363c1f7871d5.css",
+      "status": 200,
+      "bytes": 2171047,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/8eb0ae91da7a4bbb7f830304b52808063dec24dbff4d4effe95e2394a7deaa3c.css",
+      "status": 200,
+      "bytes": 2171047,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/a267348a175666f2e72bf2a9c1c0b168a24c75e905ece2fa0dad80618b099bce.css",
+      "status": 200,
+      "bytes": 2173096,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/5110cf3eccc612580e963480f3fce5735ae032cd8f1f0b7ab2d0d54727f7d7c8.css",
+      "status": 200,
+      "bytes": 2170824,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/9f60294b7da96848f531417d418cb61db608aad650c499997fc18da994b25cb0.css",
+      "status": 200,
+      "bytes": 2170293,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/48981358a12a323be0b0b25f95bc4b964e4297476c0efd7255b399c1a6443fed.css",
+      "status": 200,
+      "bytes": 2171081,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/a8200ff35ccd8d3efbcad22086fb7d188f390f6eae124dbecde65784d015ba4e.css",
+      "status": 200,
+      "bytes": 2170293,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/5aaae2621f9be2d31a3ef68225185a52268b65d01073e80e58cc3affd036f295.css",
+      "status": 200,
+      "bytes": 2171079,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/3d72be939e32c83eb8c03be40d91a58d79dfe2ab5dda904f6b2077e76fb21667.css",
+      "status": 200,
+      "bytes": 2171079,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/f202be264d4ff8c8e6ce0d955a088456da0b196465f560239a320bfaf81c254e.css",
+      "status": 200,
+      "bytes": 2165271,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/360ee6c3b64757bd2bbc079e288b740e22084e9ac5860c68fd230974593503c6.css",
+      "status": 200,
+      "bytes": 2171081,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/a60f1d0fa444d178171420639822af5a223c7a2650cb868e8193081a23c8ab96.css",
+      "status": 200,
+      "bytes": 2173391,
+      "urlReferences": 376
+    },
+    {
+      "path": "/site-styles/c5c1e7553ea22995841eca1bcb5b7421d1b2db9c4fcf03d5f7bcb586cc2f69d3.css",
+      "status": 200,
+      "bytes": 2169236,
+      "urlReferences": 377
+    },
+    {
+      "path": "/site-styles/07c3be016cb4bcfaa41bcfd82d218e342acfe136a743e9ad3a7a187bc234c2c1.css",
+      "status": 200,
+      "bytes": 4226908,
+      "urlReferences": 715
+    },
+    {
+      "path": "/site-styles/bfefabcc01f269906adc9efaa99df872898e76da3e3670c0941406ec869f03ee.css",
+      "status": 200,
+      "bytes": 2132038,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/2453b7a119f818cc87bc2b78dc9d3139409bb341be585e70fe025e108e117ed6.css",
+      "status": 200,
+      "bytes": 2188885,
+      "urlReferences": 377
+    },
+    {
+      "path": "/site-styles/90e1de117f3b80c7ba51fbdd90441dd5b524106bbe5f6ca0ff12c2fbadd49a2b.css",
+      "status": 200,
+      "bytes": 2165517,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/745f5330796f6ef11152bfde34b7defeeeeb42ba5e0320c7c6be0566583e8071.css",
+      "status": 200,
+      "bytes": 2158166,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/d5cbff8fd5d143ba8bae69f92a12a06e15f850dd5fc517b38ef87c3442a7160b.css",
+      "status": 200,
+      "bytes": 2136169,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/9b9649a1e61c94a0425e47fc784293d10d38a9b5ef423d656e23615be606ded3.css",
+      "status": 200,
+      "bytes": 2292204,
+      "urlReferences": 382
+    },
+    {
+      "path": "/site-styles/80de966a488c26a7a53a756563009ef4e2e17e4410be2e44f374a638a7fc8654.css",
+      "status": 200,
+      "bytes": 2129266,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/af759cb3115c8f4a824bdbc864f2c53c1658981135eeb81135f618317bb51694.css",
+      "status": 200,
+      "bytes": 2130759,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/58a3e67e834aeace7b82fe52ccbea63fc807f9252b7e808320b34de4bc8271ab.css",
+      "status": 200,
+      "bytes": 2152566,
+      "urlReferences": 376
+    },
+    {
+      "path": "/site-styles/0ac2696e16eae111f78829e5987b8a36a724e2f637880aaca27570e87a2f50e1.css",
+      "status": 200,
+      "bytes": 2128210,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/9dee7409254141ba7288efc7aca7ce9b3b550aa60e48becf42fb4fdc5e6bb4d4.css",
+      "status": 200,
+      "bytes": 2151677,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/8640a9c8ebc17e7720d142237541d0236d619a837e186123c690b8e32f43e70f.css",
+      "status": 200,
+      "bytes": 4185551,
+      "urlReferences": 715
+    },
+    {
+      "path": "/site-styles/03f0513178046a4153bbcb1fcded4ade63a9ac5fb32ac97e0a625e771672053e.css",
+      "status": 200,
+      "bytes": 2152644,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/adf9e9bef6bcfdebc5359e98626f1ca33758baa8db735243664d9737026d796f.css",
+      "status": 200,
+      "bytes": 2152936,
+      "urlReferences": 376
+    },
+    {
+      "path": "/site-styles/0454c112085a37452c6879d5ec3dd06144b8909d64002fa592de05fe6a9414b4.css",
+      "status": 200,
+      "bytes": 2151815,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/240aa8ca11140f53f385886771ef356bcc27913dc1b1eafce73dc7defb752f2b.css",
+      "status": 200,
+      "bytes": 2150064,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/cd4d904f994310bae57e9aacb6f8ee52253e2f6ee36c187c56201103125ba4e9.css",
+      "status": 200,
+      "bytes": 2150234,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/370b9cbaadea521c88600462b32a87f1bb76aa259c9ea1a97c068e8e843ca45d.css",
+      "status": 200,
+      "bytes": 2152683,
+      "urlReferences": 375
+    },
+    {
+      "path": "/site-styles/63471d7341a88256482a10571aa4e1ae3802f3fe2eb55fb9bf542e87eb04286c.css",
+      "status": 200,
+      "bytes": 2085107,
+      "urlReferences": 373
+    },
+    {
+      "path": "/site-styles/538530795c4bf97f7bc81f0648338b7e4861ff408bc6c998d1e6dc1f88e87d06.css",
+      "status": 200,
+      "bytes": 2143083,
+      "urlReferences": 373
+    },
+    {
+      "path": "/site-styles/7f9ce72dcf9c233e218434a4a26f79e720292320b390c8902ef606d09bdf22a9.css",
+      "status": 200,
+      "bytes": 2152426,
+      "urlReferences": 375
+    }
+  ],
+  "assetsDiscovered": 478,
+  "assetsAttempted": 478,
+  "largestHtmlBytes": 263358,
+  "sitemapStatus": 200,
+  "unauthenticatedAdminStatus": 401,
+  "unauthenticatedAdminRedirects": [
+    {
+      "path": "/api/admin/dashboard",
+      "status": 308,
+      "target": "/api/admin/dashboard/"
+    }
+  ],
+  "failures": [],
+  "passed": true,
+  "results": [
+    {
+      "path": "/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Mais um motivo para combater a obesidade: a sua saúde ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4111,
+      "htmlBytes": 156674
+    },
+    {
+      "path": "/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "kind": "article",
+      "status": 200,
+      "title": "Botox contra estrabismo e outros problemas oculares? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4594,
+      "htmlBytes": 157544
+    },
+    {
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cirurgia refrativa: quais as indicações, como é feita e quais os cuidados no pós-operatório - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4403,
+      "htmlBytes": 158714
+    },
+    {
+      "path": "/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "kind": "article",
+      "status": 200,
+      "title": "Óculos escuros: como escolher os seus e outras dúvidas frequentes - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4418,
+      "htmlBytes": 159468
+    },
+    {
+      "path": "/olhos-vermelhos-o-que-pode-ser/",
+      "kind": "article",
+      "status": 200,
+      "title": "Olhos vermelhos: o que pode ser? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4936,
+      "htmlBytes": 156887
+    },
+    {
+      "path": "/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "kind": "article",
+      "status": 200,
+      "title": "Catarata: quais os sintomas e a hora de procurar o médico? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5143,
+      "htmlBytes": 161437
+    },
+    {
+      "path": "/qualidade-de-sono-e-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Qualidade de sono e saúde ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4044,
+      "htmlBytes": 159592
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-outono/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os olhos no outono - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3691,
+      "htmlBytes": 155330
+    },
+    {
+      "path": "/hipermetropia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Hipermetropia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4133,
+      "htmlBytes": 155354
+    },
+    {
+      "path": "/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "kind": "article",
+      "status": 200,
+      "title": "Lentes de contato coloridas: o que pode, o que não pode. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3984,
+      "htmlBytes": 155551
+    },
+    {
+      "path": "/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "kind": "article",
+      "status": 200,
+      "title": "Câncer no olho de crianças pequenas - Retinoblastoma - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6012,
+      "htmlBytes": 166240
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os olhos no verão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3924,
+      "htmlBytes": 162513
+    },
+    {
+      "path": "/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Trombose ocular: o que é e por que ficar atento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4380,
+      "htmlBytes": 155964
+    },
+    {
+      "path": "/alimentos-que-fazem-bem-para-os-olhos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Alimentos que fazem bem para os olhos - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3986,
+      "htmlBytes": 156671
+    },
+    {
+      "path": "/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "kind": "article",
+      "status": 200,
+      "title": "Córnea sintética, uma esperança para quem aguarda há anos a doação da versão humana. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2910,
+      "htmlBytes": 152027
+    },
+    {
+      "path": "/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "kind": "article",
+      "status": 200,
+      "title": "Degeneração Macular Relacionada à Idade: o que é e como prevenir. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2476,
+      "htmlBytes": 152204
+    },
+    {
+      "path": "/cirurgia-refrativa-artigo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cirurgia Refrativa - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2997,
+      "htmlBytes": 153667
+    },
+    {
+      "path": "/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Tudo que o diabético precisa saber para evitar a cegueira pela retinopatia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3442,
+      "htmlBytes": 152754
+    },
+    {
+      "path": "/alerta-para-as-doencas-raras-oculares/",
+      "kind": "article",
+      "status": 200,
+      "title": "Alerta Para as Doenças Raras Oculares - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1580,
+      "htmlBytes": 147049
+    },
+    {
+      "path": "/a-saude-ocular-da-mulher/",
+      "kind": "article",
+      "status": 200,
+      "title": "A Saúde Ocular da Mulher - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1436,
+      "htmlBytes": 146706
+    },
+    {
+      "path": "/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Comer verduras pode ajudar a prevenir a degeneração macular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2464,
+      "htmlBytes": 150555
+    },
+    {
+      "path": "/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "kind": "article",
+      "status": 200,
+      "title": "Catarata: tipos, causas, fatores de risco e sintomas - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3274,
+      "htmlBytes": 156665
+    },
+    {
+      "path": "/glaucoma-e-hereditario/",
+      "kind": "article",
+      "status": 200,
+      "title": "Glaucoma é hereditário? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2272,
+      "htmlBytes": 151774
+    },
+    {
+      "path": "/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cirurgia de catarata pode prolongar a vida de mulheres - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1929,
+      "htmlBytes": 149895
+    },
+    {
+      "path": "/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 200,
+      "title": "Injeções intravítreas: a técnica revolucionária para o tratamento de DMRI e retinopatia diabética - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1406,
+      "htmlBytes": 151229
+    },
+    {
+      "path": "/relacionada-a-idade-ou-dmri/",
+      "kind": "article",
+      "status": 200,
+      "title": "Relacionada à Idade ou DMRI? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1929,
+      "htmlBytes": 148446
+    },
+    {
+      "path": "/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidado: o diabetes também pode causar cegueira - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3154,
+      "htmlBytes": 157677
+    },
+    {
+      "path": "/olho-seco-sintomas-causas-e-tratamento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Olho Seco: sintomas, causas e tratamento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4256,
+      "htmlBytes": 163993
+    },
+    {
+      "path": "/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Lentes intraoculares: uma nova tendência para corrigir problemas da visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2502,
+      "htmlBytes": 155839
+    },
+    {
+      "path": "/ceratocone-causas-sintomas-e-tratamentos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Ceratocone: causas, sintomas e tratamentos - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2664,
+      "htmlBytes": 156115
+    },
+    {
+      "path": "/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 200,
+      "title": "OCT e antiangiogênicos: o equipamento e o medicamento que atuam no combate à retinopatia diabética - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2417,
+      "htmlBytes": 155941
+    },
+    {
+      "path": "/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "kind": "article",
+      "status": 200,
+      "title": "Como uma alimentação correta pode evitar o aparecimento de doenças oculares como DMRI e olho seco - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2494,
+      "htmlBytes": 154621
+    },
+    {
+      "path": "/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "kind": "article",
+      "status": 200,
+      "title": "Aparelho mais moderno do mundo para detecção de patologias da retina chega à Clínica Benchimol - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1413,
+      "htmlBytes": 151125
+    },
+    {
+      "path": "/e-ai-doutor-vou-sentir-dor/",
+      "kind": "article",
+      "status": 200,
+      "title": "E aí doutor, vou sentir dor? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1935,
+      "htmlBytes": 149666
+    },
+    {
+      "path": "/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 200,
+      "title": "Fique atento: saiba identificar os quatro principais sintomas da Retinopatia Diabética - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1888,
+      "htmlBytes": 152075
+    },
+    {
+      "path": "/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "kind": "article",
+      "status": 200,
+      "title": "Você sofre de pressão alta? Cuidado! Ela pode causar trombose ocular e até mesmo cegueira! - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2638,
+      "htmlBytes": 155999
+    },
+    {
+      "path": "/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Novo estudo indica que cirurgia de catarata e aparelhos auditivos podem prevenir a demência - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1728,
+      "htmlBytes": 151121
+    },
+    {
+      "path": "/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "kind": "article",
+      "status": 200,
+      "title": "Os 5 principais fatores de risco da degeneração macular e o que fazer para evitá-los - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3421,
+      "htmlBytes": 165319
+    },
+    {
+      "path": "/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "kind": "article",
+      "status": 200,
+      "title": "Estudo aponta que cirurgia de catarata pode melhorar o glaucoma - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2028,
+      "htmlBytes": 152175
+    },
+    {
+      "path": "/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "kind": "article",
+      "status": 200,
+      "title": "Uveíte: Doença pouco conhecida e que preocupa - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2323,
+      "htmlBytes": 154375
+    },
+    {
+      "path": "/14-de-novembro-dia-mundial-do-diabetes/",
+      "kind": "article",
+      "status": 200,
+      "title": "14 de Novembro - Dia Mundial do Diabetes - Clínica de Olhos Benchimol",
+      "bodyCharacters": 996,
+      "htmlBytes": 146235
+    },
+    {
+      "path": "/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "kind": "article",
+      "status": 200,
+      "title": "A Tela de Amsler e a detecção precoce da degeneração macular relacionada à idade - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1588,
+      "htmlBytes": 152517
+    },
+    {
+      "path": "/cuidados-com-a-visao-no-verao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com a Visão no Verão: - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1122,
+      "htmlBytes": 145916
+    },
+    {
+      "path": "/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "kind": "article",
+      "status": 200,
+      "title": "A importância de se consultar com um oftalmologista - Clínica de Olhos Benchimol",
+      "bodyCharacters": 821,
+      "htmlBytes": 145649
+    },
+    {
+      "path": "/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "kind": "article",
+      "status": 200,
+      "title": "Análise de imagem da retina promete auxiliar no diagnóstico precoce do Alzheimer - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1710,
+      "htmlBytes": 150079
+    },
+    {
+      "path": "/maquiagem-seguranca-e-cuidados/",
+      "kind": "article",
+      "status": 200,
+      "title": "Maquiagem: Segurança e Cuidados - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1235,
+      "htmlBytes": 146373
+    },
+    {
+      "path": "/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "kind": "article",
+      "status": 200,
+      "title": "Volta às Aulas: Atenção a Saúde Ocular Infantil. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 965,
+      "htmlBytes": 146407
+    },
+    {
+      "path": "/saude-ocular-no-inverno/",
+      "kind": "article",
+      "status": 200,
+      "title": "Saúde Ocular no Inverno - Clínica de Olhos Benchimol",
+      "bodyCharacters": 718,
+      "htmlBytes": 145492
+    },
+    {
+      "path": "/curiosidades-sobre-nossos-cilios/",
+      "kind": "article",
+      "status": 200,
+      "title": "Curiosidades sobre nossos cílios: - Clínica de Olhos Benchimol",
+      "bodyCharacters": 841,
+      "htmlBytes": 146841
+    },
+    {
+      "path": "/tercol-o-que-e/",
+      "kind": "article",
+      "status": 200,
+      "title": "Terçol: O que é? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 979,
+      "htmlBytes": 146390
+    },
+    {
+      "path": "/por-que-sinto-tremor-nas-palpebras/",
+      "kind": "article",
+      "status": 200,
+      "title": "Por que sinto tremor nas pálpebras? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 712,
+      "htmlBytes": 145979
+    },
+    {
+      "path": "/blefarite/",
+      "kind": "article",
+      "status": 200,
+      "title": "Blefarite - Clínica de Olhos Benchimol",
+      "bodyCharacters": 667,
+      "htmlBytes": 145432
+    },
+    {
+      "path": "/sinais-de-alerta-para-troca-de-oculos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Sinais de alerta para troca de óculos. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 458,
+      "htmlBytes": 144712
+    },
+    {
+      "path": "/ambliopia-ou-olho-preguicoso/",
+      "kind": "article",
+      "status": 200,
+      "title": "Ambliopia ou Olho Preguiçoso - Clínica de Olhos Benchimol",
+      "bodyCharacters": 819,
+      "htmlBytes": 145316
+    },
+    {
+      "path": "/presbiopia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Presbiopia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 866,
+      "htmlBytes": 145966
+    },
+    {
+      "path": "/como-saber-se-a-pressao-ocular-esta-alta/",
+      "kind": "article",
+      "status": 200,
+      "title": "Como saber se a pressão ocular está alta? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 740,
+      "htmlBytes": 146601
+    },
+    {
+      "path": "/estresse-pode-aumentar-risco-de-glaucoma/",
+      "kind": "article",
+      "status": 200,
+      "title": "Estresse pode aumentar risco de glaucoma - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1346,
+      "htmlBytes": 147635
+    },
+    {
+      "path": "/astigmatismo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Astigmatismo - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1418,
+      "htmlBytes": 148652
+    },
+    {
+      "path": "/sintomas-iniciais-da-catarata/",
+      "kind": "article",
+      "status": 200,
+      "title": "Sintomas iniciais da Catarata - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1019,
+      "htmlBytes": 147861
+    },
+    {
+      "path": "/o-que-sao-moscas-volantes-na-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "O que são moscas volantes na visão? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1000,
+      "htmlBytes": 146465
+    },
+    {
+      "path": "/miopia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Miopia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1291,
+      "htmlBytes": 147898
+    },
+    {
+      "path": "/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Como higienizar corretamente as lentes do óculos. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 491,
+      "htmlBytes": 146255
+    },
+    {
+      "path": "/hipermetropia-2/",
+      "kind": "article",
+      "status": 200,
+      "title": "Hipermetropia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1512,
+      "htmlBytes": 149090
+    },
+    {
+      "path": "/hipertensao-um-risco-para-sua-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Hipertensão: um risco para sua visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 825,
+      "htmlBytes": 146529
+    },
+    {
+      "path": "/fotofobia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Fotofobia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 522,
+      "htmlBytes": 145148
+    },
+    {
+      "path": "/atividade-fisica-e-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Atividade Física e Saúde Ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 872,
+      "htmlBytes": 146645
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "kind": "article",
+      "status": 200,
+      "title": "Você sabe quais os cuidados básicos após a realização da cirurgia de catarata? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1068,
+      "htmlBytes": 148667
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "kind": "article",
+      "status": 200,
+      "title": "Por que piscamos os olhos? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 809,
+      "htmlBytes": 146011
+    },
+    {
+      "path": "/verdades-sobre-sua-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Verdades sobre sua visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1421,
+      "htmlBytes": 156196
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-2/",
+      "kind": "article",
+      "status": 200,
+      "title": "Dia Mundial da Retina - Clínica de Olhos Benchimol",
+      "bodyCharacters": 836,
+      "htmlBytes": 146368
+    },
+    {
+      "path": "/cuidados-da-saude-ocular-na-primavera/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados da Saúde Ocular na Primavera - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1030,
+      "htmlBytes": 147683
+    },
+    {
+      "path": "/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "kind": "article",
+      "status": 200,
+      "title": "Dicas para manter a visão saudável até a velhice - Clínica de Olhos Benchimol",
+      "bodyCharacters": 799,
+      "htmlBytes": 147411
+    },
+    {
+      "path": "/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "kind": "article",
+      "status": 200,
+      "title": "As aulas/ trabalhos virtuais e o estresse visual - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2228,
+      "htmlBytes": 149177
+    },
+    {
+      "path": "/a-importancia-dos-exames-oculares/",
+      "kind": "article",
+      "status": 200,
+      "title": "A importância dos exames oculares - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1314,
+      "htmlBytes": 147679
+    },
+    {
+      "path": "/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os Olhos ao Praticar Exercício Físico - Clínica de Olhos Benchimol",
+      "bodyCharacters": 930,
+      "htmlBytes": 147785
+    },
+    {
+      "path": "/principais-emergencias-ligadas-a-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Principais emergências ligadas à visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2073,
+      "htmlBytes": 150053
+    },
+    {
+      "path": "/colesterol-e-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Colesterol e Saúde Ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 926,
+      "htmlBytes": 147205
+    },
+    {
+      "path": "/insonia-e-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Insônia e Saúde Ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1073,
+      "htmlBytes": 146752
+    },
+    {
+      "path": "/melanose-primaria/",
+      "kind": "article",
+      "status": 200,
+      "title": "Melanose Primária - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1548,
+      "htmlBytes": 148894
+    },
+    {
+      "path": "/voce-cuida-bem-da-sua-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Você cuida bem da sua visão? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1237,
+      "htmlBytes": 147536
+    },
+    {
+      "path": "/olhos-ressecados/",
+      "kind": "article",
+      "status": 200,
+      "title": "Olhos Ressecados - Clínica de Olhos Benchimol",
+      "bodyCharacters": 876,
+      "htmlBytes": 146426
+    },
+    {
+      "path": "/visao-subnormal/",
+      "kind": "article",
+      "status": 200,
+      "title": "Visão Subnormal - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1209,
+      "htmlBytes": 147456
+    },
+    {
+      "path": "/dicas-naturais-para-a-saude-da-sua-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Dicas naturais para a saúde da sua visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1129,
+      "htmlBytes": 147883
+    },
+    {
+      "path": "/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Maioria dos diabéticos temem perda da visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1700,
+      "htmlBytes": 149431
+    },
+    {
+      "path": "/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "kind": "article",
+      "status": 200,
+      "title": "Por que o olho lacrimeja quando estamos com sono? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 937,
+      "htmlBytes": 147699
+    },
+    {
+      "path": "/colirio-medicamento-requer-cuidados/",
+      "kind": "article",
+      "status": 200,
+      "title": "Colírio: medicamento requer cuidados. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1063,
+      "htmlBytes": 148123
+    },
+    {
+      "path": "/cuidados-ao-maquiar-os-olhos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados ao maquiar os olhos - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1578,
+      "htmlBytes": 149425
+    },
+    {
+      "path": "/estresse-oxidativo-pode-comprometer-a-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Estresse Oxidativo pode comprometer a visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1430,
+      "htmlBytes": 149347
+    },
+    {
+      "path": "/tireoide-e-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Tireoide e Saúde Ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1430,
+      "htmlBytes": 148787
+    },
+    {
+      "path": "/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Mapeamento de retina: exame ocular que pode detectar doenças no corpo - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1104,
+      "htmlBytes": 148519
+    },
+    {
+      "path": "/causas-da-miopia-vao-alem-da-genetica/",
+      "kind": "article",
+      "status": 200,
+      "title": "Causas da miopia vão além da genética - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1055,
+      "htmlBytes": 147803
+    },
+    {
+      "path": "/cuidados-oculares-no-verao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados Oculares no Verão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1082,
+      "htmlBytes": 147222
+    },
+    {
+      "path": "/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Quatro doenças oculares mais comuns em idosos - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2103,
+      "htmlBytes": 150521
+    },
+    {
+      "path": "/saude-ocular-x-carteira-de-habilitacao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Saúde Ocular X Carteira de Habilitação - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1593,
+      "htmlBytes": 149249
+    },
+    {
+      "path": "/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "kind": "article",
+      "status": 200,
+      "title": "Automedicação pode afetar a sua Saúde Ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1479,
+      "htmlBytes": 148429
+    },
+    {
+      "path": "/verao-x-conjuntivite/",
+      "kind": "article",
+      "status": 200,
+      "title": "Verão X Conjuntivite - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2176,
+      "htmlBytes": 149771
+    },
+    {
+      "path": "/4-curiosidades-sobre-a-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "4 Curiosidades Sobre a Visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1123,
+      "htmlBytes": 147334
+    },
+    {
+      "path": "/check-up-ocular-anual/",
+      "kind": "article",
+      "status": 200,
+      "title": "Check-Up Ocular Anual - Clínica de Olhos Benchimol",
+      "bodyCharacters": 991,
+      "htmlBytes": 147757
+    },
+    {
+      "path": "/auto-refrator/",
+      "kind": "article",
+      "status": 200,
+      "title": "Auto-Refrator - Clínica de Olhos Benchimol",
+      "bodyCharacters": 684,
+      "htmlBytes": 146342
+    },
+    {
+      "path": "/glaucoma-de-angulo-aberto-o-que-saber/",
+      "kind": "article",
+      "status": 200,
+      "title": "Glaucoma de Ângulo Aberto: o que saber? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 2098,
+      "htmlBytes": 152255
+    },
+    {
+      "path": "/daltonismo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Daltonismo - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1261,
+      "htmlBytes": 147492
+    },
+    {
+      "path": "/cuidados-com-as-palpebras/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com as Pálpebras - Clínica de Olhos Benchimol",
+      "bodyCharacters": 948,
+      "htmlBytes": 147224
+    },
+    {
+      "path": "/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Como você pode colaborar com a saúde dos seus olhos - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7518,
+      "htmlBytes": 170991
+    },
+    {
+      "path": "/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "kind": "article",
+      "status": 200,
+      "title": "“Mulheres podem ser daltônicas?”, “Como um daltônico enxerga?” e outras dúvidas frequentes sobre essa deficiência ocular - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4867,
+      "htmlBytes": 164601
+    },
+    {
+      "path": "/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "8 Dicas para Proteger a Saúde da sua Visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 1091,
+      "htmlBytes": 147921
+    },
+    {
+      "path": "/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "kind": "article",
+      "status": 200,
+      "title": "Glaucoma e catarata: quais as diferenças entre eles? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4358,
+      "htmlBytes": 162509
+    },
+    {
+      "path": "/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "kind": "article",
+      "status": 200,
+      "title": "Infecção ocular: o que o caso do ator de Game of Thrones pode nos ensinar sobre isso e como evitar - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3906,
+      "htmlBytes": 161533
+    },
+    {
+      "path": "/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "kind": "article",
+      "status": 200,
+      "title": "Quais as consequências para os olhos da trend de passar protetor labial nas pálpebras? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3747,
+      "htmlBytes": 157761
+    },
+    {
+      "path": "/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "kind": "article",
+      "status": 200,
+      "title": "Glaucoma congênito: o que é e por que o diagnóstico precoce é fundamental - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4221,
+      "htmlBytes": 159891
+    },
+    {
+      "path": "/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "kind": "article",
+      "status": 200,
+      "title": "Pterígio: o que é, como tratar, como prevenir - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4503,
+      "htmlBytes": 161503
+    },
+    {
+      "path": "/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "kind": "article",
+      "status": 200,
+      "title": "Claridade incomodando a visão? Conheça possíveis causas e como tratar - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4257,
+      "htmlBytes": 159963
+    },
+    {
+      "path": "/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "kind": "article",
+      "status": 200,
+      "title": "Dicas para prevenir a conjuntivite bacteriana. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3055,
+      "htmlBytes": 153103
+    },
+    {
+      "path": "/cuidados-com-os-olhos-na-menopausa/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os olhos na menopausa - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3957,
+      "htmlBytes": 158519
+    },
+    {
+      "path": "/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "kind": "article",
+      "status": 200,
+      "title": "Alerta de cuidado para maquiagens nos olhos no Halloween - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4982,
+      "htmlBytes": 160595
+    },
+    {
+      "path": "/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Quais diferenças entre miopia, hipermetropia e astigmatismo? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5884,
+      "htmlBytes": 158325
+    },
+    {
+      "path": "/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "kind": "article",
+      "status": 200,
+      "title": "Desmistificando a Cirurgia de Catarata: 5 Mitos e Verdades Cruciais - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5886,
+      "htmlBytes": 160211
+    },
+    {
+      "path": "/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "kind": "article",
+      "status": 200,
+      "title": "Mitos e verdades sobre olhos claros: entenda os cuidados necessários para manter a saúde ocular. - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5310,
+      "htmlBytes": 159811
+    },
+    {
+      "path": "/estrabismo-causas-sintomas-tratamentos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Estrabismo: o que é, causas, sintomas e tratamentos",
+      "bodyCharacters": 4648,
+      "htmlBytes": 157048
+    },
+    {
+      "path": "/dicas_cuidado_olhos_frio/",
+      "kind": "article",
+      "status": 200,
+      "title": "Dicas essenciais de cuidados com os olhos durante o inverno.",
+      "bodyCharacters": 4911,
+      "htmlBytes": 156260
+    },
+    {
+      "path": "/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Tudo sobre a cirurgia de catarata: vantagens e riscos do procedimento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4694,
+      "htmlBytes": 155651
+    },
+    {
+      "path": "/catarata-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Catarata: Sintomas, Causas, Tipos e Tratamento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 13083,
+      "htmlBytes": 179852
+    },
+    {
+      "path": "/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Retinopatia Diabética: Sintomas, Causas, Tipos e Tratamento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6617,
+      "htmlBytes": 163710
+    },
+    {
+      "path": "/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "kind": "article",
+      "status": 200,
+      "title": "Clínica Benchimol: Oftalmologia e Centro de Tratamento de Catarata",
+      "bodyCharacters": 12692,
+      "htmlBytes": 177522
+    },
+    {
+      "path": "/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 200,
+      "title": "Degeneração Macular: Sintomas, Causas, Tipos e Tratamento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 11670,
+      "htmlBytes": 177766
+    },
+    {
+      "path": "/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 200,
+      "title": "O que é Glaucoma: Sintomas, Causas, Tipos e Tratamento - Clínica de Olhos Benchimol",
+      "bodyCharacters": 11739,
+      "htmlBytes": 176600
+    },
+    {
+      "path": "/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Clínica de Olhos Benchimol: Tradição e Inovação em Oftalmologia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 8750,
+      "htmlBytes": 172614
+    },
+    {
+      "path": "/doencas-oculares-mais-comuns/",
+      "kind": "article",
+      "status": 200,
+      "title": "Doenças Oculares mais Comuns - Clínica de Olhos Benchimol",
+      "bodyCharacters": 8086,
+      "htmlBytes": 171528
+    },
+    {
+      "path": "/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com a Visão Durante a Prática de Atividades Físicas - Clínica de Olhos Benchimol",
+      "bodyCharacters": 10858,
+      "htmlBytes": 176198
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao-2/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os Olhos no Verão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6151,
+      "htmlBytes": 162744
+    },
+    {
+      "path": "/quando-devo-usar-oculos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Quando devo usar óculos? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 9021,
+      "htmlBytes": 171574
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-carnaval/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cuidados com os Olhos no Carnaval - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4977,
+      "htmlBytes": 161254
+    },
+    {
+      "path": "/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "kind": "article",
+      "status": 200,
+      "title": "Cirurgia Refrativa: O que é e Indicações - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5693,
+      "htmlBytes": 163736
+    },
+    {
+      "path": "/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Mulheres e DMRI: qual é a relação após os 60 anos? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5938,
+      "htmlBytes": 167148
+    },
+    {
+      "path": "/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Abril Marrom: a importância de cuidar da visão - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7316,
+      "htmlBytes": 168208
+    },
+    {
+      "path": "/olho-seco-na-menopausa-ha-influencia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Olho Seco na Menopausa: Há influência? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6392,
+      "htmlBytes": 165310
+    },
+    {
+      "path": "/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "kind": "article",
+      "status": 200,
+      "title": "Como o Transtorno do Espectro Autista (TEA) pode afetar a visão? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7686,
+      "htmlBytes": 167996
+    },
+    {
+      "path": "/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "kind": "article",
+      "status": 200,
+      "title": "Tipos de Catarata: sintomas, causas e cirurgia - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7713,
+      "htmlBytes": 168764
+    },
+    {
+      "path": "/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "kind": "article",
+      "status": 200,
+      "title": "Glaucoma: prevenção e diagnóstico precoce no Maio Verde - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7781,
+      "htmlBytes": 173613
+    },
+    {
+      "path": "/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "kind": "article",
+      "status": 200,
+      "title": "Junho Violeta: por que prevenir o ceratocone é tão importante?",
+      "bodyCharacters": 7161,
+      "htmlBytes": 162555
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "kind": "article",
+      "status": 200,
+      "title": "A importância dos exames oftalmológicos regulares - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3216,
+      "htmlBytes": 161946
+    },
+    {
+      "path": "/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "kind": "article",
+      "status": 200,
+      "title": "Olho seco no inverno: causas, sintomas e como tratar - Clínica de Olhos Benchimol",
+      "bodyCharacters": 8248,
+      "htmlBytes": 166096
+    },
+    {
+      "path": "/como-identificar-os-primeiros-sinais-de-catarata/",
+      "kind": "article",
+      "status": 200,
+      "title": "Catarata: como identificar os primeiros sinais - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3157,
+      "htmlBytes": 157936
+    },
+    {
+      "path": "/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "kind": "article",
+      "status": 200,
+      "title": "5 Sinais de que sua visão precisa de atenção imediata - Clínica de Olhos Benchimol",
+      "bodyCharacters": 3174,
+      "htmlBytes": 158552
+    },
+    {
+      "path": "/existe-um-oftalmologista-especialista-em-macula/",
+      "kind": "article",
+      "status": 200,
+      "title": "Existe um oftalmologista especialista em mácula? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 4216,
+      "htmlBytes": 161302
+    },
+    {
+      "path": "/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "kind": "article",
+      "status": 200,
+      "title": "A importância do OCT para pacientes com catarata - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6818,
+      "htmlBytes": 167572
+    },
+    {
+      "path": "/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "kind": "article",
+      "status": 200,
+      "title": "Aplicação de injeção intravítrea - Clínica de Olhos Benchimol",
+      "bodyCharacters": 6844,
+      "htmlBytes": 169634
+    },
+    {
+      "path": "/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "kind": "article",
+      "status": 200,
+      "title": "Por que a acuidade visual pode piorar com o avanço da idade? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7412,
+      "htmlBytes": 171420
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "kind": "article",
+      "status": 200,
+      "title": "Por que exames oftalmológicos são vitais após os 50 anos",
+      "bodyCharacters": 5666,
+      "htmlBytes": 165120
+    },
+    {
+      "path": "/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "kind": "article",
+      "status": 200,
+      "title": "Diabetes pode causar cegueira? Entenda os riscos e como evitar - Clínica de Olhos Benchimol",
+      "bodyCharacters": 11368,
+      "htmlBytes": 182424
+    },
+    {
+      "path": "/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "kind": "article",
+      "status": 200,
+      "title": "DMRI seca e úmida: saiba quais são as diferenças - Clínica de Olhos Benchimol",
+      "bodyCharacters": 8462,
+      "htmlBytes": 174196
+    },
+    {
+      "path": "/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "kind": "article",
+      "status": 200,
+      "title": "Exame oftalmológico para a retina – Clínica de Olhos Benchimol",
+      "bodyCharacters": 7181,
+      "htmlBytes": 169170
+    },
+    {
+      "path": "/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "kind": "article",
+      "status": 200,
+      "title": "Moscas volantes: sintoma comum ou alerta de perigo? - Clínica de Olhos Benchimol",
+      "bodyCharacters": 7371,
+      "htmlBytes": 169778
+    },
+    {
+      "path": "/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "kind": "article",
+      "status": 200,
+      "title": "Os Marcos de Décadas da Clínica de Olhos Benchimol - Clínica de Olhos Benchimol",
+      "bodyCharacters": 5967,
+      "htmlBytes": 164884
+    },
+    {
+      "path": "/sample-page/",
+      "kind": "page",
+      "status": 200,
+      "title": "Sample Page - Clínica de Olhos Benchimol",
+      "htmlBytes": 96527
+    },
+    {
+      "path": "/dr-sergio-benchimol-old/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Sérgio Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 148237
+    },
+    {
+      "path": "/blog/",
+      "kind": "page",
+      "status": 200,
+      "title": "Blog - Clínica de Olhos Benchimol - Copacabana RJ",
+      "htmlBytes": 158303
+    },
+    {
+      "path": "/dra-nina-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Nina Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 131842
+    },
+    {
+      "path": "/dra-mirelle-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Mirelle Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 132908
+    },
+    {
+      "path": "/dra-adriana-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Adriana Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 134820
+    },
+    {
+      "path": "/dr-eliezer-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Eliezer Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 132112
+    },
+    {
+      "path": "/dra-liana-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Liana Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 135134
+    },
+    {
+      "path": "/dr-luciano-galhardo-de-barros/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Luciano Galhardo de Barros - Clínica de Olhos Benchimol",
+      "htmlBytes": 131988
+    },
+    {
+      "path": "/dr-amir-zisman/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Amir Zisman - Clínica de Olhos Benchimol",
+      "htmlBytes": 131854
+    },
+    {
+      "path": "/dr-eduardo-lessa-martinez/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Eduardo Lessa Martinez - Clínica de Olhos Benchimol",
+      "htmlBytes": 132118
+    },
+    {
+      "path": "/dra-amelia-gomes-de-souza/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Amélia Gomes de Souza - Clínica de Olhos Benchimol",
+      "htmlBytes": 133617
+    },
+    {
+      "path": "/dra-monica-de-oliveira-coelho/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Mônica de Oliveira Coelho - Clínica de Olhos Benchimol",
+      "htmlBytes": 132345
+    },
+    {
+      "path": "/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Dilma de Sá Cavalcanti do Vale - Clínica de Olhos Benchimol",
+      "htmlBytes": 132678
+    },
+    {
+      "path": "/dr-paulo-de-heraclito-lima-filho/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Paulo de Heráclito Lima Filho - Clínica de Olhos Benchimol",
+      "htmlBytes": 132854
+    },
+    {
+      "path": "/dra-francine-campos-hauck/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Francine Campos Hauck - Clínica de Olhos Benchimol",
+      "htmlBytes": 131932
+    },
+    {
+      "path": "/instalacoes/",
+      "kind": "page",
+      "status": 200,
+      "title": "Instalações - Clínica de Olhos Benchimol",
+      "htmlBytes": 166984
+    },
+    {
+      "path": "/equipamentos/",
+      "kind": "page",
+      "status": 200,
+      "title": "Equipamentos - Clínica de Olhos Benchimol",
+      "htmlBytes": 259018
+    },
+    {
+      "path": "/certificacoes/",
+      "kind": "page",
+      "status": 200,
+      "title": "Clínica de Olhos Certificada - Benchimol",
+      "htmlBytes": 138865
+    },
+    {
+      "path": "/insternacional/",
+      "kind": "page",
+      "status": 200,
+      "title": "Internacional - Clínica de Olhos Benchimol",
+      "htmlBytes": 135447
+    },
+    {
+      "path": "/especialidades/",
+      "kind": "page",
+      "status": 200,
+      "title": "Especialidades - Clínica de Olhos Benchimol",
+      "htmlBytes": 174882
+    },
+    {
+      "path": "/servicos/",
+      "kind": "page",
+      "status": 200,
+      "title": "Serviços - Clínica de Olhos Benchimol",
+      "htmlBytes": 135480
+    },
+    {
+      "path": "/sobre-nos/",
+      "kind": "page",
+      "status": 200,
+      "title": "Sobre Nós - Clínica de Olhos Benchimol",
+      "htmlBytes": 199339
+    },
+    {
+      "path": "/",
+      "kind": "page",
+      "status": 200,
+      "title": "Home - Clínica de Olhos Benchimol",
+      "htmlBytes": 263358
+    },
+    {
+      "path": "/equipe/",
+      "kind": "page",
+      "status": 200,
+      "title": "Equipe - Clínica de Olhos Benchimol",
+      "htmlBytes": 164163
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "kind": "page",
+      "status": 200,
+      "title": "Exames e Procedimentos - Clínica de Olhos Benchimol",
+      "htmlBytes": 124904
+    },
+    {
+      "path": "/faq-perguntas-frequentes/",
+      "kind": "page",
+      "status": 200,
+      "title": "FAQ - Dúvidas Frequentes - Clínica de Olhos Benchimol",
+      "htmlBytes": 129652
+    },
+    {
+      "path": "/retinopatia-diabetica/",
+      "kind": "page",
+      "status": 200,
+      "title": "Retinopatia Diabética - Clínica de Olhos Benchimol",
+      "htmlBytes": 120824
+    },
+    {
+      "path": "/degeneracao-macular/",
+      "kind": "page",
+      "status": 200,
+      "title": "Degeneração Macular Relacionada à Idade - DMRI - Clínica de Olhos Benchimol",
+      "htmlBytes": 122192
+    },
+    {
+      "path": "/catarata/",
+      "kind": "page",
+      "status": 200,
+      "title": "Catarata - Clínica de Olhos Benchimol",
+      "htmlBytes": 121664
+    },
+    {
+      "path": "/glaucoma/",
+      "kind": "page",
+      "status": 200,
+      "title": "Glaucoma - Clínica de Olhos Benchimol",
+      "htmlBytes": 126104
+    },
+    {
+      "path": "/cirurgia-refrativa/",
+      "kind": "page",
+      "status": 200,
+      "title": "Cirurgia Refrativa - Clínica de Olhos Benchimol",
+      "htmlBytes": 120388
+    },
+    {
+      "path": "/olho-seco/",
+      "kind": "page",
+      "status": 200,
+      "title": "Olho Seco - Clínica de Olhos Benchimol",
+      "htmlBytes": 122980
+    },
+    {
+      "path": "/dr-sergio-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Sergio Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 115712
+    },
+    {
+      "path": "/dr-raphael-lima-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Raphael Lima Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 111962
+    },
+    {
+      "path": "/dra-veronica-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dra. Veronica Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 113030
+    },
+    {
+      "path": "/convenios/",
+      "kind": "page",
+      "status": 200,
+      "title": "Convênios - Clínica de Olhos Benchimol",
+      "htmlBytes": 110760
+    },
+    {
+      "path": "/dr-gabriel-benchimol/",
+      "kind": "page",
+      "status": 200,
+      "title": "Dr. Gabriel Benchimol - Clínica de Olhos Benchimol",
+      "htmlBytes": 111316
+    },
+    {
+      "path": "/catarata",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Catarata - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/catarata",
+          "status": 308,
+          "target": "/catarata/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/catarata/"
+    },
+    {
+      "path": "/category/bingo-bash-free-chips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash free chips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/bingo-bash-free-chips/"
+    },
+    {
+      "path": "/category/bingo-drive-free-credits/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive free credits - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/bingo-drive-free-credits/"
+    },
+    {
+      "path": "/category/board-kings-free-gems-diamonds/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de board kings free gems diamonds - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/board-kings-free-gems-diamonds/"
+    },
+    {
+      "path": "/category/blog/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de Blog - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/blog/"
+    },
+    {
+      "path": "/category/coin-master-free-spins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master free spins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/coin-master-free-spins/"
+    },
+    {
+      "path": "/category/family-island-free-energy/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de family island free energy - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/family-island-free-energy/"
+    },
+    {
+      "path": "/category/gaminator-bonus-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator bonus coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/gaminator-bonus-coins/"
+    },
+    {
+      "path": "/category/dice-dreams-free-rolls-hack-deutsch/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de Dice Dreams free rolls hack Deutsch - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/dice-dreams-free-rolls-hack-deutsch/"
+    },
+    {
+      "path": "/cirurgia-refrativa",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Cirurgia Refrativa - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/cirurgia-refrativa",
+          "status": 308,
+          "target": "/cirurgia-refrativa/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/cirurgia-refrativa/"
+    },
+    {
+      "path": "/category/oftalmologia/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de Oftalmologia - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/oftalmologia/"
+    },
+    {
+      "path": "/category/solitaire-grand-harvest-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/category/solitaire-grand-harvest-free-coins/"
+    },
+    {
+      "path": "/degeneracao-macular",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Degeneração Macular Relacionada à Idade - DMRI - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/degeneracao-macular",
+          "status": 308,
+          "target": "/degeneracao-macular/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/degeneracao-macular/"
+    },
+    {
+      "path": "/convenios-nv",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Convênios - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/convenios-nv",
+          "status": 308,
+          "target": "/convenios-nv/"
+        },
+        {
+          "path": "/convenios-nv/",
+          "status": 308,
+          "target": "/convenios/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/convenios/"
+    },
+    {
+      "path": "/equipamentos",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Equipamentos - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/equipamentos",
+          "status": 308,
+          "target": "/equipamentos/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/equipamentos/"
+    },
+    {
+      "path": "/glaucoma",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Glaucoma - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/glaucoma",
+          "status": 308,
+          "target": "/glaucoma/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/glaucoma/"
+    },
+    {
+      "path": "/exames-nv/",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Exames e Procedimentos - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/exames-nv/",
+          "status": 308,
+          "target": "/exames-e-procedimentos/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/exames-e-procedimentos/"
+    },
+    {
+      "path": "/equipe-nv/",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Equipe - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/equipe-nv/",
+          "status": 308,
+          "target": "/equipe/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/equipe/"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Copacabana - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/pgc_simply_gallery/copacabana/"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana-2/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Campo Grande - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/pgc_simply_gallery/copacabana-2/"
+    },
+    {
+      "path": "/olho-seco",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Olho Seco - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/olho-seco",
+          "status": 308,
+          "target": "/olho-seco/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/olho-seco/"
+    },
+    {
+      "path": "/servicos-nv/",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Serviços - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/servicos-nv/",
+          "status": 308,
+          "target": "/servicos/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/servicos/"
+    },
+    {
+      "path": "/simply_galleries/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo SimpLy Galleries - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/simply_galleries/"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos/",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Dia Mundial da Retina - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/por-que-piscamos-os-olhos/",
+          "status": 308,
+          "target": "/por-que-piscamos-os-olhos-2/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/por-que-piscamos-os-olhos-2/"
+    },
+    {
+      "path": "/tag/80-anos/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de 80 anos - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/80-anos/"
+    },
+    {
+      "path": "/tag/aniversario/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de aniversário - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/aniversario/"
+    },
+    {
+      "path": "/tag/acuidade-visual/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de acuidade visual - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/acuidade-visual/"
+    },
+    {
+      "path": "/tag/bingo-bash-daily-offers/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash daily offers - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-daily-offers/"
+    },
+    {
+      "path": "/tag/bingo-bash-bonus/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash bonus - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-bonus/"
+    },
+    {
+      "path": "/tag/bingo-bash-chips-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash chips 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-chips-2025/"
+    },
+    {
+      "path": "/tag/bingo-bash-free-chips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash free chips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-free-chips/"
+    },
+    {
+      "path": "/tag/bingo-bash-free-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash free rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-free-rewards/"
+    },
+    {
+      "path": "/tag/bingo-bash-hacks/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash hacks - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-hacks/"
+    },
+    {
+      "path": "/tag/bingo-drive-bonus/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive bonus - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-bonus/"
+    },
+    {
+      "path": "/tag/bingo-bash-tips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash tips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-tips/"
+    },
+    {
+      "path": "/tag/bingo-bash-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo bash rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-bash-rewards/"
+    },
+    {
+      "path": "/tag/bingo-drive-credits-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive credits 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-credits-2025/"
+    },
+    {
+      "path": "/tag/bingo-drive-daily-links/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive daily links - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-daily-links/"
+    },
+    {
+      "path": "/tag/bingo-drive-free-credits/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive free credits - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-free-credits/"
+    },
+    {
+      "path": "/tag/bingo-drive-freebies/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive freebies - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-freebies/"
+    },
+    {
+      "path": "/tag/bingo-drive-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-rewards/"
+    },
+    {
+      "path": "/tag/bingo-drive-hacks/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive hacks - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-hacks/"
+    },
+    {
+      "path": "/tag/board-kings-free-gems-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de board kings free gems 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/board-kings-free-gems-2025/"
+    },
+    {
+      "path": "/tag/bingo-drive-tips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de bingo drive tips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/bingo-drive-tips/"
+    },
+    {
+      "path": "/tag/board-kings-free-diamonds/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de board kings free diamonds - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/board-kings-free-diamonds/"
+    },
+    {
+      "path": "/tag/catarata/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de catarata - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/catarata/"
+    },
+    {
+      "path": "/tag/cegueira/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de cegueira - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/cegueira/"
+    },
+    {
+      "path": "/tag/board-kings-free-gems/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de board kings free gems - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/board-kings-free-gems/"
+    },
+    {
+      "path": "/tag/clinica-de-olhos-benchimol/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de clínica de olhos benchimol - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/clinica-de-olhos-benchimol/"
+    },
+    {
+      "path": "/tag/coin-master-daily-links/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master daily links - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-daily-links/"
+    },
+    {
+      "path": "/tag/coin-master-bonus/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master bonus - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-bonus/"
+    },
+    {
+      "path": "/tag/coin-master-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-free-coins/"
+    },
+    {
+      "path": "/tag/coin-master-free-spins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master free spins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-free-spins/"
+    },
+    {
+      "path": "/tag/coin-master-hacks/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master hacks - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-hacks/"
+    },
+    {
+      "path": "/tag/coin-master-tips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master tips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-tips/"
+    },
+    {
+      "path": "/tag/coin-master-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-rewards/"
+    },
+    {
+      "path": "/tag/coin-master-spins-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de coin master spins 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/coin-master-spins-2025/"
+    },
+    {
+      "path": "/tag/dice-dreams-free-rolls-hack-deutsch/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de Dice Dreams free rolls hack Deutsch - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/dice-dreams-free-rolls-hack-deutsch/"
+    },
+    {
+      "path": "/tag/dice-dreams-rolls-deutsch/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de Dice Dreams rolls Deutsch - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/dice-dreams-rolls-deutsch/"
+    },
+    {
+      "path": "/tag/dicedream/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de dicedream - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/dicedream/"
+    },
+    {
+      "path": "/tag/exames-oftalmologicos/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de exames oftalmológicos - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/exames-oftalmologicos/"
+    },
+    {
+      "path": "/tag/exame/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de exame - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/exame/"
+    },
+    {
+      "path": "/tag/dmri/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de DMRI - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/dmri/"
+    },
+    {
+      "path": "/tag/family-island-energy/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de family island energy - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/family-island-energy/"
+    },
+    {
+      "path": "/tag/family-island-free-energy/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de family island free energy - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/family-island-free-energy/"
+    },
+    {
+      "path": "/tag/family-island-free-energy-hack/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de family island free energy hack - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/family-island-free-energy-hack/"
+    },
+    {
+      "path": "/tag/free-coins-solitaire-grand-harvest/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de free coins solitaire grand harvest - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/free-coins-solitaire-grand-harvest/"
+    },
+    {
+      "path": "/tag/free-coins-gaminator/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de free coins gaminator - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/free-coins-gaminator/"
+    },
+    {
+      "path": "/tag/free-chips-bingo-bash/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de free chips bingo bash - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/free-chips-bingo-bash/"
+    },
+    {
+      "path": "/tag/free-credits-bingo-drive/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de free credits bingo drive - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/free-credits-bingo-drive/"
+    },
+    {
+      "path": "/tag/free-spins-coin-master/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de free spins coin master - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/free-spins-coin-master/"
+    },
+    {
+      "path": "/tag/gamehunters-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gamehunters free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gamehunters-free-coins/"
+    },
+    {
+      "path": "/tag/gaminator-bonus-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator bonus coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-bonus-coins/"
+    },
+    {
+      "path": "/tag/gaminator-bonus/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator bonus - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-bonus/"
+    },
+    {
+      "path": "/tag/gaminator-coins-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator coins 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-coins-2025/"
+    },
+    {
+      "path": "/tag/gaminator-daily-links/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator daily links - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-daily-links/"
+    },
+    {
+      "path": "/tag/gaminator-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-free-coins/"
+    },
+    {
+      "path": "/tag/gaminator-hacks/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator hacks - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-hacks/"
+    },
+    {
+      "path": "/tag/gaminator-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-rewards/"
+    },
+    {
+      "path": "/tag/gaminator-tips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de gaminator tips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/gaminator-tips/"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-bash-chips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de how to get free bingo bash chips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/how-to-get-free-bingo-bash-chips/"
+    },
+    {
+      "path": "/tag/how-to-get-free-coin-master-spins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de how to get free coin master spins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/how-to-get-free-coin-master-spins/"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-drive-credits/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de how to get free bingo drive credits - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/how-to-get-free-bingo-drive-credits/"
+    },
+    {
+      "path": "/tag/how-to-get-free-gaminator-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de how to get free gaminator coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/how-to-get-free-gaminator-coins/"
+    },
+    {
+      "path": "/tag/levvvel-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de levvvel free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/levvvel-free-coins/"
+    },
+    {
+      "path": "/tag/injecao-intravitrea/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de injeção intravítrea - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/injecao-intravitrea/"
+    },
+    {
+      "path": "/tag/macula/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de mácula - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/macula/"
+    },
+    {
+      "path": "/tag/mapeamento-de-retina/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de mapeamento de retina - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/mapeamento-de-retina/"
+    },
+    {
+      "path": "/tag/marco/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de marco - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/marco/"
+    },
+    {
+      "path": "/tag/moscas-volantes/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de moscas volantes - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/moscas-volantes/"
+    },
+    {
+      "path": "/tag/mosttechs-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de mosttechs free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/mosttechs-free-coins/"
+    },
+    {
+      "path": "/tag/oct/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de oct - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/oct/"
+    },
+    {
+      "path": "/tag/oftalmologia/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de oftalmologia - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/oftalmologia/"
+    },
+    {
+      "path": "/tag/retina/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de retina - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/retina/"
+    },
+    {
+      "path": "/tag/oftalmologista/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de oftalmologista - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/oftalmologista/"
+    },
+    {
+      "path": "/tag/saude-ocular/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de saúde ocular - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/saude-ocular/"
+    },
+    {
+      "path": "/tag/saude-visual/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de saúde visual - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/saude-visual/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-coins-2025/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest coins 2025 - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-coins-2025/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-daily-links/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest daily links - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-daily-links/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-free-coins/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest free coins - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-free-coins/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-hacks/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest hacks - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-hacks/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-rewards/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest rewards - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-rewards/"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-tips/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de solitaire grand harvest tips - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/solitaire-grand-harvest-tips/"
+    },
+    {
+      "path": "/tag/tratamento/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de tratamento - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/tratamento/"
+    },
+    {
+      "path": "/tag/visao/",
+      "kind": "captured-route",
+      "status": 200,
+      "title": "Arquivo de visão - Clínica de Olhos Benchimol",
+      "redirects": [],
+      "finalStatus": 200,
+      "finalPath": "/tag/visao/"
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+      "kind": "captured-route",
+      "status": 308,
+      "title": "Você sabe quais os cuidados básicos após a realização da cirurgia de catarata? - Clínica de Olhos Benchimol",
+      "redirects": [
+        {
+          "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+          "status": 308,
+          "target": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/"
+        }
+      ],
+      "finalStatus": 200,
+      "finalPath": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/"
+    }
+  ]
+}

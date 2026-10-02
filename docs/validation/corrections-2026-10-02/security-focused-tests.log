@@ -1,0 +1,58 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+ ✓ tests/backend/least-privilege.test.ts (6 tests) 2962ms
+ ✓ tests/backend/plain-media.test.ts (4 tests) 78ms
+ ❯ tests/backend/image-validation.test.ts (13 tests | 1 failed) 96ms
+   ❯ managed image decoder boundary (13)
+     ✓ fully decodes png while preserving the input bytes 19ms
+     ✓ fully decodes jpeg while preserving the input bytes 10ms
+     ✓ fully decodes webp while preserving the input bytes 8ms
+     ✓ fully decodes gif while preserving the input bytes 5ms
+     ✓ accepts an animated GIF and validates every frame with a combined pixel limit 5ms
+     ✓ rejects truncation and appended garbage for png 3ms
+     ✓ rejects truncation and appended garbage for jpeg 2ms
+     ✓ rejects truncation and appended garbage for webp 2ms
+     ✓ rejects truncation and appended garbage for gif 4ms
+     ✓ rejects a MIME mismatch and a signature-only former fixture 3ms
+     ✓ rejects excessive dimensions and compressed pixel bombs before raw output 5ms
+     ✓ rejects corrupt pixel data despite a structurally complete container 6ms
+     × rejects more than the allowed frames 20ms
+ ✓ tests/backend/security-headers.test.ts (1 test) 7ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/backend/image-validation.test.ts > managed image decoder boundary > rejects more than the allowed frames
+AssertionError: promise resolved "{ extension: 'gif', width: 1, …(2) }" instead of rejecting
+
+- Expected
++ Received
+
+- Error {
+-   "message": "rejected promise",
++ {
++   "extension": "gif",
++   "frames": 52,
++   "height": 1,
++   "width": 1,
+  }
+
+ ❯ tests/backend/image-validation.test.ts:46:57
+     44|       raw: { width: 1, height: MANAGED_IMAGE_LIMITS.frames + 1, channe…
+     45|     }).gif().toBuffer();
+     46|     await expect(validateManagedImage(gif, 'image/gif')).rejects.toThr…
+       |                                                         ^
+     47|   });
+     48| });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed | 3 passed (4)
+      Tests  1 failed | 23 passed (24)
+   Start at  00:35:24
+   Duration  8.40s (tests 41%, import 36%, transform 22%)
+
+    Isolate  4 workers spawned · ~181ms startup each (spawn + environment, per file)
+             at least ~542ms faster with isolate: false — reuses workers across files instead of one per file
+

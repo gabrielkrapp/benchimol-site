@@ -1,0 +1,57 @@
+{
+  "createdAt": "2026-10-02T00:38:46.471Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "bindingVerified": true,
+  "tlsVerified": true,
+  "privateSnapshot": "backups/hosted-manual-qa/before.json",
+  "summary": {
+    "posts": {
+      "count": 154,
+      "sha256": "28abcc69a8e1003db06eb2231104ca016a6d1031348b3bbf9d3b6a25c29d9384"
+    },
+    "post_revisions": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "redirects": {
+      "count": 2,
+      "sha256": "8405ee82aa9f50f1afcb6c229e0c037eccf57dafca8cb2da3f236c9c415d22b0"
+    },
+    "media": {
+      "count": 551,
+      "sha256": "b8689460e17948bf65d67ca4de29cc91063e9822073480e7e852c5182399a5d9"
+    },
+    "media_uploads": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "settings": {
+      "count": 2,
+      "sha256": "b5c80a77387b435efbd47508ca897cc2f11116177c29c186412148671c702b01"
+    },
+    "settings_revisions": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "taxonomies": {
+      "count": 91,
+      "sha256": "79041033367ed8a2d620086ec561d6d4b758715f7ae7083bdc6dda6c4893250d"
+    },
+    "reserved_routes": {
+      "count": 47,
+      "sha256": "c169593f43ddb3b6454ccb9ffa948b7eb048eacf2180d181ad6947cfd3eb4663"
+    },
+    "operation_events": {
+      "count": 1,
+      "sha256": "3a5465802370876b6f50e253d2bc28d1ac24840677cde1637274e83b17611f20"
+    },
+    "administrators": {
+      "count": 1,
+      "sha256": "d3652479f5d0c98f521e080a19a65ed3ac3ca8d6b4f6f04da2b576e8d780f042"
+    },
+    "storage_objects": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  }
+}

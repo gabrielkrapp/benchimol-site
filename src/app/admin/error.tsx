@@ -1,0 +1,2 @@
+'use client';
+export default function AdminError({ reset }: { error: Error; reset: () => void }) { return <div className="admin-root admin-login-page"><section className="admin-login-card"><h1>Não foi possível abrir o painel</h1><p>O serviço pode estar temporariamente indisponível. Suas alterações já salvas continuam no servidor.</p><div className="admin-actions" style={{ marginTop: 22 }}><button className="admin-button" onClick={reset}>Tentar novamente</button><a className="admin-button admin-button-secondary" href="/admin/login">Voltar ao login</a></div></section></div>; }

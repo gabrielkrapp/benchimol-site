@@ -1,0 +1,867 @@
+{
+  "958": {
+    "thumbSpacing": 9,
+    "externalLink": false,
+    "captions": false,
+    "captionHAlign": "bottom",
+    "collectionthumbRoundedCorners": 5,
+    "collectionThumbSubMenuDownload": false,
+    "collectionThumbSubMenuShare": false,
+    "sliderMaxHeight": 520,
+    "sliderAdminWidth": 840,
+    "sliderNextPrevBgColorHover": "rgba(0,153,249,1)",
+    "sliderNextPrevIconColor": "rgba(42,54,122,1)",
+    "autoPlay": true,
+    "galleryType": "pgc_sgb_slider",
+    "galleryId": "8ad18180",
+    "images": [
+      {
+        "id": 949,
+        "title": "consultorio2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=949",
+        "alt": "",
+        "description": "",
+        "caption": "Consultorio 2",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=949"
+      },
+      {
+        "id": 947,
+        "title": "0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=947",
+        "alt": "",
+        "description": "Recepção",
+        "caption": "Recepção",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=947"
+      },
+      {
+        "id": 941,
+        "title": "0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=941",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=941"
+      },
+      {
+        "id": 948,
+        "title": "consultorio1",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio1.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=948",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio1-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio1-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/consultorio1.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=948"
+      },
+      {
+        "id": 946,
+        "title": "0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=946",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=946"
+      },
+      {
+        "id": 944,
+        "title": "0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=944",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=944"
+      },
+      {
+        "id": 943,
+        "title": "0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=943",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=943"
+      },
+      {
+        "id": 942,
+        "title": "0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=942",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=942"
+      },
+      {
+        "id": 940,
+        "title": "0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2 (1)",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=940",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 809,
+        "height": 546,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 202,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1-300x202.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1.webp",
+            "height": 546,
+            "width": 809,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=940"
+      },
+      {
+        "id": 939,
+        "title": "0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=939",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=939"
+      },
+      {
+        "id": 945,
+        "title": "0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=945",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=945"
+      }
+    ],
+    "itemsMetaDataCollection": [],
+    "contentNoPadding": true,
+    "galleryBgColor": "rgba(87,170,212,0)",
+    "shareFacebook": false,
+    "shareTwitter": false,
+    "sharePinterest": false,
+    "sliderItemDownload": false,
+    "shareCopyLink": false,
+    "sliderItemCounterEnable": false,
+    "sliderThumbBarEnable": false,
+    "sliderSlideshow": false,
+    "openPopupId": ""
+  },
+  "970": {
+    "thumbSpacing": 9,
+    "externalLink": false,
+    "captions": false,
+    "captionHAlign": "bottom",
+    "collectionthumbRoundedCorners": 5,
+    "collectionThumbSubMenuDownload": false,
+    "collectionThumbSubMenuShare": false,
+    "sliderMaxHeight": 520,
+    "sliderAdminWidth": 840,
+    "sliderNextPrevBgColorHover": "rgba(0,153,249,1)",
+    "sliderNextPrevIconColor": "rgba(42,54,122,1)",
+    "autoPlay": true,
+    "galleryType": "pgc_sgb_slider",
+    "galleryId": "8ad18180",
+    "images": [
+      {
+        "id": 980,
+        "title": "0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=980",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_ac308a843bf9407b9723e47d841492ea_mv2_d_4032_3024_s_4_2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=980"
+      },
+      {
+        "id": 978,
+        "title": "0715b5_93bb143b9d744d0086b15796ad0d87db_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=978",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_93bb143b9d744d0086b15796ad0d87db_mv2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=978"
+      },
+      {
+        "id": 975,
+        "title": "0715b5_42d18314704947da826f68faf0771545_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=975",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_42d18314704947da826f68faf0771545_mv2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=975"
+      },
+      {
+        "id": 972,
+        "title": "0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=972",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_8e9ad62349de48049d2bb691de5e31ed_mv2_d_4032_3024_s_4_2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=972"
+      },
+      {
+        "id": 981,
+        "title": "0715b5_b9e6a485813d432988dca64fcf874fba_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=981",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_b9e6a485813d432988dca64fcf874fba_mv2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=981"
+      },
+      {
+        "id": 974,
+        "title": "0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=974",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_33d53cefd1d94d19851610ee7d7d500c_mv2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=974"
+      },
+      {
+        "id": 971,
+        "title": "0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=971",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_6c18d8d7634c481e8083219a2abeb7c3_mv2_d_4032_3024_s_4_2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=971"
+      },
+      {
+        "id": 973,
+        "title": "0715b5_9b181362540b49f5b091f720ab9e21b2_mv2 (1)",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=973",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 724,
+        "height": 483,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 200,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1-300x200.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_9b181362540b49f5b091f720ab9e21b2_mv2-1.webp",
+            "height": 483,
+            "width": 724,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=973"
+      },
+      {
+        "id": 976,
+        "title": "0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=976",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=976"
+      },
+      {
+        "id": 977,
+        "title": "0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=977",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 981,
+        "height": 521,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 159,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2-300x159.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_86ff30ca4fa6421b8dee351443bff940_mv2_d_4032_3024_s_4_2.webp",
+            "height": 521,
+            "width": 981,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=977"
+      },
+      {
+        "id": 979,
+        "title": "0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=979",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 980,
+        "height": 523,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 160,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2-300x160.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_269e82686bef4d32a6d6e51f7eaa45e2_mv2_d_2318_1536_s_2.webp",
+            "height": 523,
+            "width": 980,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=979"
+      },
+      {
+        "id": 982,
+        "title": "0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2",
+        "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2.webp",
+        "link": "https://clinicadeolhosbenchimol.com.br/?attachment_id=982",
+        "alt": "",
+        "description": "",
+        "caption": "",
+        "mime": "image/webp",
+        "type": "image",
+        "width": 731,
+        "height": 410,
+        "sizes": {
+          "thumbnail": {
+            "height": 150,
+            "width": 150,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2-150x150.webp",
+            "orientation": "landscape"
+          },
+          "medium": {
+            "height": 168,
+            "width": 300,
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2-300x168.webp",
+            "orientation": "landscape"
+          },
+          "full": {
+            "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/2023/02/0715b5_cde2f267fcf24d07be981c1a3ce92134_mv2.webp",
+            "height": 410,
+            "width": 731,
+            "orientation": "landscape"
+          }
+        },
+        "meta": false,
+        "postlink": "https://clinicadeolhosbenchimol.com.br/?attachment_id=982"
+      }
+    ],
+    "itemsMetaDataCollection": [],
+    "contentNoPadding": true,
+    "galleryBgColor": "rgba(87,170,212,0)",
+    "shareFacebook": false,
+    "shareTwitter": false,
+    "sharePinterest": false,
+    "sliderItemDownload": false,
+    "shareCopyLink": false,
+    "sliderItemCounterEnable": false,
+    "sliderThumbBarEnable": false,
+    "sliderSlideshow": false,
+    "openPopupId": ""
+  }
+}

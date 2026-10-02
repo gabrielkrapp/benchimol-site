@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "libraryVersion": "0.12",
+  "basePath": "docs/prompts/base.md",
+  "composition": "base_then_task",
+  "prompts": [
+    {
+      "id": "P01",
+      "title": "Alterar cor",
+      "category": "Aparência",
+      "version": "0.3",
+      "path": "docs/prompts/alterar-cor.md",
+      "contextPaths": [
+        "docs/specs/2026-09-30-initial-spec.md",
+        "docs/research/site-audit.md",
+        "docs/migration/content-and-seo.md"
+      ]
+    },
+    {
+      "id": "P02",
+      "title": "Alterar exame ou especialidade",
+      "category": "Conteúdo",
+      "version": "0.3",
+      "path": "docs/prompts/alterar-exame.md",
+      "contextPaths": [
+        "docs/research/pages.csv",
+        "docs/research/site-audit.md",
+        "docs/migration/content-and-seo.md"
+      ]
+    },
+    {
+      "id": "P03",
+      "title": "Atualizar equipe",
+      "category": "Conteúdo",
+      "version": "0.3",
+      "path": "docs/prompts/alterar-equipe.md",
+      "contextPaths": [
+        "docs/research/pages.csv",
+        "docs/research/site-audit.md",
+        "docs/migration/content-and-seo.md"
+      ]
+    },
+    {
+      "id": "P04",
+      "title": "Adicionar página",
+      "category": "Navegação",
+      "version": "0.4",
+      "path": "docs/prompts/adicionar-pagina.md",
+      "contextPaths": [
+        "docs/specs/2026-09-30-initial-spec.md",
+        "docs/research/routes.csv",
+        "docs/migration/content-and-seo.md",
+        "docs/architecture/decisions.md"
+      ]
+    },
+    {
+      "id": "P05",
+      "title": "Alterar menu",
+      "category": "Navegação",
+      "version": "0.4",
+      "path": "docs/prompts/alterar-menu.md",
+      "contextPaths": [
+        "docs/research/site-audit.md",
+        "docs/research/routes.csv",
+        "docs/migration/content-and-seo.md",
+        "docs/implementation/public.md"
+      ]
+    },
+    {
+      "id": "P06",
+      "title": "Melhorar SEO",
+      "category": "SEO",
+      "version": "0.4",
+      "path": "docs/prompts/melhorar-seo.md",
+      "contextPaths": [
+        "docs/migration/content-and-seo.md",
+        "docs/research/site-audit.md",
+        "docs/research/routes.csv",
+        "docs/implementation/public.md",
+        "docs/validation/corrections-2026-10-02/seo-ai.md"
+      ]
+    },
+    {
+      "id": "P07",
+      "title": "Atualizar imagem ou PDF",
+      "category": "Mídias",
+      "version": "0.5",
+      "path": "docs/prompts/alterar-midia.md",
+      "contextPaths": [
+        "docs/research/media.csv",
+        "docs/migration/content-and-seo.md",
+        "docs/implementation/public.md",
+        "docs/implementation/admin.md",
+        "docs/admin/functional-spec.md",
+        "docs/validation/corrections-2026-10-02/performance.md",
+        "docs/validation/corrections-2026-10-02/security.md"
+      ]
+    },
+    {
+      "id": "P08",
+      "title": "Conferir origem e migração",
+      "category": "Migração",
+      "version": "0.1",
+      "path": "docs/prompts/recolher-origem-publica.md",
+      "contextPaths": [
+        "docs/research/restored-source-capture.md",
+        "docs/implementation/plan.md",
+        "docs/migration/content-and-seo.md"
+      ]
+    }
+  ]
+}

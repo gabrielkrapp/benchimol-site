@@ -1,0 +1,19 @@
+{
+  "createdAt": "2026-10-01T20:35:50.204Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "migration": "supabase/migrations/20261001202736_benchimol_editorial_initial.sql",
+  "sha256": "17aef862af82823a46390a7aeacb8e226486b031c6e0d918288fc301de8bf6b3",
+  "committed": true,
+  "counts": {
+    "posts": 154,
+    "canonical": 153,
+    "media": 551,
+    "redirects": 2
+  },
+  "bodyAndPathReconciliation": true,
+  "rlsAllApplicationTables": true,
+  "privateBucket": true,
+  "authUsersCreated": 0,
+  "noDocker": true,
+  "noSiteDeployment": true
+}

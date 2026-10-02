@@ -1,0 +1,109 @@
+{
+  "capturedAt": "2026-10-02T02:56:39.121Z",
+  "localBase": "http://127.0.0.1:3000",
+  "zeroCredentialsUsed": true,
+  "zeroAuthAttempts": true,
+  "zeroWrites": true,
+  "tests": [
+    {
+      "name": "home",
+      "method": "GET",
+      "path": "/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "login",
+      "method": "GET",
+      "path": "/admin/login/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "private_dashboard",
+      "method": "GET",
+      "path": "/admin/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "posts_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/posts/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "media_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/media/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "settings_unauthenticated",
+      "method": "GET",
+      "path": "/api/admin/settings/contact/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "env_not_served",
+      "method": "GET",
+      "path": "/.env.prod",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "internal_docs_not_served",
+      "method": "GET",
+      "path": "/docs/specs/2026-09-30-initial-spec.md",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "backup_not_served",
+      "method": "GET",
+      "path": "/backups/hosted-manual-qa/before.json",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "login_absent_origin",
+      "method": "POST",
+      "path": "/api/auth/login/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    },
+    {
+      "name": "login_external_origin",
+      "method": "POST",
+      "path": "/api/auth/login/",
+      "unavailable": true,
+      "errorCode": "ECONNREFUSED",
+      "passed": null,
+      "result": "not_run"
+    }
+  ],
+  "status": "not_executed_server_unavailable"
+}

@@ -1,0 +1,96 @@
+{
+  "source": "https://clinicadeolhosbenchimol.com.br",
+  "snapshot": "docs/research/restored-2026-09-30-public",
+  "startedAt": "2026-09-30T23:46:31.378817+00:00",
+  "completedAt": "2026-09-30T23:47:28.692643+00:00",
+  "scope": "Unauthenticated public GET; no remote mutation; JS observed as data and never executed; video bytes excluded",
+  "api": {
+    "posts": {
+      "reportedTotal": 154,
+      "capturedCount": 154,
+      "unreconciledCount": 0
+    },
+    "pages": {
+      "reportedTotal": 38,
+      "capturedCount": 38,
+      "unreconciledCount": 0
+    },
+    "categories": {
+      "reportedTotal": 10,
+      "capturedCount": 10,
+      "unreconciledCount": 0
+    },
+    "tags": {
+      "reportedTotal": 81,
+      "capturedCount": 81,
+      "unreconciledCount": 0
+    },
+    "media": {
+      "reportedTotal": 551,
+      "capturedCount": 551,
+      "unreconciledCount": 0
+    },
+    "comments": {
+      "reportedTotal": 1,
+      "capturedCount": 1,
+      "unreconciledCount": 0
+    },
+    "users": {
+      "reportedTotal": null,
+      "capturedCount": 0,
+      "unreconciledCount": null
+    },
+    "pgc_simply_gallery": {
+      "reportedTotal": 2,
+      "capturedCount": 2,
+      "unreconciledCount": 0
+    }
+  },
+  "routes": 297,
+  "assetsRequested": 1289,
+  "assetsSaved": 1288,
+  "assetsBytes": 201514630,
+  "collisions": {
+    "/cirurgia-refrativa/": [
+      {
+        "type": "posts",
+        "wpId": 34,
+        "slug": "cirurgia-refrativa"
+      },
+      {
+        "type": "pages",
+        "wpId": 3216,
+        "slug": "cirurgia-refrativa"
+      }
+    ]
+  },
+  "thirdPartyHosts": [
+    "cdn.trustindex.io",
+    "lh3.googleusercontent.com",
+    "secure.gravatar.com",
+    "static.wixstatic.com",
+    "www.clinicadeolhosbenchimol.com.br"
+  ],
+  "failures": [
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-json/wp/v2/users?per_page=100&page=1",
+      "status": 401,
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/cataratacatar/",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/equipe-medica/",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://www.clinicadeolhosbenchimol.com.br/_files/ugd/0715b5_46a61730b34a48208a2d7dea19a792c0.pdf",
+      "status": 404,
+      "error": ""
+    }
+  ]
+}

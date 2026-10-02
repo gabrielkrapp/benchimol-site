@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2026-10-01T22:27:59.590Z",
+  "buildId": "HUHevW-DGRcC9RbS-5oQu",
+  "collector": "root CUA tab8 actual click/Space/Enter, after completion",
+  "states": [
+    {
+      "state": "initial",
+      "entries": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?",
+        "DMRI seca e úmida: saiba quais são as diferenças",
+        "Diabetes pode causar cegueira? Entenda os riscos e como evitar",
+        "A importância dos exames oftalmológicos de rotina após os 50 anos"
+      ],
+      "label": "Carregar Mais",
+      "next": "/blog/page/2/",
+      "recentPosts": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?"
+      ],
+      "role": "button",
+      "url": "http://127.0.0.1:3002/blog/"
+    },
+    {
+      "state": "first-click",
+      "entries": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?",
+        "DMRI seca e úmida: saiba quais são as diferenças",
+        "Diabetes pode causar cegueira? Entenda os riscos e como evitar",
+        "A importância dos exames oftalmológicos de rotina após os 50 anos",
+        "Por que a acuidade visual pode piorar com o avanço da idade?",
+        "Como funciona a injeção intravítrea para o tratamento de condições da mácula",
+        "A importância do OCT para pacientes com catarata"
+      ],
+      "label": "Carregar Mais",
+      "next": "/blog/page/2/",
+      "recentPosts": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?"
+      ],
+      "role": "button",
+      "url": "http://127.0.0.1:3002/blog/"
+    },
+    {
+      "state": "space",
+      "entries": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?",
+        "DMRI seca e úmida: saiba quais são as diferenças",
+        "Diabetes pode causar cegueira? Entenda os riscos e como evitar",
+        "A importância dos exames oftalmológicos de rotina após os 50 anos",
+        "Por que a acuidade visual pode piorar com o avanço da idade?",
+        "Como funciona a injeção intravítrea para o tratamento de condições da mácula",
+        "A importância do OCT para pacientes com catarata",
+        "5 Sinais de que sua visão precisa de atenção imediata",
+        "Existe um oftalmologista especialista em mácula?",
+        "Como identificar os primeiros sinais de catarata"
+      ],
+      "label": "Carregar Mais",
+      "next": "/blog/page/3/",
+      "recentPosts": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?"
+      ],
+      "role": "button",
+      "url": "http://127.0.0.1:3002/blog/"
+    },
+    {
+      "state": "enter-completed",
+      "entries": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?",
+        "DMRI seca e úmida: saiba quais são as diferenças",
+        "Diabetes pode causar cegueira? Entenda os riscos e como evitar",
+        "A importância dos exames oftalmológicos de rotina após os 50 anos",
+        "Por que a acuidade visual pode piorar com o avanço da idade?",
+        "Como funciona a injeção intravítrea para o tratamento de condições da mácula",
+        "A importância do OCT para pacientes com catarata",
+        "5 Sinais de que sua visão precisa de atenção imediata",
+        "Existe um oftalmologista especialista em mácula?",
+        "Como identificar os primeiros sinais de catarata",
+        "A importância dos exames oftalmológicos regulares",
+        "Olho seco no inverno: causas, sintomas e como tratar",
+        "Junho Violeta: por que prevenir o ceratocone é tão importante?"
+      ],
+      "label": "Carregar Mais",
+      "next": "/blog/page/3/",
+      "recentPosts": [
+        "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?",
+        "Os Marcos de Décadas da Clínica de Olhos Benchimol",
+        "Moscas volantes: sintoma comum ou alerta de perigo?"
+      ],
+      "role": "button",
+      "url": "http://127.0.0.1:3002/blog/"
+    }
+  ],
+  "source": "source-blog-load-more.json",
+  "limits": [
+    "Native network-error fallback was not exercised; meaningful unit tests cover fallback and cleanup."
+  ]
+}

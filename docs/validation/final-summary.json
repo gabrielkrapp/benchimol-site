@@ -1,0 +1,43 @@
+{
+  "recordedAt": "2026-10-01T22:39:28.529985+00:00",
+  "scope": "Consolidation of completed local checks and documentary evidence; no hosted website or real admin-session approval",
+  "buildId": "HUHevW-DGRcC9RbS-5oQu",
+  "tests": {
+    "passed": 174,
+    "files": 29,
+    "failures": 0,
+    "source": "tests-final.json"
+  },
+  "http": {
+    "passed": true,
+    "completed": true,
+    "routes": 297,
+    "assets": 478,
+    "stylesheets": 42,
+    "source": "local-html-HUHevW-DGRcC9RbS-5oQu.json"
+  },
+  "runtimePackage": {
+    "passed": true,
+    "uniqueFiles": 345,
+    "source": "runtime-package.json"
+  },
+  "visual": {
+    "representativeCombinations": 24,
+    "multipleBuilds": true,
+    "latestGalleryCombinations": 3,
+    "pixelEqualityMeasured": false,
+    "source": "visual-qa-final.md"
+  },
+  "brain": {
+    "matchesCanonical": true,
+    "sha256": "7d51f0118133e7309d27921b63b4e52e31dbcc6d8b76a406067534d1cb199127"
+  },
+  "pending": [
+    "User-created approved Auth account and administrators binding",
+    "Real admin login/logout/refresh and managed upload UI acceptance",
+    "Native hover/swipe/navigation-dialog acceptance",
+    "Manual hosting eligibility/publication and actual CDN/crawler/SEO validation"
+  ],
+  "noDockerStarted": true,
+  "noMergePushReleaseOrSiteDeployment": true
+}

@@ -1,0 +1,41 @@
+{
+  "createdAt": "2026-10-01T20:43:25.979Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "passed": true,
+  "checks": [
+    {
+      "name": "Public SDK: 153 canonical articles, exact bodies, dates and paths",
+      "passed": true
+    },
+    {
+      "name": "Anonymous SDK cannot list administrative media metadata; legacy bytes remain static",
+      "passed": true
+    },
+    {
+      "name": "Auth: signup disabled, email provider enabled",
+      "passed": true
+    },
+    {
+      "name": "PostgreSQL: 551 legacy media IDs and URLs reconciled",
+      "passed": true
+    },
+    {
+      "name": "Managed Storage bucket private, image limit 10 MB",
+      "passed": true
+    },
+    {
+      "name": "anon: private post/revision hidden and RPC write refused; probes rolled back",
+      "passed": true
+    },
+    {
+      "name": "authenticated: private post/revision hidden and RPC write refused; probes rolled back",
+      "passed": true
+    }
+  ],
+  "approvedAdminExists": false,
+  "adminSessionTested": false,
+  "managedUploadTested": false,
+  "productionSiteTested": false,
+  "noDocker": true,
+  "noSiteDeployment": true
+}

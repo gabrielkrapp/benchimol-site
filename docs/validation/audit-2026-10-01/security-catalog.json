@@ -1,0 +1,2209 @@
+{
+  "capturedAt": "2026-10-02T02:54:32.674Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "readOnly": true,
+  "context7Available": false,
+  "transactionReadOnly": true,
+  "tables": [
+    {
+      "schema": "auth",
+      "table": "audit_log_entries",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "custom_oauth_providers",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "flow_state",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "identities",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "instances",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "mfa_amr_claims",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "mfa_challenges",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "mfa_factors",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "mfa_recovery_code_sets",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "mfa_recovery_codes",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "oauth_authorizations",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "oauth_client_states",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "oauth_clients",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "oauth_consents",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "one_time_tokens",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "refresh_tokens",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "saml_providers",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "saml_relay_states",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "schema_migrations",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "scim_tokens",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "scim_users",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "sessions",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "sso_domains",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "sso_providers",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "users",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "webauthn_challenges",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "auth",
+      "table": "webauthn_credentials",
+      "rls": false,
+      "force_rls": false,
+      "owner": "supabase_auth_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "private",
+      "table": "login_windows",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "public",
+      "table": "administrators",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "redirects",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "reserved_routes",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "public",
+      "table": "taxonomies",
+      "rls": true,
+      "force_rls": false,
+      "owner": "postgres",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "storage",
+      "table": "buckets",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "storage",
+      "table": "buckets_analytics",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "storage",
+      "table": "buckets_vectors",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": true,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "storage",
+      "table": "migrations",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": false,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "storage",
+      "table": "objects",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "anon_delete": true,
+      "authenticated_select": true,
+      "authenticated_insert": true,
+      "authenticated_update": true,
+      "authenticated_delete": true
+    },
+    {
+      "schema": "storage",
+      "table": "s3_multipart_uploads",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": true,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "storage",
+      "table": "s3_multipart_uploads_parts",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": true,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    },
+    {
+      "schema": "storage",
+      "table": "vector_indexes",
+      "rls": true,
+      "force_rls": false,
+      "owner": "supabase_storage_admin",
+      "anon_select": true,
+      "anon_insert": false,
+      "anon_update": false,
+      "anon_delete": false,
+      "authenticated_select": true,
+      "authenticated_insert": false,
+      "authenticated_update": false,
+      "authenticated_delete": false
+    }
+  ],
+  "policies": [
+    {
+      "schemaname": "public",
+      "tablename": "administrators",
+      "policyname": "admin_own_record",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "media",
+      "policyname": "media_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "ALL",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "media_uploads",
+      "policyname": "own_upload_intents",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "ALL",
+      "qual": "((user_id = ( SELECT auth.uid() AS uid)) AND ( SELECT private.is_active_admin() AS is_active_admin))",
+      "with_check": "((user_id = ( SELECT auth.uid() AS uid)) AND ( SELECT private.is_active_admin() AS is_active_admin))"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "operation_events",
+      "policyname": "operations_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "post_revisions",
+      "policyname": "revisions_admin_select",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "posts",
+      "policyname": "posts_admin_insert",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "INSERT",
+      "qual": null,
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "posts",
+      "policyname": "posts_admin_select",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "posts",
+      "policyname": "posts_admin_update",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "UPDATE",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "posts",
+      "policyname": "posts_public",
+      "permissive": "PERMISSIVE",
+      "roles": "{anon,authenticated}",
+      "cmd": "SELECT",
+      "qual": "((status = 'published'::text) AND (public_path IS NOT NULL) AND (published_at IS NOT NULL) AND (published_at <= now()))",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "redirects",
+      "policyname": "redirects_admin_insert",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "INSERT",
+      "qual": null,
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "redirects",
+      "policyname": "redirects_admin_read",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "redirects",
+      "policyname": "redirects_admin_update",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "UPDATE",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "redirects",
+      "policyname": "redirects_public",
+      "permissive": "PERMISSIVE",
+      "roles": "{anon,authenticated}",
+      "cmd": "SELECT",
+      "qual": "(EXISTS ( SELECT 1\n   FROM posts\n  WHERE ((posts.id = redirects.post_id) AND (posts.status = 'published'::text) AND (posts.public_path IS NOT NULL) AND (posts.published_at IS NOT NULL) AND (posts.published_at <= now()))))",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "reserved_routes",
+      "policyname": "reserved_public",
+      "permissive": "PERMISSIVE",
+      "roles": "{anon,authenticated}",
+      "cmd": "SELECT",
+      "qual": "true",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "settings",
+      "policyname": "settings_admin_update",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "UPDATE",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": "( SELECT private.is_active_admin() AS is_active_admin)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "settings",
+      "policyname": "settings_public",
+      "permissive": "PERMISSIVE",
+      "roles": "{anon,authenticated}",
+      "cmd": "SELECT",
+      "qual": "true",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "settings_revisions",
+      "policyname": "settings_revisions_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "( SELECT private.is_active_admin() AS is_active_admin)",
+      "with_check": null
+    },
+    {
+      "schemaname": "public",
+      "tablename": "taxonomies",
+      "policyname": "taxonomies_public",
+      "permissive": "PERMISSIVE",
+      "roles": "{anon,authenticated}",
+      "cmd": "SELECT",
+      "qual": "true",
+      "with_check": null
+    },
+    {
+      "schemaname": "storage",
+      "tablename": "objects",
+      "policyname": "editorial_delete_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "DELETE",
+      "qual": "((bucket_id = 'editorial-media'::text) AND private.is_deletable_media_path(name))",
+      "with_check": null
+    },
+    {
+      "schemaname": "storage",
+      "tablename": "objects",
+      "policyname": "editorial_read_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "SELECT",
+      "qual": "((bucket_id = 'editorial-media'::text) AND ( SELECT private.is_active_admin() AS is_active_admin) AND storage.allow_any_operation(ARRAY['object.get_authenticated'::text, 'object.get_authenticated_info'::text, 'object.delete'::text, 'object.delete_many'::text]))",
+      "with_check": null
+    },
+    {
+      "schemaname": "storage",
+      "tablename": "objects",
+      "policyname": "editorial_upload_admin",
+      "permissive": "PERMISSIVE",
+      "roles": "{authenticated}",
+      "cmd": "INSERT",
+      "qual": null,
+      "with_check": "((bucket_id = 'editorial-media'::text) AND ( SELECT private.is_active_admin() AS is_active_admin) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))"
+    }
+  ],
+  "schemaPrivileges": [
+    {
+      "schema": "auth",
+      "anon_usage": true,
+      "authenticated_usage": true,
+      "anon_create": false,
+      "authenticated_create": false
+    },
+    {
+      "schema": "private",
+      "anon_usage": true,
+      "authenticated_usage": true,
+      "anon_create": false,
+      "authenticated_create": false
+    },
+    {
+      "schema": "public",
+      "anon_usage": true,
+      "authenticated_usage": true,
+      "anon_create": false,
+      "authenticated_create": false
+    },
+    {
+      "schema": "storage",
+      "anon_usage": true,
+      "authenticated_usage": true,
+      "anon_create": false,
+      "authenticated_create": false
+    }
+  ],
+  "columns": [
+    {
+      "schema": "private",
+      "table": "login_windows",
+      "column": "bucket",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "authenticated_insert": false,
+      "authenticated_update": false
+    },
+    {
+      "schema": "private",
+      "table": "login_windows",
+      "column": "attempts",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "authenticated_insert": false,
+      "authenticated_update": false
+    },
+    {
+      "schema": "private",
+      "table": "login_windows",
+      "column": "reset_at",
+      "anon_select": false,
+      "anon_insert": false,
+      "anon_update": false,
+      "authenticated_insert": false,
+      "authenticated_update": false
+    },
+    {
+      "schema": "public",
+      "table": "administrators",
+      "column": "user_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "administrators",
+      "column": "display_name",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "administrators",
+      "column": "active",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "administrators",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "wp_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "url",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "original_url",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "storage_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "mime_type",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "bytes",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "width",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "height",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "alt",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "caption",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "user_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "storage_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "mime_type",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "bytes",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "alt",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "caption",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "media_uploads",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "column": "kind",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "column": "source",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "operation_events",
+      "column": "details",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "post_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "version",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "actor_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "actor_name",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "post_revisions",
+      "column": "snapshot",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "wp_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "slug",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "legacy_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "public_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "title",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "excerpt_html",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "body_html",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "author_name",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "status",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "published_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "updated_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "version",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "featured_image",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "featured_alt",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "category_ids",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "tag_ids",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "seo",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "body_edit_mode",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "publication_sync",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "source_hash",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "column": "updated_by",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "redirects",
+      "column": "from_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "redirects",
+      "column": "to_path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "redirects",
+      "column": "post_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "redirects",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "reserved_routes",
+      "column": "path",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "column": "key",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "column": "value",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "column": "version",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "column": "updated_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "column": "updated_by",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "key",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "version",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "created_at",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "actor_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "actor_name",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "settings_revisions",
+      "column": "snapshot",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "taxonomies",
+      "column": "kind",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "taxonomies",
+      "column": "wp_id",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "taxonomies",
+      "column": "slug",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    },
+    {
+      "schema": "public",
+      "table": "taxonomies",
+      "column": "name",
+      "anon_select": true,
+      "anon_insert": true,
+      "anon_update": true,
+      "authenticated_insert": true,
+      "authenticated_update": true
+    }
+  ],
+  "functions": [
+    {
+      "schema": "private",
+      "name": "audit_post_change",
+      "arguments": "",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "9d43c5b5db618fb8fe3ec8cdaa5983bc39a98a0b7f285d6372cc17dd17dd9897",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "audit_settings_change",
+      "arguments": "",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "15c58b3f7afd294ec3819d632d723868af91f4bb684319678f1f3df076402606",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "consume_login_bucket",
+      "arguments": "bucket_hash text, max_attempts integer",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": true,
+      "definitionSha256": "a89c691caa0ba6cb2c1d544ab963097ca576404958e8b3fa6d3da8e229a3b57b",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "guard_managed_media_references",
+      "arguments": "",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "2d34a1987067c70c72f7855f0cd709a0389306f247cd2d30a990d3f8bd77b25c",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "guard_media_delete",
+      "arguments": "",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "087e5ac44c63da1aa028fb03a1c7c8ec0f6e0157bc859bd91aea0a0628efaafe",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "guard_post_path",
+      "arguments": "",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "9b824aad33d5cf8518b0823a04448bdb797267f3981211bc69cecd8253888bc5",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "is_active_admin",
+      "arguments": "",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": false,
+      "definitionSha256": "f4c956454893a01f2b757d6291f9fe31bfe1ab62c5afc46de3e45cb0587141b5",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "private",
+      "name": "is_deletable_media_path",
+      "arguments": "object_path text",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": false,
+      "definitionSha256": "c79a3686fd9ebd327c7b8f0dda948d804c5bc8066715f1a89493bd7580a03c2a",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "private",
+      "name": "is_public_media_path",
+      "arguments": "object_path text",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": true,
+      "authenticated_execute": true,
+      "service_role_execute": false,
+      "definitionSha256": "f93711244bf35af57658c6f152f3f56fe41dbf1123a2a39957968d7fd78b6e88",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "media_url_path",
+      "arguments": "value text",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": false,
+      "definitionSha256": "0ba2a95e5f552723b5b86bb5837d2c42e0c7caa82511d305034ac05ba573492b",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "public_media",
+      "arguments": "media_id uuid",
+      "security_definer": true,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": true,
+      "authenticated_execute": true,
+      "service_role_execute": false,
+      "definitionSha256": "a1582812c98ed6a177757cabb84dd09c2aa513a865d657c2c27151a881cc2ce4",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "private",
+      "name": "validate_settings_value",
+      "arguments": "",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": false,
+      "definitionSha256": "f656407cf813a3d753366d53094d467b153b5db1d5a965e34eafc10cbbd1196a",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "public",
+      "name": "consume_login_attempt",
+      "arguments": "bucket_hash text, max_attempts integer",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": false,
+      "service_role_execute": true,
+      "definitionSha256": "12a07220ee6a87aa359b7a94f159911097c268bd1c2487c24382dad0b90b3291",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "public",
+      "name": "create_post",
+      "arguments": "payload jsonb",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "9f5c3ea03f767a9f9a1450c832d4f7685977afc105df8609c603698cbbc75332",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "public",
+      "name": "get_public_media",
+      "arguments": "media_id uuid",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": true,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "922f266ec124ec1926f7220e204a16ebe3345890eeea7b8936ee0260a386e646",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": false
+    },
+    {
+      "schema": "public",
+      "name": "restore_contact_settings",
+      "arguments": "expected_version integer, revision_id uuid",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "7c693c5eff4135a8dc60a716ad46d2b8a33d1b1fdc2f9bcc9d74031de657d092",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "public",
+      "name": "restore_post",
+      "arguments": "post_id uuid, expected_version integer, revision_id uuid",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "512325a9ddd70b2b1ba80d4ef48ac1f068c91c8a790f7c8fdbb161555b34b4ef",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "public",
+      "name": "save_post",
+      "arguments": "post_id uuid, expected_version integer, payload jsonb",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "e7a203c7c70b2536725ff83e8cce7104387ad25f83827fdc007be6ecccdd697a",
+      "referencesAuthUid": false,
+      "referencesActiveAdmin": true
+    },
+    {
+      "schema": "public",
+      "name": "save_settings",
+      "arguments": "setting_key text, expected_version integer, payload jsonb",
+      "security_definer": false,
+      "config": [
+        "search_path=\"\""
+      ],
+      "owner": "postgres",
+      "anon_execute": false,
+      "authenticated_execute": true,
+      "service_role_execute": true,
+      "definitionSha256": "fed22fd5968db103967373e25eea9340ad338d95720713515a31638441340173",
+      "referencesAuthUid": true,
+      "referencesActiveAdmin": true
+    }
+  ],
+  "views": [],
+  "triggers": [
+    {
+      "schema": "public",
+      "table": "media",
+      "trigger": "guard_media_delete",
+      "enabled": "O",
+      "function": "guard_media_delete"
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "trigger": "audit_post_change",
+      "enabled": "O",
+      "function": "audit_post_change"
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "trigger": "guard_managed_media_references",
+      "enabled": "O",
+      "function": "guard_managed_media_references"
+    },
+    {
+      "schema": "public",
+      "table": "posts",
+      "trigger": "guard_post_path",
+      "enabled": "O",
+      "function": "guard_post_path"
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "trigger": "audit_settings_change",
+      "enabled": "O",
+      "function": "audit_settings_change"
+    },
+    {
+      "schema": "public",
+      "table": "settings",
+      "trigger": "validate_settings_value",
+      "enabled": "O",
+      "function": "validate_settings_value"
+    }
+  ],
+  "buckets": [
+    {
+      "id": "editorial-media",
+      "public": false,
+      "file_size_limit": "10485760",
+      "allowed_mime_types": [
+        "image/jpeg",
+        "image/png",
+        "image/webp",
+        "image/gif"
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "anon",
+      "superuser": false,
+      "bypass_rls": false
+    },
+    {
+      "name": "authenticated",
+      "superuser": false,
+      "bypass_rls": false
+    },
+    {
+      "name": "postgres",
+      "superuser": false,
+      "bypass_rls": true
+    },
+    {
+      "name": "service_role",
+      "superuser": false,
+      "bypass_rls": true
+    }
+  ],
+  "apiSchemaConfiguration": [],
+  "auth": {
+    "settingsHttpStatus": 200,
+    "disableSignup": true,
+    "emailEnabled": true,
+    "anonymousEnabled": false,
+    "mailerAutoconfirm": true
+  },
+  "platform": {
+    "capturedAt": "2026-10-02T02:59:47.263Z",
+    "serverVersion": "17.11",
+    "extensions": [
+      {
+        "name": "pg_stat_statements",
+        "version": "1.11"
+      },
+      {
+        "name": "pgcrypto",
+        "version": "1.3"
+      },
+      {
+        "name": "plpgsql",
+        "version": "1.0"
+      },
+      {
+        "name": "supabase_vault",
+        "version": "0.3.1"
+      },
+      {
+        "name": "uuid-ossp",
+        "version": "1.1"
+      }
+    ],
+    "customOperators": []
+  }
+}

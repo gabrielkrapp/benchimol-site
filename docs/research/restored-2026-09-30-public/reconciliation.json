@@ -1,0 +1,57 @@
+{
+  "posts": {
+    "historicalCount": 154,
+    "restoredCount": 154,
+    "addedWpIds": [],
+    "missingWpIds": []
+  },
+  "pages": {
+    "historicalCount": 38,
+    "restoredCount": 38,
+    "addedWpIds": [],
+    "missingWpIds": []
+  },
+  "media": {
+    "historicalCount": 527,
+    "restoredCount": 551,
+    "addedWpIds": [
+      103,
+      106,
+      188,
+      2202,
+      2263,
+      2323,
+      2324,
+      2351,
+      2454,
+      2466,
+      2522,
+      2557,
+      2578,
+      2579,
+      2596,
+      2797,
+      2829,
+      3439,
+      3722,
+      3723,
+      3744,
+      3781,
+      3782,
+      3800
+    ],
+    "missingWpIds": []
+  },
+  "categories": {
+    "historicalCount": 10,
+    "restoredCount": 10,
+    "addedWpIds": [],
+    "missingWpIds": []
+  },
+  "tags": {
+    "historicalCount": 81,
+    "restoredCount": 81,
+    "addedWpIds": [],
+    "missingWpIds": []
+  }
+}

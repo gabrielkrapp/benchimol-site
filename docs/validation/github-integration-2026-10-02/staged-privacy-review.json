@@ -1,0 +1,137 @@
+{
+  "createdAt": "2026-10-02",
+  "mode": "read_only_staged_index_audit",
+  "indexManifestSha256": "9e7bbd57f7541dafe602ae8a5f101a6df6d148248c18e525e954c1f0071e91e7",
+  "indexedFiles": 2310,
+  "indexedModes": {
+    "100644": 2310
+  },
+  "textBlobsScanned": 704,
+  "textBytesScanned": 94524814,
+  "binaryBlobsNotVisuallyInspected": 1606,
+  "checks": {
+    "recommendedExclusionsAbsent": true,
+    "recommendedExclusionsCount": 31,
+    "recommendedExclusionsStillIndexed": [],
+    "allExcludedLocalCopiesPreserved": true,
+    "protectedFilesIndexed": [],
+    "environmentBasenamesIndexed": [
+      ".env.example"
+    ],
+    "symlinks": [],
+    "submodules": [],
+    "unmergedStages": []
+  },
+  "strongFindings": [],
+  "personalContactOccurrences": [
+    {
+      "path": "data/wordpress/routes.json",
+      "line": 161407,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/admin/functional-spec.md",
+      "line": 25,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/architecture/decisions.md",
+      "line": 43,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/architecture/decisions.md",
+      "line": 83,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/discovery/client-inputs.md",
+      "line": 13,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/implementation/admin.md",
+      "line": 52,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/implementation/backend.md",
+      "line": 7,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/implementation/backend.md",
+      "line": 62,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/implementation/progress.md",
+      "line": 7,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/implementation/progress.md",
+      "line": 45,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/operations/clinic-integration.md",
+      "line": 39,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/operations/clinic-integration.md",
+      "line": 44,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/operations/local-setup.md",
+      "line": 27,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/operations/local-setup.md",
+      "line": 59,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/routes.json",
+      "line": 31130,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/routes.json",
+      "line": 154446,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 29,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 164,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "docs/validation/login-origin-fix.md",
+      "line": 34,
+      "type": "operator_or_public_contact_email"
+    },
+    {
+      "path": "scripts/migration/verify-clinic.ts",
+      "line": 54,
+      "type": "operator_or_public_contact_email"
+    }
+  ],
+  "personalContactCount": 20,
+  "passed": true,
+  "limitations": [
+    "Examined index object bytes using git cat-file --batch; not mutable working-tree files.",
+    "No private env/backups/contracts/exports read. No suspicious values copied into the report.",
+    "Public asset/visual screenshots were not visually inspected; administrative screenshots are excluded.",
+    "Any index mutation after this manifest requires a new check of changed paths.",
+    "Pattern scan is evidence, not a universal guarantee of absence of all secret formats."
+  ]
+}

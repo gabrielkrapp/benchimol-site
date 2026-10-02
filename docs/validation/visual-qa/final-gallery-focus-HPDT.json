@@ -1,0 +1,76 @@
+{
+  "capturedAt": "2026-10-01T21:58:57.190Z",
+  "buildId": "HPDTG2USRXNtqhWS5CzVn",
+  "width": 390,
+  "click": {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "0px none rgb(255, 255, 255)",
+    "focus": true,
+    "focusVisible": false,
+    "outline": "rgb(255, 255, 255) none 3px"
+  },
+  "keyboard": {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "0px none rgb(255, 255, 255)",
+    "focus": true,
+    "focusVisible": true,
+    "outline": "rgb(255, 255, 255) solid 2px"
+  },
+  "photos": [
+    {
+      "index": 0,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 1,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 2,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 3,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 4,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 5,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 6,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 7,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 8,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 9,
+      "loaded": true,
+      "selected": "true"
+    },
+    {
+      "index": 10,
+      "loaded": true,
+      "selected": "true"
+    }
+  ]
+}

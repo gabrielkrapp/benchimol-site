@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-02T01:22:30.956Z",
+  "authenticated": false,
+  "data": [
+    {
+      "path": "/api/admin/posts/",
+      "status": 401,
+      "location": null
+    },
+    {
+      "path": "/api/admin/media/",
+      "status": 401,
+      "location": null
+    },
+    {
+      "path": "/api/admin/settings/contact/",
+      "status": 401,
+      "location": null
+    },
+    {
+      "path": "/api/admin/prompts/",
+      "status": 404,
+      "location": null
+    },
+    {
+      "path": "/api/media/ef9d3c59-ad31-4e07-9bc9-c0213801c3b5/",
+      "status": 404,
+      "location": null
+    }
+  ]
+}

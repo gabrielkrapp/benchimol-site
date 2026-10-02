@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-02T00:11:26.320Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "bindingVerified": true,
+  "tlsVerified": true,
+  "email": "benchimol@benchimolclinic.com.br",
+  "emailConfirmed": true,
+  "banned": false,
+  "deleted": false,
+  "lastSignIn": "2026-10-02T00:09:49.470Z",
+  "administratorExists": false,
+  "administratorActive": false,
+  "uiLoginBeforeBinding": "generic_login_error",
+  "administratorChangeApplied": false,
+  "authUsersCreated": 0,
+  "passwordChanged": false,
+  "credentialsStored": false,
+  "approvalReview": "Administrator insertion was rejected because specific privilege-change authorization is required; no mutation executed."
+}

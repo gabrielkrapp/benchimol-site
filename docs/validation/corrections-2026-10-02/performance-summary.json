@@ -1,0 +1,16 @@
+{
+  "generatedAtUtc": "2026-10-02T03:45:12.228Z",
+  "uniqueCssBefore": {
+    "files": 42,
+    "bytes": 94858927
+  },
+  "uniqueCssAfter": {
+    "files": 42,
+    "bytes": 79911248
+  },
+  "legacyBodyImages": {
+    "total": 129,
+    "missingDimensions": 0
+  },
+  "scope": "Offline canonical snapshot; does not assert current hosted rows or measured CLS."
+}

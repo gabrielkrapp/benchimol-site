@@ -1,0 +1,7 @@
+{
+  "withDimensions": "876e4864812372eec4d26bdb2ab6a8b81e09d07f95a91cfddd6f0b674d430f66",
+  "withoutNewDimensions": "db694eddeb32223e2da2318893a1b74b4f6ce124373ef31a32050b522fda1bbb",
+  "expected": "db694eddeb32223e2da2318893a1b74b4f6ce124373ef31a32050b522fda1bbb",
+  "measuredAvatarCount": 8,
+  "equalsOriginalWithoutGeneratedDimensions": true
+}

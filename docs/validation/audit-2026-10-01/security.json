@@ -1,0 +1,221 @@
+{
+  "createdAt": "2026-10-02T03:02:59.361Z",
+  "auditDate": "2026-10-01",
+  "timeZone": "America/Sao_Paulo",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "mode": "read_only_review",
+  "runtimeChanges": false,
+  "schemaChanges": false,
+  "authChanges": false,
+  "containersStarted": false,
+  "siteServerStarted": false,
+  "siteDeployed": false,
+  "context7Available": false,
+  "securityGuarantee": false,
+  "summary": {
+    "p0": 0,
+    "p1": 0,
+    "p2": 3,
+    "p3": 2,
+    "applicationTables": 12,
+    "applicationTablesWithRls": 12,
+    "publicTables": 11,
+    "privateTables": 1,
+    "views": 0,
+    "functions": 19,
+    "postgresVersion": "17.11",
+    "signupDisabled": true,
+    "privateBucket": true,
+    "productionDependencyAdvisories": 0,
+    "focusedTests": 97,
+    "focusedTestFiles": 9,
+    "focusedTestsExitCode": 0,
+    "publicFilesSecretScan": 305,
+    "secretValuesPresentInPublicFiles": false,
+    "localHttpChecksPassed": 16,
+    "localHttpChecksTotal": 16
+  },
+  "checks": [
+    {
+      "id": "RLS",
+      "result": "passed_catalog",
+      "proof": "security-catalog.json"
+    },
+    {
+      "id": "RLS_behavior",
+      "result": "passed_embedded_database_tests",
+      "scope": "PGlite in memory, current declarative schema; real hosted grants differ, see SEC-01"
+    },
+    {
+      "id": "Auth_signup",
+      "result": "passed_public_settings_GET",
+      "proof": "security-catalog.json"
+    },
+    {
+      "id": "Server_authorization",
+      "result": "passed_static_and_embedded",
+      "scope": "getUser + active administrator, every private data operation"
+    },
+    {
+      "id": "CSRF",
+      "result": "passed_origin_unit_tests",
+      "scope": "missing/cross-site/spoofed/local alias origins; no current HTTP server"
+    },
+    {
+      "id": "Private_keys",
+      "result": "passed_checked_assets",
+      "proof": "security-secret-boundaries.json"
+    },
+    {
+      "id": "Dependencies",
+      "result": "passed_current_npm_registry_audit",
+      "proof": "security-npm-audit.json"
+    },
+    {
+      "id": "Local_HTTP",
+      "result": "passed_local_development_status_and_authorization_checks",
+      "proof": "security-http-live.json",
+      "previousResult": "not_executed_server_unavailable",
+      "previousProof": "security-http.json",
+      "scope": "16 statuses/authorization/refused-invalid requests; headers captured, gaps remain SEC-03; not production acceptance"
+    },
+    {
+      "id": "Vercel_runtime",
+      "result": "not_deployed_not_tested"
+    },
+    {
+      "id": "Remote_bruteforce",
+      "result": "not_performed_no_auth_attempts_or_load"
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEC-01",
+      "priority": "P2",
+      "title": "Privilégios de tabela herdados excedem o acesso necessário",
+      "evidence": "Todas as 11 tabelas public concedem SELECT/INSERT/UPDATE/DELETE a anon e authenticated. As políticas RLS ainda restringem os registros; não foi demonstrado bypass.",
+      "impact": "Uma futura regressão de política pode abrir operações que hoje seriam bloqueadas em uma segunda camada. Grants de coluna previstos no schema não retiram grants amplos herdados.",
+      "recommendation": "Preparar migração declarativa separada: revogar grants existentes e default privileges para anon/authenticated; conceder somente as operações/colunas necessárias; testar também no modelo de grants padrão do Supabase antes da aplicação manual.",
+      "files": [
+        "supabase/schemas/01_editorial.sql",
+        "security-catalog.json"
+      ],
+      "state": "open_not_applied"
+    },
+    {
+      "id": "SEC-02",
+      "priority": "P2",
+      "title": "Proteções de login próprias não abrangem o endpoint direto Supabase Auth",
+      "evidence": "limitLogin aplica 8 tentativas por email e 24 por IP a cada 15 minutos somente na rota Next; Auth email público habilitado e signup desabilitado. Nenhum código de CAPTCHA/MFA/AAL2 no fluxo administrativo.",
+      "impact": "Um agente pode chamar diretamente Auth com a chave publicável e ficar sujeito aos limites do provedor, não aos limites mais baixos da aplicação. Não foi realizado ataque ou teste massivo.",
+      "recommendation": "Conferir limites reais do Auth no painel, proteção de senha vazada e CAPTCHA; considerar MFA obrigatório para administradores com verificação AAL2. Integrar desafio no login antes de ativar CAPTCHA. Validar cabeçalho de IP real na Vercel e negar admin inativo em cada operação.",
+      "files": [
+        "src/lib/server/login.ts",
+        "src/app/api/auth/login/route.ts",
+        "src/lib/server/auth.ts"
+      ],
+      "state": "open_configuration_not_verified"
+    },
+    {
+      "id": "SEC-03",
+      "priority": "P2",
+      "title": "Cabeçalhos de defesa do navegador incompletos no projeto",
+      "evidence": "next.config.ts configura nosniff somente para /api, Cache-Control e noindex em rotas privadas; não define CSP, frame-ancestors, X-Frame-Options, Referrer-Policy ou Permissions-Policy. Sem aplicação publicada para validar cabeçalhos da plataforma. Suplemento HTTP local confirma ausência desses headers em Home/login; não comprova configuração futura da hospedagem. Next dev retorna no-cache/must-revalidate em Home/login, enquanto APIs privadas retornam private/no-store.",
+      "impact": "Faltam camadas de defesa contra enquadramento/execução inesperada; não foi demonstrada exploração.",
+      "recommendation": "Definir frame-ancestors none/X-Frame-Options DENY para admin, nosniff e Referrer-Policy globais; validar Permissions-Policy compatível. Planejar CSP inicialmente em Report-Only com inventário de estilos Elementor, scripts Next, mapas e embeds; evitar bloquear layout/SEO por política indiscriminada.",
+      "files": [
+        "next.config.ts",
+        "src/proxy.ts"
+      ],
+      "state": "open_not_applied"
+    },
+    {
+      "id": "SEC-04",
+      "priority": "P3",
+      "title": "Validação de imagem verifica assinatura e tamanho, sem decodificação completa",
+      "evidence": "validateImage verifica apenas bytes iniciais PNG/JPEG/GIF/WebP e limite 10 MB. MIME/bucket privado/finalização/admin limitam o acesso.",
+      "impact": "Cabeçalho válido seguido de arquivo truncado/poliglota pode ser aceito como cadastro; não foi comprovada execução de código. SVG/HTML não são tipos geridos permitidos.",
+      "recommendation": "Em melhoria separada, verificar estrutura/dimensões reais com decoder e limite de pixels antes de tornar a mídia pública; verificar custo de memória e runtime. Preservar arquivos legados originais.",
+      "files": [
+        "src/lib/domain/validation.ts",
+        "src/lib/server/media.ts"
+      ],
+      "state": "open_not_applied"
+    },
+    {
+      "id": "SEC-05",
+      "priority": "P3",
+      "title": "Envios abandonados não têm rotina de expurgo demonstrada",
+      "evidence": "Intenção expira em 2 horas na finalização, mas createMediaUpload seguido de upload interrompido/abandono não tem rotina agendada de limpeza no repositório.",
+      "impact": "Intenções/objetos privados podem acumular e consumir a quota gratuita; depende de um administrador autorizado, não permite acesso público.",
+      "recommendation": "Documentar revisão manual/expurgo seguro de intenções expiradas e objetos órfãos com guarda de referências; automatizar somente se futuramente solicitado e aprovado.",
+      "files": [
+        "src/lib/server/media.ts",
+        "supabase/schemas/03_storage.sql"
+      ],
+      "state": "open_not_applied"
+    }
+  ],
+  "commands": [
+    {
+      "command": "node --env-file=.env.prod --import tsx docs/validation/audit-2026-10-01/security-readonly.mjs",
+      "exitCode": 0
+    },
+    {
+      "command": "npm audit --omit=dev --json",
+      "exitCode": 0
+    },
+    {
+      "command": "node node_modules/vitest/vitest.mjs run tests/backend/database.test.ts tests/backend/domain.test.ts tests/backend/origin.test.ts tests/backend/database-connection.test.ts tests/backend/signer.test.ts tests/local/guards.test.ts tests/backend/backup-restore.test.ts tests/backend/public-source.test.ts tests/public/content.test.ts",
+      "exitCode": 0,
+      "testFiles": 9,
+      "tests": 97,
+      "durationSeconds": 28.14,
+      "startBrt": "2026-10-01T23:55:07-03:00",
+      "evidence": "security-tests.log"
+    }
+  ],
+  "limits": [
+    "Sem URL Next publicada: CDN/WAF/TLS/cookies e configurações Vercel não validados.",
+    "Sem leitura de usuários Auth/tokens/senhas; MFA individual e leaked password protection permanecem não confirmados.",
+    "Limites específicos de Auth/CAPTCHA não estão no settings público consultado.",
+    "Sem força bruta, scanner intrusivo, carga, criação de usuários ou escrita de dados.",
+    "A primeira captura HTTP ficou indisponível (security-http.json histórico); suplemento após servidor iniciado pelo usuário passou 16/16 checks de status/negação, somente em desenvolvimento local.",
+    "Sem reexecução de build. Scan de .next/static vale somente para os assets existentes.",
+    "Sem garantia de revogação imediata de JWT por logout; JWT existente pode permanecer válido até expiração, sem validação adicional de session_id."
+  ],
+  "focusedTestOutput": {
+    "path": "security-tests.log",
+    "sha256": "ec836cd55b8b2ee21dc3613e762a5a5a3a21c31add3f9a252a3351115a62dc17",
+    "bytes": 198,
+    "provenance": {
+      "source": "Original exec_command/write_stdin tool output from this audit; exact concatenation of returned chunks",
+      "executionSessionId": 83878,
+      "initialChunkId": "563455",
+      "completionChunkId": "f55d92",
+      "exitCode": 0,
+      "initialOriginalTokenCount": 16,
+      "completionOriginalTokenCount": 35,
+      "returnedChunksTruncated": false,
+      "stdoutStderrSeparated": false,
+      "containsIndividualTestLines": false,
+      "reexecuted": false
+    }
+  },
+  "httpSupplement": {
+    "path": "security-http-live.json",
+    "sha256": "5db3f8e22d18f85dd3d2f83f8652eb18a3843daa7a808d43746c8cd257e59b04",
+    "capturedAt": "2026-10-02T03:12:52.328Z",
+    "environment": "user_started_local_development_server",
+    "summary": {
+      "total": 16,
+      "passed": 16,
+      "failed": 0,
+      "notRun": 0
+    },
+    "realLoginAttempts": 0,
+    "zeroCredentialUse": true,
+    "zeroWrites": true,
+    "initialUnavailableCapturePreserved": "security-http.json"
+  }
+}

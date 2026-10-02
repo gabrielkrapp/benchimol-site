@@ -1,0 +1,30 @@
+{
+  "run": "QA-20261002-003846",
+  "provenance": "All stdout chunks returned by exec_command and write_stdin for the original commands, consolidated after completion. Commands were not rerun for this report.",
+  "commands": [
+    {
+      "command": "npm test",
+      "sessionId": 69410,
+      "exitCode": 0,
+      "tests": 229,
+      "testFiles": 38,
+      "startedAtLocal": "2026-10-01 22:35:23 America/Sao_Paulo",
+      "durationSeconds": 171.46,
+      "stdoutFile": "hosted-manual-qa-npm-test.log",
+      "sha256": "481f52585b11472b3522e114bf2df28b535aec4cd2d81dba55e407ee859e526d"
+    },
+    {
+      "command": "npm run typecheck",
+      "sessionId": 91523,
+      "exitCode": 0,
+      "stdoutFile": "hosted-manual-qa-typecheck.log",
+      "sha256": "add36f19979f17334e4445aaa99de5804f68a8a12fc65dae7e7a6621c4f44bde"
+    }
+  ],
+  "restrictions": {
+    "buildRun": false,
+    "dockerRun": false,
+    "serverRestarted": false,
+    "deployed": false
+  }
+}

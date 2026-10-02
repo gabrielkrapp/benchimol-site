@@ -1,0 +1,59 @@
+{
+  "run": "QA-20261002-003846",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "baselineCreatedAt": "2026-10-02T00:38:46.471Z",
+  "derivedAt": "2026-10-02T01:53:21.601Z",
+  "baselineSha256": "7a9c52f44f3f1ba2bfb6e7111350714a8b334bc54b023e305201578e48f8d117",
+  "method": "SHA-256 of compact JSON; recursive object-key sorting; rows sorted by stable primary key with JS localeCompare; timestamps as captured in the original snapshot. Initial public summary used different serialization ordering.",
+  "tables": {
+    "posts": {
+      "count": 154,
+      "sha256": "a244b87dc7d553b076c33b52ed0e1c6aa1bf0e372eadb9656fb5a34dac642515"
+    },
+    "post_revisions": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "redirects": {
+      "count": 2,
+      "sha256": "3ee6e7addae58d1a6d1fa474061c7ffc04a8c1007703ef84f78fd34207b7910c"
+    },
+    "media": {
+      "count": 551,
+      "sha256": "08948c1341d7ddd931648f8439cd1420ad618d98e294e4d163e8efb322d42c1f"
+    },
+    "media_uploads": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "settings": {
+      "count": 2,
+      "sha256": "c8164243d1b31dac7ebfca59b1e1a592b14323ae46c9ef3a497afb378ecdc527"
+    },
+    "settings_revisions": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "taxonomies": {
+      "count": 91,
+      "sha256": "4ba3079c05fe3a7e0852253513f6e2395b8b18a9215560b4d9238fb8fa64d45e"
+    },
+    "reserved_routes": {
+      "count": 47,
+      "sha256": "c169593f43ddb3b6454ccb9ffa948b7eb048eacf2180d181ad6947cfd3eb4663"
+    },
+    "operation_events": {
+      "count": 1,
+      "sha256": "0b6f781d47357f869bb6a906e46e680b7646dc028ab6576d39c95e4c1b6d3c24"
+    },
+    "administrators": {
+      "count": 1,
+      "sha256": "a7d807de37985743d9836b5d780da4ef22106992c89dd10790000589c11ed85e"
+    },
+    "storage_objects": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  },
+  "matchesFinalReadOnlyVerification": true
+}

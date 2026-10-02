@@ -1,0 +1,62 @@
+{
+  "capturedAt": "2026-10-01T21:34:22.722Z",
+  "buildId": "LT5XtX2XqdFBQDKFelcC9",
+  "viewport": 390,
+  "images": [
+    {
+      "index": "0",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/consultorio2.webp"
+    },
+    {
+      "index": "1",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_f98c9e80ab2b4e65b8f841266dc647e5_mv2_d_1967_1536_s_2.webp"
+    },
+    {
+      "index": "2",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_876c1c2199af4aebba3bb1382986da47_mv2_d_2318_1536_s_2.webp"
+    },
+    {
+      "index": "3",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/consultorio1.webp"
+    },
+    {
+      "index": "4",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_e57efed73ede4bf8a81c3cde585897f1_mv2.webp"
+    },
+    {
+      "index": "5",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_394291413b37499c943b042b340d02ad_mv2_d_4025_2712_s_4_2.webp"
+    },
+    {
+      "index": "6",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_6364a6af7e4948919e81c664c92c5fe4_mv2_d_4025_2712_s_4_2.webp"
+    },
+    {
+      "index": "7",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_5488cb83909643c7938f7b0f452d864b_mv2_d_4032_3024_s_4_2.webp"
+    },
+    {
+      "index": "8",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_82f1fa29747345b0b099edb2f494173c_mv2_d_2278_1536_s_2-1.webp"
+    },
+    {
+      "index": "9",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_8f986c98c1fd4c9aac203ea6f44e9c92_mv2_d_4025_2712_s_4_2.webp"
+    },
+    {
+      "index": "10",
+      "loaded": true,
+      "src": "http://127.0.0.1:3002/wp-content/uploads/2023/02/0715b5_ae84b7c498e64ccab3e8cb3bb3987180_mv2_d_3425_2084_s_2.webp"
+    }
+  ]
+}

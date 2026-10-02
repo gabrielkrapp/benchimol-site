@@ -1,0 +1,9 @@
+{
+  "generatedAtUtc": "2026-10-02T03:51:48.673Z",
+  "currentManifestMatchesPreview": true,
+  "newManifestEntriesValidated": 45,
+  "oldManifestEntriesStillAvailable": 45,
+  "uniqueCurrentFiles": 42,
+  "manifestFileSha256": "907a593463a368ba705cc33e965212658cd0ac03d21fbd112fe2327e79d4f118",
+  "scope": "SHA-256, byte size and manifest bindings; not a browser comparison."
+}

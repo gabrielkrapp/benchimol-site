@@ -1,0 +1,9 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+
+ Test Files  9 passed (9)
+      Tests  97 passed (97)
+   Start at  23:55:07
+   Duration  28.14s (tests 66%, import 23%, transform 11%)
+

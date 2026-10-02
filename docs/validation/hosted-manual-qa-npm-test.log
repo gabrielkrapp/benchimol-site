@@ -1,0 +1,25 @@
+
+> benchimol-next@0.1.0 pretest
+> npm run styles:public
+
+
+> benchimol-next@0.1.0 styles:public
+> node --import tsx src/lib/public/generate-styles.ts
+
+{"templates":45,"files":42,"totalBytes":94858927,"largestBytes":4226908,"largestBrotliBytes":217931}
+
+> benchimol-next@0.1.0 test
+> vitest run
+
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+
+ Test Files  38 passed (38)
+      Tests  229 passed (229)
+   Start at  22:35:23
+   Duration  171.46s (import 41%, tests 38%, environment 15%, transform 6%)
+
+     Import  142 modules were evaluated 343 times · 66.80s total, 41% of tracked time
+             ~39.14s faster with isolate: false — shared modules are evaluated once per worker instead of once per file
+             learn more: https://vitest.dev/guide/improving-performance#test-isolation

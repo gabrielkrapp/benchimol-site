@@ -1,0 +1,14 @@
+{
+  "createdAt": "2026-10-02T04:14:41.932Z",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "mode": "plan",
+  "readOnly": true,
+  "candidates": 0,
+  "protected": 0,
+  "approvalHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "privatePlanSha256": "bc777331264fbb78cf45432ce47063a57898c789dfc3f5162fd5ecd7bbba3fed",
+  "storageDeletes": 0,
+  "databaseDeletes": 0,
+  "executed": false,
+  "scope": "Read-only hosted plan. Empty candidates; no cleanup/delete action run."
+}

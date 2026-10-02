@@ -1,0 +1,27 @@
+{
+  "exitCode": 2,
+  "originFilesWithFormattingWarnings": 8,
+  "originWarnings": 2237,
+  "authoredFilesWithFormattingWarnings": [
+    "docs/validation/audit-2026-10-01/security-tests.log",
+    "docs/validation/corrections-2026-10-02/full-tests-final.log",
+    "docs/validation/corrections-2026-10-02/full-tests.log",
+    "docs/validation/corrections-2026-10-02/performance-tests-final.log",
+    "docs/validation/corrections-2026-10-02/performance-tests.log",
+    "docs/validation/corrections-2026-10-02/performance-typecheck-fix-tests.log",
+    "docs/validation/corrections-2026-10-02/reviews-after-fix.log",
+    "docs/validation/corrections-2026-10-02/reviews-before-fix.log",
+    "docs/validation/corrections-2026-10-02/security-focused-tests.log",
+    "docs/validation/corrections-2026-10-02/security-image-tests.log",
+    "docs/validation/corrections-2026-10-02/security-review-tests.log",
+    "docs/validation/corrections-2026-10-02/seo-typecheck-fix-tests.log",
+    "docs/validation/corrections-2026-10-02/sidebar-stability-tests-final.log",
+    "docs/validation/corrections-2026-10-02/sidebar-stability-tests.log",
+    "docs/validation/corrections-2026-10-02/typecheck.log",
+    "docs/validation/github-integration-2026-10-02/full-tests.log",
+    "docs/validation/github-integration-2026-10-02/typecheck.log",
+    "docs/validation/hosted-manual-qa-typecheck.log",
+    "src/lib/public/catalog.ts"
+  ],
+  "decision": "Preserve captured source CSV/CSS/HTML bytes and hashes. Whitespace-only warnings do not alter behavior; no provenance normalization."
+}

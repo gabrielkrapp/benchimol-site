@@ -1,0 +1,46 @@
+{
+  "auditWindowLocal": "2026-10-01 to 2026-10-02",
+  "timeZone": "America/Sao_Paulo",
+  "createdAt": "2026-10-02T03:14:33.284Z",
+  "scope": [
+    "google-seo",
+    "ai-discovery",
+    "security",
+    "performance",
+    "local-repository",
+    "google-presence"
+  ],
+  "nextPubliclyDeployed": false,
+  "runtimeFixesApplied": false,
+  "remoteWrites": false,
+  "serverControlledByUser": true,
+  "dockerActions": false,
+  "githubPlanned": false,
+  "applicationRlsTables": 12,
+  "applicationTables": 12,
+  "focusedSecurityTests": 97,
+  "focusedSecurityTestFiles": 9,
+  "focusedSecurityTestsExitCode": 0,
+  "publicHttpStatusesPassed": 13,
+  "securityHttpChecksPassed": 16,
+  "productionPageSpeedScore": null,
+  "productionCoreWebVitals": null,
+  "cleanupFilesDeleted": 14,
+  "cleanupBytesDeleted": 216034,
+  "highPriorityFindings": [
+    "SEO-01: robots blocks managed public images",
+    "performance: captured CSS volume",
+    "performance: CSS-discovered banner volume"
+  ],
+  "reports": {
+    "google-seo.json": "1f101ffed0353c2e9cd0cede8166f083a1d7cef71b4efcfff2614a837f6aa309",
+    "ai-discovery.json": "21df736369efb14fc008d44921b46746c83c4a22d84baeba77a7ee34a93b0a51",
+    "security.json": "73b6ba421618c0e8bef7490f319117a94fa92ccc3c3df2fd1ba1ea62dd530e06",
+    "performance.json": "8d32db6203355e703e8a278b7c1ddff65018346196711d2359afd4308eef6c2c",
+    "repository.json": "c9f91d0f506c610342c5ab99ab08e24cd50b2d96e3aaecb776572fed092e5f84",
+    "google-presence.json": "f408bf6e15e7bb635dfcef5eaa1a34d834bf957666e2210aa9fb54c35bc8549f",
+    "public-http-live.json": "78b3074d0b11e9a19feadce45c657ae5105f8e368fc1f5dc4dd151049308e1f7",
+    "security-http-live.json": "5db3f8e22d18f85dd3d2f83f8652eb18a3843daa7a808d43746c8cd257e59b04",
+    "performance-http-live.json": "50d3aa63ab71077bd0134cbb0a2017703ab69c0b711fba95aeacfb8a57679082"
+  }
+}

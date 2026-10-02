@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2026-10-02T02:57:17.056Z",
+  "environment": "Public Google Search IAB; existing personalized session; region Rio de Janeiro displayed; no sign-in or profile edit performed",
+  "legacyDomain": "https://clinicadeolhosbenchimol.com.br/",
+  "nextPublished": false,
+  "queries": [
+    {
+      "query": "site:clinicadeolhosbenchimol.com.br",
+      "url": "https://www.google.com/search?q=site%3Aclinicadeolhosbenchimol.com.br&hl=pt-BR",
+      "rows": [
+        {
+          "title": "Clínica de Olhos Benchimol: HomeClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br",
+          "url": "https://clinicadeolhosbenchimol.com.br/"
+        },
+        {
+          "title": "Dicas de cuidados com os olhos no frioClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › Blog",
+          "url": "https://clinicadeolhosbenchimol.com.br/dicas_cuidado_olhos_frio/"
+        },
+        {
+          "title": "InternacionalClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › insternacional",
+          "url": "https://clinicadeolhosbenchimol.com.br/insternacional/"
+        },
+        {
+          "title": "CertificaçõesClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › certificacoes",
+          "url": "https://clinicadeolhosbenchimol.com.br/certificacoes/"
+        },
+        {
+          "title": "Blog - Clínica de Olhos Benchimol - Copacabana RJClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › blog",
+          "url": "https://clinicadeolhosbenchimol.com.br/blog/"
+        },
+        {
+          "title": "DaltonismoClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › Blog",
+          "url": "https://clinicadeolhosbenchimol.com.br/daltonismo/"
+        },
+        {
+          "title": "ServiçosClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › servicos",
+          "url": "https://clinicadeolhosbenchimol.com.br/servicos/"
+        },
+        {
+          "title": "EquipamentosClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › equipamentos",
+          "url": "https://clinicadeolhosbenchimol.com.br/equipamentos/"
+        },
+        {
+          "title": "GlaucomaClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › glaucoma",
+          "url": "https://clinicadeolhosbenchimol.com.br/glaucoma/"
+        },
+        {
+          "title": "CatarataClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br › catarata",
+          "url": "https://clinicadeolhosbenchimol.com.br/catarata/"
+        }
+      ]
+    },
+    {
+      "query": "Clínica de Olhos Benchimol",
+      "url": "https://www.google.com/search?q=Cl%C3%ADnica+de+Olhos+Benchimol&hl=pt-BR",
+      "rows": [
+        {
+          "title": "Clínica de Olhos Benchimol: HomeClínica de Olhos Benchimolhttps://clinicadeolhosbenchimol.com.br",
+          "url": "https://clinicadeolhosbenchimol.com.br/"
+        },
+        {
+          "title": "Convênios",
+          "url": "https://clinicadeolhosbenchimol.com.br/convenios/"
+        },
+        {
+          "title": "Equipe",
+          "url": "https://clinicadeolhosbenchimol.com.br/equipe/"
+        },
+        {
+          "title": "Copacabana",
+          "url": "https://clinicadeolhosbenchimol.com.br/pgc_simply_gallery/copacabana/"
+        },
+        {
+          "title": "Especialidades",
+          "url": "https://clinicadeolhosbenchimol.com.br/especialidades/"
+        },
+        {
+          "title": "Dr. Sergio Benchimol",
+          "url": "https://clinicadeolhosbenchimol.com.br/dr-sergio-benchimol/"
+        }
+      ],
+      "businessProfile": {
+        "name": "Clínica de Olhos Centro de Catarata Benchimol",
+        "website": "https://benchimolclinic.com.br/",
+        "address": "Av. Nossa Sra. de Copacabana, 680, 5º andar, Copacabana, Rio de Janeiro, RJ, 22050-001",
+        "phone": "(21) 3816-7000"
+      }
+    }
+  ],
+  "limits": [
+    "Sample results only; site: is not exhaustive or a ranking measurement",
+    "Personalized SERP; no Search Console access, crawl/index coverage, performance report or actual Googlebot logs",
+    "Next.js not published; these results concern the original site"
+  ]
+}

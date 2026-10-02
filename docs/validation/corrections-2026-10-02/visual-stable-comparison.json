@@ -1,0 +1,891 @@
+[
+  {
+    "page": "home",
+    "width": 390,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  },
+  {
+    "page": "blog",
+    "width": 390,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 1,
+        "changes": {
+          "height": [
+            4412.1328125,
+            4470.8203125
+          ]
+        }
+      },
+      {
+        "box": 10,
+        "changes": {
+          "height": [
+            81.21875,
+            102.4140625
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changes": {
+          "height": [
+            61.21875,
+            82.4140625
+          ],
+          "width": [
+            55.7109375,
+            75
+          ]
+        }
+      },
+      {
+        "box": 12,
+        "changes": {
+          "height": [
+            75.7109375,
+            95
+          ],
+          "y": [
+            4105.515625,
+            4126.7109375
+          ]
+        }
+      },
+      {
+        "box": 13,
+        "changes": {
+          "height": [
+            55.7109375,
+            75
+          ],
+          "width": [
+            55.7109375,
+            75
+          ],
+          "y": [
+            4105.515625,
+            4126.7109375
+          ]
+        }
+      },
+      {
+        "box": 14,
+        "changes": {
+          "height": [
+            61.40625,
+            79.609375
+          ],
+          "y": [
+            4181.2265625,
+            4221.7109375
+          ]
+        }
+      },
+      {
+        "box": 15,
+        "changes": {
+          "height": [
+            30.453125,
+            41
+          ],
+          "width": [
+            55.7109375,
+            75
+          ],
+          "y": [
+            4186.703125,
+            4231.015625
+          ]
+        }
+      },
+      {
+        "box": 16,
+        "changes": {
+          "y": [
+            4322.6328125,
+            4381.3203125
+          ]
+        }
+      },
+      {
+        "box": 17,
+        "changes": {
+          "y": [
+            4512.6328125,
+            4571.3203125
+          ]
+        }
+      },
+      {
+        "box": 18,
+        "changes": {
+          "y": [
+            4690.6328125,
+            4749.3203125
+          ]
+        }
+      },
+      {
+        "box": 19,
+        "changes": {
+          "y": [
+            5059.15625,
+            5117.84375
+          ]
+        }
+      },
+      {
+        "box": 20,
+        "changes": {
+          "y": [
+            5310.953125,
+            5369.640625
+          ]
+        }
+      },
+      {
+        "box": 21,
+        "changes": {
+          "y": [
+            5410.640625,
+            5469.328125
+          ]
+        }
+      },
+      {
+        "box": 22,
+        "changes": {
+          "y": [
+            5451.4375,
+            5510.125
+          ]
+        }
+      },
+      {
+        "box": 23,
+        "changes": {
+          "y": [
+            5731.03125,
+            5789.71875
+          ]
+        }
+      },
+      {
+        "box": 24,
+        "changes": {
+          "y": [
+            5771.828125,
+            5830.515625
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "article",
+    "width": 390,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 1,
+        "changes": {
+          "height": [
+            6835.375,
+            6872.875
+          ]
+        }
+      },
+      {
+        "box": 4,
+        "changes": {
+          "height": [
+            102.5078125,
+            102.515625
+          ]
+        }
+      },
+      {
+        "box": 5,
+        "changes": {
+          "height": [
+            82.5078125,
+            82.515625
+          ],
+          "width": [
+            74.9921875,
+            75
+          ]
+        }
+      },
+      {
+        "box": 6,
+        "changes": {
+          "height": [
+            75.7109375,
+            95
+          ],
+          "y": [
+            6410.859375,
+            6410.8671875
+          ]
+        }
+      },
+      {
+        "box": 7,
+        "changes": {
+          "height": [
+            55.7109375,
+            75
+          ],
+          "width": [
+            55.7109375,
+            75
+          ],
+          "y": [
+            6410.859375,
+            6410.8671875
+          ]
+        }
+      },
+      {
+        "box": 8,
+        "changes": {
+          "height": [
+            61.40625,
+            79.609375
+          ],
+          "y": [
+            6486.5703125,
+            6505.8671875
+          ]
+        }
+      },
+      {
+        "box": 9,
+        "changes": {
+          "height": [
+            30.453125,
+            41
+          ],
+          "width": [
+            55.7109375,
+            75
+          ],
+          "y": [
+            6492.046875,
+            6515.171875
+          ]
+        }
+      },
+      {
+        "box": 10,
+        "changes": {
+          "y": [
+            6627.9765625,
+            6665.4765625
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changes": {
+          "y": [
+            6915.875,
+            6953.375
+          ]
+        }
+      },
+      {
+        "box": 12,
+        "changes": {
+          "y": [
+            7213.875,
+            7251.375
+          ]
+        }
+      },
+      {
+        "box": 13,
+        "changes": {
+          "y": [
+            7582.3984375,
+            7619.8984375
+          ]
+        }
+      },
+      {
+        "box": 14,
+        "changes": {
+          "y": [
+            7834.1953125,
+            7871.6953125
+          ]
+        }
+      },
+      {
+        "box": 15,
+        "changes": {
+          "y": [
+            7933.8828125,
+            7971.3828125
+          ]
+        }
+      },
+      {
+        "box": 16,
+        "changes": {
+          "y": [
+            7974.6796875,
+            8012.1796875
+          ]
+        }
+      },
+      {
+        "box": 17,
+        "changes": {
+          "y": [
+            8254.2734375,
+            8291.7734375
+          ]
+        }
+      },
+      {
+        "box": 18,
+        "changes": {
+          "y": [
+            8295.0703125,
+            8332.5703125
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "gallery",
+    "width": 390,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  },
+  {
+    "page": "home",
+    "width": 768,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  },
+  {
+    "page": "blog",
+    "width": 768,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 1,
+        "changes": {
+          "height": [
+            5662.078125,
+            5908.125
+          ]
+        }
+      },
+      {
+        "box": 10,
+        "changes": {
+          "height": [
+            195.2734375,
+            263.453125
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changes": {
+          "height": [
+            175.2734375,
+            243.453125
+          ],
+          "width": [
+            159.5,
+            221.546875
+          ]
+        }
+      },
+      {
+        "box": 12,
+        "changes": {
+          "height": [
+            126.3828125,
+            241.546875
+          ],
+          "y": [
+            4976.0859375,
+            5044.265625
+          ]
+        }
+      },
+      {
+        "box": 13,
+        "changes": {
+          "height": [
+            106.3828125,
+            221.546875
+          ],
+          "width": [
+            106.3828125,
+            221.546875
+          ],
+          "y": [
+            4976.0859375,
+            5044.265625
+          ]
+        }
+      },
+      {
+        "box": 14,
+        "changes": {
+          "height": [
+            78.40625,
+            141.109375
+          ],
+          "y": [
+            5102.46875,
+            5285.8125
+          ]
+        }
+      },
+      {
+        "box": 15,
+        "changes": {
+          "height": [
+            58.40625,
+            121.109375
+          ],
+          "width": [
+            106.84375,
+            221.546875
+          ],
+          "y": [
+            5102.46875,
+            5285.8125
+          ]
+        }
+      },
+      {
+        "box": 16,
+        "changes": {
+          "y": [
+            5300.875,
+            5546.921875
+          ]
+        }
+      },
+      {
+        "box": 17,
+        "changes": {
+          "y": [
+            5541.4765625,
+            5787.5234375
+          ]
+        }
+      },
+      {
+        "box": 18,
+        "changes": {
+          "y": [
+            5778.078125,
+            6024.125
+          ]
+        }
+      },
+      {
+        "box": 19,
+        "changes": {
+          "y": [
+            5858.078125,
+            6104.125
+          ]
+        }
+      },
+      {
+        "box": 20,
+        "changes": {
+          "y": [
+            6137.078125,
+            6383.125
+          ]
+        }
+      },
+      {
+        "box": 21,
+        "changes": {
+          "y": [
+            6137.078125,
+            6383.125
+          ]
+        }
+      },
+      {
+        "box": 22,
+        "changes": {
+          "y": [
+            6183.078125,
+            6429.125
+          ]
+        }
+      },
+      {
+        "box": 23,
+        "changes": {
+          "y": [
+            6442.671875,
+            6688.71875
+          ]
+        }
+      },
+      {
+        "box": 24,
+        "changes": {
+          "y": [
+            6488.671875,
+            6734.71875
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "article",
+    "width": 768,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 1,
+        "changes": {
+          "height": [
+            6484.65625,
+            6662.5234375
+          ]
+        }
+      },
+      {
+        "box": 6,
+        "changes": {
+          "height": [
+            126.3828125,
+            241.546875
+          ]
+        }
+      },
+      {
+        "box": 7,
+        "changes": {
+          "height": [
+            106.3828125,
+            221.546875
+          ],
+          "width": [
+            106.3828125,
+            221.546875
+          ]
+        }
+      },
+      {
+        "box": 8,
+        "changes": {
+          "height": [
+            78.40625,
+            141.109375
+          ],
+          "y": [
+            5811.1484375,
+            5926.3125
+          ]
+        }
+      },
+      {
+        "box": 9,
+        "changes": {
+          "height": [
+            58.40625,
+            121.109375
+          ],
+          "width": [
+            106.84375,
+            221.546875
+          ],
+          "y": [
+            5811.1484375,
+            5926.3125
+          ]
+        }
+      },
+      {
+        "box": 10,
+        "changes": {
+          "y": [
+            5999.5546875,
+            6177.421875
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changes": {
+          "y": [
+            6344.0546875,
+            6521.921875
+          ]
+        }
+      },
+      {
+        "box": 12,
+        "changes": {
+          "y": [
+            6700.65625,
+            6878.5234375
+          ]
+        }
+      },
+      {
+        "box": 13,
+        "changes": {
+          "y": [
+            6780.65625,
+            6958.5234375
+          ]
+        }
+      },
+      {
+        "box": 14,
+        "changes": {
+          "y": [
+            7059.65625,
+            7237.5234375
+          ]
+        }
+      },
+      {
+        "box": 15,
+        "changes": {
+          "y": [
+            7059.65625,
+            7237.5234375
+          ]
+        }
+      },
+      {
+        "box": 16,
+        "changes": {
+          "y": [
+            7105.65625,
+            7283.5234375
+          ]
+        }
+      },
+      {
+        "box": 17,
+        "changes": {
+          "y": [
+            7365.25,
+            7543.1171875
+          ]
+        }
+      },
+      {
+        "box": 18,
+        "changes": {
+          "y": [
+            7411.25,
+            7589.1171875
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "gallery",
+    "width": 768,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  },
+  {
+    "page": "home",
+    "width": 1440,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  },
+  {
+    "page": "blog",
+    "width": 1440,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 10,
+        "changes": {
+          "height": [
+            108.1875,
+            128.984375
+          ]
+        }
+      },
+      {
+        "box": 11,
+        "changes": {
+          "height": [
+            75.3515625,
+            107.4921875
+          ],
+          "width": [
+            68.5703125,
+            97.8203125
+          ],
+          "y": [
+            703.7421875,
+            698.0703125
+          ]
+        }
+      },
+      {
+        "box": 12,
+        "changes": {
+          "height": [
+            88.5703125,
+            117.8203125
+          ],
+          "y": [
+            805.515625,
+            826.3125
+          ]
+        }
+      },
+      {
+        "box": 13,
+        "changes": {
+          "height": [
+            68.5703125,
+            97.8203125
+          ],
+          "width": [
+            68.5703125,
+            97.8203125
+          ],
+          "y": [
+            805.515625,
+            826.3125
+          ]
+        }
+      },
+      {
+        "box": 14,
+        "changes": {
+          "y": [
+            894.0859375,
+            944.1328125
+          ]
+        }
+      },
+      {
+        "box": 15,
+        "changes": {
+          "height": [
+            37.484375,
+            53.46875
+          ],
+          "width": [
+            68.5703125,
+            97.8203125
+          ],
+          "y": [
+            909.0390625,
+            951.09375
+          ]
+        }
+      },
+      {
+        "box": 16,
+        "changes": {
+          "y": [
+            1101.4765625,
+            1151.5234375
+          ]
+        }
+      },
+      {
+        "box": 17,
+        "changes": {
+          "y": [
+            1350.6796875,
+            1400.7265625
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "article",
+    "width": 1440,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [
+      {
+        "box": 9,
+        "changes": {
+          "height": [
+            37.484375,
+            53.46875
+          ],
+          "width": [
+            68.5703125,
+            97.8203125
+          ],
+          "y": [
+            1035.8828125,
+            1027.890625
+          ]
+        }
+      }
+    ],
+    "sidebarReserved": true
+  },
+  {
+    "page": "gallery",
+    "width": 1440,
+    "sameBoxCount": true,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchanged": true,
+    "differences": [],
+    "sidebarReserved": true
+  }
+]

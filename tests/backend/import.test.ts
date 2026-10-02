@@ -1,0 +1,51 @@
+import { afterAll,describe,it,expect } from 'vitest';
+import { PGlite } from '@electric-sql/pglite';
+import { readFile,writeFile,mkdir,mkdtemp,rm } from 'node:fs/promises';
+import { join,dirname } from 'node:path';
+import { tmpdir } from 'node:os';
+import { BACKUP_TABLES,hashBytes } from '../../scripts/migration/backup-database';
+import { restoreDatabaseRows,assertEmptyRestoreTarget,restoreBackupFiles,readVerifiedBackup } from '../../scripts/migration/restore-database';
+import { applyImport,buildImportPlan } from '../../scripts/migration/import-database';
+const db=new PGlite();afterAll(()=>db.close());
+describe('WordPress import reconciliation in actual SQL',()=>{
+ it('preserves all154 WP IDs and bodies, approved aliases and duplicate redirects on repeated import',async()=>{
+  await db.exec(`create role anon;create role authenticated;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql as $$select null::uuid$$;grant usage on schema auth to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;`);
+  for(const path of ['supabase/schemas/01_editorial.sql','supabase/schemas/02_mutations.sql','supabase/seed.sql'])await db.exec(await readFile(path,'utf8'));
+  const plan=buildImportPlan();await applyImport(db,plan);await applyImport(db,plan);
+  const counts=await db.query('select count(*)::int as total,count(distinct wp_id)::int as ids,count(public_path)::int as public from public.posts');
+  expect(counts.rows).toEqual([{total:154,ids:154,public:153}]);
+  expect((await db.query('select wp_id,public_path from public.posts where wp_id in(34,1966) order by wp_id')).rows).toEqual([{wp_id:34,public_path:'/cirurgia-refrativa-artigo/'},{wp_id:1966,public_path:'/por-que-piscamos-os-olhos-artigo-2020/'}]);
+  expect((await db.query("select to_path from public.redirects where from_path='/por-que-piscamos-os-olhos/'")).rows).toEqual([{to_path:'/por-que-piscamos-os-olhos-2/'}]);
+  expect((await db.query('select body_html from public.posts where wp_id=17')).rows[0]).toEqual({body_html:plan.posts.find(p=>p.wp_id===17)!.body_html});
+  expect((await db.query('select count(*)::int as total from public.media')).rows).toEqual([{total:551}]);
+  expect((await db.query("select wp_id,seo->>'canonical' as canonical from public.posts where wp_id in(34,1959,1966) order by wp_id")).rows).toEqual([{wp_id:34,canonical:'https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-artigo/'},{wp_id:1959,canonical:'https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/'},{wp_id:1966,canonical:'https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-artigo-2020/'}]);
+  const folder=await mkdtemp(join(tmpdir(),'benchimol-roundtrip-')),clone=new PGlite();try{
+   const assetId='55555555-5555-4555-8555-555555555555',postId='66666666-6666-4666-8666-666666666666',url=`/api/media/${assetId}`;
+   await db.query('insert into public.media(id,url,storage_path,mime_type,bytes) values($1,$2,$3,$4,$5)',[assetId,url,`${assetId}/fixture.png`,'image/png',8]);
+   await db.query('insert into public.posts(id,slug,legacy_path,public_path,title,status,body_html,featured_image,published_at) values($1,$2,$3,$3,$4,$5,$6,$7,now())',[postId,'restore-fixture','/restore-fixture/','Antes','published',`<p><img src="${url}" alt="capa"></p>`,url]);
+   await db.query('update public.posts set title=$1,version=2 where id=$2',['Depois',postId]);
+   await db.query("update public.settings set value=$1,version=2 where key='popup'",[JSON.stringify({title:'Aviso restaurado',text:'Conteúdo',active:true,startsAt:null,endsAt:null})]);
+   await db.query("update public.settings set value=$1,version=2 where key='contact'",[JSON.stringify({whatsapp:'5521999991234',message:'Contato novo'})]);
+   await mkdir(join(folder,'files'));await mkdir(join(folder,'restored-files'));
+   const bytes=Buffer.from([137,80,78,71,13,10,26,10]);await writeFile(join(folder,'files','fixture.bin'),bytes);
+   await clone.exec(`create role anon;create role authenticated;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql as $$select null::uuid$$;grant usage on schema auth to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;`);
+   for(const path of ['supabase/schemas/01_editorial.sql','supabase/schemas/02_mutations.sql','supabase/seed.sql'])await clone.exec(await readFile(path,'utf8'));
+   const tables:Record<string,Record<string,unknown>[]>={};for(const table of BACKUP_TABLES)tables[table]=(await db.query(`select * from public.${table}`)).rows as Record<string,unknown>[];
+   await assertEmptyRestoreTarget(clone);
+   const path=join(folder,'manifest.json');await writeFile(path,JSON.stringify({schemaVersion:1,createdAt:new Date().toISOString(),projectRef:'abcdefghijklmnopqrst',tables,files:[{path:`${assetId}/fixture.png`,localFile:'files/fixture.bin',sha256:hashBytes(bytes),bytes:8,mimeType:'image/png'}],databaseSha256:hashBytes(JSON.stringify(tables))}));
+   const verified=await readVerifiedBackup(path);
+   await restoreBackupFiles(verified,folder,async(path,contents,mime)=>{expect(mime).toBe('image/png');const output=join(folder,'restored-files',path);await mkdir(dirname(output),{recursive:true});await writeFile(output,contents);});
+   await restoreDatabaseRows(clone,verified);
+   expect((await clone.query('select count(*)::int as total,count(public_path)::int as public from public.posts')).rows).toEqual([{total:155,public:154}]);
+   expect((await clone.query('select body_html from public.posts where wp_id=17')).rows).toEqual((await db.query('select body_html from public.posts where wp_id=17')).rows);
+   expect((await clone.query('select featured_image,version,title from public.posts where id=$1',[postId])).rows).toEqual([{featured_image:url,version:2,title:'Depois'}]);
+   expect((await clone.query("select snapshot->>'title' as title from public.post_revisions where post_id=$1",[postId])).rows).toEqual([{title:'Antes'}]);
+   expect((await clone.query("select value->>'title' as title,version from public.settings where key='popup'")).rows).toEqual([{title:'Aviso restaurado',version:2}]);
+   expect((await clone.query("select value,version from public.settings where key='contact'")).rows).toEqual([{value:{whatsapp:'5521999991234',message:'Contato novo'},version:2}]);
+   expect((await clone.query("select key,version,snapshot from public.settings_revisions order by key")).rows).toEqual((await db.query("select key,version,snapshot from public.settings_revisions order by key")).rows);
+   expect((await clone.query("select snapshot->'value'->>'whatsapp' as whatsapp from public.settings_revisions where key='contact'")).rows).toEqual([{whatsapp:'5521985601000'}]);
+   expect(await readFile(join(folder,'restored-files',assetId,'fixture.png'))).toEqual(bytes);
+   await expect(assertEmptyRestoreTarget(clone)).rejects.toThrow(/not empty/);
+  }finally{await clone.close();await rm(folder,{recursive:true,force:true});}
+ },40000);
+});

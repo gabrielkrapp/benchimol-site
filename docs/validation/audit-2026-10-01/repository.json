@@ -1,0 +1,422 @@
+{
+  "checkedAt": "2026-10-02T03:07:27.062830+00:00",
+  "scope": "Repository on local computer only; no GitHub, publication, Docker, server control or remote database operations",
+  "inventory": {
+    "path": "docs/validation/audit-2026-10-01/local-inventory.json",
+    "checkedAt": "2026-10-02T02:54:04.055248+00:00",
+    "nonRuntimeFiles": 8024,
+    "nonRuntimeBytes": 741078002,
+    "excludedDirs": [
+      ".git",
+      ".local-supabase",
+      ".next",
+      ".next-supabase-local",
+      "node_modules"
+    ]
+  },
+  "cleanup": {
+    "state": "deleted-and-verified",
+    "approvedCandidateCount": 14,
+    "approvedBytes": 216034,
+    "deletedFiles": 14,
+    "deletedBytes": 216034,
+    "candidates": [
+      {
+        "path": ".DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 12292,
+        "sha256": "1b157714d750d4be5a31a9d639951b8d9e493e09d76b37fa742dacc8ccdb1102",
+        "device": 16777221,
+        "inode": 48959616,
+        "mtimeNs": 1790813292826930000,
+        "source": null,
+        "deleted": true
+      },
+      {
+        "path": "supabase/.DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 6148,
+        "sha256": "00335ab5e0c6945dbb309a56c17d84ae53b6e4ebac5e02df4e9d5e5b6678c62b",
+        "device": 16777221,
+        "inode": 48959973,
+        "mtimeNs": 1790813287337650200,
+        "source": null,
+        "deleted": true
+      },
+      {
+        "path": "public/.DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 8196,
+        "sha256": "3152325f270b0d72068ceb0537e2e8e744c12fb73e09d0419ef674129db1d808",
+        "device": 16777221,
+        "inode": 48959794,
+        "mtimeNs": 1790813276647086600,
+        "source": null,
+        "deleted": true
+      },
+      {
+        "path": "public/wp-content/.DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 6148,
+        "sha256": "3ffef0df201fff8b3f83125fdb0f4349e5816480cd6a2ba13fff1fe0dac65b22",
+        "device": 16777221,
+        "inode": 48959891,
+        "mtimeNs": 1790813276645738200,
+        "source": null,
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/tests/__pycache__/test_capture_source.cpython-312.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 11219,
+        "sha256": "d0d62ea8b03d5443c2a0bebdbd5e78e2aec81f68e7181f8467214ac8f09d1b42",
+        "device": 16777221,
+        "inode": 48953393,
+        "mtimeNs": 1790812644483221200,
+        "source": {
+          "path": "scripts/migration/tests/test_capture_source.py",
+          "bytes": 5519,
+          "sha256": "2cf389f5426be28d228202ba18a426bad7754acf685650f9977cfd2aa7b87259"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/tests/__pycache__/test_capture_source.cpython-314.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 11676,
+        "sha256": "f2667d43692d3445469a1a3ed1518368419bcd84717278a1976386376da1d6ee",
+        "device": 16777221,
+        "inode": 48920544,
+        "mtimeNs": 1790811522999594500,
+        "source": {
+          "path": "scripts/migration/tests/test_capture_source.py",
+          "bytes": 5519,
+          "sha256": "2cf389f5426be28d228202ba18a426bad7754acf685650f9977cfd2aa7b87259"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/tests/__pycache__/test_authenticated_export.cpython-312.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 3965,
+        "sha256": "cee124601104afa0a1a79a2b007cfa62d21f729cbc1fc1a2060bb3ae9877bca8",
+        "device": 16777221,
+        "inode": 48947664,
+        "mtimeNs": 1790812242424980700,
+        "source": {
+          "path": "scripts/migration/tests/test_authenticated_export.py",
+          "bytes": 2615,
+          "sha256": "210e8cd3ac9e4a556c0b887cf225e32fc9b1bea4e0afd1b9fd56a809e5364865"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/tests/__pycache__/test_authenticated_export.cpython-314.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 4125,
+        "sha256": "638aa4de3cbeaa0f1943235cf6104d31e3698a0af4e7f5f1cc2b4dd939a3545c",
+        "device": 16777221,
+        "inode": 48948065,
+        "mtimeNs": 1790812284076319500,
+        "source": {
+          "path": "scripts/migration/tests/test_authenticated_export.py",
+          "bytes": 2615,
+          "sha256": "210e8cd3ac9e4a556c0b887cf225e32fc9b1bea4e0afd1b9fd56a809e5364865"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/__pycache__/reconcile-authenticated-export.cpython-312.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 6585,
+        "sha256": "bebfb6e3997c3806de6bbe84abea044e8738724727b0e373e023631345f20c96",
+        "device": 16777221,
+        "inode": 48947665,
+        "mtimeNs": 1790812242455553500,
+        "source": {
+          "path": "scripts/migration/reconcile-authenticated-export.py",
+          "bytes": 3703,
+          "sha256": "aaa6885017041d4967652b86075a5985db4703a3e9e0dcca0161ee1d06df3401"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/__pycache__/reconcile-authenticated-export.cpython-314.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 6818,
+        "sha256": "ed30c93c34f2c475315d7add92fe4f019b6cc9d6c1ebfa1671a98e12b084921c",
+        "device": 16777221,
+        "inode": 48948067,
+        "mtimeNs": 1790812284121875700,
+        "source": {
+          "path": "scripts/migration/reconcile-authenticated-export.py",
+          "bytes": 3703,
+          "sha256": "aaa6885017041d4967652b86075a5985db4703a3e9e0dcca0161ee1d06df3401"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/__pycache__/capture-source.cpython-314.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 64398,
+        "sha256": "06682fadbe434cf241b641f1f0d0f977525e557504869fe1cf07f2aec5b32a21",
+        "device": 16777221,
+        "inode": 48926508,
+        "mtimeNs": 1790811992774626600,
+        "source": {
+          "path": "scripts/migration/capture-source.py",
+          "bytes": 31470,
+          "sha256": "91422b1d1e9e1410e2403b42e2584e1edffe501f6571eb7ff9c88a0c05cef56a"
+        },
+        "deleted": true
+      },
+      {
+        "path": "scripts/migration/__pycache__/capture-source.cpython-312.pyc",
+        "kind": "Python bytecode with existing source",
+        "bytes": 58072,
+        "sha256": "40049eead332acb31c703f3df42a0889f283487e16d42b31e0d0b955ae38400c",
+        "device": 16777221,
+        "inode": 48953403,
+        "mtimeNs": 1790812645276448800,
+        "source": {
+          "path": "scripts/migration/capture-source.py",
+          "bytes": 31470,
+          "sha256": "91422b1d1e9e1410e2403b42e2584e1edffe501f6571eb7ff9c88a0c05cef56a"
+        },
+        "deleted": true
+      },
+      {
+        "path": "data/.DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 6148,
+        "sha256": "e36263eb7c78fc14d35a8047fa24aa9b5868bbdda107dc70d0dc6847a621cd30",
+        "device": 16777221,
+        "inode": 48959615,
+        "mtimeNs": 1790813261363533800,
+        "source": null,
+        "deleted": true
+      },
+      {
+        "path": "src/.DS_Store",
+        "kind": "Finder metadata",
+        "bytes": 10244,
+        "sha256": "31f36e329e0129240728c6ccc920642847be1cb56bd285109a25de5cb031f3c5",
+        "device": 16777221,
+        "inode": 48960000,
+        "mtimeNs": 1790813299512278800,
+        "source": null,
+        "deleted": true
+      }
+    ],
+    "removedEmptyDirectories": [
+      "scripts/migration/tests/__pycache__",
+      "scripts/migration/__pycache__"
+    ],
+    "deletionStartedAt": "2026-10-02T03:08:17.666405+00:00",
+    "completedAt": "2026-10-02T03:08:17.733994+00:00"
+  },
+  "protectedPublicFiles": [
+    {
+      "path": "data/wordpress/assets.json",
+      "bytes": 2432484,
+      "sha256": "3b6a5fa0189e0bc347623cfd84c9fdfb0cfbd2aeb97c7a962ed551a7dd4edff5"
+    },
+    {
+      "path": "data/wordpress/asset-map.json",
+      "bytes": 237513,
+      "sha256": "e39d16067ceb1364ccd8f01d39329b2ea8e5af89fdd2148944d2eadd24948d0c"
+    },
+    {
+      "path": "data/wordpress/content-integrity.json",
+      "bytes": 15498,
+      "sha256": "8e9081ff67c3bb7fb7c3a7d2657f727b5e3102d8b334a9e1475e934220b2c7f5"
+    },
+    {
+      "path": "data/wordpress/posts.json",
+      "bytes": 2463995,
+      "sha256": "1687025ba2206375e4bfe092e7a8faee02b68800eadb126069bb4dc692b533d9"
+    },
+    {
+      "path": "data/wordpress/pages.json",
+      "bytes": 4241818,
+      "sha256": "cce57a66f82e641551247b0c8cd262f029c5c50fe8e4467142d0c581ae4b9bb1"
+    },
+    {
+      "path": "data/wordpress/media.json",
+      "bytes": 1493754,
+      "sha256": "e15b2caea10b3ddd74277535032363dc4fa63612571b078c24f8b4dfd72fc5a1"
+    },
+    {
+      "path": "src/lib/public/style-manifest.json",
+      "bytes": 12468,
+      "sha256": "6db19c540a5164b50a74b1aaf9ef9a17ed7dd11255883a02738fd065257091cf"
+    },
+    {
+      "path": "docs/research/baseline-2026-09-30/manifest.json",
+      "bytes": 123343,
+      "sha256": "02d6384b359a18d67e1ffb52efeecf22b04997a4bc20b49f4078cf937bf643b9"
+    },
+    {
+      "path": "docs/research/restored-2026-09-30-public/manifest.json",
+      "bytes": 1214106,
+      "sha256": "8556e14a4211523452a9dbb8629f191c1237ecbc5fd0addd5c54a06251380aeb"
+    }
+  ],
+  "privateMetadata": [
+    {
+      "path": ".env.local",
+      "mode": "0o600",
+      "kind": "file"
+    },
+    {
+      "path": ".env.prod",
+      "mode": "0o600",
+      "kind": "file"
+    },
+    {
+      "path": ".local-supabase",
+      "mode": "0o700",
+      "kind": "directory"
+    },
+    {
+      "path": "backups",
+      "mode": "0o755",
+      "kind": "directory"
+    },
+    {
+      "path": "docs/contracts",
+      "mode": "0o755",
+      "kind": "directory"
+    }
+  ],
+  "boundaries": {
+    "runtime": [
+      "src",
+      "public",
+      "data/wordpress",
+      "docs/prompts",
+      "next.config.ts",
+      "package.json",
+      "package-lock.json",
+      "content"
+    ],
+    "preservedGenerated": [
+      ".next",
+      ".next-supabase-local",
+      "node_modules",
+      "public/site-styles"
+    ],
+    "preservedEvidence": [
+      "docs/research/baseline-*",
+      "docs/research/restored-*",
+      "docs/validation",
+      "data/wordpress",
+      "backups"
+    ],
+    "preservedPrivate": [
+      ".env.local",
+      ".env.prod",
+      ".local-supabase",
+      "private-exports",
+      "backups",
+      "docs/contracts"
+    ],
+    "preservedLocalRecovery": [
+      ".git",
+      "local history"
+    ]
+  },
+  "git": {
+    "remoteCount": 0,
+    "githubConfigurationObserved": false,
+    "localHistoryPreserved": true,
+    "scope": "Local-only current workspace; no hosted-state assertion"
+  },
+  "deferredCandidates": [
+    {
+      "path": "backups/hosted-manual-qa/acima-10mb.png",
+      "bytes": 10485769,
+      "decision": "preserved",
+      "reason": "Private QA fixture linked to historical upload-size validation; excluded from application/public/Git. No deletion authorization outside metadata scope."
+    },
+    {
+      "path": "docs/research and data/wordpress copies",
+      "decision": "preserved",
+      "reason": "Capture, filtered migration input and runtime representation have distinct provenance and transformation roles."
+    },
+    {
+      "path": "public/site-styles",
+      "decision": "preserved",
+      "reason": "Generated CSS is referenced by style-manifest and may be in use by dev/current build; style generation mutates files and was not run."
+    },
+    {
+      "path": ".git, .next, .next-supabase-local, node_modules",
+      "decision": "preserved",
+      "reason": "Local recovery/build/runtime/dependencies are legitimate and may be used by user-controlled development."
+    }
+  ],
+  "validation": {
+    "postDeletion": {
+      "passed": true,
+      "failures": [],
+      "absentCandidateFiles": 14,
+      "unchangedPythonSources": 4,
+      "unchangedProtectedPublicFiles": 9,
+      "privateMetadataUnchanged": true
+    },
+    "inventory": {
+      "checkedAt": "2026-10-02T03:08:44.273Z",
+      "method": "verify:inventory logic in memory; original inventory.json not overwritten",
+      "posts": 154,
+      "pages": 38,
+      "media": 551,
+      "assetRecords": 1397,
+      "assetsChecked": 1377,
+      "sourceFailures": 1,
+      "elementorCssNotGenerated": 19,
+      "errors": [],
+      "passed": true
+    },
+    "privateContentsRead": false,
+    "environmentContentsRead": false,
+    "dockerActions": 0,
+    "serverActions": 0,
+    "remoteActions": 0,
+    "codeChanges": 0,
+    "styleManifest": {
+      "checkedAt": "2026-10-02T03:10:33.429075+00:00",
+      "entries": 45,
+      "uniqueFiles": 42,
+      "passed": true,
+      "errors": [],
+      "generationRun": false
+    }
+  },
+  "observedDiskKiB": {
+    ".git": 225744,
+    ".next": 1046172,
+    ".next-supabase-local": 573800,
+    "node_modules": 625312,
+    "docs": 410908,
+    "public": 294640,
+    "data": 20856,
+    "scripts": 364,
+    "content": 4,
+    "backups": 18912,
+    ".local-supabase": 4
+  },
+  "limitations": [
+    "Local filesystem audit only; no assertion about GitHub or cloud deployment state.",
+    "No build/dev/Docker/test suite process was started, stopped or restarted.",
+    "No private export, environment value, patient data or private backup content was read.",
+    "Existing build/package traces are historical; current source patches require a separate user-authorized build/acceptance flow.",
+    "Baseline local-inventory.json remains the original pre-cleanup snapshot; cleanup outcome is recorded here.",
+    "Ignored files are kept locally; .gitignore controls future Git inclusion but is not a web-access or deployment boundary."
+  ],
+  "manualFutureReview": [
+    "Before any future GitHub use, review ignored/untracked files and scan proposed content without including envs, private exports, contracts, backup snapshots or raw captures.",
+    "Preserve public/WordPress assets and dynamic manifest references when optimizing storage; substring searches alone do not prove lack of use.",
+    "For a future package prepared by the user, validate server traces, generated CSS and public assets separately; only docs/prompts is intentionally included from docs.",
+    "Rebuild/hosting validation must follow permanent no-merge/no-deploy rule; publication is performed by Gabriel after explicit choice."
+  ]
+}

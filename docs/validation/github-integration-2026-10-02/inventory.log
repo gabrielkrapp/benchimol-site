@@ -1,0 +1,98 @@
+
+> benchimol-next@0.1.0 verify:inventory
+> node --import tsx scripts/migration/verify-inventory.ts
+
+{
+  "checkedAt": "2026-10-02T13:58:10.722Z",
+  "source": "local files and authenticated-public ID reconciliation",
+  "posts": 154,
+  "pages": 38,
+  "media": 551,
+  "assetsChecked": 1377,
+  "sourceFailures": [
+    {
+      "url": "https://www.clinicadeolhosbenchimol.com.br/_files/ugd/0715b5_46a61730b34a48208a2d7dea19a792c0.pdf",
+      "status": 404
+    }
+  ],
+  "elementorCssNotGenerated": [
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-1101.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2201.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2308.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2314.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-2383.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-307.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-311.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-367.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3743.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-3749.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-44.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-51.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-558.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-6.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-60.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-612.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-667.css",
+      "status": 404
+    },
+    {
+      "url": "https://clinicadeolhosbenchimol.com.br/wp-content/uploads/elementor/css/post-97.css",
+      "status": 404
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

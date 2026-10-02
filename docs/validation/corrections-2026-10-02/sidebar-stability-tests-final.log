@@ -1,0 +1,13 @@
+
+ RUN  v5.0.3 /Users/gabrielkrapp/Desktop/Gabriel/Benchimol
+
+
+ Test Files  1 passed (1)
+      Tests  2 passed (2)
+   Start at  01:10:54
+   Duration  12.04s (import 52%, transform 41%, tests 7%)
+
+  Transform  transforming modules took 4.73s · 41% of tracked time, re-done on every run
+             persist transforms across runs with fsModuleCache: true
+             learn more: https://vitest.dev/guide/improving-performance#caching-between-reruns
+

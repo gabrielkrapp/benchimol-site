@@ -1,0 +1,241 @@
+{
+  "checkedAt": "2026-10-02T14:01:07.773687+00:00",
+  "scope": "Read-only stage-zero Git index. Source content reviewed from git show :path, sizes from cat-file. New staged-package-review artifacts are untracked until root stages them.",
+  "noInstallBuildTestDockerGitMutationOrRemoteOperation": true,
+  "privateEnvBackupContentsRead": false,
+  "index": {
+    "files": 2310,
+    "uncompressedBytes": 329646755,
+    "groups": {
+      ".env.example": {
+        "files": 1,
+        "bytes": 871
+      },
+      ".gitignore": {
+        "files": 1,
+        "bytes": 1236
+      },
+      "AGENTS.md": {
+        "files": 1,
+        "bytes": 10095
+      },
+      "README.md": {
+        "files": 1,
+        "bytes": 10517
+      },
+      "content": {
+        "files": 1,
+        "bytes": 130
+      },
+      "data": {
+        "files": 18,
+        "bytes": 21433740
+      },
+      "docs": {
+        "files": 707,
+        "bytes": 101947830
+      },
+      "next-env.d.ts": {
+        "files": 1,
+        "bytes": 296
+      },
+      "next.config.ts": {
+        "files": 1,
+        "bytes": 2621
+      },
+      "package-lock.json": {
+        "files": 1,
+        "bytes": 174056
+      },
+      "package.json": {
+        "files": 1,
+        "bytes": 2941
+      },
+      "public": {
+        "files": 1378,
+        "bytes": 204713830
+      },
+      "scripts": {
+        "files": 25,
+        "bytes": 205164
+      },
+      "src": {
+        "files": 108,
+        "bytes": 805463
+      },
+      "supabase": {
+        "files": 11,
+        "bytes": 75277
+      },
+      "tests": {
+        "files": 51,
+        "bytes": 261234
+      },
+      "tsconfig.json": {
+        "files": 1,
+        "bytes": 842
+      },
+      "vercel.json": {
+        "files": 1,
+        "bytes": 104
+      },
+      "vitest.config.ts": {
+        "files": 1,
+        "bytes": 508
+      }
+    },
+    "nonZeroStageEntries": [],
+    "nonBlobEntries": [],
+    "above50MiB": [],
+    "above100MiB": [],
+    "largest20": [
+      {
+        "path": "public/wp-content/uploads/2025/02/beautiful-girl-with-body-art.jpg",
+        "bytes": 12923734
+      },
+      {
+        "path": "data/wordpress/routes.json",
+        "bytes": 5418426
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/routes.json",
+        "bytes": 5335119
+      },
+      {
+        "path": "data/wordpress/authenticated-public.json",
+        "bytes": 4330899
+      },
+      {
+        "path": "data/wordpress/pages.json",
+        "bytes": 4241818
+      },
+      {
+        "path": "docs/research/baseline-2026-09-30/posts.json",
+        "bytes": 4050922
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/posts.json",
+        "bytes": 4050171
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/4baa71a876ee4235/jkiticon.svg",
+        "bytes": 2733431
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/media.json",
+        "bytes": 2725594
+      },
+      {
+        "path": "docs/research/baseline-2026-09-30/media.json",
+        "bytes": 2611950
+      },
+      {
+        "path": "data/wordpress/posts.json",
+        "bytes": 2463995
+      },
+      {
+        "path": "data/wordpress/assets.json",
+        "bytes": 2432484
+      },
+      {
+        "path": "docs/research/restored-2026-09-30-public/assets.json",
+        "bytes": 2348907
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/eed1337c7bacd2e9/bc9c533133990e3ae222c135612f8da2.css",
+        "bytes": 1945946
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/014664a698d99e31/5976790596a5f8073180cbf1a27796f6.css",
+        "bytes": 1942434
+      },
+      {
+        "path": "public/wp-content/uploads/2025/12/unnamed.png",
+        "bytes": 1876275
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/c461b8b0cd6f706e/3169c79b5f9e99998790070369564cd5.css",
+        "bytes": 1799968
+      },
+      {
+        "path": "public/legacy-assets/clinicadeolhosbenchimol.com.br/6b18220bf533ae36/49dcece7fd9ea1b25530b7a5fc53dfbd.css",
+        "bytes": 1783249
+      },
+      {
+        "path": "public/wp-content/uploads/2024/12/olhos-no-verao.png",
+        "bytes": 1774996
+      },
+      {
+        "path": "public/wp-content/uploads/2025/12/unnamed-1536x838.png",
+        "bytes": 1670911
+      }
+    ],
+    "treeMetadataSha256": "a1510b0d94b59127957bb1c279696ba62d5c1ce706c4b68f08b87de01104d750"
+  },
+  "presence": {
+    "assetMapUniquePaths": 1377,
+    "sourceCssPaths": 197,
+    "runtimeJsonImportPaths": 19,
+    "promptRuntimeRequiredFiles": 10,
+    "promptDirectoryIndexedFiles": 11,
+    "promptContextPlusDirectoryFiles": 12,
+    "prompts": [
+      "docs/prompts/adicionar-pagina.md",
+      "docs/prompts/alterar-cor.md",
+      "docs/prompts/alterar-equipe.md",
+      "docs/prompts/alterar-exame.md",
+      "docs/prompts/alterar-menu.md",
+      "docs/prompts/alterar-midia.md",
+      "docs/prompts/base.md",
+      "docs/prompts/catalog.json",
+      "docs/prompts/melhorar-seo.md",
+      "docs/prompts/recolher-origem-publica.md"
+    ],
+    "missing": {
+      "assetMap": [],
+      "sourceCss": [],
+      "runtimeJsonImports": [],
+      "runtimePrompts": [],
+      "essential": [],
+      "backgroundDerivatives": []
+    },
+    "webpDerivatives": [
+      {
+        "path": "public/site-images/1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9.webp",
+        "bytes": 848150,
+        "sha256": "1eface7b561013c819dfa85cf61f4c1658d3761eace38a6190b139b3a4db27c9",
+        "hashFilenameMatches": true
+      }
+    ],
+    "generatedManifestEntries": 45,
+    "generatedManifestUniqueAssets": 42
+  },
+  "privacyPathPresence": {
+    "unexpectedIndexedPrivatePaths": [],
+    "personalBrainBridgeExcluded": true,
+    "portableProjectContextIncluded": true,
+    "wordpressCommentsExcluded": true,
+    "adminScreenshotDirectoriesExcluded": true
+  },
+  "clonePreparation": {
+    "packageLockRootMatches": true,
+    "includeDevDependencies": true,
+    "prebuild": "npm run styles:public",
+    "predev": "npm run styles:public",
+    "pretest": "npm run styles:public",
+    "generatedCssIgnoredAndNotIndexed": true,
+    "manifestsAndDerivativeIncluded": true,
+    "freshCloneOrBuildExecuted": false,
+    "runtimeTraceReviewRequiredAfterManualBuild": "python3 scripts/migration/verify-runtime-package.py; historical .next must not substitute for a new build.",
+    "recommendedNode": "22.21.1 from local setup or compatible even LTS 24/26; root 22.12 minimum is lower than jsdom 22.13 requirement."
+  },
+  "vercelConfigIndexed": {
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "git": {
+      "deploymentEnabled": false
+    }
+  },
+  "limitations": "Static index completeness and sizes only. No push/remote privacy assertion, clean-clone npm ci, new build artifact, network/runtime/CDN validation. Whole-repo secret/content review remains separately owned.",
+  "officialFileSizeSource": "https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github",
+  "passed": true
+}

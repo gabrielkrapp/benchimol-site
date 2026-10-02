@@ -1,0 +1,3620 @@
+{
+  "startedAt": "2026-10-01T03:08:26.309Z",
+  "checkedAt": "2026-10-01T03:08:26.942Z",
+  "buildId": "b3NMV1hZcISrGiyjLVZmH",
+  "completed": true,
+  "origin": "http://127.0.0.1:3002",
+  "source": "Initial HTTP HTML and referenced CSS as data, without executing JavaScript",
+  "transport": {
+    "connection": "close",
+    "timeoutMs": 60000,
+    "automaticRetries": 0
+  },
+  "articles": 153,
+  "pages": 38,
+  "htmlRequestsAttempted": 191,
+  "otherCapturedRoutes": 106,
+  "capturedRoutesAttempted": 106,
+  "stylesheetsDiscovered": 0,
+  "stylesheetsAttempted": 0,
+  "cssAssetsDiscovered": 0,
+  "externalCssReferences": 0,
+  "externalCssOrigins": [],
+  "ignoredCssReferences": 0,
+  "stylesheetResults": [],
+  "assetsDiscovered": 0,
+  "assetsAttempted": 0,
+  "largestHtmlBytes": 0,
+  "sitemapStatus": null,
+  "unauthenticatedAdminStatus": null,
+  "unauthenticatedAdminRedirects": [],
+  "failures": [
+    {
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olhos-vermelhos-o-que-pode-ser/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/qualidade-de-sono-e-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-outono/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipermetropia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alimentos-que-fazem-bem-para-os-olhos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa-artigo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-saude-ocular-da-mulher/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alerta-para-as-doencas-raras-oculares/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-e-hereditario/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/relacionada-a-idade-ou-dmri/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-sintomas-causas-e-tratamento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/ceratocone-causas-sintomas-e-tratamentos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/e-ai-doutor-vou-sentir-dor/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/14-de-novembro-dia-mundial-do-diabetes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-a-visao-no-verao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/maquiagem-seguranca-e-cuidados/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/saude-ocular-no-inverno/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tercol-o-que-e/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-sinto-tremor-nas-palpebras/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/curiosidades-sobre-nossos-cilios/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/blefarite/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sinais-de-alerta-para-troca-de-oculos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/ambliopia-ou-olho-preguicoso/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/presbiopia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estresse-pode-aumentar-risco-de-glaucoma/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-saber-se-a-pressao-ocular-esta-alta/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-sao-moscas-volantes-na-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sintomas-iniciais-da-catarata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/astigmatismo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/miopia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipermetropia-2/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/fotofobia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipertensao-um-risco-para-sua-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/atividade-fisica-e-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/verdades-sobre-sua-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-2/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-da-saude-ocular-na-primavera/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oculares/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/insonia-e-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/principais-emergencias-ligadas-a-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/colesterol-e-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olhos-ressecados/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/melanose-primaria/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-cuida-bem-da-sua-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/visao-subnormal/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-naturais-para-a-saude-da-sua-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-ao-maquiar-os-olhos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/colirio-medicamento-requer-cuidados/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estresse-oxidativo-pode-comprometer-a-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tireoide-e-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/causas-da-miopia-vao-alem-da-genetica/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-oculares-no-verao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/saude-ocular-x-carteira-de-habilitacao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/verao-x-conjuntivite/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/4-curiosidades-sobre-a-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/check-up-ocular-anual/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/auto-refrator/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/daltonismo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-as-palpebras/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-de-angulo-aberto-o-que-saber/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-na-menopausa/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estrabismo-causas-sintomas-tratamentos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas_cuidado_olhos_frio/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-sintomas-causas-tipos-e-tratamento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao-2/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/doencas-oculares-mais-comuns/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quando-devo-usar-oculos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-carnaval/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-na-menopausa-ha-influencia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-identificar-os-primeiros-sinais-de-catarata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/existe-um-oftalmologista-especialista-em-macula/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sample-page/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/blog/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-sergio-benchimol-old/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-nina-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-mirelle-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-adriana-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-liana-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-eliezer-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-luciano-galhardo-de-barros/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-amir-zisman/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-eduardo-lessa-martinez/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-amelia-gomes-de-souza/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-monica-de-oliveira-coelho/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-paulo-de-heraclito-lima-filho/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-francine-campos-hauck/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/instalacoes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipamentos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/certificacoes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/especialidades/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/insternacional/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sobre-nos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/servicos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipe/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/faq-perguntas-frequentes/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/retinopatia-diabetica/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-sergio-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-veronica-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-raphael-lima-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-gabriel-benchimol/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/convenios/",
+      "phase": "html",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/bingo-bash-free-chips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/bingo-drive-free-credits/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/blog/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/board-kings-free-gems-diamonds/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/coin-master-free-spins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/dice-dreams-free-rolls-hack-deutsch/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/family-island-free-energy/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/gaminator-bonus-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/oftalmologia/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/solitaire-grand-harvest-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/convenios-nv",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipamentos",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipe-nv/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/exames-nv/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana-2/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/servicos-nv/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/simply_galleries/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/80-anos/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/acuidade-visual/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/aniversario/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-bonus/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-chips-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-daily-offers/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-free-chips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-free-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-hacks/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-tips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-bonus/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-credits-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-daily-links/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-free-credits/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-freebies/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-hacks/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-tips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-diamonds/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-gems-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-gems/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/catarata/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/cegueira/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/clinica-de-olhos-benchimol/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-bonus/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-daily-links/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-free-spins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-hacks/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-spins-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-tips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dice-dreams-free-rolls-hack-deutsch/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dice-dreams-rolls-deutsch/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dicedream/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dmri/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/exame/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/exames-oftalmologicos/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-energy/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-free-energy-hack/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-free-energy/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-chips-bingo-bash/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-coins-gaminator/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-coins-solitaire-grand-harvest/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-credits-bingo-drive/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-spins-coin-master/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gamehunters-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-bonus-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-bonus/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-coins-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-daily-links/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-hacks/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-tips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-bash-chips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-drive-credits/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-coin-master-spins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-gaminator-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/injecao-intravitrea/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/levvvel-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/macula/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/mapeamento-de-retina/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/marco/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/moscas-volantes/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/mosttechs-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oct/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oftalmologia/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oftalmologista/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/retina/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/saude-ocular/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/saude-visual/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-coins-2025/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-daily-links/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-free-coins/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-hacks/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-rewards/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-tips/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/tratamento/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/visao/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+      "phase": "captured-route",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sitemap.xml",
+      "phase": "sitemap",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/robots.txt",
+      "phase": "robots",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/api/admin/dashboard",
+      "phase": "admin-auth",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pagina-inexistente-auditoria/",
+      "phase": "not-found",
+      "reason": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    }
+  ],
+  "passed": false,
+  "results": [
+    {
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olhos-vermelhos-o-que-pode-ser/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/qualidade-de-sono-e-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-outono/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipermetropia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alimentos-que-fazem-bem-para-os-olhos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa-artigo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-saude-ocular-da-mulher/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alerta-para-as-doencas-raras-oculares/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-e-hereditario/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/relacionada-a-idade-ou-dmri/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-sintomas-causas-e-tratamento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/ceratocone-causas-sintomas-e-tratamentos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/e-ai-doutor-vou-sentir-dor/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/14-de-novembro-dia-mundial-do-diabetes/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-a-visao-no-verao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/maquiagem-seguranca-e-cuidados/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/saude-ocular-no-inverno/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tercol-o-que-e/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-sinto-tremor-nas-palpebras/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/curiosidades-sobre-nossos-cilios/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/blefarite/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sinais-de-alerta-para-troca-de-oculos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/ambliopia-ou-olho-preguicoso/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/presbiopia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estresse-pode-aumentar-risco-de-glaucoma/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-saber-se-a-pressao-ocular-esta-alta/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-sao-moscas-volantes-na-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sintomas-iniciais-da-catarata/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/astigmatismo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/miopia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipermetropia-2/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/fotofobia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/hipertensao-um-risco-para-sua-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/atividade-fisica-e-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/verdades-sobre-sua-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos-2/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-da-saude-ocular-na-primavera/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oculares/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/insonia-e-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/principais-emergencias-ligadas-a-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/colesterol-e-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olhos-ressecados/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/melanose-primaria/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-cuida-bem-da-sua-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/visao-subnormal/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-naturais-para-a-saude-da-sua-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-ao-maquiar-os-olhos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/colirio-medicamento-requer-cuidados/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estresse-oxidativo-pode-comprometer-a-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tireoide-e-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/causas-da-miopia-vao-alem-da-genetica/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-oculares-no-verao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/saude-ocular-x-carteira-de-habilitacao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/verao-x-conjuntivite/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/4-curiosidades-sobre-a-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/check-up-ocular-anual/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/auto-refrator/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/daltonismo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-as-palpebras/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-de-angulo-aberto-o-que-saber/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-na-menopausa/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/estrabismo-causas-sintomas-tratamentos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dicas_cuidado_olhos_frio/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-verao-2/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/doencas-oculares-mais-comuns/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/quando-devo-usar-oculos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cuidados-com-os-olhos-no-carnaval/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-na-menopausa-ha-influencia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-identificar-os-primeiros-sinais-de-catarata/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/existe-um-oftalmologista-especialista-em-macula/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "kind": "article",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sample-page/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/blog/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-sergio-benchimol-old/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-nina-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-mirelle-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-adriana-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-liana-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-eliezer-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-luciano-galhardo-de-barros/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-amir-zisman/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-eduardo-lessa-martinez/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-amelia-gomes-de-souza/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-monica-de-oliveira-coelho/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-paulo-de-heraclito-lima-filho/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-francine-campos-hauck/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/instalacoes/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipamentos/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/certificacoes/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/especialidades/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/insternacional/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/sobre-nos/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/servicos/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipe/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/faq-perguntas-frequentes/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/retinopatia-diabetica/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-sergio-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dra-veronica-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-raphael-lima-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/dr-gabriel-benchimol/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/convenios/",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/catarata",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/bingo-bash-free-chips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/bingo-drive-free-credits/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/blog/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/board-kings-free-gems-diamonds/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/coin-master-free-spins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/dice-dreams-free-rolls-hack-deutsch/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/family-island-free-energy/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/gaminator-bonus-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/oftalmologia/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/category/solitaire-grand-harvest-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/cirurgia-refrativa",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/convenios-nv",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/degeneracao-macular",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipamentos",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/equipe-nv/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/exames-nv/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/glaucoma",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/olho-seco",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana-2/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/por-que-piscamos-os-olhos/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/servicos-nv/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/simply_galleries/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/80-anos/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/acuidade-visual/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/aniversario/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-bonus/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-chips-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-daily-offers/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-free-chips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-free-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-hacks/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-bash-tips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-bonus/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-credits-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-daily-links/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-free-credits/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-freebies/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-hacks/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/bingo-drive-tips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-diamonds/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-gems-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/board-kings-free-gems/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/catarata/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/cegueira/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/clinica-de-olhos-benchimol/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-bonus/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-daily-links/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-free-spins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-hacks/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-spins-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/coin-master-tips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dice-dreams-free-rolls-hack-deutsch/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dice-dreams-rolls-deutsch/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dicedream/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/dmri/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/exame/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/exames-oftalmologicos/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-energy/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-free-energy-hack/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/family-island-free-energy/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-chips-bingo-bash/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-coins-gaminator/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-coins-solitaire-grand-harvest/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-credits-bingo-drive/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/free-spins-coin-master/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gamehunters-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-bonus-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-bonus/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-coins-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-daily-links/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-hacks/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/gaminator-tips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-bash-chips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-bingo-drive-credits/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-coin-master-spins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/how-to-get-free-gaminator-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/injecao-intravitrea/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/levvvel-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/macula/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/mapeamento-de-retina/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/marco/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/moscas-volantes/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/mosttechs-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oct/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oftalmologia/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/oftalmologista/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/retina/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/saude-ocular/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/saude-visual/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-coins-2025/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-daily-links/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-free-coins/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-hacks/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-rewards/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/solitaire-grand-harvest-tips/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/tratamento/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/tag/visao/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    },
+    {
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata/",
+      "kind": "captured-route",
+      "status": 0,
+      "title": "",
+      "error": "fetch failed: EPERM: connect EPERM 127.0.0.1:3002 - Local (0.0.0.0:0)"
+    }
+  ]
+}

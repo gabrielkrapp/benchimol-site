@@ -1,0 +1,19 @@
+{
+  "createdAt": "2026-10-01T20:26:40.016Z",
+  "phase": "read-only-preflight",
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "apiHost": "jjrzmuuwuvxcsnwqzvxf.supabase.co",
+  "tls": "CA-and-hostname-verified",
+  "identity": {
+    "database": "postgres",
+    "db_role": "postgres",
+    "auth_users": 0,
+    "buckets": 0
+  },
+  "applicationTables": [],
+  "capabilities": {
+    "storage_operation_guard": true,
+    "migration_ledger": false
+  },
+  "connectorAccess": false
+}

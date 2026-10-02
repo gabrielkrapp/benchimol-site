@@ -1,0 +1,107 @@
+{
+  "reviewDate": "2026-10-02",
+  "scope": "Read-only documentation, local file references, ignore classification and existing preflight evidence before the initial GitHub PR.",
+  "status": "reviewed_no_open_documentary_findings",
+  "reviewer": "documentation subagent",
+  "sources": [
+    "AGENTS.md",
+    "README.md",
+    "docs/architecture/decisions.md",
+    "docs/operations/github-integration.md",
+    "docs/context/project-context.md",
+    "docs/implementation/progress.md",
+    "docs/prompts/README.md",
+    "docs/prompts/base.md",
+    "docs/prompts/catalog.json",
+    ".gitignore",
+    "vercel.json",
+    "docs/validation/github-integration-2026-10-02/remote-preflight.json",
+    "docs/validation/github-integration-2026-10-02/vercel-preflight.json",
+    "docs/validation/github-integration-2026-10-02/package-review.md",
+    "docs/validation/github-integration-2026-10-02/privacy-review.md"
+  ],
+  "checks": {
+    "initialCommitPushPrMergeAuthorizationDocumented": true,
+    "authorizationLimitedToInitialIntegration": true,
+    "deploymentReleaseDockerAndServicePublicationStillProhibited": true,
+    "rejectedDirectMainPushNotPresentedAsExecuted": true,
+    "alternativeWorkBranchFlowDocumented": true,
+    "baseCommitInspectedLocally": "8a851a4",
+    "baseCommitPaths": ["vercel.json"],
+    "vercelGitDeploymentEnabled": false,
+    "privateFilesRemainIgnored": true,
+    "portableTechnicalContextExists": true,
+    "promptLibraryVersion": "0.12",
+    "promptPathReferences": 41,
+    "missingPromptPaths": [],
+    "runtimeAndAssetCloneCompleteness": "Static review delegated to package-review; no clean clone, install or build performed by this reviewer.",
+    "noProductionPerformanceOrClientAcceptanceInferred": true
+  },
+  "findings": [
+    {
+      "id": "DOC-01",
+      "priority": "P2",
+      "file": "docs/implementation/progress.md",
+      "line": 3,
+      "observation": "The current-state introduction still says no push has been executed while the final integration section records the base work-branch push.",
+      "resolution": "Qualify the statement as historical or update it to exclude the explicitly authorized initial GitHub operations while preserving the no-deploy boundary.",
+      "stateAtReview": "reported_to_coordinator",
+      "finalState": "resolved",
+      "verifiedResolution": "The introduction now states no release/deploy/DNS change and explicitly refers to the authorized initial GitHub integration."
+    },
+    {
+      "id": "DOC-02",
+      "priority": "P3",
+      "file": "README.md",
+      "line": 28,
+      "observation": "Two contract links intentionally point to local ignored files. The general exclusion/clone note explains this, but an inline local-only label would improve navigation after clone.",
+      "resolution": "Optionally label the contract entry as available only on Gabriel's machine; do not include private contracts to satisfy the link.",
+      "stateAtReview": "nonblocking_local_only_links_already_explained",
+      "finalState": "resolved",
+      "verifiedResolution": "The entry now uses a plain docs/contracts path and explicitly says the files are local to Gabriel and excluded from clone."
+    },
+    {
+      "id": "DOC-03",
+      "priority": "P3",
+      "file": "docs/implementation/progress.md",
+      "line": 115,
+      "observation": "The planned consolidated github-integration README was not created yet at the link check.",
+      "resolution": "Coordinator should create the consolidated evidence document before final packaging, then verify the reference.",
+      "stateAtReview": "coordinator_document_in_progress",
+      "finalState": "resolved",
+      "verifiedResolution": "The consolidated integration README exists and its references were rechecked."
+    }
+  ],
+  "finalReadOnlyRecheck": {
+    "openDocumentaryFindings": 0,
+    "missingLocalMarkdownLinks": [],
+    "integrationConsolidatedReadmeExists": true,
+    "agentsHistoricalNoPushStatementQualified": true,
+    "currentIntegrationScopeAndNoDeploymentRemainExplicit": true,
+    "privateContractNavigationClearlyLocalOnly": true,
+    "prUrlAndPostMergeResult": "Not available in this pre-PR review; no claim of PR creation, merge or rename success is made."
+  },
+  "historicalContext": {
+    "d013ExplicitlySupersededByD014": true,
+    "olderAuditAndCorrectionNoPushStatements": "Historical evidence must remain unchanged; newer sections describe the subsequent integration.",
+    "privateEvidenceLinks": "Local historical proofs and contracts are intentionally unavailable in a normal clone and are explained by the README/runbook. Prompts do not depend on them."
+  },
+  "limitations": [
+    "Existing GitHub/Vercel preflights were read as evidence; this reviewer performed no remote revalidation.",
+    "GitHub rulesets returned 403 in the preflight; no claim that rulesets are absent is made.",
+    "No clean-clone install, test, build, live deployment, PR creation, merge or branch rename was executed by this reviewer.",
+    "PR URL, final commit and post-merge receipts are not available yet; root will provide and verify those separately.",
+    "No env, backup, raw authenticated export, contract or administrative screenshot was opened."
+  ],
+  "actions": {
+    "readOnlyLocalGitMetadata": ["check-ignore --no-index", "ls-tree 8a851a4"],
+    "testExecuted": false,
+    "remoteOperationExecuted": false,
+    "gitMutationExecuted": false,
+    "modifiedExistingFiles": false,
+    "createdFiles": [
+      "docs/validation/github-integration-2026-10-02/doc-review.json",
+      "docs/validation/github-integration-2026-10-02/doc-review.md"
+    ]
+  }
+}

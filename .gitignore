@@ -1,0 +1,48 @@
+# Secrets and authenticated exports must never enter the repository.
+.env
+.env.*
+!.env.example
+private-exports/
+backups/
+*.sql.gz
+*.wpress
+
+# Raw public HTTP captures stay local; keep summaries, CSV, JSON and manifests.
+docs/research/baseline-*/*/*.body
+docs/research/baseline-*/*/*.headers
+
+# Local generated files.
+__pycache__/
+.DS_Store
+
+# Application artifacts and sensitive commercial documents.
+node_modules/
+.next/
+.next-supabase-local/
+public/site-styles/
+out/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.supabase/
+supabase/.temp/
+supabase/.branches/
+# Generated local-only credentials and disposable Docker integration fixtures.
+.local-supabase/
+.superpowers/
+docs/contracts/
+docs/research/restored-*/*/*.body
+docs/research/restored-*/*/*.headers
+
+docs/research/restored-*/*/*.json
+.vercel
+
+# Personal project memory and private administrative QA evidence remain local.
+docs/context/gabriel-brain-project.md
+docs/research/restored-2026-09-30-public/comments.json
+docs/validation/admin-local/
+docs/validation/hosted-manual-qa/
+docs/validation/clinic-admin-*.png
+# Post-commit/merge receipts contain local hashes and stay outside their own commit.
+docs/validation/github-integration-2026-10-02/*-receipt.local.json

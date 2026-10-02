@@ -1,0 +1,79 @@
+{
+  "stage": "purge-post",
+  "passed": true,
+  "mutated": true,
+  "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+  "checkedAt": "2026-10-02T01:38:09.506Z",
+  "baselineSha256": "7a9c52f44f3f1ba2bfb6e7111350714a8b334bc54b023e305201578e48f8d117",
+  "deleted": {
+    "post_revisions": 19,
+    "redirects": 1,
+    "posts": 1
+  },
+  "originalContentPreserved": true,
+  "authSecurityStorageUntouched": true,
+  "settingsTriggersEnabled": true,
+  "tables": {
+    "posts": {
+      "count": 154,
+      "sha256": "a244b87dc7d553b076c33b52ed0e1c6aa1bf0e372eadb9656fb5a34dac642515",
+      "matchesBaseline": true
+    },
+    "post_revisions": {
+      "count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "matchesBaseline": true
+    },
+    "redirects": {
+      "count": 2,
+      "sha256": "3ee6e7addae58d1a6d1fa474061c7ffc04a8c1007703ef84f78fd34207b7910c",
+      "matchesBaseline": true
+    },
+    "media": {
+      "count": 552,
+      "sha256": "26ea28f84f24287289c9f5ec6f1dcba6366e53d80425f2fa68f931ab3874eb8f",
+      "matchesBaseline": false
+    },
+    "media_uploads": {
+      "count": 1,
+      "sha256": "c689489c47c6bb9431408f541e29dfabb00bc27ba2c44442dfde046bc94ccaf3",
+      "matchesBaseline": false
+    },
+    "settings": {
+      "count": 2,
+      "sha256": "4d677a3a25fbaeefc2f2c2ac58a2830d8aa725a3349e1b53383bd99f37ba7ccc",
+      "matchesBaseline": false
+    },
+    "settings_revisions": {
+      "count": 8,
+      "sha256": "4dff403804c8c3c0a484c97d3f42b472a84e1111c1727b707209d622959d632f",
+      "matchesBaseline": false
+    },
+    "taxonomies": {
+      "count": 91,
+      "sha256": "4ba3079c05fe3a7e0852253513f6e2395b8b18a9215560b4d9238fb8fa64d45e",
+      "matchesBaseline": true
+    },
+    "reserved_routes": {
+      "count": 47,
+      "sha256": "c169593f43ddb3b6454ccb9ffa948b7eb048eacf2180d181ad6947cfd3eb4663",
+      "matchesBaseline": true
+    },
+    "operation_events": {
+      "count": 1,
+      "sha256": "0b6f781d47357f869bb6a906e46e680b7646dc028ab6576d39c95e4c1b6d3c24",
+      "matchesBaseline": true
+    },
+    "administrators": {
+      "count": 1,
+      "sha256": "a7d807de37985743d9836b5d780da4ef22106992c89dd10790000589c11ed85e",
+      "matchesBaseline": true
+    },
+    "storage_objects": {
+      "count": 1,
+      "sha256": "b45e9c7cc19a32714fa4602875359d12f9075a8d5e9053bcb063834c2f0f2cd3",
+      "matchesBaseline": false
+    }
+  },
+  "committed": true
+}

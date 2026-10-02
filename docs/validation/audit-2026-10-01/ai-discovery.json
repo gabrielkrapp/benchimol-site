@@ -1,0 +1,3764 @@
+{
+  "audit": "ai-discovery",
+  "auditDateLocal": "2026-10-01",
+  "timeZone": "America/Sao_Paulo",
+  "collectedAtUtc": "2026-10-02T02:55:32.567Z",
+  "mode": "read-only-source-and-offline-render",
+  "scope": {
+    "specVersion": "0.9",
+    "nextDeployed": false,
+    "runtimeModified": false,
+    "dataModified": false,
+    "dockerStarted": false,
+    "buildExecuted": false,
+    "context7Available": false,
+    "localHttp": {
+      "url": "http://127.0.0.1:3000/robots.txt",
+      "attempted": true,
+      "result": "connection_refused",
+      "errno": 61,
+      "serverStartedOrRestarted": false
+    }
+  },
+  "counts": {
+    "institutionalPages": 38,
+    "galleryPages": 2,
+    "posts": 153,
+    "articleBodiesPreserved": 153,
+    "articlesWithSemanticArticle": 153,
+    "archivePages": 26,
+    "archiveUniquePostLinks": 153,
+    "llmsPublicLinks": 10
+  },
+  "checks": {
+    "publicSearchCrawlerGroup": {
+      "userAgent": [
+        "OAI-SearchBot",
+        "ChatGPT-User",
+        "PerplexityBot",
+        "Perplexity-User",
+        "Claude-SearchBot",
+        "Claude-User",
+        "Googlebot",
+        "Bingbot"
+      ],
+      "allow": "/",
+      "disallow": [
+        "/admin/",
+        "/api/",
+        "/preview/"
+      ]
+    },
+    "trainingBlockedGroup": {
+      "userAgent": [
+        "GPTBot",
+        "ClaudeBot",
+        "Google-Extended",
+        "CCBot"
+      ],
+      "disallow": "/"
+    },
+    "privatePaths": [
+      "/admin/",
+      "/api/",
+      "/preview/"
+    ],
+    "publicAssetsNotGloballyBlocked": true,
+    "allArticleBodiesPreserved": true,
+    "allArticleAuthorsDatesPreserved": true,
+    "archiveComplete": true,
+    "unknownRoute404Intent": true,
+    "llmsOnlyPublicUrls": true,
+    "llmsLinkResolution": [
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/sobre-nos/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/equipe/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/especialidades/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/exames-e-procedimentos/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/servicos/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/convenios/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/faq-perguntas-frequentes/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/blog/",
+        "resolvesInPublicCatalog": true
+      },
+      {
+        "url": "https://clinicadeolhosbenchimol.com.br/sitemap.xml",
+        "resolvesInPublicCatalog": true
+      }
+    ],
+    "llmsContentType": "text/plain; charset=utf-8",
+    "llmsSha256": "7675d717d707ae12818278c59737894f3b9c73c00d06e944c2022e57bb220066",
+    "htmlLangSource": "pt-BR",
+    "schemas": [
+      "MedicalClinic",
+      "BreadcrumbList",
+      "BlogPosting"
+    ],
+    "clinicAddresses": [
+      {
+        "id": "https://clinicadeolhosbenchimol.com.br/#copacabana",
+        "street": "Av. N. Senhora de Copacabana, 680, 5º andar",
+        "postalCode": "22020-001"
+      },
+      {
+        "id": "https://clinicadeolhosbenchimol.com.br/#campo-grande",
+        "street": "Rua Ivo do Prado, 79, 6º andar",
+        "postalCode": "23080-200"
+      }
+    ],
+    "activeNoticeServerRender": {
+      "titleInHtml": false,
+      "textInHtml": false,
+      "html": "<dialog class=\"public-dialog\" aria-labelledby=\"public-dialog-title\"><button type=\"button\" class=\"public-dialog-close\" aria-label=\"Fechar\">×</button></dialog>",
+      "method": "React renderToString; synthetic in-memory prop; effects not executed; no database writes"
+    },
+    "serverShellLandmarks": {
+      "header": true,
+      "main": true,
+      "footer": true,
+      "source": "src/components/public/PublicShell.tsx:17-23",
+      "method": "source review; no current HTTP"
+    }
+  },
+  "pageResults": [
+    {
+      "path": "/sample-page/",
+      "title": "Sample Page",
+      "textCharacters": 858,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sample Page"
+        }
+      ],
+      "linkCount": 1,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/blog/",
+      "title": "Blog",
+      "textCharacters": 2397,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Blog"
+        },
+        {
+          "level": 3,
+          "text": "Glaucoma: prevenção e diagnóstico precoce no Maio Verde"
+        },
+        {
+          "level": 3,
+          "text": "Tipos de Catarata: sintomas, causas e cirurgia"
+        },
+        {
+          "level": 3,
+          "text": "Como o Transtorno do Espectro Autista (TEA) pode afetar a visão?"
+        },
+        {
+          "level": 3,
+          "text": "Abril Marrom: a importância de cuidar da visão"
+        },
+        {
+          "level": 3,
+          "text": "Mulheres e DMRI: qual é a relação após os 60 anos?"
+        },
+        {
+          "level": 3,
+          "text": "Olho Seco na Menopausa: Há influência?"
+        },
+        {
+          "level": 3,
+          "text": "Cirurgia Refrativa: O que é e Indicações"
+        },
+        {
+          "level": 3,
+          "text": "Cuidados com os Olhos no Carnaval"
+        },
+        {
+          "level": 3,
+          "text": "Últimas postagens"
+        },
+        {
+          "level": 4,
+          "text": "Agende uma consulta"
+        }
+      ],
+      "linkCount": 40,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-sergio-benchimol-old/",
+      "title": "Dr. Sérgio Benchimol",
+      "textCharacters": 3403,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Sergio Benchimol"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52385073"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 23,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-nina-benchimol/",
+      "title": "Dra. Nina Benchimol",
+      "textCharacters": 1249,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Nina Benchimol"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52581969"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-mirelle-benchimol/",
+      "title": "Dra. Mirelle Benchimol",
+      "textCharacters": 1328,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Mirelle Benchimol"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52639281"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-adriana-benchimol/",
+      "title": "Dra. Adriana Benchimol",
+      "textCharacters": 1557,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Adriana Benchimol Duek"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52559013"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-liana-benchimol/",
+      "title": "Dra. Liana Benchimol",
+      "textCharacters": 1534,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Liana Benchimol"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52761710"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-eliezer-benchimol/",
+      "title": "Dr. Eliezer Benchimol",
+      "textCharacters": 1176,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Eliezer Benchimol"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52.230844"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-luciano-galhardo-de-barros/",
+      "title": "Dr. Luciano Galhardo de Barros",
+      "textCharacters": 1030,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Luciano Galhardo de Barros"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52-634247"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-amir-zisman/",
+      "title": "Dr. Amir Zisman",
+      "textCharacters": 1075,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Amir Zisman"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52559013"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-eduardo-lessa-martinez/",
+      "title": "Dr. Eduardo Lessa Martinez",
+      "textCharacters": 1077,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Eduardo Lessa Martinez"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52718815"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-amelia-gomes-de-souza/",
+      "title": "Dra. Amélia Gomes de Souza",
+      "textCharacters": 1354,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Amélia Gomes de Souza"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52220432"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 13,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-monica-de-oliveira-coelho/",
+      "title": "Dra. Mônica de Oliveira Coelho",
+      "textCharacters": 1100,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Mônica de Oliveira Coelho"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52601238"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-dilma-de-sa-cavalcanti-do-vale/",
+      "title": "Dra. Dilma de Sá Cavalcanti do Vale",
+      "textCharacters": 1253,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Dilma de Sá Cavalcanti do Vale"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52-136580"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-paulo-de-heraclito-lima-filho/",
+      "title": "Dr. Paulo de Heráclito Lima Filho",
+      "textCharacters": 1293,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Paulo de Heráclito Lima Filho"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52824062"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-francine-campos-hauck/",
+      "title": "Dra. Francine Campos Hauck",
+      "textCharacters": 1108,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipe Médica"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Francine Campos Hauck"
+        },
+        {
+          "level": 5,
+          "text": "CRM: 52928089"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/instalacoes/",
+      "title": "Instalações",
+      "textCharacters": 1330,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Instalações"
+        },
+        {
+          "level": 5,
+          "text": "Nossas instalações"
+        },
+        {
+          "level": 2,
+          "text": "Instalações modernas e confortáveis"
+        },
+        {
+          "level": 2,
+          "text": "Copacabana"
+        },
+        {
+          "level": 2,
+          "text": "Campo Grande"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 35,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/equipamentos/",
+      "title": "Equipamentos",
+      "textCharacters": 5181,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Equipamentos"
+        },
+        {
+          "level": 5,
+          "text": "Nossas equipamentos"
+        },
+        {
+          "level": 2,
+          "text": "Equipamentos de última geração"
+        },
+        {
+          "level": 5,
+          "text": "Auto Refrator"
+        },
+        {
+          "level": 5,
+          "text": "Auto Tonômetro"
+        },
+        {
+          "level": 5,
+          "text": "Eco Doppler Ocular"
+        },
+        {
+          "level": 5,
+          "text": "Eletroretinógrafo DIOPSYS"
+        },
+        {
+          "level": 5,
+          "text": "Facoemulsificador"
+        },
+        {
+          "level": 5,
+          "text": "YAG Laser"
+        },
+        {
+          "level": 5,
+          "text": "Keratograph 5M"
+        },
+        {
+          "level": 5,
+          "text": "Laser Cyclo G6"
+        },
+        {
+          "level": 5,
+          "text": "Laser Micropulso"
+        },
+        {
+          "level": 5,
+          "text": "Microscópio Cirúrgico"
+        },
+        {
+          "level": 5,
+          "text": "Microscópio Especular da Córnea NIDEK"
+        },
+        {
+          "level": 5,
+          "text": "Nonmdy"
+        },
+        {
+          "level": 5,
+          "text": "OCT Cyrrus"
+        },
+        {
+          "level": 5,
+          "text": "Octopus 900"
+        },
+        {
+          "level": 5,
+          "text": "Pentacam"
+        },
+        {
+          "level": 5,
+          "text": "Potential Accuit Meter"
+        },
+        {
+          "level": 5,
+          "text": "Scanner Laser Daytona"
+        },
+        {
+          "level": 5,
+          "text": "Tonômetro de Pascal"
+        },
+        {
+          "level": 5,
+          "text": "YAG Laser"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 31,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/certificacoes/",
+      "title": "certificações",
+      "textCharacters": 1133,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Certificações"
+        },
+        {
+          "level": 2,
+          "text": "Certificações Nacionais e Internacionais"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 15,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/especialidades/",
+      "title": "Especialidades",
+      "textCharacters": 1936,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Especialidades"
+        },
+        {
+          "level": 5,
+          "text": "Serviços"
+        },
+        {
+          "level": 2,
+          "text": "Principais exames e serviços oferecidos"
+        },
+        {
+          "level": 3,
+          "text": "Consultas"
+        },
+        {
+          "level": 3,
+          "text": "Exames"
+        },
+        {
+          "level": 3,
+          "text": "Cirurgias"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 45,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/insternacional/",
+      "title": "Internacional",
+      "textCharacters": 3383,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Internacional"
+        },
+        {
+          "level": 2,
+          "text": "Bem-vindo à Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "O procedimento"
+        },
+        {
+          "level": 5,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas postagens & artigos"
+        },
+        {
+          "level": 3,
+          "text": "O que é o mapeamento da retina e quando esse exame oftalmológico é indicado?"
+        },
+        {
+          "level": 3,
+          "text": "Os Marcos de Décadas da Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 3,
+          "text": "Moscas volantes: sintoma comum ou alerta de perigo?"
+        },
+        {
+          "level": 3,
+          "text": "DMRI seca e úmida: saiba quais são as diferenças"
+        }
+      ],
+      "linkCount": 15,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/",
+      "title": "Home",
+      "textCharacters": 6336,
+      "headings": [
+        {
+          "level": 1,
+          "text": "80 anos de tradição em cuidar da visão"
+        },
+        {
+          "level": 2,
+          "text": "Clínica de Olhos Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "Por que escolher a Clínica Benchimol?"
+        },
+        {
+          "level": 2,
+          "text": "Nossos Serviços"
+        },
+        {
+          "level": 2,
+          "text": "Cuide bem da sua visão"
+        },
+        {
+          "level": 3,
+          "text": "Consultas, exames e cirurgias oftalmológicas"
+        },
+        {
+          "level": 3,
+          "text": "Cirurgia de catarata"
+        },
+        {
+          "level": 3,
+          "text": "Tratamentos de retina e mácula (injeções intravítreas)"
+        },
+        {
+          "level": 2,
+          "text": "Depoimentos"
+        },
+        {
+          "level": 2,
+          "text": "Veja o que os nossos pacientes têm a dizer!"
+        },
+        {
+          "level": 2,
+          "text": "Onde estamos localizados"
+        },
+        {
+          "level": 2,
+          "text": "Copacabana"
+        },
+        {
+          "level": 2,
+          "text": "Av. N. Sra. de Copacabana, 680, 5º andar. Copacabana - RJ. 22020-001 Referência: próxima ao metrô Siqueira Campos"
+        },
+        {
+          "level": 2,
+          "text": "Campo Grande"
+        },
+        {
+          "level": 2,
+          "text": "Rua Ivo do Prado, 79, 6º andar. Campo Grande - RJ. 23080-200 Referência: próxima da estação de trem de Campo Grande"
+        },
+        {
+          "level": 2,
+          "text": "Tire suas dúvidas"
+        },
+        {
+          "level": 2,
+          "text": "Perguntas Frequentes"
+        },
+        {
+          "level": 2,
+          "text": "Nosso Blog"
+        },
+        {
+          "level": 2,
+          "text": "Últimas notícias & artigos"
+        },
+        {
+          "level": 3,
+          "text": "Cirurgia refrativa: quais as indicações, como é feita e quais os cuidados no pós-operatório"
+        },
+        {
+          "level": 3,
+          "text": "Botox contra estrabismo e outros problemas oculares?"
+        },
+        {
+          "level": 3,
+          "text": "Mais um motivo para combater a obesidade: a sua saúde ocular"
+        },
+        {
+          "level": 2,
+          "text": "Aceitamos mais de 40 planos de saúde"
+        },
+        {
+          "level": 2,
+          "text": "Unidade Copacabana"
+        },
+        {
+          "level": 2,
+          "text": "Unidade Campo Grande"
+        },
+        {
+          "level": 2,
+          "text": "Entre em contato"
+        }
+      ],
+      "linkCount": 26,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/sobre-nos/",
+      "title": "Sobre Nós",
+      "textCharacters": 2799,
+      "headings": [
+        {
+          "level": 1,
+          "text": "A história da Clínica de Olhos Benchimol está entrelaçada com a trajetória da família Benchimol, marcada por tradição, pioneirismo e dedicação à medicina."
+        },
+        {
+          "level": 2,
+          "text": "Sérgio Benchimol Diretor Presidente e Cirurgião Chefe"
+        },
+        {
+          "level": 2,
+          "text": "Nossa trajetória ao longo das décadas"
+        },
+        {
+          "level": 3,
+          "text": "Anos 40 – O início"
+        },
+        {
+          "level": 3,
+          "text": "Anos 50 – Bases sólidas"
+        },
+        {
+          "level": 3,
+          "text": "Reconhecimento"
+        },
+        {
+          "level": 3,
+          "text": "Anos 70 – Estruturação"
+        },
+        {
+          "level": 3,
+          "text": "Anos 80 - Pioneirismo e nova geração"
+        },
+        {
+          "level": 3,
+          "text": "Anos 90 - Continuidade familiar"
+        },
+        {
+          "level": 3,
+          "text": "Anos 2000 – Consolidação de resultados"
+        },
+        {
+          "level": 3,
+          "text": "Anos 2010 – Expansão"
+        },
+        {
+          "level": 3,
+          "text": "Anos 2020 – Legado em evolução"
+        }
+      ],
+      "linkCount": 0,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/servicos/",
+      "title": "Serviços",
+      "textCharacters": 743,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Exames Diagnósticos"
+        },
+        {
+          "level": 2,
+          "text": "Cirurgia de Catarata"
+        },
+        {
+          "level": 2,
+          "text": "Degeneração Macular (DMRI)"
+        },
+        {
+          "level": 2,
+          "text": "Cirurgia refrativa"
+        },
+        {
+          "level": 2,
+          "text": "Retinopatia Diabética"
+        },
+        {
+          "level": 2,
+          "text": "Glaucoma"
+        },
+        {
+          "level": 2,
+          "text": "Olho Seco e Alergias Oculares"
+        }
+      ],
+      "linkCount": 7,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/equipe/",
+      "title": "Equipe",
+      "textCharacters": 1245,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Dr. Sergio Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Veronica Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Nina Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Mirelle Benchimol C.N."
+        },
+        {
+          "level": 2,
+          "text": "Dra. Adriana Benchimol D."
+        },
+        {
+          "level": 2,
+          "text": "Dra. Liana Benchimol G."
+        },
+        {
+          "level": 2,
+          "text": "Dr. Amir Zisman"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Luciano de Barros"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Paulo Heráclito"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Amélia Souza"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Eduardo Martinez"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Monica Coelho"
+        },
+        {
+          "level": 2,
+          "text": "Dra. Francine Hauck"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Raphael Lima Benchimol"
+        },
+        {
+          "level": 2,
+          "text": "Dr. Gabriel Benchimol"
+        }
+      ],
+      "linkCount": 4,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/faq-perguntas-frequentes/",
+      "title": "FAQ – Dúvidas Frequentes",
+      "textCharacters": 2591,
+      "headings": [],
+      "linkCount": 22,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/exames-e-procedimentos/",
+      "title": "Exames e Procedimentos",
+      "textCharacters": 3651,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Exames Oftalmológicos"
+        },
+        {
+          "level": 2,
+          "text": "Cirurgias e Procedimentos Oftalmológicos"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/catarata/",
+      "title": "Catarata",
+      "textCharacters": 2260,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é catarata?"
+        },
+        {
+          "level": 2,
+          "text": "Sintomas da catarata"
+        },
+        {
+          "level": 2,
+          "text": "Tratamento da catarata"
+        },
+        {
+          "level": 2,
+          "text": "Lentes intraoculares (LIOs)"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/retinopatia-diabetica/",
+      "title": "Retinopatia Diabética",
+      "textCharacters": 1921,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é retinopatia diabética?"
+        },
+        {
+          "level": 2,
+          "text": "Sintomas da retinopatia diabética"
+        },
+        {
+          "level": 2,
+          "text": "Tratamento da retinopatia diabética"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/degeneracao-macular/",
+      "title": "Degeneração Macular Relacionada à Idade – DMRI",
+      "textCharacters": 1848,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é a DMRI?"
+        },
+        {
+          "level": 2,
+          "text": "Fatores de risco"
+        },
+        {
+          "level": 2,
+          "text": "Sintomas da DMRI"
+        },
+        {
+          "level": 2,
+          "text": "Diagnóstico e acompanhamento"
+        },
+        {
+          "level": 2,
+          "text": "Tratamento da DMRI"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/glaucoma/",
+      "title": "Glaucoma",
+      "textCharacters": 2450,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é glaucoma?"
+        },
+        {
+          "level": 2,
+          "text": "Sintomas do glaucoma"
+        },
+        {
+          "level": 2,
+          "text": "Tratamento do glaucoma"
+        },
+        {
+          "level": 2,
+          "text": "Acompanhamento"
+        }
+      ],
+      "linkCount": 3,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/cirurgia-refrativa/",
+      "title": "Cirurgia Refrativa",
+      "textCharacters": 2206,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é cirurgia refrativa?"
+        },
+        {
+          "level": 2,
+          "text": "Erros de refração mais comuns"
+        },
+        {
+          "level": 2,
+          "text": "Principais técnicas de cirurgia refrativa"
+        },
+        {
+          "level": 2,
+          "text": "Recuperação e resultados"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/olho-seco/",
+      "title": "Olho Seco",
+      "textCharacters": 1764,
+      "headings": [
+        {
+          "level": 1,
+          "text": "O que é olho seco?"
+        },
+        {
+          "level": 2,
+          "text": "Sintomas mais comuns"
+        },
+        {
+          "level": 2,
+          "text": "Principais causas"
+        },
+        {
+          "level": 2,
+          "text": "Tratamento do olho seco"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-sergio-benchimol/",
+      "title": "Dr. Sergio Benchimol",
+      "textCharacters": 2317,
+      "headings": [],
+      "linkCount": 1,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dra-veronica-benchimol/",
+      "title": "Dra. Veronica Benchimol",
+      "textCharacters": 1828,
+      "headings": [],
+      "linkCount": 1,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-raphael-lima-benchimol/",
+      "title": "Dr. Raphael Lima Benchimol",
+      "textCharacters": 1409,
+      "headings": [],
+      "linkCount": 1,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/dr-gabriel-benchimol/",
+      "title": "Dr. Gabriel Benchimol",
+      "textCharacters": 1219,
+      "headings": [],
+      "linkCount": 1,
+      "bodyH1Count": 0,
+      "shellAddsTitleHeading": true,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/convenios/",
+      "title": "Convênios",
+      "textCharacters": 704,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Unidade Copacabana"
+        },
+        {
+          "level": 2,
+          "text": "Unidade Campo Grande"
+        }
+      ],
+      "linkCount": 2,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana/",
+      "title": "Copacabana",
+      "textCharacters": 10,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Copacabana"
+        }
+      ],
+      "linkCount": 11,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    },
+    {
+      "path": "/pgc_simply_gallery/copacabana-2/",
+      "title": "Campo Grande",
+      "textCharacters": 12,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Campo Grande"
+        }
+      ],
+      "linkCount": 12,
+      "bodyH1Count": 1,
+      "shellAddsTitleHeading": false,
+      "finalExpectedH1Count": 1
+    }
+  ],
+  "articleResults": [
+    {
+      "wpId": 17,
+      "path": "/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/",
+      "sourceTextCharacters": 4403,
+      "renderedBodyTextCharacters": 4403,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-quais-as-indicacoes-como-e-feita-e-quais-os-cuidados-no-pos-operatorio/"
+    },
+    {
+      "wpId": 18,
+      "path": "/botox-contra-estrabismo-e-outros-problemas-oculares/",
+      "sourceTextCharacters": 4594,
+      "renderedBodyTextCharacters": 4594,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/botox-contra-estrabismo-e-outros-problemas-oculares/"
+    },
+    {
+      "wpId": 19,
+      "path": "/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/",
+      "sourceTextCharacters": 4111,
+      "renderedBodyTextCharacters": 4111,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/mais-um-motivo-para-combater-a-obesidade-a-sua-saude-ocular/"
+    },
+    {
+      "wpId": 20,
+      "path": "/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/",
+      "sourceTextCharacters": 5143,
+      "renderedBodyTextCharacters": 5143,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/catarata-quais-os-sintomas-e-a-hora-de-procurar-o-medico/"
+    },
+    {
+      "wpId": 21,
+      "path": "/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/",
+      "sourceTextCharacters": 4418,
+      "renderedBodyTextCharacters": 4418,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/oculos-escuros-como-escolher-os-seus-e-outras-duvidas-frequentes/"
+    },
+    {
+      "wpId": 22,
+      "path": "/olhos-vermelhos-o-que-pode-ser/",
+      "sourceTextCharacters": 4936,
+      "renderedBodyTextCharacters": 4936,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/olhos-vermelhos-o-que-pode-ser/"
+    },
+    {
+      "wpId": 23,
+      "path": "/qualidade-de-sono-e-saude-ocular/",
+      "sourceTextCharacters": 4044,
+      "renderedBodyTextCharacters": 4044,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/qualidade-de-sono-e-saude-ocular/"
+    },
+    {
+      "wpId": 24,
+      "path": "/cuidados-com-os-olhos-no-outono/",
+      "sourceTextCharacters": 3691,
+      "renderedBodyTextCharacters": 3691,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-outono/"
+    },
+    {
+      "wpId": 25,
+      "path": "/hipermetropia/",
+      "sourceTextCharacters": 4133,
+      "renderedBodyTextCharacters": 4133,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/hipermetropia/"
+    },
+    {
+      "wpId": 26,
+      "path": "/cuidados-com-os-olhos-no-verao/",
+      "sourceTextCharacters": 3924,
+      "renderedBodyTextCharacters": 3924,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao/"
+    },
+    {
+      "wpId": 27,
+      "path": "/cancer-no-olho-de-criancas-pequenas-retinoblastoma/",
+      "sourceTextCharacters": 6012,
+      "renderedBodyTextCharacters": 6012,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cancer-no-olho-de-criancas-pequenas-retinoblastoma/"
+    },
+    {
+      "wpId": 28,
+      "path": "/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/",
+      "sourceTextCharacters": 3984,
+      "renderedBodyTextCharacters": 3984,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/lentes-de-contato-coloridas-o-que-pode-o-que-nao-pode/"
+    },
+    {
+      "wpId": 29,
+      "path": "/alimentos-que-fazem-bem-para-os-olhos/",
+      "sourceTextCharacters": 3986,
+      "renderedBodyTextCharacters": 3986,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/alimentos-que-fazem-bem-para-os-olhos/"
+    },
+    {
+      "wpId": 30,
+      "path": "/trombose-ocular-o-que-e-e-por-que-ficar-atento/",
+      "sourceTextCharacters": 4380,
+      "renderedBodyTextCharacters": 4380,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/trombose-ocular-o-que-e-e-por-que-ficar-atento/"
+    },
+    {
+      "wpId": 31,
+      "path": "/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/",
+      "sourceTextCharacters": 2910,
+      "renderedBodyTextCharacters": 2910,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cornea-sintetica-uma-esperanca-para-quem-aguarda-ha-anos-a-doacao-da-versao-humana/"
+    },
+    {
+      "wpId": 32,
+      "path": "/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/",
+      "sourceTextCharacters": 2476,
+      "renderedBodyTextCharacters": 2476,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-relacionada-a-idade-o-que-e-e-como-prevenir/"
+    },
+    {
+      "wpId": 33,
+      "path": "/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/",
+      "sourceTextCharacters": 3442,
+      "renderedBodyTextCharacters": 3442,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/tudo-que-o-diabetico-precisa-saber-para-evitar-a-cegueira-pela-retinopatia/"
+    },
+    {
+      "wpId": 34,
+      "path": "/cirurgia-refrativa-artigo/",
+      "sourceTextCharacters": 2997,
+      "renderedBodyTextCharacters": 2997,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-artigo/"
+    },
+    {
+      "wpId": 35,
+      "path": "/a-saude-ocular-da-mulher/",
+      "sourceTextCharacters": 1436,
+      "renderedBodyTextCharacters": 1436,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-saude-ocular-da-mulher/"
+    },
+    {
+      "wpId": 36,
+      "path": "/alerta-para-as-doencas-raras-oculares/",
+      "sourceTextCharacters": 1580,
+      "renderedBodyTextCharacters": 1580,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/alerta-para-as-doencas-raras-oculares/"
+    },
+    {
+      "wpId": 1741,
+      "path": "/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/",
+      "sourceTextCharacters": 2464,
+      "renderedBodyTextCharacters": 2464,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/comer-verduras-pode-ajudar-a-prevenir-a-degeneracao-macular/"
+    },
+    {
+      "wpId": 1745,
+      "path": "/catarata-tipos-causas-fatores-de-risco-e-sintomas/",
+      "sourceTextCharacters": 3274,
+      "renderedBodyTextCharacters": 3274,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/catarata-tipos-causas-fatores-de-risco-e-sintomas/"
+    },
+    {
+      "wpId": 1750,
+      "path": "/glaucoma-e-hereditario/",
+      "sourceTextCharacters": 2272,
+      "renderedBodyTextCharacters": 2272,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-hereditario/"
+    },
+    {
+      "wpId": 1755,
+      "path": "/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/",
+      "sourceTextCharacters": 1929,
+      "renderedBodyTextCharacters": 1929,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cirurgia-de-catarata-pode-prolongar-a-vida-de-mulheres/"
+    },
+    {
+      "wpId": 1765,
+      "path": "/relacionada-a-idade-ou-dmri/",
+      "sourceTextCharacters": 1929,
+      "renderedBodyTextCharacters": 1929,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/relacionada-a-idade-ou-dmri/"
+    },
+    {
+      "wpId": 1769,
+      "path": "/cuidado-o-diabetes-tambem-pode-causar-cegueira/",
+      "sourceTextCharacters": 3154,
+      "renderedBodyTextCharacters": 3154,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidado-o-diabetes-tambem-pode-causar-cegueira/"
+    },
+    {
+      "wpId": 1774,
+      "path": "/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/",
+      "sourceTextCharacters": 1406,
+      "renderedBodyTextCharacters": 1406,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/injecoes-intravitreas-a-tecnica-revolucionaria-para-o-tratamento-de-dmri-e-retinopatia-diabetica/"
+    },
+    {
+      "wpId": 1778,
+      "path": "/olho-seco-sintomas-causas-e-tratamento/",
+      "sourceTextCharacters": 4256,
+      "renderedBodyTextCharacters": 4256,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/olho-seco-sintomas-causas-e-tratamento/"
+    },
+    {
+      "wpId": 1783,
+      "path": "/ceratocone-causas-sintomas-e-tratamentos/",
+      "sourceTextCharacters": 2664,
+      "renderedBodyTextCharacters": 2664,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/ceratocone-causas-sintomas-e-tratamentos/"
+    },
+    {
+      "wpId": 1787,
+      "path": "/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/",
+      "sourceTextCharacters": 2502,
+      "renderedBodyTextCharacters": 2502,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/lentes-intraoculares-uma-nova-tendencia-para-corrigir-problemas-da-visao/"
+    },
+    {
+      "wpId": 1791,
+      "path": "/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/",
+      "sourceTextCharacters": 1413,
+      "renderedBodyTextCharacters": 1413,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/aparelho-mais-moderno-do-mundo-para-deteccao-de-patologias-da-retina-chega-a-clinica-benchimol/"
+    },
+    {
+      "wpId": 1797,
+      "path": "/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/",
+      "sourceTextCharacters": 2494,
+      "renderedBodyTextCharacters": 2494,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-uma-alimentacao-correta-pode-evitar-o-aparecimento-de-doencas-oculares-como-dmri-e-olho-seco/"
+    },
+    {
+      "wpId": 1803,
+      "path": "/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/",
+      "sourceTextCharacters": 2417,
+      "renderedBodyTextCharacters": 2417,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/oct-e-antiangiogenicos-o-equipamento-e-o-medicamento-que-atuam-no-combate-a-retinopatia-diabetica/"
+    },
+    {
+      "wpId": 1808,
+      "path": "/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/",
+      "sourceTextCharacters": 1888,
+      "renderedBodyTextCharacters": 1888,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/fique-atento-saiba-identificar-os-quatro-principais-sintomas-da-retinopatia-diabetica/"
+    },
+    {
+      "wpId": 1813,
+      "path": "/e-ai-doutor-vou-sentir-dor/",
+      "sourceTextCharacters": 1935,
+      "renderedBodyTextCharacters": 1935,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/e-ai-doutor-vou-sentir-dor/"
+    },
+    {
+      "wpId": 1817,
+      "path": "/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/",
+      "sourceTextCharacters": 2638,
+      "renderedBodyTextCharacters": 2638,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/voce-sofre-de-pressao-alta-cuidado-ela-pode-causar-trombose-ocular-e-ate-mesmo-cegueira/"
+    },
+    {
+      "wpId": 1821,
+      "path": "/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/",
+      "sourceTextCharacters": 2028,
+      "renderedBodyTextCharacters": 2028,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/estudo-aponta-que-cirurgia-de-catarata-pode-melhorar-o-glaucoma/"
+    },
+    {
+      "wpId": 1822,
+      "path": "/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/",
+      "sourceTextCharacters": 3421,
+      "renderedBodyTextCharacters": 3421,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/os-5-principais-fatores-de-risco-da-degeneracao-macular-e-o-que-fazer-para-evita-los/"
+    },
+    {
+      "wpId": 1834,
+      "path": "/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/",
+      "sourceTextCharacters": 1728,
+      "renderedBodyTextCharacters": 1728,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/novo-estudo-indica-que-cirurgia-de-catarata-e-aparelhos-auditivos-podem-prevenir-a-demencia/"
+    },
+    {
+      "wpId": 1838,
+      "path": "/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/",
+      "sourceTextCharacters": 1588,
+      "renderedBodyTextCharacters": 1588,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-tela-de-amsler-e-a-deteccao-precoce-da-degeneracao-macular-relacionada-a-idade/"
+    },
+    {
+      "wpId": 1844,
+      "path": "/uveite-doenca-pouco-conhecida-e-que-preocupa/",
+      "sourceTextCharacters": 2323,
+      "renderedBodyTextCharacters": 2323,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/uveite-doenca-pouco-conhecida-e-que-preocupa/"
+    },
+    {
+      "wpId": 1849,
+      "path": "/14-de-novembro-dia-mundial-do-diabetes/",
+      "sourceTextCharacters": 996,
+      "renderedBodyTextCharacters": 996,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/14-de-novembro-dia-mundial-do-diabetes/"
+    },
+    {
+      "wpId": 1856,
+      "path": "/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/",
+      "sourceTextCharacters": 1710,
+      "renderedBodyTextCharacters": 1710,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/analise-de-imagem-da-retina-promete-auxiliar-no-diagnostico-precoce-do-alzheimer/"
+    },
+    {
+      "wpId": 1860,
+      "path": "/a-importancia-de-se-consultar-com-um-oftalmologista/",
+      "sourceTextCharacters": 821,
+      "renderedBodyTextCharacters": 821,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-importancia-de-se-consultar-com-um-oftalmologista/"
+    },
+    {
+      "wpId": 1864,
+      "path": "/cuidados-com-a-visao-no-verao/",
+      "sourceTextCharacters": 1122,
+      "renderedBodyTextCharacters": 1122,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-no-verao/"
+    },
+    {
+      "wpId": 1868,
+      "path": "/maquiagem-seguranca-e-cuidados/",
+      "sourceTextCharacters": 1235,
+      "renderedBodyTextCharacters": 1235,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/maquiagem-seguranca-e-cuidados/"
+    },
+    {
+      "wpId": 1872,
+      "path": "/volta-as-aulas-atencao-a-saude-ocular-infantil/",
+      "sourceTextCharacters": 965,
+      "renderedBodyTextCharacters": 965,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/volta-as-aulas-atencao-a-saude-ocular-infantil/"
+    },
+    {
+      "wpId": 1876,
+      "path": "/saude-ocular-no-inverno/",
+      "sourceTextCharacters": 718,
+      "renderedBodyTextCharacters": 718,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/saude-ocular-no-inverno/"
+    },
+    {
+      "wpId": 1880,
+      "path": "/tercol-o-que-e/",
+      "sourceTextCharacters": 979,
+      "renderedBodyTextCharacters": 979,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/tercol-o-que-e/"
+    },
+    {
+      "wpId": 1884,
+      "path": "/por-que-sinto-tremor-nas-palpebras/",
+      "sourceTextCharacters": 712,
+      "renderedBodyTextCharacters": 712,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/por-que-sinto-tremor-nas-palpebras/"
+    },
+    {
+      "wpId": 1888,
+      "path": "/curiosidades-sobre-nossos-cilios/",
+      "sourceTextCharacters": 841,
+      "renderedBodyTextCharacters": 841,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/curiosidades-sobre-nossos-cilios/"
+    },
+    {
+      "wpId": 1892,
+      "path": "/blefarite/",
+      "sourceTextCharacters": 667,
+      "renderedBodyTextCharacters": 667,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/blefarite/"
+    },
+    {
+      "wpId": 1897,
+      "path": "/sinais-de-alerta-para-troca-de-oculos/",
+      "sourceTextCharacters": 458,
+      "renderedBodyTextCharacters": 458,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/sinais-de-alerta-para-troca-de-oculos/"
+    },
+    {
+      "wpId": 1901,
+      "path": "/ambliopia-ou-olho-preguicoso/",
+      "sourceTextCharacters": 819,
+      "renderedBodyTextCharacters": 819,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/ambliopia-ou-olho-preguicoso/"
+    },
+    {
+      "wpId": 1907,
+      "path": "/presbiopia/",
+      "sourceTextCharacters": 866,
+      "renderedBodyTextCharacters": 866,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/presbiopia/"
+    },
+    {
+      "wpId": 1911,
+      "path": "/estresse-pode-aumentar-risco-de-glaucoma/",
+      "sourceTextCharacters": 1346,
+      "renderedBodyTextCharacters": 1346,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/estresse-pode-aumentar-risco-de-glaucoma/"
+    },
+    {
+      "wpId": 1915,
+      "path": "/como-saber-se-a-pressao-ocular-esta-alta/",
+      "sourceTextCharacters": 740,
+      "renderedBodyTextCharacters": 740,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-saber-se-a-pressao-ocular-esta-alta/"
+    },
+    {
+      "wpId": 1919,
+      "path": "/o-que-sao-moscas-volantes-na-visao/",
+      "sourceTextCharacters": 1000,
+      "renderedBodyTextCharacters": 1000,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/o-que-sao-moscas-volantes-na-visao/"
+    },
+    {
+      "wpId": 1923,
+      "path": "/sintomas-iniciais-da-catarata/",
+      "sourceTextCharacters": 1019,
+      "renderedBodyTextCharacters": 1019,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/sintomas-iniciais-da-catarata/"
+    },
+    {
+      "wpId": 1927,
+      "path": "/astigmatismo/",
+      "sourceTextCharacters": 1418,
+      "renderedBodyTextCharacters": 1418,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/astigmatismo/"
+    },
+    {
+      "wpId": 1931,
+      "path": "/miopia/",
+      "sourceTextCharacters": 1291,
+      "renderedBodyTextCharacters": 1291,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/miopia/"
+    },
+    {
+      "wpId": 1935,
+      "path": "/hipermetropia-2/",
+      "sourceTextCharacters": 1512,
+      "renderedBodyTextCharacters": 1512,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/hipermetropia-2/"
+    },
+    {
+      "wpId": 1939,
+      "path": "/como-higienizar-corretamente-as-lentes-do-oculos/",
+      "sourceTextCharacters": 491,
+      "renderedBodyTextCharacters": 491,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-higienizar-corretamente-as-lentes-do-oculos/"
+    },
+    {
+      "wpId": 1943,
+      "path": "/fotofobia/",
+      "sourceTextCharacters": 522,
+      "renderedBodyTextCharacters": 522,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/fotofobia/"
+    },
+    {
+      "wpId": 1947,
+      "path": "/hipertensao-um-risco-para-sua-visao/",
+      "sourceTextCharacters": 825,
+      "renderedBodyTextCharacters": 825,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/hipertensao-um-risco-para-sua-visao/"
+    },
+    {
+      "wpId": 1951,
+      "path": "/atividade-fisica-e-saude-ocular/",
+      "sourceTextCharacters": 872,
+      "renderedBodyTextCharacters": 872,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/atividade-fisica-e-saude-ocular/"
+    },
+    {
+      "wpId": 1955,
+      "path": "/verdades-sobre-sua-visao/",
+      "sourceTextCharacters": 1421,
+      "renderedBodyTextCharacters": 1421,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/verdades-sobre-sua-visao/"
+    },
+    {
+      "wpId": 1963,
+      "path": "/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/",
+      "sourceTextCharacters": 1068,
+      "renderedBodyTextCharacters": 1068,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/voce-sabe-quais-os-cuidados-basicos-apos-a-realizacao-da-cirurgia-de-catarata-2/"
+    },
+    {
+      "wpId": 1966,
+      "path": "/por-que-piscamos-os-olhos-artigo-2020/",
+      "sourceTextCharacters": 809,
+      "renderedBodyTextCharacters": 809,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-artigo-2020/"
+    },
+    {
+      "wpId": 1970,
+      "path": "/por-que-piscamos-os-olhos-2/",
+      "sourceTextCharacters": 836,
+      "renderedBodyTextCharacters": 836,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/por-que-piscamos-os-olhos-2/"
+    },
+    {
+      "wpId": 1976,
+      "path": "/cuidados-da-saude-ocular-na-primavera/",
+      "sourceTextCharacters": 1030,
+      "renderedBodyTextCharacters": 1030,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-da-saude-ocular-na-primavera/"
+    },
+    {
+      "wpId": 1980,
+      "path": "/dicas-para-manter-a-visao-saudavel-ate-a-velhice/",
+      "sourceTextCharacters": 799,
+      "renderedBodyTextCharacters": 799,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/dicas-para-manter-a-visao-saudavel-ate-a-velhice/"
+    },
+    {
+      "wpId": 1984,
+      "path": "/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/",
+      "sourceTextCharacters": 930,
+      "renderedBodyTextCharacters": 930,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-ao-praticar-exercicio-fisico/"
+    },
+    {
+      "wpId": 1988,
+      "path": "/as-aulas-trabalhos-virtuais-e-o-estresse-visual/",
+      "sourceTextCharacters": 2228,
+      "renderedBodyTextCharacters": 2228,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/as-aulas-trabalhos-virtuais-e-o-estresse-visual/"
+    },
+    {
+      "wpId": 1992,
+      "path": "/a-importancia-dos-exames-oculares/",
+      "sourceTextCharacters": 1314,
+      "renderedBodyTextCharacters": 1314,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oculares/"
+    },
+    {
+      "wpId": 1996,
+      "path": "/insonia-e-saude-ocular/",
+      "sourceTextCharacters": 1073,
+      "renderedBodyTextCharacters": 1073,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/insonia-e-saude-ocular/"
+    },
+    {
+      "wpId": 2000,
+      "path": "/principais-emergencias-ligadas-a-visao/",
+      "sourceTextCharacters": 2073,
+      "renderedBodyTextCharacters": 2073,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/principais-emergencias-ligadas-a-visao/"
+    },
+    {
+      "wpId": 2004,
+      "path": "/colesterol-e-saude-ocular/",
+      "sourceTextCharacters": 926,
+      "renderedBodyTextCharacters": 926,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/colesterol-e-saude-ocular/"
+    },
+    {
+      "wpId": 2008,
+      "path": "/olhos-ressecados/",
+      "sourceTextCharacters": 876,
+      "renderedBodyTextCharacters": 876,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/olhos-ressecados/"
+    },
+    {
+      "wpId": 2012,
+      "path": "/melanose-primaria/",
+      "sourceTextCharacters": 1548,
+      "renderedBodyTextCharacters": 1548,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/melanose-primaria/"
+    },
+    {
+      "wpId": 2016,
+      "path": "/voce-cuida-bem-da-sua-visao/",
+      "sourceTextCharacters": 1237,
+      "renderedBodyTextCharacters": 1237,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/voce-cuida-bem-da-sua-visao/"
+    },
+    {
+      "wpId": 2020,
+      "path": "/visao-subnormal/",
+      "sourceTextCharacters": 1209,
+      "renderedBodyTextCharacters": 1209,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/visao-subnormal/"
+    },
+    {
+      "wpId": 2024,
+      "path": "/maioria-dos-diabeticos-temem-perda-da-visao/",
+      "sourceTextCharacters": 1700,
+      "renderedBodyTextCharacters": 1700,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/maioria-dos-diabeticos-temem-perda-da-visao/"
+    },
+    {
+      "wpId": 2028,
+      "path": "/dicas-naturais-para-a-saude-da-sua-visao/",
+      "sourceTextCharacters": 1129,
+      "renderedBodyTextCharacters": 1129,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/dicas-naturais-para-a-saude-da-sua-visao/"
+    },
+    {
+      "wpId": 2032,
+      "path": "/cuidados-ao-maquiar-os-olhos/",
+      "sourceTextCharacters": 1578,
+      "renderedBodyTextCharacters": 1578,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-ao-maquiar-os-olhos/"
+    },
+    {
+      "wpId": 2036,
+      "path": "/por-que-o-olho-lacrimeja-quando-estamos-com-sono/",
+      "sourceTextCharacters": 937,
+      "renderedBodyTextCharacters": 937,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/por-que-o-olho-lacrimeja-quando-estamos-com-sono/"
+    },
+    {
+      "wpId": 2040,
+      "path": "/colirio-medicamento-requer-cuidados/",
+      "sourceTextCharacters": 1063,
+      "renderedBodyTextCharacters": 1063,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/colirio-medicamento-requer-cuidados/"
+    },
+    {
+      "wpId": 2044,
+      "path": "/estresse-oxidativo-pode-comprometer-a-visao/",
+      "sourceTextCharacters": 1430,
+      "renderedBodyTextCharacters": 1430,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/estresse-oxidativo-pode-comprometer-a-visao/"
+    },
+    {
+      "wpId": 2048,
+      "path": "/tireoide-e-saude-ocular/",
+      "sourceTextCharacters": 1430,
+      "renderedBodyTextCharacters": 1430,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/tireoide-e-saude-ocular/"
+    },
+    {
+      "wpId": 2052,
+      "path": "/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/",
+      "sourceTextCharacters": 1104,
+      "renderedBodyTextCharacters": 1104,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/mapeamento-de-retina-exame-ocular-que-pode-detectar-doencas-no-corpo/"
+    },
+    {
+      "wpId": 2056,
+      "path": "/causas-da-miopia-vao-alem-da-genetica/",
+      "sourceTextCharacters": 1055,
+      "renderedBodyTextCharacters": 1055,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/causas-da-miopia-vao-alem-da-genetica/"
+    },
+    {
+      "wpId": 2060,
+      "path": "/quatro-doencas-oculares-mais-comuns-em-idosos/",
+      "sourceTextCharacters": 2103,
+      "renderedBodyTextCharacters": 2103,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/quatro-doencas-oculares-mais-comuns-em-idosos/"
+    },
+    {
+      "wpId": 2064,
+      "path": "/cuidados-oculares-no-verao/",
+      "sourceTextCharacters": 1082,
+      "renderedBodyTextCharacters": 1082,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-oculares-no-verao/"
+    },
+    {
+      "wpId": 2068,
+      "path": "/saude-ocular-x-carteira-de-habilitacao/",
+      "sourceTextCharacters": 1593,
+      "renderedBodyTextCharacters": 1593,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/saude-ocular-x-carteira-de-habilitacao/"
+    },
+    {
+      "wpId": 2072,
+      "path": "/verao-x-conjuntivite/",
+      "sourceTextCharacters": 2176,
+      "renderedBodyTextCharacters": 2176,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/verao-x-conjuntivite/"
+    },
+    {
+      "wpId": 2076,
+      "path": "/automedicacao-pode-afetar-a-sua-saude-ocular/",
+      "sourceTextCharacters": 1479,
+      "renderedBodyTextCharacters": 1479,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/automedicacao-pode-afetar-a-sua-saude-ocular/"
+    },
+    {
+      "wpId": 2080,
+      "path": "/4-curiosidades-sobre-a-visao/",
+      "sourceTextCharacters": 1123,
+      "renderedBodyTextCharacters": 1123,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/4-curiosidades-sobre-a-visao/"
+    },
+    {
+      "wpId": 2084,
+      "path": "/check-up-ocular-anual/",
+      "sourceTextCharacters": 991,
+      "renderedBodyTextCharacters": 991,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/check-up-ocular-anual/"
+    },
+    {
+      "wpId": 2088,
+      "path": "/auto-refrator/",
+      "sourceTextCharacters": 684,
+      "renderedBodyTextCharacters": 684,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/auto-refrator/"
+    },
+    {
+      "wpId": 2092,
+      "path": "/daltonismo/",
+      "sourceTextCharacters": 1261,
+      "renderedBodyTextCharacters": 1261,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/daltonismo/"
+    },
+    {
+      "wpId": 2096,
+      "path": "/cuidados-com-as-palpebras/",
+      "sourceTextCharacters": 948,
+      "renderedBodyTextCharacters": 948,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-as-palpebras/"
+    },
+    {
+      "wpId": 2100,
+      "path": "/glaucoma-de-angulo-aberto-o-que-saber/",
+      "sourceTextCharacters": 2098,
+      "renderedBodyTextCharacters": 2098,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/glaucoma-de-angulo-aberto-o-que-saber/"
+    },
+    {
+      "wpId": 2104,
+      "path": "/8-dicas-para-proteger-a-saude-da-sua-visao/",
+      "sourceTextCharacters": 1091,
+      "renderedBodyTextCharacters": 1091,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/8-dicas-para-proteger-a-saude-da-sua-visao/"
+    },
+    {
+      "wpId": 2109,
+      "path": "/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/",
+      "sourceTextCharacters": 4867,
+      "renderedBodyTextCharacters": 4867,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/mulheres-podem-ser-daltonicas-como-um-daltonico-enxerga-e-outras-duvidas-frequentes-sobre-essa-doenca/"
+    },
+    {
+      "wpId": 2116,
+      "path": "/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/",
+      "sourceTextCharacters": 7518,
+      "renderedBodyTextCharacters": 7518,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-voce-pode-colaborar-com-a-saude-dos-seus-olhos/"
+    },
+    {
+      "wpId": 2120,
+      "path": "/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/",
+      "sourceTextCharacters": 3747,
+      "renderedBodyTextCharacters": 3747,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/quais-as-consequencias-para-os-olhos-da-trend-de-passar-protetor-labial-nas-palpebras/"
+    },
+    {
+      "wpId": 2124,
+      "path": "/glaucoma-e-catarata-quais-as-diferencas-entre-eles/",
+      "sourceTextCharacters": 4358,
+      "renderedBodyTextCharacters": 4358,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/glaucoma-e-catarata-quais-as-diferencas-entre-eles/"
+    },
+    {
+      "wpId": 2128,
+      "path": "/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/",
+      "sourceTextCharacters": 3906,
+      "renderedBodyTextCharacters": 3906,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/infeccao-ocular-o-que-o-caso-do-ator-de-game-of-thrones-pode-nos-ensinar-sobre-isso-e-como-evitar/"
+    },
+    {
+      "wpId": 2132,
+      "path": "/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/",
+      "sourceTextCharacters": 4221,
+      "renderedBodyTextCharacters": 4221,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/glaucoma-congenito-o-que-e-e-por-que-o-diagnostico-precoce-e-fundamental/"
+    },
+    {
+      "wpId": 2136,
+      "path": "/pterigio-o-que-e-como-tratar-como-prevenir/",
+      "sourceTextCharacters": 4503,
+      "renderedBodyTextCharacters": 4503,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/pterigio-o-que-e-como-tratar-como-prevenir/"
+    },
+    {
+      "wpId": 2140,
+      "path": "/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/",
+      "sourceTextCharacters": 4257,
+      "renderedBodyTextCharacters": 4257,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/claridade-incomodando-a-visao-conheca-possiveis-causas-e-como-tratar/"
+    },
+    {
+      "wpId": 2144,
+      "path": "/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/",
+      "sourceTextCharacters": 4982,
+      "renderedBodyTextCharacters": 4982,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/alerta-de-cuidado-para-maquiagens-nos-olhos-no-halloween/"
+    },
+    {
+      "wpId": 2148,
+      "path": "/cuidados-com-os-olhos-na-menopausa/",
+      "sourceTextCharacters": 3957,
+      "renderedBodyTextCharacters": 3957,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-na-menopausa/"
+    },
+    {
+      "wpId": 2152,
+      "path": "/dicas-para-prevenir-a-conjuntivite-bacteriana/",
+      "sourceTextCharacters": 3055,
+      "renderedBodyTextCharacters": 3055,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/dicas-para-prevenir-a-conjuntivite-bacteriana/"
+    },
+    {
+      "wpId": 2156,
+      "path": "/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/",
+      "sourceTextCharacters": 5310,
+      "renderedBodyTextCharacters": 5310,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/mitos-e-verdades-sobre-olhos-claros-entenda-os-cuidados-necessarios-para-manter-a-saude-ocular-2/"
+    },
+    {
+      "wpId": 2158,
+      "path": "/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/",
+      "sourceTextCharacters": 5886,
+      "renderedBodyTextCharacters": 5886,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/desmistificando-a-cirurgia-de-catarata-5-mitos-e-verdades-cruciais/"
+    },
+    {
+      "wpId": 2168,
+      "path": "/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/",
+      "sourceTextCharacters": 5884,
+      "renderedBodyTextCharacters": 5884,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/quais-diferencas-entre-miopia-hipermetropia-e-astigmatismo/"
+    },
+    {
+      "wpId": 2197,
+      "path": "/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/",
+      "sourceTextCharacters": 4694,
+      "renderedBodyTextCharacters": 4694,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/tudo-sobre-a-cirurgia-de-catarata-vantagens-e-riscos-do-procedimento/"
+    },
+    {
+      "wpId": 2253,
+      "path": "/estrabismo-causas-sintomas-tratamentos/",
+      "sourceTextCharacters": 4648,
+      "renderedBodyTextCharacters": 4648,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/estrabismo-causas-sintomas-tratamentos/"
+    },
+    {
+      "wpId": 2258,
+      "path": "/dicas_cuidado_olhos_frio/",
+      "sourceTextCharacters": 4911,
+      "renderedBodyTextCharacters": 4911,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/dicas_cuidado_olhos_frio/"
+    },
+    {
+      "wpId": 2271,
+      "path": "/catarata-sintomas-causas-tipos-e-tratamento/",
+      "sourceTextCharacters": 13083,
+      "renderedBodyTextCharacters": 13083,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/catarata-sintomas-causas-tipos-e-tratamento/"
+    },
+    {
+      "wpId": 2285,
+      "path": "/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/",
+      "sourceTextCharacters": 12692,
+      "renderedBodyTextCharacters": 12692,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/clinica-benchimol-oftalmologia-e-centro-de-tratamento-de-catarata/"
+    },
+    {
+      "wpId": 2302,
+      "path": "/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/",
+      "sourceTextCharacters": 6617,
+      "renderedBodyTextCharacters": 6617,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/retinopatia-diabetica-sintomas-causas-tipos-e-tratamento/"
+    },
+    {
+      "wpId": 2305,
+      "path": "/degeneracao-macular-sintomas-causas-tipos-e-tratamento/",
+      "sourceTextCharacters": 11670,
+      "renderedBodyTextCharacters": 11670,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/degeneracao-macular-sintomas-causas-tipos-e-tratamento/"
+    },
+    {
+      "wpId": 2338,
+      "path": "/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/",
+      "sourceTextCharacters": 11739,
+      "renderedBodyTextCharacters": 11739,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/o-que-e-glaucoma-sintomas-causas-tipos-e-tratamento/"
+    },
+    {
+      "wpId": 2342,
+      "path": "/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/",
+      "sourceTextCharacters": 8750,
+      "renderedBodyTextCharacters": 8750,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/clinica-de-olhos-benchimol-tradicao-e-inovacao-em-oftalmologia/"
+    },
+    {
+      "wpId": 2360,
+      "path": "/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/",
+      "sourceTextCharacters": 10858,
+      "renderedBodyTextCharacters": 10858,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-a-visao-durante-a-pratica-de-atividades-fisicas/"
+    },
+    {
+      "wpId": 2363,
+      "path": "/cuidados-com-os-olhos-no-verao-2/",
+      "sourceTextCharacters": 6151,
+      "renderedBodyTextCharacters": 6151,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-verao-2/"
+    },
+    {
+      "wpId": 2445,
+      "path": "/doencas-oculares-mais-comuns/",
+      "sourceTextCharacters": 8086,
+      "renderedBodyTextCharacters": 8086,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/doencas-oculares-mais-comuns/"
+    },
+    {
+      "wpId": 2448,
+      "path": "/quando-devo-usar-oculos/",
+      "sourceTextCharacters": 9021,
+      "renderedBodyTextCharacters": 9021,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/quando-devo-usar-oculos/"
+    },
+    {
+      "wpId": 2468,
+      "path": "/cuidados-com-os-olhos-no-carnaval/",
+      "sourceTextCharacters": 4977,
+      "renderedBodyTextCharacters": 4977,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cuidados-com-os-olhos-no-carnaval/"
+    },
+    {
+      "wpId": 2474,
+      "path": "/cirurgia-refrativa-o-que-e-e-indicacoes/",
+      "sourceTextCharacters": 5693,
+      "renderedBodyTextCharacters": 5693,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/cirurgia-refrativa-o-que-e-e-indicacoes/"
+    },
+    {
+      "wpId": 2512,
+      "path": "/olho-seco-na-menopausa-ha-influencia/",
+      "sourceTextCharacters": 6392,
+      "renderedBodyTextCharacters": 6392,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/olho-seco-na-menopausa-ha-influencia/"
+    },
+    {
+      "wpId": 2515,
+      "path": "/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/",
+      "sourceTextCharacters": 5938,
+      "renderedBodyTextCharacters": 5938,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/mulheres-e-dmri-qual-e-a-relacao-apos-os-60-anos/"
+    },
+    {
+      "wpId": 2538,
+      "path": "/abril-marrom-a-importancia-de-cuidar-da-visao/",
+      "sourceTextCharacters": 7316,
+      "renderedBodyTextCharacters": 7316,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/abril-marrom-a-importancia-de-cuidar-da-visao/"
+    },
+    {
+      "wpId": 2542,
+      "path": "/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/",
+      "sourceTextCharacters": 7686,
+      "renderedBodyTextCharacters": 7686,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-o-transtorno-do-espectro-autista-tea-pode-afetar-a-visao/"
+    },
+    {
+      "wpId": 2568,
+      "path": "/tipos-de-catarata-sintomas-causas-e-cirurgia/",
+      "sourceTextCharacters": 7713,
+      "renderedBodyTextCharacters": 7713,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/tipos-de-catarata-sintomas-causas-e-cirurgia/"
+    },
+    {
+      "wpId": 2573,
+      "path": "/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/",
+      "sourceTextCharacters": 7781,
+      "renderedBodyTextCharacters": 7781,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/glaucoma-prevencao-e-diagnostico-precoce-no-maio-verde/"
+    },
+    {
+      "wpId": 2590,
+      "path": "/junho-violeta-por-que-prevenir-o-ceratocone/",
+      "sourceTextCharacters": 7161,
+      "renderedBodyTextCharacters": 7161,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/junho-violeta-por-que-prevenir-o-ceratocone/"
+    },
+    {
+      "wpId": 2593,
+      "path": "/olho-seco-no-inverno-causas-sintomas-e-como-tratar/",
+      "sourceTextCharacters": 8248,
+      "renderedBodyTextCharacters": 8248,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/olho-seco-no-inverno-causas-sintomas-e-como-tratar/"
+    },
+    {
+      "wpId": 2599,
+      "path": "/a-importancia-dos-exames-oftalmologicos-regulares/",
+      "sourceTextCharacters": 3216,
+      "renderedBodyTextCharacters": 3216,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-regulares/"
+    },
+    {
+      "wpId": 2831,
+      "path": "/como-identificar-os-primeiros-sinais-de-catarata/",
+      "sourceTextCharacters": 3157,
+      "renderedBodyTextCharacters": 3157,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-identificar-os-primeiros-sinais-de-catarata/"
+    },
+    {
+      "wpId": 2835,
+      "path": "/existe-um-oftalmologista-especialista-em-macula/",
+      "sourceTextCharacters": 4216,
+      "renderedBodyTextCharacters": 4216,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/existe-um-oftalmologista-especialista-em-macula/"
+    },
+    {
+      "wpId": 2840,
+      "path": "/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/",
+      "sourceTextCharacters": 3174,
+      "renderedBodyTextCharacters": 3174,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/5-sinais-de-que-sua-visao-precisa-de-atencao-imediata/"
+    },
+    {
+      "wpId": 3441,
+      "path": "/a-importancia-do-oct-para-pacientes-com-catarata/",
+      "sourceTextCharacters": 6818,
+      "renderedBodyTextCharacters": 6818,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-importancia-do-oct-para-pacientes-com-catarata/"
+    },
+    {
+      "wpId": 3444,
+      "path": "/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/",
+      "sourceTextCharacters": 6844,
+      "renderedBodyTextCharacters": 6844,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/como-funciona-a-injecao-intravitrea-para-o-tratamento-de-condicoes-da-macula/"
+    },
+    {
+      "wpId": 3632,
+      "path": "/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/",
+      "sourceTextCharacters": 7412,
+      "renderedBodyTextCharacters": 7412,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/por-que-a-acuidade-visual-pode-piorar-com-o-avanco-da-idade/"
+    },
+    {
+      "wpId": 3636,
+      "path": "/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/",
+      "sourceTextCharacters": 5666,
+      "renderedBodyTextCharacters": 5666,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/a-importancia-dos-exames-oftalmologicos-de-rotina-apos-os-50-anos/"
+    },
+    {
+      "wpId": 3732,
+      "path": "/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/",
+      "sourceTextCharacters": 11368,
+      "renderedBodyTextCharacters": 11368,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/diabetes-pode-causar-cegueira-entenda-os-riscos-e-como-evitar/"
+    },
+    {
+      "wpId": 3736,
+      "path": "/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/",
+      "sourceTextCharacters": 8462,
+      "renderedBodyTextCharacters": 8462,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/dmri-seca-e-umida-saiba-quais-sao-as-diferencas/"
+    },
+    {
+      "wpId": 3775,
+      "path": "/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/",
+      "sourceTextCharacters": 7371,
+      "renderedBodyTextCharacters": 7371,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/moscas-volantes-sintoma-comum-ou-alerta-de-perigo/"
+    },
+    {
+      "wpId": 3778,
+      "path": "/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/",
+      "sourceTextCharacters": 5967,
+      "renderedBodyTextCharacters": 5967,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/os-marcos-de-decadas-da-clinica-de-olhos-benchimol/"
+    },
+    {
+      "wpId": 3806,
+      "path": "/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/",
+      "sourceTextCharacters": 7181,
+      "renderedBodyTextCharacters": 7181,
+      "fullBodyTextPreserved": true,
+      "articleTag": true,
+      "authorPreserved": true,
+      "datesPreserved": true,
+      "canonical": "https://clinicadeolhosbenchimol.com.br/o-que-e-o-mapeamento-da-retina-e-quando-esse-exame-oftalmologico-e-indicado/"
+    }
+  ],
+  "archivePages": [
+    {
+      "page": 1,
+      "items": 6
+    },
+    {
+      "page": 2,
+      "items": 6
+    },
+    {
+      "page": 3,
+      "items": 6
+    },
+    {
+      "page": 4,
+      "items": 6
+    },
+    {
+      "page": 5,
+      "items": 6
+    },
+    {
+      "page": 6,
+      "items": 6
+    },
+    {
+      "page": 7,
+      "items": 6
+    },
+    {
+      "page": 8,
+      "items": 6
+    },
+    {
+      "page": 9,
+      "items": 6
+    },
+    {
+      "page": 10,
+      "items": 6
+    },
+    {
+      "page": 11,
+      "items": 6
+    },
+    {
+      "page": 12,
+      "items": 6
+    },
+    {
+      "page": 13,
+      "items": 6
+    },
+    {
+      "page": 14,
+      "items": 6
+    },
+    {
+      "page": 15,
+      "items": 6
+    },
+    {
+      "page": 16,
+      "items": 6
+    },
+    {
+      "page": 17,
+      "items": 6
+    },
+    {
+      "page": 18,
+      "items": 6
+    },
+    {
+      "page": 19,
+      "items": 6
+    },
+    {
+      "page": 20,
+      "items": 6
+    },
+    {
+      "page": 21,
+      "items": 6
+    },
+    {
+      "page": 22,
+      "items": 6
+    },
+    {
+      "page": 23,
+      "items": 6
+    },
+    {
+      "page": 24,
+      "items": 6
+    },
+    {
+      "page": 25,
+      "items": 6
+    },
+    {
+      "page": 26,
+      "items": 3
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEO-01",
+      "sharedWith": "google-seo",
+      "severity": "high",
+      "priority": "P1",
+      "type": "crawl_block",
+      "title": "Robots bloqueia imagens editoriais públicas em /api/media/",
+      "file": "src/lib/public/seo.ts",
+      "line": 42,
+      "relatedLocations": [
+        {
+          "file": "src/lib/public/seo.ts",
+          "line": 45
+        },
+        {
+          "file": "src/lib/server/media.ts",
+          "line": 16
+        },
+        {
+          "file": "src/lib/server/media.ts",
+          "line": 57
+        },
+        {
+          "file": "src/app/api/media/[id]/route.ts",
+          "line": 11
+        }
+      ],
+      "evidence": "Grupo * e grupo explícito de busca/consulta disallow:/api/; imagens novas publicadas usam /api/media/{id}.",
+      "risk": "Crawler cooperativo não acessa capa, mídia de corpo e OG geridos mesmo quando post está público. Legados /wp-content/uploads permanecem permitidos.",
+      "proposal": "Após revisão autorizada, permitir somente /api/media/ nos grupos públicos; manter /api/admin/, /api/auth/ e demais APIs bloqueados. Validar publicada anônima com redirect/bytes válidos e rascunho404; não mudar RLS/Auth.",
+      "sources": [
+        "https://developers.google.com/search/docs/appearance/ai-features",
+        "https://developers.openai.com/api/docs/bots"
+      ]
+    },
+    {
+      "id": "AI-01",
+      "severity": "medium",
+      "type": "policy_tradeoff",
+      "title": "Google-Extended bloqueia também grounding em Gemini",
+      "file": "src/lib/public/seo.ts",
+      "line": 46,
+      "evidence": "Google-Extended consta no grupo disallow:/; o token oficial também controla grounding em Gemini Apps e Vertex AI.",
+      "risk": "A política preserva restrição de treinamento, mas limita esta forma de descoberta por IA; não prejudica Google Search/AI Overviews/AI Mode.",
+      "proposal": "Documentar escopo Gemini e manter bloqueio até decisão expressa; o token não oferece nesta documentação separação entre treinamento e grounding.",
+      "sources": [
+        "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers#google-extended"
+      ],
+      "priority": "P2"
+    },
+    {
+      "id": "AI-02",
+      "severity": "medium",
+      "type": "policy_gap",
+      "title": "Política Bing permite leitura sem documentar uso para treinamento",
+      "file": "src/lib/public/seo.ts",
+      "line": 45,
+      "evidence": "Bingbot permitido; nenhuma diretiva nocache/noarchive no metadata público. Publicação Microsoft de 2023 associa ausência das diretivas a uso para treinamento; orientações atuais também relacionam controles à profundidade da citação no Copilot.",
+      "risk": "A distinção pesquisa versus treinamento da spec está incompleta para Bing/Microsoft. Isto não comprova coleta ou treinamento efetivo da clínica.",
+      "proposal": "Registrar decisão Bing/Copilot e verificar controles Microsoft vigentes antes da publicação. Não aplicar noarchive/nocache automaticamente: reduzem ou eliminam referências em Copilot.",
+      "sources": [
+        "https://blogs.bing.com/webmaster/2023/9/Announcing-new-options-for-webmasters-to-control-usage-of-their-content-in-Bing-Chat/",
+        "https://www.bing.com/webmasters/help/bing-webmaster-guidelines-30fba23a"
+      ],
+      "priority": "P2"
+    },
+    {
+      "id": "AI-03",
+      "severity": "low",
+      "type": "policy_gap",
+      "title": "Wildcard não equivale a bloqueio universal de treinamento",
+      "file": "src/lib/public/seo.ts",
+      "line": 44,
+      "evidence": "Grupo * permite / e só quatro tokens possuem bloqueio global explícito.",
+      "risk": "Agentes não enumerados herdam acesso público; não é uma autorização técnica universalmente separável por finalidade nem proibição universal de treinamento.",
+      "proposal": "Manter inventário de agentes/finalidades e revalidá-lo periodicamente. Não trocar por deny-all geral, pois bloquearia mecanismos públicos e o pedido autoriza consulta.",
+      "sources": [],
+      "priority": "P3"
+    },
+    {
+      "id": "AI-04",
+      "severity": "medium",
+      "priority": "P2",
+      "type": "ssr_content_gap",
+      "title": "Texto de aviso ativo depende de JavaScript",
+      "file": "src/components/public/Interactions.tsx",
+      "line": 14,
+      "relatedLocations": [
+        {
+          "file": "src/components/public/Interactions.tsx",
+          "line": 18
+        },
+        {
+          "file": "src/components/public/Interactions.tsx",
+          "line": 180
+        }
+      ],
+      "evidence": "React renderToString com popup sintético ativo e período livre contém somente dialog e botãoFechar; título/texto ausentes. notice inicia false e só é ativado no useEffect.",
+      "risk": "Leitores sem JS não extraem avisos de feriado, mesmo públicos; dados em payload React não substituem texto legível no HTML.",
+      "proposal": "Se aviso comunicar operação/horário da clínica, renderizar informação ativa em HTML no servidor para humanos e bots, mantendo modal/controle de sessão e períodos. Não criar texto exclusivo para bots, duplicar informação inválida ou ativar aviso de teste.",
+      "sources": [
+        "https://developers.google.com/search/docs/appearance/ai-features"
+      ]
+    },
+    {
+      "id": "AI-05",
+      "severity": "low",
+      "type": "test_gap",
+      "title": "Sem prova atual de resposta HTTP/crawler/CDN",
+      "file": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 140,
+      "evidence": "Usuário confirmou ausência de deploy Next.js; GET autorizado em 127.0.0.1:3000/robots.txt falhou ConnectionRefusedError errno61.",
+      "risk": "Acesso real de bots, WAF da Vercel, indexação e snippets continuam sem prova para a migração.",
+      "proposal": "Após publicação manual pelo usuário, inspecionar respostas e logs, Search Console/Bing Webmaster e identificação oficial de crawlers. User-agent simulado não demonstra crawler real.",
+      "sources": [
+        "https://developers.google.com/search/docs/appearance/ai-features"
+      ],
+      "priority": "P3"
+    },
+    {
+      "id": "AI-06",
+      "severity": "low",
+      "priority": "P3",
+      "type": "external_control_unknown",
+      "title": "Estado Search generative AI no Search Console não verificado",
+      "file": "docs/specs/2026-09-30-initial-spec.md",
+      "line": 124,
+      "evidence": "Guia Google atual exige inclusão no controle Search generative AI. Ajuda oficial diz rollout mundial31/08/2026 e inclusão padrão/herdada. Nenhuma propriedade da clínica acessada.",
+      "risk": "Configuração externa de exclusão poderia impedir aparição em AI Overviews/Mode/Discover, mas não há evidência de exclusão efetiva.",
+      "proposal": "Conferir configuração e herança com acesso fornecido por Gabriel, sem alteração por iniciativa do agente; documentar estado e relatório específico.",
+      "sources": [
+        "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+        "https://support.google.com/webmasters/answer/16908024",
+        "https://support.google.com/webmasters/answer/16984139"
+      ]
+    }
+  ],
+  "limits": [
+    "No Next.js deployment URL; indexing/citation/WAF/CDN not validated.",
+    "Local server GET refused; no server started or restarted.",
+    "Offline render uses versioned public snapshot, not current hosted database rows.",
+    "Offline render evaluates HTML functions and one React component; it is not a Next.js HTTP or mobile/browser acceptance test.",
+    "Prior HUHe HTTP audit and authenticated QA are historical and not rerun here.",
+    "Bing guideline body needs JavaScript in tool; current indexed official excerpts and separately dated2023 primary policy consulted.",
+    "Context7 tools not exposed; official vendor documents used."
+  ],
+  "sources": [
+    {
+      "title": "Google: guia de otimização IA atual",
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide"
+    },
+    {
+      "title": "Google: Search generative AI control",
+      "url": "https://support.google.com/webmasters/answer/16908024"
+    },
+    {
+      "title": "Google: Generative AI performance report",
+      "url": "https://support.google.com/webmasters/answer/16984139"
+    },
+    {
+      "title": "Google: common crawlers/Google-Extended",
+      "url": "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers#google-extended"
+    },
+    {
+      "title": "OpenAI crawlers",
+      "url": "https://developers.openai.com/api/docs/bots"
+    },
+    {
+      "title": "Anthropic crawlers",
+      "url": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers"
+    },
+    {
+      "title": "Bing current guidelines (indexed excerpts; page JS required)",
+      "url": "https://www.bing.com/webmasters/help/bing-webmaster-guidelines-30fba23a"
+    },
+    {
+      "title": "Bing controls dated2023-09-22",
+      "url": "https://blogs.bing.com/webmaster/2023/9/Announcing-new-options-for-webmasters-to-control-usage-of-their-content-in-Bing-Chat/"
+    },
+    {
+      "title": "llms.txt proposal",
+      "url": "https://llmstxt.org/"
+    }
+  ],
+  "httpSupplement": {
+    "path": "public-http-live.json",
+    "sha256": "78b3074d0b11e9a19feadce45c657ae5105f8e368fc1f5dc4dd151049308e1f7",
+    "startedAt": "2026-10-02T03:14:25.701Z",
+    "finishedAt": "2026-10-02T03:14:33.284Z",
+    "environment": "user-started local development server",
+    "statusChecks": 13,
+    "statusChecksPassed": 13,
+    "htmlSamples": 9,
+    "sitemapLocations": 216,
+    "robotsMediaBlockConfirmed": true,
+    "legacyMetadataEntitiesConfirmed": true,
+    "realCrawlerVerified": false,
+    "publishedIndexingVerified": false
+  }
+}

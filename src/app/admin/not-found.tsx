@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function AdminNotFound() { return <div className="admin-root"><section className="admin-card"><h1>Conteúdo não encontrado</h1><p style={{ margin: '15px 0 22px' }}>Este item não está disponível no painel. Ele pode ter sido removido ou o endereço está incorreto.</p><Link className="admin-button admin-button-secondary" href="/admin/posts">Voltar aos posts</Link></section></div>; }

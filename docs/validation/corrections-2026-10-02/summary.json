@@ -1,0 +1,275 @@
+{
+  "createdAt": "2026-10-02T04:43:47.384139Z",
+  "status": "applied_with_configuration_editorial_and_publication_pending",
+  "authorization": "Gabriel pediu aplicar as correções da auditoria; sem merge/push/deploy/Docker.",
+  "automation": {
+    "fullSuite": {
+      "exitCode": 0,
+      "files": 51,
+      "tests": 301,
+      "failures": 0,
+      "durationSeconds": 285.6,
+      "evidence": {
+        "file": "full-tests-final.log",
+        "sha256": "351fb2260925257caad644178f69491b714f84b6879cfeb2784f4591950a31c5"
+      }
+    },
+    "initialFullSuite": {
+      "exitCode": 1,
+      "files": 51,
+      "tests": 300,
+      "passedTests": 295,
+      "failedTests": 5,
+      "cause": "Automatic dimensions on captured review avatars changed the restoration guard hash. Runtime fixed and entire suite repeated.",
+      "evidence": {
+        "file": "full-tests.log",
+        "sha256": "b3c346500ef905844c4df87adcf5eba6e140686a79c15434fbbe78375998359a"
+      }
+    },
+    "typecheck": {
+      "exitCode": 0,
+      "evidence": {
+        "file": "typecheck.log",
+        "sha256": "add36f19979f17334e4445aaa99de5804f68a8a12fc65dae7e7a6621c4f44bde"
+      },
+      "initialAttempt": {
+        "file": "typecheck-before-test-typing-fix.log",
+        "sha256": "44b61a3f9305c38aed884a42d8c0bd6dd68597f6f4bef2ada82f9c5f6fdaa224"
+      },
+      "initialFailureScope": "Only test callback return types and inferred imported fixture union; no runtime change.",
+      "focusedRetestsAfterTypingFix": [
+        {
+          "tests": 9,
+          "files": 2,
+          "exitCode": 0,
+          "evidence": {
+            "file": "performance-typecheck-fix-tests.log",
+            "sha256": "a45579cbbad3dc0290a85d538d8627760e23b50853a8e88894efdfe160a45c0c"
+          }
+        },
+        {
+          "tests": 6,
+          "files": 1,
+          "exitCode": 0,
+          "evidence": {
+            "file": "seo-typecheck-fix-tests.log",
+            "sha256": "59978f005e1ef5003743c55b0b51de4fad7ad92ccf58f5ca968430b34c721524"
+          }
+        }
+      ],
+      "note": "Full 301-test suite passed after final runtime patches. Three test files then received typing fixes, with all 15 affected tests rerun successfully; no runtime changes followed."
+    },
+    "inventory": {
+      "checkedAt": "2026-10-02T04:06:51.818Z",
+      "posts": 154,
+      "pages": 38,
+      "media": 551,
+      "assetsChecked": 1377,
+      "errors": [],
+      "passed": true,
+      "evidence": {
+        "file": "inventory.json",
+        "sha256": "2cb3710ff42d1e3c678a496e3a45437d4b729cbace38666de98571748bd47d7c"
+      }
+    },
+    "http": {
+      "checks": 22,
+      "passed": 22,
+      "failed": 0,
+      "origin": "http://127.0.0.1:3000",
+      "startedAt": "2026-10-02T04:30:09.094Z",
+      "finishedAt": "2026-10-02T04:30:17.769Z",
+      "scope": "User-controlled development server, no production timing/indexing guarantee.",
+      "evidence": {
+        "file": "http.json",
+        "sha256": "d08f9938f272adf9c29e4c620954279de9fdbeeb25903ec272134f10aa08a651"
+      }
+    },
+    "build": {
+      "runThisRound": false,
+      "note": "No build concurrent with user dev. HUHe is historical and predates these patches."
+    }
+  },
+  "clinic": {
+    "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+    "executed": true,
+    "reportCreatedAt": "2026-10-02T04:17:34.160Z",
+    "transport": {
+      "apiBound": true,
+      "databaseBound": true,
+      "clientTlsVerified": true,
+      "backendTlsObserved": true,
+      "databaseIdentityVerified": true,
+      "signupDisabled": true
+    },
+    "migrationSha256": "997cc2dc006a4492c8db696728c7fa9ed42e2bf4aee24f27478d33f5bd8df2c3",
+    "approvedPlanHash": "bf75f17f7639c1d658c1c37913641ff3a4ac6615211e81a13ec64023fa9d5e6e",
+    "seoRecordsRepaired": 118,
+    "seoCanonicalUrls": 117,
+    "postsWithoutSeoPreserved": true,
+    "otherApplicationRelationsPreserved": 11,
+    "rlsEnabledTables": 12,
+    "unsafeTablePrivilegesBefore": 132,
+    "unsafeTablePrivilegesAfter": 0,
+    "providerExistingAclPreserved": true,
+    "policiesAndTriggersPreserved": true,
+    "privateBackupVerified": {
+      "fileMode": "0600",
+      "directoryMode": "0700"
+    },
+    "executionEvidence": {
+      "file": "clinic-execution-2026-10-02T04-17-34-160Z.json",
+      "sha256": "b3d5dae634745c624cd4f04547e3ebf0058eb8071e1b5841c641a805c9be5e18"
+    },
+    "postCommitPlan": {
+      "pendingSeo": 0,
+      "alreadyRepairedSeo": 118,
+      "migrationPending": false,
+      "evidence": {
+        "file": "clinic-plan-2026-10-02T04-18-38-250Z.json",
+        "sha256": "a2f09217dc2f4565a8b4582de7cb5877c4aba3373d269fc6a9576790bcd6e1a2"
+      }
+    },
+    "independentVerification": {
+      "apiReadOnlyChecks": 3,
+      "sqlChecks": 8,
+      "totalPassed": 11,
+      "sqlFixturesRolledBack": true,
+      "applicationRelationsPreservedAfterProbes": 12,
+      "storageBytesCreated": 0,
+      "accountsCreated": 0,
+      "actualLogins": 0,
+      "evidence": {
+        "file": "clinic-verification-2026-10-02T04-23-38-611Z.json",
+        "sha256": "ff12be656be616c8aa981201fe2dcdd940132067e294e1e5ebbdd643a58530e5"
+      }
+    },
+    "cleanup": {
+      "createdAt": "2026-10-02T04:14:41.932Z",
+      "projectRef": "jjrzmuuwuvxcsnwqzvxf",
+      "mode": "plan",
+      "readOnly": true,
+      "candidates": 0,
+      "protected": 0,
+      "approvalHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "privatePlanSha256": "bc777331264fbb78cf45432ce47063a57898c789dfc3f5162fd5ecd7bbba3fed",
+      "storageDeletes": 0,
+      "databaseDeletes": 0,
+      "executed": false,
+      "scope": "Read-only hosted plan. Empty candidates; no cleanup/delete action run.",
+      "evidence": {
+        "file": "cleanup-plan.json",
+        "sha256": "8680e667399a9620e97a11810a40d6f6c752eae4881bc4ecabc2f4cdf124177e"
+      }
+    },
+    "editorAction": "Reload editor tabs opened before the SEO repair; no version/date increments were made."
+  },
+  "performance": {
+    "homeCss": {
+      "beforeBytes": 2292204,
+      "afterBytes": 1940707,
+      "rawReductionPercent": 15.33,
+      "offlineBrotliQuality5Before": 186659,
+      "offlineBrotliQuality5After": 173540,
+      "offlineBrotliReductionPercent": 7.03
+    },
+    "banner": {
+      "beforeBytes": 1309507,
+      "afterBytes": 848150,
+      "reductionPercent": 35.23,
+      "decodedPixelsIdentical": true,
+      "originalPreserved": true
+    },
+    "generatedCss": {
+      "manifestEntries": 45,
+      "uniqueCurrentFiles": 42,
+      "oldManifestEntriesStillAvailable": 45,
+      "currentManifestSha256": "907a593463a368ba705cc33e965212658cd0ac03d21fbd112fe2327e79d4f118"
+    },
+    "evidence": [
+      {
+        "file": "performance-proof.json",
+        "sha256": "3541125cb7cad2c01ca3075182a392c70ca75fea9aa7940066642581028fc1ca"
+      },
+      {
+        "file": "performance-summary.json",
+        "sha256": "1a601931a9c72bca05fd1b49a1c958c94ee37021bc7748a95715b46a042b4e3d"
+      },
+      {
+        "file": "performance-generation-verify.json",
+        "sha256": "f9cb7ae92607d6ca404250700bfac7685a23b2b0a76d692ca9d667a5aeb0c3ae"
+      }
+    ],
+    "limits": "Measured bytes, exact AST signatures and decoded pixels; no Lighthouse score, production timing or measured CWV."
+  },
+  "manualPublicQa": {
+    "visualFamilies": 4,
+    "viewports": [
+      390,
+      768,
+      1440
+    ],
+    "samples": 12,
+    "noOverflow": true,
+    "fontsColorsDisplayUnchangedAtStabilityCapture": true,
+    "sidebarReserved": true,
+    "stabilityEvidence": {
+      "file": "visual-stable-comparison.json",
+      "sha256": "2ee33573b77af0f47fdc78e625ef7b78092f7565cb1d32c6277811ed2b297d5f"
+    },
+    "finalReviewSupplement": {
+      "samples": 3,
+      "controlsPerSample": 5,
+      "dateCountPerSample": 8,
+      "noOverflow": true,
+      "keyboardExpandCollapsePassed": true,
+      "evidence": [
+        {
+          "file": "reviews-ui.json",
+          "sha256": "b9b344fdd7772307c940a81a783a6bce7ca595ce1de766dd559752c13b8046cc"
+        },
+        {
+          "file": "review-controls-ui.json",
+          "sha256": "ed703c488b4fc64ec59caedcade230000f5b2a1623bb0ec31f05a3bc899866bd"
+        }
+      ]
+    },
+    "mobileInteractions": "Menu, FAQ expand/collapse, gallery thumbnail/lightbox/close and blog 6→9 passed.",
+    "interactionEvidence": {
+      "file": "ui-checks.json",
+      "sha256": "99f2005344295fdbf628bba9347e6f77fa658e308fbc87e898debee191d1946e"
+    },
+    "transientMeasurement": "First load-more read preceded response (6→6); waiting for ninth visible title passed (6→9). Original measurement retained.",
+    "visualLimits": "Stability capture predates review-guard fix. Final Home restores original review dates/breaks/controls and has different height than regressed capture. Sidebar reserves final loaded width. No claim of pixel identity or review of every URL.",
+    "authenticatedUiRepeatedThisRound": false,
+    "priorAuthenticatedQa": "../hosted-manual-qa.md"
+  },
+  "pending": [
+    "Supabase direct Auth configuration, CAPTCHA/MFA complete flows",
+    "Clinical/editorial author, business-profile CEP/domain and sample-page decisions",
+    "Next production build and manual publication by Gabriel",
+    "PageSpeed/CWV, Search Console, rich results and hosted CDN/WAF/crawlers",
+    "Commercial hosting-plan eligibility and final clinic acceptance"
+  ],
+  "boundaries": {
+    "dockerRun": false,
+    "deployRun": false,
+    "mergeRun": false,
+    "pushRun": false,
+    "lifewalletUsed": false,
+    "agentStartedStoppedOrRestartedServer": false,
+    "wordpressModified": false,
+    "publicRuntimeContentAlteredBeyondApprovedLegacySeo": false,
+    "context7Available": false
+  },
+  "documentation": {
+    "promptLibraryVersion": "0.11",
+    "brainSyncEvidence": {
+      "file": "brain-sync.json",
+      "sha256": "5bd43c745e6f0c7cc0a459ee10f58519185a1dfe22de771d908e9843d8309f0f"
+    },
+    "canonicalBrainSha256": "e9c19c5580771ba719c454c1f82ef143d63db07afb0b5c13673bfb08a1e26e3d",
+    "externalBrainByteIdentical": true
+  },
+  "updatedAt": "2026-10-02T04:46:37.389126Z"
+}
