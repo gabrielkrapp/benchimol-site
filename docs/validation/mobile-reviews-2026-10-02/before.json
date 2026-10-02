@@ -1,0 +1,172 @@
+{
+  "phase": "before",
+  "fixture": "actual sanitized Home HTML and compiled captured CSS; offline Chromium; no Next server or Supabase",
+  "results": [
+    {
+      "order": "captured-first",
+      "width": 393,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 278.46875,
+        "width": 353,
+        "height": 257.90625,
+        "right": 373,
+        "bottom": 536.375
+      },
+      "card": {
+        "x": 20,
+        "y": 290.46875,
+        "width": 117.65625,
+        "height": 233.90625,
+        "right": 137.65625,
+        "bottom": 524.375
+      },
+      "ratio": 0.33330382436260625,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": false,
+      "stars": {
+        "x": 120,
+        "y": 310.46875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 327.46875
+      },
+      "googleLogo": {
+        "x": 92.65625,
+        "y": 307.46875,
+        "width": 20,
+        "height": 20,
+        "right": 112.65625,
+        "bottom": 327.46875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 353,
+        "viewport": 353
+      },
+      "passed": false
+    },
+    {
+      "order": "captured-first",
+      "width": 768,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 20,
+        "y": 228.6875,
+        "width": 728,
+        "height": 257.90625,
+        "right": 748,
+        "bottom": 486.59375
+      },
+      "card": {
+        "x": 20,
+        "y": 240.6875,
+        "width": 242.65625,
+        "height": 233.90625,
+        "right": 262.65625,
+        "bottom": 474.59375
+      },
+      "ratio": 0.33331902472527475,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 260.6875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 277.6875
+      },
+      "googleLogo": {
+        "x": 217.65625,
+        "y": 257.6875,
+        "width": 20,
+        "height": 20,
+        "right": 237.65625,
+        "bottom": 277.6875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 728,
+        "viewport": 728
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 1440,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 168,
+        "y": 178.734375,
+        "width": 1104,
+        "height": 257.90625,
+        "right": 1272,
+        "bottom": 436.640625
+      },
+      "card": {
+        "x": 168,
+        "y": 190.734375,
+        "width": 367.984375,
+        "height": 233.90625,
+        "right": 535.984375,
+        "bottom": 424.640625
+      },
+      "ratio": 0.33331918025362317,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 268,
+        "y": 210.734375,
+        "width": 17,
+        "height": 17,
+        "right": 285,
+        "bottom": 227.734375
+      },
+      "googleLogo": {
+        "x": 490.984375,
+        "y": 207.734375,
+        "width": 20,
+        "height": 20,
+        "right": 510.984375,
+        "bottom": 227.734375
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 1104,
+        "viewport": 1104
+      },
+      "passed": true
+    }
+  ],
+  "sources": {
+    "stylesheet": "/site-styles/7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e.css",
+    "capturedCssSha256": "7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e",
+    "publicCssSha256": "3f32c2e95fc7a18932b295adac45a5e8cb0243d2e5aad1c6944f12c10176238b",
+    "homeHtmlSha256": "986d722fea6e2ed114795a63c822439ecb7969fb19cbd20c7519daececac8c2b"
+  },
+  "image": "before-393.png"
+}

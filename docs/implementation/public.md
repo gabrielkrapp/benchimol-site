@@ -72,3 +72,11 @@ O site público deste build está conectado ao Supabase da clínica, com os mesm
 ## Revisão posterior de 02/10/2026
 
 Gabriel autorizou aplicar as correções das seis auditorias. Consulte `docs/validation/corrections-2026-10-02/README.md`, seus relatórios específicos e o ledger final antes de alterar os controles novos ou atribuir resultados a um build antigo. Código local e banco da clínica têm provas separadas; não há deploy. Prompts0.11 refletem SSR/SEO, CSS/imagens, decoder e privilégios explícitos.
+
+## Depoimentos da Home no mobile — 02/10/2026
+
+Os prints enviados por Gabriel mostram um card por vez na origem e três cards espremidos na versão hospedada. A captura Trustindex conserva `ti-col-3`, cujo CSS fixa `flex:0 0 33.333%` e `max-width:33.333%`; sua especificidade prevalecia sobre a regra mobile genérica da aplicação.
+
+`src/components/public/public.css` agora aplica `flex:0 0 100%;max-width:100%` a `.public-site.home .ti-widget.ti-goog .ti-col-3 .ti-review-item` somente até 767px. O seletor vence o CSS capturado nas duas ordens de carregamento. Os estilos acima desse limite, a captura, os hashes e as interações permanecem intactos. O scroll existente avança uma largura do carrossel, correspondente a um card no mobile.
+
+As [evidências desta correção](../validation/mobile-reviews-2026-10-02/README.md) distinguem a reprodução antes do patch, a validação offline no navegador e os checks locais. Elas não comprovam publicação do patch nem testes em Safari/iPhone físico.

@@ -1,0 +1,967 @@
+{
+  "phase": "after",
+  "fixture": "actual sanitized Home HTML and compiled captured CSS; offline Chromium; no Next server or Supabase",
+  "results": [
+    {
+      "order": "captured-first",
+      "width": 320,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 278.5,
+        "width": 280,
+        "height": 257.90625,
+        "right": 300,
+        "bottom": 536.40625
+      },
+      "card": {
+        "x": 20,
+        "y": 290.5,
+        "width": 280,
+        "height": 233.90625,
+        "right": 300,
+        "bottom": 524.40625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 310.5,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 327.5
+      },
+      "googleLogo": {
+        "x": 255,
+        "y": 307.5,
+        "width": 20,
+        "height": 20,
+        "right": 275,
+        "bottom": 327.5
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 280,
+        "viewport": 280
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 375,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 278.546875,
+        "width": 335,
+        "height": 257.90625,
+        "right": 355,
+        "bottom": 536.453125
+      },
+      "card": {
+        "x": 20,
+        "y": 290.546875,
+        "width": 335,
+        "height": 233.90625,
+        "right": 355,
+        "bottom": 524.453125
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 310.546875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 327.546875
+      },
+      "googleLogo": {
+        "x": 310,
+        "y": 307.546875,
+        "width": 20,
+        "height": 20,
+        "right": 330,
+        "bottom": 327.546875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 335,
+        "viewport": 335
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 390,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 278.75,
+        "width": 350,
+        "height": 257.90625,
+        "right": 370,
+        "bottom": 536.65625
+      },
+      "card": {
+        "x": 20,
+        "y": 290.75,
+        "width": 350,
+        "height": 233.90625,
+        "right": 370,
+        "bottom": 524.65625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 310.75,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 327.75
+      },
+      "googleLogo": {
+        "x": 325,
+        "y": 307.75,
+        "width": 20,
+        "height": 20,
+        "right": 345,
+        "bottom": 327.75
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 350,
+        "viewport": 350
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 393,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 228.46875,
+        "width": 353,
+        "height": 257.90625,
+        "right": 373,
+        "bottom": 486.375
+      },
+      "card": {
+        "x": 20,
+        "y": 240.46875,
+        "width": 353,
+        "height": 233.90625,
+        "right": 373,
+        "bottom": 474.375
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 260.46875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 277.46875
+      },
+      "googleLogo": {
+        "x": 328,
+        "y": 257.46875,
+        "width": 20,
+        "height": 20,
+        "right": 348,
+        "bottom": 277.46875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 353,
+        "viewport": 353
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 414,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 228.328125,
+        "width": 374,
+        "height": 257.90625,
+        "right": 394,
+        "bottom": 486.234375
+      },
+      "card": {
+        "x": 20,
+        "y": 240.328125,
+        "width": 374,
+        "height": 233.90625,
+        "right": 394,
+        "bottom": 474.234375
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 260.328125,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 277.328125
+      },
+      "googleLogo": {
+        "x": 349,
+        "y": 257.328125,
+        "width": 20,
+        "height": 20,
+        "right": 369,
+        "bottom": 277.328125
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 374,
+        "viewport": 374
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 767,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 177.359375,
+        "width": 727,
+        "height": 257.90625,
+        "right": 747,
+        "bottom": 435.265625
+      },
+      "card": {
+        "x": 20,
+        "y": 189.359375,
+        "width": 727,
+        "height": 233.90625,
+        "right": 747,
+        "bottom": 423.265625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 209.359375,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 226.359375
+      },
+      "googleLogo": {
+        "x": 702,
+        "y": 206.359375,
+        "width": 20,
+        "height": 20,
+        "right": 722,
+        "bottom": 226.359375
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 727,
+        "viewport": 727
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 768,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 20,
+        "y": 178.6875,
+        "width": 728,
+        "height": 257.90625,
+        "right": 748,
+        "bottom": 436.59375
+      },
+      "card": {
+        "x": 20,
+        "y": 190.6875,
+        "width": 242.65625,
+        "height": 233.90625,
+        "right": 262.65625,
+        "bottom": 424.59375
+      },
+      "ratio": 0.33331902472527475,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 210.6875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 227.6875
+      },
+      "googleLogo": {
+        "x": 217.65625,
+        "y": 207.6875,
+        "width": 20,
+        "height": 20,
+        "right": 237.65625,
+        "bottom": 227.6875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 728,
+        "viewport": 728
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 1024,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 36,
+        "y": 128.578125,
+        "width": 952,
+        "height": 257.90625,
+        "right": 988,
+        "bottom": 386.484375
+      },
+      "card": {
+        "x": 36,
+        "y": 140.578125,
+        "width": 317.328125,
+        "height": 233.90625,
+        "right": 353.328125,
+        "bottom": 374.484375
+      },
+      "ratio": 0.333327862394958,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 136,
+        "y": 160.578125,
+        "width": 17,
+        "height": 17,
+        "right": 153,
+        "bottom": 177.578125
+      },
+      "googleLogo": {
+        "x": 308.328125,
+        "y": 157.578125,
+        "width": 20,
+        "height": 20,
+        "right": 328.328125,
+        "bottom": 177.578125
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 952,
+        "viewport": 952
+      },
+      "passed": true
+    },
+    {
+      "order": "captured-first",
+      "width": 1440,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 168,
+        "y": 128.734375,
+        "width": 1104,
+        "height": 257.90625,
+        "right": 1272,
+        "bottom": 386.640625
+      },
+      "card": {
+        "x": 168,
+        "y": 140.734375,
+        "width": 367.984375,
+        "height": 233.90625,
+        "right": 535.984375,
+        "bottom": 374.640625
+      },
+      "ratio": 0.33331918025362317,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 268,
+        "y": 160.734375,
+        "width": 17,
+        "height": 17,
+        "right": 285,
+        "bottom": 177.734375
+      },
+      "googleLogo": {
+        "x": 490.984375,
+        "y": 157.734375,
+        "width": 20,
+        "height": 20,
+        "right": 510.984375,
+        "bottom": 177.734375
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 1104,
+        "viewport": 1104
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 320,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 263.5,
+        "width": 280,
+        "height": 257.90625,
+        "right": 300,
+        "bottom": 521.40625
+      },
+      "card": {
+        "x": 20,
+        "y": 275.5,
+        "width": 280,
+        "height": 233.90625,
+        "right": 300,
+        "bottom": 509.40625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 295.5,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 312.5
+      },
+      "googleLogo": {
+        "x": 255,
+        "y": 292.5,
+        "width": 20,
+        "height": 20,
+        "right": 275,
+        "bottom": 312.5
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 280,
+        "viewport": 280
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 375,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 263.546875,
+        "width": 335,
+        "height": 257.90625,
+        "right": 355,
+        "bottom": 521.453125
+      },
+      "card": {
+        "x": 20,
+        "y": 275.546875,
+        "width": 335,
+        "height": 233.90625,
+        "right": 355,
+        "bottom": 509.453125
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 295.546875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 312.546875
+      },
+      "googleLogo": {
+        "x": 310,
+        "y": 292.546875,
+        "width": 20,
+        "height": 20,
+        "right": 330,
+        "bottom": 312.546875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 335,
+        "viewport": 335
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 390,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 263.75,
+        "width": 350,
+        "height": 257.90625,
+        "right": 370,
+        "bottom": 521.65625
+      },
+      "card": {
+        "x": 20,
+        "y": 275.75,
+        "width": 350,
+        "height": 233.90625,
+        "right": 370,
+        "bottom": 509.65625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 295.75,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 312.75
+      },
+      "googleLogo": {
+        "x": 325,
+        "y": 292.75,
+        "width": 20,
+        "height": 20,
+        "right": 345,
+        "bottom": 312.75
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 350,
+        "viewport": 350
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 393,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 213.46875,
+        "width": 353,
+        "height": 257.90625,
+        "right": 373,
+        "bottom": 471.375
+      },
+      "card": {
+        "x": 20,
+        "y": 225.46875,
+        "width": 353,
+        "height": 233.90625,
+        "right": 373,
+        "bottom": 459.375
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 245.46875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 262.46875
+      },
+      "googleLogo": {
+        "x": 328,
+        "y": 242.46875,
+        "width": 20,
+        "height": 20,
+        "right": 348,
+        "bottom": 262.46875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 353,
+        "viewport": 353
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 414,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 213.328125,
+        "width": 374,
+        "height": 257.90625,
+        "right": 394,
+        "bottom": 471.234375
+      },
+      "card": {
+        "x": 20,
+        "y": 225.328125,
+        "width": 374,
+        "height": 233.90625,
+        "right": 394,
+        "bottom": 459.234375
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 245.328125,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 262.328125
+      },
+      "googleLogo": {
+        "x": 349,
+        "y": 242.328125,
+        "width": 20,
+        "height": 20,
+        "right": 369,
+        "bottom": 262.328125
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 374,
+        "viewport": 374
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 767,
+      "expectedCards": 1,
+      "carousel": {
+        "x": 20,
+        "y": 162.359375,
+        "width": 727,
+        "height": 257.90625,
+        "right": 747,
+        "bottom": 420.265625
+      },
+      "card": {
+        "x": 20,
+        "y": 174.359375,
+        "width": 727,
+        "height": 233.90625,
+        "right": 747,
+        "bottom": 408.265625
+      },
+      "ratio": 1,
+      "visibleCards": 1,
+      "flexBasis": "100%",
+      "maxWidth": "100%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 194.359375,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 211.359375
+      },
+      "googleLogo": {
+        "x": 702,
+        "y": 191.359375,
+        "width": 20,
+        "height": 20,
+        "right": 722,
+        "bottom": 211.359375
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 727,
+        "viewport": 727
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 768,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 20,
+        "y": 163.6875,
+        "width": 728,
+        "height": 257.90625,
+        "right": 748,
+        "bottom": 421.59375
+      },
+      "card": {
+        "x": 20,
+        "y": 175.6875,
+        "width": 242.65625,
+        "height": 233.90625,
+        "right": 262.65625,
+        "bottom": 409.59375
+      },
+      "ratio": 0.33331902472527475,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 120,
+        "y": 195.6875,
+        "width": 17,
+        "height": 17,
+        "right": 137,
+        "bottom": 212.6875
+      },
+      "googleLogo": {
+        "x": 217.65625,
+        "y": 192.6875,
+        "width": 20,
+        "height": 20,
+        "right": 237.65625,
+        "bottom": 212.6875
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 728,
+        "viewport": 728
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 1024,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 36,
+        "y": 113.578125,
+        "width": 952,
+        "height": 257.90625,
+        "right": 988,
+        "bottom": 371.484375
+      },
+      "card": {
+        "x": 36,
+        "y": 125.578125,
+        "width": 317.328125,
+        "height": 233.90625,
+        "right": 353.328125,
+        "bottom": 359.484375
+      },
+      "ratio": 0.333327862394958,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 136,
+        "y": 145.578125,
+        "width": 17,
+        "height": 17,
+        "right": 153,
+        "bottom": 162.578125
+      },
+      "googleLogo": {
+        "x": 308.328125,
+        "y": 142.578125,
+        "width": 20,
+        "height": 20,
+        "right": 328.328125,
+        "bottom": 162.578125
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 952,
+        "viewport": 952
+      },
+      "passed": true
+    },
+    {
+      "order": "override-first",
+      "width": 1440,
+      "expectedCards": 3,
+      "carousel": {
+        "x": 168,
+        "y": 113.734375,
+        "width": 1104,
+        "height": 257.90625,
+        "right": 1272,
+        "bottom": 371.640625
+      },
+      "card": {
+        "x": 168,
+        "y": 125.734375,
+        "width": 367.984375,
+        "height": 233.90625,
+        "right": 535.984375,
+        "bottom": 359.640625
+      },
+      "ratio": 0.33331918025362317,
+      "visibleCards": 3,
+      "flexBasis": "33.333%",
+      "maxWidth": "33.333%",
+      "name": "Vera Fernandes",
+      "nameFits": true,
+      "stars": {
+        "x": 268,
+        "y": 145.734375,
+        "width": 17,
+        "height": 17,
+        "right": 285,
+        "bottom": 162.734375
+      },
+      "googleLogo": {
+        "x": 490.984375,
+        "y": 142.734375,
+        "width": 20,
+        "height": 20,
+        "right": 510.984375,
+        "bottom": 162.734375
+      },
+      "date": "12 meses atrás",
+      "cardCount": 8,
+      "starCount": 40,
+      "activeReadMore": 5,
+      "documentOverflow": 0,
+      "scroll": {
+        "scrollLeft": 1104,
+        "viewport": 1104
+      },
+      "passed": true
+    }
+  ],
+  "sources": {
+    "stylesheet": "/site-styles/7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e.css",
+    "capturedCssSha256": "7004992cb36aef9d756601883bd2e5632bb9ed9ab93e7b3368b4ea2f5132e62e",
+    "publicCssSha256": "95f7d0d522e6af8759c9226bc3c208066dad88935748c3b280a93d1451c6e4e7",
+    "homeHtmlSha256": "986d722fea6e2ed114795a63c822439ecb7969fb19cbd20c7519daececac8c2b"
+  },
+  "image": "after-393.png"
+}

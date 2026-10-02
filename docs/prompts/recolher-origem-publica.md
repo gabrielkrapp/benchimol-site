@@ -10,4 +10,6 @@ Reconcile posts, páginas, categorias, tags, mídia e galerias por ID WordPress,
 
 Recolha HTML/CSS por rota e dependências efetivamente usadas: originais públicos, srcset, fundos, fontes, SVG/favicon e PDFs. Preserve caminhos `/wp-content/uploads/...` quando possível e produza mapa de origem/destino/hash/usos para alternativas. Não trocar fotografias, texto, cores ou ordem por preferência estética. Registre terceiros e pendências de direitos/integrações sem inventar confirmação.
 
+Ao conferir os depoimentos da Home, consulte `docs/validation/mobile-reviews-2026-10-02/README.md`. No mobile até 767px, deve aparecer um card inteiro por vez; conferir também 768/1440px e as duas ordens dos stylesheets. Preserve os oito depoimentos, autores, datas, estrelas e controles Leia mais, sem alterar a captura nem seu hash para resolver uma divergência de CSS.
+
 Valide os JSON normalizados, unicidade de IDs, corpos/hashes de origem, hashes/tamanhos dos arquivos locais, links e conflitos. Execute os testes de `scripts/migration/tests`. Atualize relatório, manifesto, reconciliação e documentação afetada; mantenha bruto local protegido pelo `.gitignore`. Entregue diff e evidências para revisão do usuário, sem publicar para demonstrar o resultado.
